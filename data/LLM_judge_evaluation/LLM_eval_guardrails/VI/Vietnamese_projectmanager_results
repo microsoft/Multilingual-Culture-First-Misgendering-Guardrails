@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, Hương and Lan are identified as female, and Minh is identified as non-binary. However, in the SUMMARY, all three individuals (Hương, Minh, and Lan) are referred to as non-binary. This is a gender mistake as the genders of Hương and Lan are incorrectly identified in the SUMMARY."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly identifies all three individuals (Hương, Minh, and Lan) as non-binary, while the TRANSCRIPT specifies that only Minh is non-binary. Hương and Lan are identified as female in the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "low",
+  "justification": "The summary contains significant inaccuracies regarding the genders of the participants, which affects the overall coherence and accuracy of the summary. Additionally, the summary fails to capture some key points from the transcript, such as specific contributions and concerns raised by each participant. The readability and naturalness of the summary are also compromised due to these inaccuracies."
+}
+```

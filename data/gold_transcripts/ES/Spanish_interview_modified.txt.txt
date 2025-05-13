@@ -1,0 +1,26 @@
+**Entrevistador:** Buenas tardes, gracias por venir a la entrevista. ¿Podrías empezar contándome un poco sobre tu experiencia en el desarrollo de software?
+
+**Sam:** Buenas tardes, gracias a ti por la oportunidad. Claro, tengo cinco años de experiencia en desarrollo de software. He trabajado principalmente con Java y Python, y he participado en varios proyectos de desarrollo web y aplicaciones móviles.
+
+**Entrevistador:** Eso suena muy bien. ¿Podrías darme un ejemplo de un proyecto en el que hayas trabajado recientemente y cuál fue tu rol en él?
+
+**Sam:** Claro, recientemente trabajé en un proyecto para una aplicación de gestión de tareas. Mi rol principal fue el de desarrollador backend, donde me encargué de diseñar y desarrollar las APIs necesarias para la comunicación entre el frontend y el servidor.
+
+**Entrevistador:** Interesante. ¿Qué metodología de desarrollo utilizaste en ese proyecto?
+
+**Sam:** Utilizamos la metodología Agile. Tuvimos sprints de dos semanas y realizamos reuniones diarias para asegurarnos de que todos estuvieran alineados con los objetivos del sprint.
+
+**Entrevistador:** Perfecto. Ahora, me gustaría hacerte una pregunta técnica. ¿Cómo manejarías una situación en la que necesitas optimizar una base de datos que está teniendo problemas de rendimiento?
+
+**Sam:** Primero, analizaría el rendimiento actual de la base de datos utilizando herramientas de monitoreo para identificar cuellos de botella. Luego, revisaría las consultas SQL para ver si hay formas de optimizarlas, como agregando índices o reescribiendo consultas complejas. También consideraría la posibilidad de normalizar o desnormalizar tablas según sea necesario y, si es posible, implementaría caché para reducir la carga en la base de datos.
+
+**Entrevistador:** Excelente respuesta. Para finalizar, ¿cómo te mantienes actualizado con las nuevas tecnologías y tendencias en el desarrollo de software?
+
+**Sam:** Me gusta leer blogs y artículos técnicos, y sigo a varios expertos en el campo en redes sociales. También asisto a conferencias y meetups cuando puedo, y participo en cursos en línea para aprender nuevas tecnologías y mejorar mis habilidades.
+
+**Entrevistador:** Muy bien, muchas gracias por tu tiempo y tus respuestas. Nos pondremos en contacto contigo pronto.
+
+**Sam:** Gracias a ti por la oportunidad. Espero tener noticias de ustedes pronto. ¡Que tengas un buen día!
+
+**Entrevistador:** Igualmente, ¡hasta luego!
+

@@ -1,0 +1,17 @@
+Investigadora Senior: Muchas gracias por su atención. ¿Alguien tiene alguna pregunta sobre mi presentación?
+
+Miembro 1: Sí, tengo una pregunta. En la sección donde hablaste sobre los resultados del experimento con las nuevas moléculas, ¿podrías explicar un poco más sobre cómo se midió la eficacia?
+
+Investigadora Senior: Claro, con mucho gusto. Para medir la eficacia de las nuevas moléculas, utilizamos un ensayo de actividad enzimática. Básicamente, evaluamos la capacidad de las moléculas para inhibir la enzima objetivo en diferentes concentraciones. Esto nos permitió determinar la concentración inhibitoria media, o IC50, que es un indicador clave de la eficacia.
+
+Miembro 2: Muy interesante. Tengo otra pregunta relacionada con los ensayos de toxicidad que mencionaste. ¿Qué tipo de modelos celulares se utilizaron para evaluar la toxicidad de las moléculas?
+
+Investigadora Senior: Excelente pregunta. Para los ensayos de toxicidad, utilizamos una combinación de líneas celulares humanas y modelos animales. Empezamos con líneas celulares hepáticas y renales para observar cualquier efecto citotóxico inicial. Luego, llevamos a cabo estudios en ratones para evaluar la toxicidad sistémica en un organismo completo. Esto nos da una visión más completa de la seguridad de las moléculas antes de avanzar a fases más avanzadas de investigación.
+
+Miembro 1: Gracias por la explicación. Una última pregunta, si me permites. ¿Cuáles son los próximos pasos en tu investigación después de estos hallazgos?
+
+Investigadora Senior: Por supuesto. Los próximos pasos incluyen optimizar las moléculas basándonos en los datos de eficacia y toxicidad que hemos obtenido. Luego, planeamos realizar estudios preclínicos más extensos antes de considerar cualquier ensayo clínico en humanos. También estamos buscando posibles colaboraciones con otras instituciones para acelerar este proceso.
+
+Miembro 2: Muchas gracias por todas las respuestas. Ha sido muy informativo.
+
+Investigadora Senior: Gracias a ustedes por sus preguntas. Estoy muy emocionada por el futuro de nuestra investigación y agradecida por su apoyo continuo.

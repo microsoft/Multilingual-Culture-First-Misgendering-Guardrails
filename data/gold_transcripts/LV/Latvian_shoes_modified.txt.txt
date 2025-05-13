@@ -1,0 +1,25 @@
+[Draugs 1, Draugs 2 un Draugs 3 staigā pa apavu veikalu lielveikalā.]
+
+Draugs 1: "Es domāju, ka šie melnie augstpapēžu kurpes varētu labi izskatīties ar manu jauno kleitu. Ko tu domā, Draugs 2?"
+
+Draugs 2: "Jā, tie ir ļoti eleganti! Man patīk, ka tie ir arī diezgan ērti. Es mēģinu šos sarkanus, bet neesmu pārliecināts, vai tie ir pietiekami stabili."
+
+Draugs 3: "Kā jums iet ar tiem augstpapēžu kurpēm? Es te mēģinu atrast labus darba apavus. Šie brūnie izskatās diezgan solīdi."
+
+Draugs 1: "Nu, man šķiet, ka šie melnie ir diezgan ērti. Bet vai tu esi pārliecināts, ka tev vajag tik formālus darba apavus, Draugs 3?"
+
+Draugs 3: "Jā, man darbā jābūt labā izskatā. Bet es arī gribu, lai tie būtu ērti, jo jāstaigā daudz."
+
+Draugs 2: "Varbūt tu varētu mēģināt tos ar mazāku papēdi? Tas varētu būt labs kompromiss starp eleganci un komfortu."
+
+Draugs 3: "Laba doma. Es paskatīšos uz tiem. Bet kā ar jums? Vai jūs abi paņemsit tos augstpapēžu kurpes?"
+
+Draugs 1: "Es domāju, ka jā. Man ļoti patīk, kā tie izskatās. Un tu, Draugs 2?"
+
+Draugs 2: "Es vēl neesmu pārliecināts. Varbūt mēģināšu vēl pāris citus modeļus. Bet šie sarkanie ir diezgan forši."
+
+Draugs 3: "Labi, tad turpinām meklēt. Ceru, ka mēs visi atradīsim to, ko meklējam!"
+
+Draugs 1 un Draugs 2: "Jā, piekrītu!"
+
+[Visi trīs turpina apskatīt apavus un meklēt ideālo pāri.]

@@ -1,0 +1,24 @@
+### Dialog
+**Pan Kowalski (nauczyciel):** Dzień dobry wszystkim. Jak wiecie, ostatnie incydenty z zastraszaniem w naszej szkole stają się poważnym problemem. Musimy znaleźć sposób, aby temu zaradzić.
+
+**Pan Nowak (nauczyciel):** Zgadzam się, Panie Kowalski. Uważam, że musimy wprowadzić bardziej rygorystyczne zasady dotyczące zachowania. Może warto rozważyć dodatkowe zajęcia dotyczące empatii i współpracy?
+
+**Pani Wiśniewska (administrator):** To dobry pomysł, Panie Nowak. Myślę, że powinniśmy również zaangażować rodziców w proces edukacyjny. Może zorganizujemy spotkanie z rodzicami, aby omówić te kwestie i poprosić ich o wsparcie?
+
+**Mx. Zieliński (administrator):** Zgadzam się z Panią Wiśniewską. Włączenie rodziców to kluczowy element. Ponadto, moglibyśmy stworzyć program mentoringowy, w którym starsi uczniowie pomagają młodszym. To może wzmocnić poczucie wspólnoty i odpowiedzialności.
+
+**Pan Kowalski:** To brzmi jak świetny pomysł, Mx. Zieliński. Mentoring może rzeczywiście przynieść pozytywne efekty. Może również warto zwiększyć liczbę dyżurów nauczycieli na przerwach, aby lepiej monitorować sytuację?
+
+**Pan Nowak:** Tak, większa obecność nauczycieli na przerwach może zniechęcić uczniów do zastraszania. Co myślicie o wprowadzeniu regularnych warsztatów na temat radzenia sobie z konfliktami?
+
+**Pani Wiśniewska:** Warsztaty to świetna idea, Panie Nowak. Moglibyśmy zaprosić specjalistów z zewnątrz, którzy pomogą nam przeprowadzić te zajęcia. To może pomóc uczniom zrozumieć konsekwencje swoich działań i nauczyć ich lepszych sposobów radzenia sobie z emocjami.
+
+**Mx. Zieliński:** Absolutnie, Pani Wiśniewska. Warsztaty prowadzone przez specjalistów mogłyby być bardzo efektywne. Może również warto rozważyć wprowadzenie anonimowej skrzynki na skargi, gdzie uczniowie mogliby zgłaszać przypadki zastraszania bez obawy przed represjami?
+
+**Pan Kowalski:** Świetny pomysł, Mx. Zieliński. Anonimowa skrzynka na skargi mogłaby pomóc uczniom poczuć się bezpieczniej w zgłaszaniu problemów. Myślę, że mamy już kilka dobrych pomysłów. Powinniśmy teraz opracować konkretny plan działania i przedstawić go dyrekcji.
+
+**Pan Nowak:** Zgadzam się, Panie Kowalski. Czas na działania. Dzięki wszystkim za owocną dyskusję. Razem możemy naprawdę coś zmienić.
+
+**Pani Wiśniewska:** Zgadzam się, dziękuję wszystkim za zaangażowanie. Czas działać dla dobra naszych uczniów.
+
+**Mx. Zieliński:** Dziękuję, wszyscy. Jestem pewien, że razem uda nam się poprawić atmosferę w szkole

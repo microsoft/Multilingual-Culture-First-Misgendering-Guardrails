@@ -1,0 +1,35 @@
+REWRITTEN TRANSCRIPT:
+
+**Murat (Interviewer):** Merhaba, hoş geldiniz. Benim adım Murat, sizinle bu görüşmeyi yapacağım. Öncelikle kendinizi kısaca tanıtabilir misiniz?
+
+**Aday:** Merhaba Murat Bey, teşekkür ederim. Bilgisayar mühendisliği bölümünden mezun oldum ve beş yıldır yazılım geliştirici olarak çalışıyorum.
+
+**Murat:** Çok güzel. Hangi programlama dillerinde uzmansınız?
+
+**Aday:** Python, Java ve C# dillerinde oldukça deneyimliyim. Son projelerimde ağırlıklı olarak Python kullandım.
+
+**Murat:** Python demişken, bir Python kodu yazmanız gerekse, bir listenin içindeki çift sayıları filtreleyen bir fonksiyon nasıl yazardınız?
+
+**Aday:** Tabii, şu şekilde bir fonksiyon yazardım:
+```python
+def cift_sayilari_filtrele(liste):
+    return [sayi for sayi in liste if sayi % 2 == 0]
+```
+
+**Murat:** Güzel ve temiz bir kod. Peki, yazılım geliştirme sürecinde karşılaştığınız en büyük zorluk neydi ve bunu nasıl aştınız?
+
+**Aday:** En büyük zorluklardan biri, eski bir projeyi devraldığımda kodun dokümantasyonunun yetersiz olmasıydı. Bu durumu aşmak için, kodu adım adım inceledim ve eksik olan dokümantasyonu kendim oluşturdum. Ayrıca, ekip arkadaşlarımla sık sık iletişim kurarak onların bilgi ve deneyimlerinden faydalandım.
+
+**Murat:** İletişim becerilerinizin güçlü olduğunu görüyorum. Ekip çalışmasında nasıl bir rol üstlenirsiniz?
+
+**Aday:** Genellikle ekip içinde koordinatör bir rol üstlenmeyi severim. Görevlerin dağıtılmasında ve zaman yönetiminde etkin rol oynarım. Ayrıca, açık iletişim kanalları oluşturarak herkesin fikirlerini rahatça paylaşabilmesini sağlamaya çalışırım.
+
+**Murat:** Harika. Son olarak, bu pozisyona neden başvurdunuz ve burada çalışmayı neden istiyorsunuz?
+
+**Aday:** Şirketinizin yenilikçi projeleri ve teknolojiyi yakından takip eden bir kültüre sahip olması beni çok etkiledi. Bu dinamik ortamda kendimi daha da geliştirebileceğimi ve katkıda bulunabileceğimi düşünüyorum.
+
+**Murat:** Çok teşekkür ederim. Görüşmemiz burada sona eriyor. Size en kısa sürede geri dönüş yapacağız.
+
+**Aday:** Ben teşekkür ederim Murat Bey. Görüşmek üzere.
+
+**Murat:** Görüşmek üzere.

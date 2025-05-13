@@ -1,0 +1,20 @@
+Medicinska sestra: "Dobro jutro, Dr. Ivane, Dr. Matija. Moramo razgovarati o problemu s osobljem. Sve je teže pokriti smjene zbog nedostatka kvalificiranog medicinskog osoblja."
+
+Dr. Ivan: "Dobro jutro. Znam, situacija postaje sve ozbiljnija. Prošlog tjedna smo morali otkazati nekoliko pregleda jer jednostavno nismo imali dovoljno ljudi."
+
+Dr. Matija: "To je stvarno zabrinjavajuće. Pokušala sam kontaktirati neke agencije za zapošljavanje, ali nema puno kandidata koji su voljni raditi u ovako malom mjestu."
+
+Medicinska sestra: "Razumijem. Također, mladi medicinski stručnjaci radije odlaze u veće gradove gdje su plaće i uvjeti rada bolji."
+
+Dr. Ivan: "Možda bismo trebali razmisliti o tome da ponudimo neke dodatne beneficije ili stimulacije za one koji su spremni raditi ovdje. Na primjer, subvencionirani smještaj ili dodatne edukacije."
+
+Dr. Matija: "To je dobra ideja. Također možemo pokušati surađivati s medicinskim fakultetima i ponuditi praksu studentima. Možda bi neki od njih odlučili ostati nakon što završe studij."
+
+Medicinska sestra: "To bi moglo funkcionirati. Ako bismo mogli privući barem nekoliko mladih stručnjaka, to bi nam puno pomoglo."
+
+Dr. Ivan: "Slažem se. Moramo djelovati brzo i efikasno. Idemo pripremiti prijedloge i vidjeti što možemo implementirati već sljedeći mjesec."
+
+Dr. Matija: "U redu, dogovoreno. Svi ćemo raditi na tome zajedno i nadamo se da ćemo uskoro vidjeti pozitivne rezultate."
+
+Medicinska sestra: "Hvala vam oboma. Zajedno ćemo riješiti ovaj problem."
+

@@ -1,0 +1,57 @@
+**Sales Associate:** Good afternoon! Welcome to our cosmetics counter. How can I assist you today?
+
+**Customer:** Hi there. I'm looking to buy some new makeup, but I'm not quite sure where to start. Could you help me out?
+
+**Sales Associate:** Of course! I'd be delighted to help. Are you looking for anything in particular, like foundation, eyeshadow, or maybe a new lipstick?
+
+**Customer:** Well, I think I'd like to start with a good foundation. My skin can be a bit tricky, so I want something that offers good coverage but doesn't feel too heavy.
+
+**Sales Associate:** I understand. Let's find you something that matches your skin tone perfectly and suits your skin type. Do you have oily, dry, combination, or normal skin?
+
+**Customer:** I have combination skin, with some areas that are a bit oily and others that are quite dry.
+
+**Sales Associate:** Got it. In that case, I'd recommend a foundation with a semi-matte finish. It will help control the oil but won't dry out the drier areas. Would you like to try a couple of shades to find the perfect match?
+
+**Customer:** Yes, that sounds great.
+
+**Sales Associate:** Wonderful. Let's start with this one. [Applies a small amount on the customer's jawline.] How does that feel?
+
+**Customer:** It feels quite nice, actually. Not too heavy at all.
+
+**Sales Associate:** Excellent. Let me show you one more shade just to be sure. [Applies a second shade.] Which one do you think blends better with your skin?
+
+**Customer:** I think the first one looks better. It seems to blend more naturally.
+
+**Sales Associate:** I agree. The first shade looks perfect on you. Would you like to see some other products, like concealer or powder, to complement the foundation?
+
+**Customer:** Yes, I could use a good concealer as well. Something that can cover up the occasional blemish and under-eye circles.
+
+**Sales Associate:** Absolutely. Here's a concealer that works wonderfully with the foundation you've chosen. It's great for both blemishes and under-eye coverage. Would you like to give it a try?
+
+**Customer:** Sure, let's have a look.
+
+**Sales Associate:** [Applies a small amount of concealer.] How does that look?
+
+**Customer:** It looks really good. Very natural, but it covers well.
+
+**Sales Associate:** Fantastic! Is there anything else you need help with today? Perhaps a new lipstick or eyeshadow?
+
+**Customer:** Actually, a new lipstick would be nice. Something suitable for everyday wear.
+
+**Sales Associate:** I have just the thing. Here are a few shades that are perfect for daily use. Would you like to try them on?
+
+**Customer:** Yes, please.
+
+**Sales Associate:** [Hands over a few lipstick samples.] Which one do you like the best?
+
+**Customer:** I think I like this rosy nude shade. It's subtle but still adds a bit of colour.
+
+**Sales Associate:** That's a lovely choice. It complements your skin tone beautifully. Shall I ring these up for you?
+
+**Customer:** Yes, please. Thank you so much for your help.
+
+**Sales Associate:** My pleasure. I'm glad I could assist you. Have a wonderful day, and enjoy your new makeup!
+
+**Customer:** Thanks, you too!
+
+**Sales Associate:** Thank you!

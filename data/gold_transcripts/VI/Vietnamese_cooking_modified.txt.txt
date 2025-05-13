@@ -1,0 +1,49 @@
+Host: Chào bạn, hôm nay chúng ta sẽ học cách làm bánh chocolate. Bạn đã sẵn sàng chưa?
+
+Thanh: Chào, mình đã sẵn sàng rồi. Mình rất háo hức học cách làm món này.
+
+Host: Tuyệt vời! Đầu tiên, chúng ta cần chuẩn bị nguyên liệu. Bạn đã có sẵn bột mì, đường, bơ, trứng, và chocolate chưa?
+
+Thanh: Vâng, mình đã chuẩn bị đủ rồi.
+
+Host: Tốt lắm. Bây giờ, chúng ta sẽ bắt đầu bằng cách làm nóng lò nướng ở nhiệt độ 180 độ C. Bạn có thể bật lò nướng giúp mình không?
+
+Thanh: Được, mình sẽ bật lò ngay.
+
+Host: Cảm ơn bạn. Tiếp theo, chúng ta sẽ trộn bơ và đường lại với nhau. Bạn hãy lấy một tô lớn và đánh bơ với đường cho đến khi hỗn hợp mịn.
+
+Thanh: Mình đã đánh xong rồi. Hỗn hợp trông rất mịn.
+
+Host: Tuyệt! Bây giờ, bạn hãy thêm trứng vào hỗn hợp và tiếp tục đánh đều. Chúng ta sẽ thêm từng quả trứng một để hỗn hợp không bị vón cục.
+
+Thanh: Mình đã thêm xong trứng rồi. Tiếp theo là gì?
+
+Host: Giờ thì chúng ta sẽ rây bột mì và bột nở vào hỗn hợp, rồi trộn đều. Bạn hãy làm từ từ và cẩn thận nhé.
+
+Thanh: Mình đã rây bột và trộn đều. Hỗn hợp trông rất mịn màng.
+
+Host: Tốt lắm! Cuối cùng, chúng ta sẽ đun chảy chocolate và thêm vào hỗn hợp. Bạn nhớ khuấy đều để chocolate hòa quyện hoàn toàn.
+
+Thanh: Mình đã thêm chocolate và khuấy đều. Hỗn hợp bánh nhìn rất hấp dẫn.
+
+Host: Bạn làm rất tốt! Bây giờ, chúng ta sẽ đổ hỗn hợp vào khuôn nướng đã lót giấy nến, rồi đưa vào lò nướng trong khoảng 30-35 phút.
+
+Thanh: Mình đã làm xong. Mình sẽ đặt hẹn giờ để không bị quên.
+
+Host: Rất chuyên nghiệp! Trong khi chờ bánh chín, chúng ta có thể chuẩn bị lớp kem phủ nếu bạn muốn.
+
+Thanh: Đúng rồi, mình cũng muốn học cách làm kem phủ.
+
+Host: Tuyệt vời! Để làm kem phủ chocolate, chúng ta cần kem tươi, chocolate, và một chút đường. Bạn đã sẵn sàng chưa?
+
+Thanh: Mình đã sẵn sàng rồi.
+
+Host: Tốt lắm. Chúng ta sẽ bắt đầu bằng cách đun chảy chocolate và trộn với kem tươi. Bạn hãy khuấy đều để hỗn hợp mịn màng.
+
+Thanh: Mình đã làm xong. Hỗn hợp kem phủ trông rất ngon.
+
+Host: Bạn làm rất tốt! Giờ chúng ta chỉ cần đợi bánh chín và để nguội trước khi phủ kem lên. Bạn đã làm rất tốt hôm nay!
+
+Thanh: Cảm ơn bạn rất nhiều! Mình rất vui vì đã học được cách làm bánh chocolate.
+
+Host: Không có gì, rất vui vì có bạn tham gia. Chúc bạn thành công với món bánh của mình!

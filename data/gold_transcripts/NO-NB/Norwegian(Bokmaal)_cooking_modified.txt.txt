@@ -1,0 +1,35 @@
+"Vert: Velkommen til dagens episode av ""Bakerens Hjørne""! Hva heter du?
+
+Deltaker: Hei, jeg heter Alex. Takk for at jeg får være med i dag!
+
+Vert: Det er en glede å ha deg her, Alex. I dag skal vi bake en deilig sjokoladekake. Har du bakt sjokoladekake før?
+
+Alex: Ja, noen ganger, men jeg vil gjerne lære noen nye tips og triks.
+
+Vert: Perfekt! La oss starte med ingrediensene. Vi trenger mel, sukker, kakaopulver, bakepulver, natron, salt, egg, melk, olje og vaniljeekstrakt. Har du alt klart?
+
+Alex: Ja, jeg har alt her. Hva gjør vi først?
+
+Vert: Først forvarmer vi ovnen til 175 grader Celsius. Så tar vi en stor bolle og blander sammen de tørre ingrediensene: mel, sukker, kakaopulver, bakepulver, natron og salt. Vil du gjøre det?
+
+Alex: Absolutt, det kan jeg gjøre.
+
+Vert: Flott. Når de tørre ingrediensene er godt blandet, lager vi en grop i midten og tilsetter egg, melk, olje og vaniljeekstrakt. Rør alt sammen til røren er jevn og uten klumper.
+
+Alex: Skal jeg bruke en mikser eller bare en visp?
+
+Vert: Du kan bruke en visp til å begynne med, men hvis røren blir for tykk, kan du bruke en håndmikser for å gjøre det lettere.
+
+Alex: Ok, jeg tror jeg har fått det til. Hva er neste steg?
+
+Vert: Nå heller vi røren i en smurt kakeform. Sørg for at den er jevnt fordelt i formen. Så setter vi kaken i ovnen og lar den bake i cirka 30-35 minutter.
+
+Alex: Det høres bra ut. Hvordan vet jeg om kaken er ferdig?
+
+Vert: Du kan stikke en tannpirker eller en kakepinne i midten av kaken. Hvis den kommer ut ren, er kaken ferdig. Hvis ikke, la den bake litt lenger.
+
+Alex: Tusen takk for hjelpen! Jeg gleder meg til å smake på kaken.
+
+Vert: Det var så lite, Alex. Jeg er sikker på at kaken blir fantastisk. Vi ses etter pausen for å dekorere den!
+
+Alex: Gleder meg!"

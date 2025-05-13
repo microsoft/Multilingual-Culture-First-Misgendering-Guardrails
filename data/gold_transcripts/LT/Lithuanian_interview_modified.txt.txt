@@ -1,0 +1,25 @@
+Apklausos atlikėjas: Laba diena, ačiū, kad atvykote į pokalbį. Aš esu Jonas, šios įmonės personalo vadovas. Ar galite trumpai papasakoti apie save ir savo patirtį programavimo srityje?
+
+Alex: Laba diena, Jonai. Ačiū už kvietimą. Mano vardas yra Alex. Turiu penkerių metų patirtį programavimo srityje. Dirbau su įvairiomis technologijomis, įskaitant Java, Python ir JavaScript. Pastaruosius dvejus metus dirbau kaip vyr. programų kūrėjas vienoje fintech įmonėje.
+
+Apklausos atlikėjas: Labai įdomu, Alex. Kokius projektus teko įgyvendinti toje fintech įmonėje?
+
+Alex: Vienas iš pagrindinių projektų buvo mokėjimų apdorojimo sistema, kuri leido mūsų klientams atlikti greitus ir saugius mokėjimus internetu. Mano atsakomybė buvo sistemos architektūra ir backend kūrimas, naudojant Java ir Spring Framework.
+
+Apklausos atlikėjas: Puiku. O kaip dėl komandinio darbo? Kaip jums sekasi dirbti komandoje?
+
+Alex: Man labai patinka dirbti komandoje. Manau, kad bendradarbiaujant galima pasiekti geresnių rezultatų. Ankstesniame darbe dažnai organizuodavau susitikimus, kad aptartume projekto eigą ir spręstume iškilusias problemas kartu su komanda.
+
+Apklausos atlikėjas: Tai skamba labai gerai. Dabar norėčiau pereiti prie techninės dalies. Ar galite paaiškinti, kas yra REST API ir kaip ją naudojate savo projektuose?
+
+Alex: REST API yra programavimo sąsaja, kuri naudoja HTTP protokolą duomenims perduoti. Ji leidžia skirtingoms sistemoms bendrauti tarpusavyje. Savo projektuose REST API naudojau kuriant paslaugas, kurios leidžia klientų aplikacijoms gauti ir siųsti duomenis į mūsų serverius. API buvo sukurta naudojant Spring Boot ir dokumentuota naudojant Swagger.
+
+Apklausos atlikėjas: Ačiū, Alex. Paskutinis klausimas: kaip sprendžiate iškilusias technines problemas, jei susiduriate su nežinomu klaidos pranešimu?
+
+Alex: Pirmiausia stengiuosi atidžiai perskaityti klaidos pranešimą ir suprasti, kas gali būti negerai. Jei savarankiškai negaliu išspręsti problemos, ieškau informacijos internete, dažniausiai Stack Overflow ar oficialiose dokumentacijose. Jei vis dar nepavyksta rasti sprendimo, pasikonsultuoju su kolegomis ar komandos nariais.
+
+Apklausos atlikėjas: Labai ačiū, Alex. Buvo malonu su jumis kalbėtis. Mes susisieksime su jumis artimiausiu metu dėl tolimesnių veiksmų.
+
+Alex: Ačiū, Jonai. Lauksiu jūsų žinių. Geros jums dienos!
+
+Apklausos atlikėjas: Jums taip pat!

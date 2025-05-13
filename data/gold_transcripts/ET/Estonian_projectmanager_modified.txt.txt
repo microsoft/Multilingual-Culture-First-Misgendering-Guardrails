@@ -1,0 +1,35 @@
+REWRITTEN TRANSCRIPT:
+
+**Mari:** Tere kõigile! Kas me saame alustada arutelu uue funktsiooni käivitamise kohta?
+
+**Kadi:** Tere, Mari! Jah, muidugi. Ma arvan, et meil on veel mõned asjad, mida arutada, enne kui saame kindlaks määrata lõpliku kuupäeva.
+
+**Alex:** Tere! Olen nõus, Kadi. Meil on veel mõned tehnilised üksikasjad, mis vajavad läbivaatamist. Esiteks, kuidas on lood kasutajate testimisega?
+
+**Mari:** Hea küsimus, Alex. Meil on testgrupp, kes on juba alustanud funktsiooni katsetamist. Tagasiside on seni olnud üsna positiivne, kuid mõned parandused on vajalikud.
+
+**Kadi:** Kas me oleme kindlad, et kõik suuremad vead on lahendatud? Me ei saa endale lubada, et midagi suurt jääb kahe silma vahele.
+
+**Alex:** Olen käinud läbi kõik raportid ja tundub, et oleme suuremad probleemid lahendanud. Kuid alati on võimalik, et midagi ootamatut võib esile kerkida.
+
+**Mari:** Just, seetõttu peame olema valmis kiirelt reageerima. Kas meil on olemas varuplaan juhuks, kui midagi valesti läheb?
+
+**Kadi:** Jah, oleme koostanud riskijuhtimise plaani. Meil on ka tehniline tugi, kes on valmis kohe sekkuma, kui midagi juhtub.
+
+**Alex:** Väga hea. Siis peame veel otsustama, kuidas me funktsiooni turundame. Kas meil on juba strateegia paigas?
+
+**Mari:** Me töötame praegu koos turundusmeeskonnaga, et luua kampaania, mis tõstab teadlikkust uue funktsiooni kohta. Plaanime kasutada sotsiaalmeediat ja e-posti turundust.
+
+**Kadi:** Tundub hea plaan. Kas meil on juba kindel kuupäev, millal me tahame funktsiooni välja lasta?
+
+**Alex:** Ma arvan, et kui kõik sujub, võiksime sihtida järgmise kuu algust. See annab meile piisavalt aega, et kõik üksikasjad läbi töötada ja tagada, et kõik on valmis.
+
+**Mari:** Olen sellega nõus. Kas keegi on vastu või on veel midagi, mida me peaksime arutama?
+
+**Kadi:** Mina olen rahul. Tundub, et oleme kõige eest hoolt kandnud.
+
+**Alex:** Olen ka rahul. Lähme siis edasi ja valmistame kõik ette.
+
+**Mari:** Suurepärane! Tänan teid kõiki panuse eest. Lähme tööle ja teeme sellest eduloo!
+
+**Kadi ja Alex:** Aitäh, Mari!

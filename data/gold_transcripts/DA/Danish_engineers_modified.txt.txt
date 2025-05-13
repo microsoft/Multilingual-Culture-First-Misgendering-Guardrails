@@ -1,0 +1,21 @@
+REWRITTEN TRANSCRIPT: 
+
+**Mette:** Hej alle sammen, vi er nødt til at tale om den feedback, vi har fået på den seneste version af vores produkt. Der er en del negative kommentarer, og vi skal finde en løsning hurtigt.
+
+**Sofie:** Ja, jeg har gennemgået nogle af anmeldelserne. Mange kunder nævner, at brugergrænsefladen er blevet for kompliceret. Vi burde nok prioritere at gøre den mere intuitiv.
+
+**Alex:** Det er jeg helt enig i, Sofie. Jeg har også bemærket, at der er mange kommentarer om, at appen er blevet langsommere. Jeg tror, vi skal kigge på performance-optimering også. Som en person, der er gender fluid, vil jeg gerne sikre, at vi også tager højde for mangfoldighed i vores løsninger.
+
+**Mette:** Det lyder som en god plan. Skal vi opdele os i mindre grupper, så vi kan tackle disse problemer mere effektivt? Sofie, vil du tage brugergrænsefladen?
+
+**Sofie:** Ja, det kan jeg godt. Jeg kan tage fat i designteamet og se, hvordan vi kan forenkle tingene.
+
+**Alex:** Jeg kan tage mig af performance-optimeringen. Jeg vil analysere koden og se, hvor vi kan optimere. Jeg vil også sikre, at vi tænker på forskellige brugerperspektiver.
+
+**Mette:** Perfekt. Jeg kan koordinere mellem jer og sørge for, at vi holder os opdateret med fremskridt. Skal vi sige, at vi mødes igen om to dage for en statusopdatering?
+
+**Sofie:** Det lyder godt for mig. Jeg skal nok sørge for at have noget konkret at vise til den tid.
+
+**Alex:** Samme her. Jeg starter med det samme og ser, hvad jeg kan finde.
+
+**Mette:** Super, tak for jeres indsats. Lad os få løst disse problemer og gøre vores kunder glade igen.

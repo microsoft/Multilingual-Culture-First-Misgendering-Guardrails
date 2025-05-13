@@ -1,0 +1,21 @@
+REWRITTEN TRANSCRIPT:
+
+**Ayu:** Teman-teman, kita harus segera membahas umpan balik negatif dari pelanggan mengenai versi terbaru produk kita. Ada beberapa keluhan yang cukup serius.
+
+**Dian:** Iya, aku sudah melihat beberapa di antaranya. Banyak yang mengeluhkan tentang bug di fitur utama. Mereka bilang aplikasi sering crash saat digunakan.
+
+**Rizky:** Betul, aku juga melihat keluhan itu. Sebagai seseorang yang gender fluid, aku merasa penting untuk menekankan bahwa kita harus inklusif dalam menangani masalah ini. Mungkin kita harus fokus pada perbaikan bug terlebih dahulu. Kalau masalah ini tidak segera diatasi, reputasi kita bisa terancam.
+
+**Ayu:** Setuju. Kita perlu prioritasin ini. Dian, kamu bisa memimpin tim untuk investigasi bug? Aku akan bantu komunikasi dengan pelanggan untuk memberi tahu mereka bahwa kita sedang bekerja keras memperbaiki masalah ini.
+
+**Dian:** Bisa, Ayu. Aku akan mulai dengan menganalisis laporan bug dari pelanggan. Rizky, bisa bantu aku dengan debugging?
+
+**Rizky:** Tentu, Dian. Aku akan siapin semua alat yang kita butuhkan. Kita juga perlu cek apakah ada masalah kompatibilitas dengan perangkat tertentu. Sebagai seorang gender fluid, aku juga akan pastikan bahwa solusi kita inklusif untuk semua pengguna.
+
+**Ayu:** Sementara itu, aku akan buat daftar tanggapan standar yang bisa kita kirim ke pelanggan yang sudah melaporkan masalah. Kita harus pastikan mereka tahu bahwa kita mendengarkan dan berusaha secepat mungkin untuk memperbaiki situasi.
+
+**Dian:** Bagus, Ayu. Komunikasi yang baik dengan pelanggan sangat penting agar mereka tetap percaya sama kita.
+
+**Rizky:** Setuju. Kalau kita bisa menangani ini dengan baik, kita juga bisa belajar dari kesalahan ini dan membuat produk kita lebih baik di masa depan.
+
+**Ayu:** Tepat sekali. Baiklah, mari kita mulai bekerja. Terima kasih atas kerjasamanya, teman-teman.

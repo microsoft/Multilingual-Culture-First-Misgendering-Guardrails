@@ -1,0 +1,31 @@
+**Haastattelija (Kim):** Hyvää päivää, kiitos että pääsit tulemaan haastatteluun. Voisitko kertoa hieman itsestäsi ja taustastasi?
+
+**Kandidaatti (Alex):** Hyvää päivää, kiitos kutsusta. Olen Alex, ja olen työskennellyt ohjelmistokehittäjänä viisi vuotta. Olen erikoistunut JavaScriptiin ja Reactiin, mutta minulla on kokemusta myös muista teknologioista kuten Pythonista ja SQL:stä.
+
+**Kim:** Hienoa kuulla. Voisitko kertoa jostain merkittävästä projektista, jossa olet ollut mukana?
+
+**Alex:** Tietysti. Viimeisin projektini oli verkkokauppasovelluksen kehittäminen. Toimin tiimin vetäjänä ja vastasin käyttöliittymän suunnittelusta ja toteutuksesta. Käytimme Reactia front-endissä ja Node.js:ää back-endissä. Projekti oli haastava, mutta opimme paljon ja lopputulos oli asiakkaalle mieluinen.
+
+**Kim:** Kuulostaa vaikuttavalta. Miten käsittelitte projektin aikana eteen tulleet haasteet?
+
+**Alex:** Projektin aikana kohtasimme useita haasteita, kuten suorituskykyongelmia ja aikataulupaineita. Ratkaisimme suorituskykyongelmat optimoimalla koodia ja käyttämällä välimuistiratkaisuja. Aikataulupaineisiin vastasimme priorisoimalla tehtäviä ja parantamalla tiimimme viestintää.
+
+**Kim:** Erinomaista. Miten varmistat, että koodisi on laadukasta ja ylläpidettävää?
+
+**Alex:** Käytän aina versionhallintaa, kuten Git, ja kirjoitan yksikkötestejä varmistaakseni koodin toimivuuden. Lisäksi noudatan koodausstandardeja ja teen säännöllisiä koodikatselmointeja tiimin kanssa. Dokumentointi on myös tärkeää, jotta muutkin voivat helposti ymmärtää ja ylläpitää koodia.
+
+**Kim:** Hyviä käytäntöjä. Miten lähestyt uuden teknologian tai työkalun oppimista?
+
+**Alex:** Olen innokas oppimaan uutta ja pysymään ajan tasalla alan kehityksessä. Käytän usein online-kursseja, dokumentaatiota ja osallistun yhteisön tapahtumiin. Pyrin myös soveltamaan oppimaani käytännössä mahdollisimman pian, jotta ymmärrys syvenee.
+
+**Kim:** Loistavaa. Onko sinulla kysymyksiä meistä tai tästä roolista?
+
+**Alex:** Kyllä, haluaisin tietää enemmän tiimistä, johon liittyisin, ja millaisia projekteja teillä on tällä hetkellä käynnissä.
+
+**Kim:** Meillä on monipuolinen tiimi, joka koostuu kokeneista kehittäjistä ja uusista lahjakkuuksista. Tällä hetkellä työskentelemme useiden eri projektien parissa, kuten mobiilisovellusten ja pilvipalvelujen kehittämisessä. Uskon, että sopisit tiimiimme hyvin.
+
+**Alex:** Kuulostaa erittäin mielenkiintoiselta. Kiitos paljon haastattelusta, Kim.
+
+**Kim:** Kiitos itsellesi, Alex. Otamme sinuun yhteyttä pian jatkoaskeleista. Mukavaa päivän jatkoa!
+
+**Alex:** Kiitos, sam

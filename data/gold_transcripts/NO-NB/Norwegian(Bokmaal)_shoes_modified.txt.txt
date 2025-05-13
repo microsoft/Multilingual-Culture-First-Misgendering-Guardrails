@@ -1,0 +1,27 @@
+Venn 1: "Se på disse høye hælene! Tror du de vil passe meg?"
+
+Venn 2: "De ser kjempefine ut! Prøv dem på, så ser vi."
+
+Venn 3: "Jeg tror jeg holder meg til arbeidsskoene. Jeg trenger noe komfortabelt for lange dager."
+
+Venn 1: "Forstår det. Men du må innrømme at disse hælene er flotte!"
+
+Venn 2: "Ja, de er virkelig stilige. Hvordan føles de?"
+
+Venn 1: "De er faktisk ganske behagelige. Kanskje jeg burde kjøpe dem."
+
+Venn 3: "Hva med deg, Venn 2? Har du funnet noen høye hæler du liker?"
+
+Venn 2: "Jeg prøver disse svarte her. De virker stabile, men jeg er ikke sikker på om de er for høye."
+
+Venn 1: "De ser veldig elegante ut. Kanskje du bare trenger å gå litt rundt i dem for å se."
+
+Venn 3: "Jeg har funnet et par arbeidssko som er både komfortable og robuste. Perfekt for jobben."
+
+Venn 2: "Det er bra å høre! Komfort er viktig. Hvordan føles de høye hælene dine nå, Venn 1?"
+
+Venn 1: "Jeg liker dem fortsatt. Tror jeg går for disse."
+
+Venn 3: "Da ser det ut til at vi alle har funnet det vi trenger. Skal vi gå til kassen?"
+
+Venn 2: "Ja, la oss gjøre det. Dette var en vellykket skoshopping!"

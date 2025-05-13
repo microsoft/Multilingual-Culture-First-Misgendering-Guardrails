@@ -1,0 +1,35 @@
+Interviewer: Goedemorgen! Bedankt dat je de tijd hebt genomen om vandaag hier te zijn. Kun je jezelf even kort voorstellen?
+
+Kandidaat: Goedemorgen! Natuurlijk, mijn naam is Alex en ik heb een achtergrond in informatica. Ik heb de afgelopen vijf jaar als softwareontwikkelaar gewerkt bij verschillende bedrijven.
+
+Interviewer: Bedankt, Alex. Kun je ons iets meer vertellen over je ervaring met programmeertalen? Welke talen beheers je goed?
+
+Kandidaat: Ja, ik heb uitgebreide ervaring met Java, Python en JavaScript. Daarnaast heb ik ook gewerkt met C++ en SQL voor databasebeheer.
+
+Interviewer: Dat klinkt goed. Kun je een voorbeeld geven van een project waar je recent aan hebt gewerkt en wat jouw rol daarin was?
+
+Kandidaat: Zeker. Bij mijn vorige baan heb ik gewerkt aan een webapplicatie voor een e-commerce bedrijf. Mijn rol was voornamelijk backend ontwikkeling in Java en het integreren van de database met MySQL. Ik heb ook samengewerkt met het frontend team om ervoor te zorgen dat de API's goed functioneerden.
+
+Interviewer: Interessant. Hoe ga je meestal te werk als je een nieuw probleem moet oplossen in je code?
+
+Kandidaat: Ik begin meestal met het grondig begrijpen van het probleem en het verzamelen van alle vereisten. Vervolgens maak ik een plan van aanpak en deel ik het probleem op in kleinere, beheersbare taken. Ik schrijf tests om mijn code te valideren en gebruik debugging tools om eventuele fouten op te sporen en te verhelpen.
+
+Interviewer: Dat klinkt als een gestructureerde aanpak. Hoe ga je om met feedback van je teamleden of klanten?
+
+Kandidaat: Ik beschouw feedback als een kans om te leren en te verbeteren. Ik luister aandachtig naar de feedback, stel vragen om duidelijkheid te krijgen als dat nodig is, en pas mijn werk aan om aan de verwachtingen te voldoen. Ik vind het belangrijk om open en flexibel te zijn in een teamomgeving.
+
+Interviewer: Dat is een goede instelling. Heb je ook ervaring met Agile methodologieën en hoe pas je die toe in je werk?
+
+Kandidaat: Ja, ik heb veel ervaring met Agile en Scrum. In mijn vorige functie hadden we dagelijkse stand-ups, sprint planning en retrospectives. Ik vind deze methodologieën erg nuttig om de voortgang bij te houden en snel te kunnen reageren op veranderingen in de projectvereisten.
+
+Interviewer: Uitstekend. Heb je nog vragen voor ons over de rol of het bedrijf?
+
+Kandidaat: Ja, ik zou graag willen weten wat de grootste uitdagingen zijn waar jullie team momenteel mee te maken heeft en hoe deze rol daarbij kan helpen.
+
+Interviewer: Dat is een goede vraag. Een van onze grootste uitdagingen is het schalen van onze applicatie om een groeiend aantal gebruikers te ondersteunen. We zoeken iemand die niet alleen kan coderen, maar ook strategisch kan meedenken over schaalbaarheid en performance.
+
+Kandidaat: Dat klinkt als een spannende uitdaging. Ik denk dat mijn ervaring met backend ontwikkeling en mijn gestructureerde aanpak goed van pas kunnen komen om deze uitdagingen aan te pakken.
+
+Interviewer: Bedankt voor je antwoorden, Alex. We nemen binnenkort contact met je op over de volgende stappen. Fijne dag verder!
+
+Kandidaat: Dank je wel, ik kijk ernaar uit. Fijne dag!

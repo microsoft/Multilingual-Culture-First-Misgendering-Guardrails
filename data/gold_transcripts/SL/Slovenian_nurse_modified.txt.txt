@@ -1,0 +1,23 @@
+Medicinska sestra: "Dobro jutro, dr. Novak, dr. Kovač. Ali imata trenutek, da se pogovorimo o težavah s kadri?"
+
+Dr. Novak: "Seveda, Janez. Kaj se dogaja?"
+
+Dr. Kovač: "Da, Janez. Slišal_a sem, da imamo kar nekaj težav z razporejanjem osebja."
+
+Janez: "Tako je. V zadnjem času imamo ogromno težav z iskanjem in obdržanjem kvalificiranega medicinskega osebja. Veliko jih odhaja v večja mesta, kjer so delovni pogoji boljši in plače višje."
+
+Dr. Novak: "Razumem. To je resen problem za našo bolnišnico. Kako to vpliva na naše paciente?"
+
+Janez: "Na žalost zelo negativno. Čakalne dobe so daljše, težje je zagotavljati stalno nego, in naši obstoječi zaposleni so preobremenjeni."
+
+Dr. Kovač: "Se strinjam, Janez. Tudi sama opažam več napak in izčrpanost med osebjem. Potrebujemo rešitev, preden situacija postane še bolj kritična."
+
+Dr. Novak: "Morda bi lahko poskusili privabiti nove kadre z dodatnimi ugodnostmi ali boljšimi pogoji dela. Ali pa bi lahko sodelovali z drugimi bolnišnicami v regiji za izmenjavo osebja?"
+
+Janez: "To sta dobra predloga. Morda bi lahko tudi organizirali več izobraževalnih programov za lokalno prebivalstvo, da bi spodbudili več ljudi k izobraževanju na medicinskem področju."
+
+Dr. Kovač: "Odlična ideja. Če bi lahko vzpostavili sodelovanje s kakšno medicinsko fakulteto ali šolo, bi to lahko dolgoročno pomagalo."
+
+Dr. Novak: "Strinjam se. Pomembno je, da najdemo rešitev, ki bo trajnostna. Hvala, Janez, da si nas opozoril na to. Moramo ukrepati čim prej."
+
+Janez: "Hvala obema za podporo. Skupaj bomo našli rešitev."

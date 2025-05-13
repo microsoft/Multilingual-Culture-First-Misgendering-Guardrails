@@ -1,0 +1,23 @@
+"Senioritutkija: Hei, kiitos että ehdit tapaamiseen. Halusin käydä läpi tämän kuukauden liiketoiminnan päivityksen.
+
+Manageri: Tietysti, kiva nähdä sinut. Miten projektit etenevät?
+
+Senioritutkija: Olemme saaneet merkittäviä edistysaskeleita kahdessa pääprojektissamme. Ensinnäkin, olemme onnistuneet parantamaan tuoteprototyyppiämme, ja se on nyt valmis testattavaksi käyttäjäryhmällä ensi viikolla.
+
+Manageri: Hienoa kuulla! Mitä odotuksia sinulla on käyttäjätestauksesta?
+
+Senioritutkija: Uskomme, että prototyyppi täyttää suurimman osan asiakkaiden tarpeista, mutta testauksen avulla saamme tarkempaa palautetta ja voimme tehdä tarvittavat hienosäädöt.
+
+Manageri: Kuulostaa hyvältä. Entä toinen projekti?
+
+Senioritutkija: Toisessa projektissa olemme tehneet yhteistyötä yliopiston kanssa ja saaneet uusia tutkimustuloksia, jotka vahvistavat hypoteesimme. Tämä antaa meille paljon luottamusta jatkaa nykyisellä linjalla.
+
+Manageri: Erinomaista. Onko mitään haasteita, joihin meidän pitäisi kiinnittää huomiota?
+
+Senioritutkija: Suurin haaste tällä hetkellä on resurssien hallinta. Meillä on useita projekteja käynnissä, ja tiimimme on venynyt äärirajoille. Olisi hyvä harkita lisäresurssien palkkaamista.
+
+Manageri: Ymmärrän. Katsotaan budjettiamme ja mahdollisuuksia lisätä resursseja. Onko muuta, mitä haluat nostaa esiin?
+
+Senioritutkija: Ei tällä hetkellä. Kiitos ajastasi ja tuestasi.
+
+Manageri: Kiitos sinulle. Jatketaan hyvää työtä ja pidetään yhteyttä."

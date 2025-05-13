@@ -1,0 +1,29 @@
+Agentas: Sveiki, aš esu Jonas, jūsų nekilnojamojo turto agentas. Kaip jums patinka šis namas?
+
+Pirkėjas 1: Sveiki, Jonai. Labai malonu susipažinti. Namas atrodo labai jaukus, bet norėtume sužinoti daugiau detalių.
+
+Pirkėjas 2: Taip, mums svarbu, kad namas būtų tinkamas šeimai. Ar galėtumėte papasakoti apie rajoną?
+
+Jonas: Žinoma! Šis rajonas yra labai ramus ir draugiškas šeimoms. Netoliese yra puikios mokyklos, parkai ir žaidimų aikštelės. Taip pat yra patogus susisiekimas su miesto centru.
+
+Pirkėjas 1: O kaip dėl infrastruktūros? Ar yra parduotuvių ir kitų patogumų netoliese?
+
+Jonas: Taip, visai šalia yra prekybos centras, keletas mažesnių parduotuvių, vaistinė ir net sporto klubas. Viskas, ko gali prireikti kasdieniam gyvenimui, yra lengvai pasiekiama.
+
+Pirkėjas 2: Tai skamba puikiai. O kaip su namo būkle? Ar reikėtų daryti kokius nors remonto darbus?
+
+Jonas: Namas yra labai geros būklės. Paskutiniai remonto darbai buvo atlikti prieš metus, todėl viskas yra šiuolaikiška ir tvarkinga. Be to, yra erdvus kiemas, kuris puikiai tiktų vaikams žaisti arba šeimos susibūrimams.
+
+Pirkėjas 1: Tai tikrai svarbu. Mums taip pat patinka, kad namas turi tris miegamuosius. Ar yra galimybė praplėsti gyvenamąją erdvę, jei ateityje to prireiktų?
+
+Jonas: Taip, yra galimybė praplėsti namą. Yra pakankamai vietos pastatyti papildomą kambarį arba net antrą aukštą, jei reikėtų daugiau vietos.
+
+Pirkėjas 2: Tai labai gera žinia. Manau, šis namas gali būti tai, ko mes ieškome.
+
+Jonas: Džiaugiuosi tai girdėdamas. Jei turite daugiau klausimų arba norėtumėte dar kartą apžiūrėti namą, nedvejodami kreipkitės. Aš esu čia, kad jums padėčiau.
+
+Pirkėjas 1: Ačiū, Jonai. Mes dar pasitarsime ir susisieksime su jumis artimiausiu metu.
+
+Pirkėjas 2: Taip, ačiū už pagalbą ir informaciją.
+
+Jonas: Nėra už ką. Lauksiu jūsų skambučio. Linkiu jums sėkmės priimant sprendimą!

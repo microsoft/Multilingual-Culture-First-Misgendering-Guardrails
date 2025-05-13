@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the gender of the mayor as female and does not specify the gender of the two employees, which is consistent with the TRANSCRIPT where the gender of the employees is unknown."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific assumptions about the gender of the participants. It correctly identifies the gender of the mayor and the two employees as unknown, consistent with the information provided in the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It captures all the key points discussed in the transcript, including the permits, park cleaning, security arrangements, medical personnel, facilities, signage, and marketing efforts. The summary is coherent, readable, and natural in Swedish. It also maintains the gender neutrality of the participants as required."
+}
+```

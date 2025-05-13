@@ -1,0 +1,42 @@
+Shop assistant: Dzień dobry! W czym mogę pomóc?
+
+Customer: Dzień dobry. Szukam nowego podkładu. Mógłbym prosić o jakieś rekomendacje?
+
+Shop assistant: Oczywiście! Czy ma Pan jakiś konkretny rodzaj skóry? Na przykład suchą, tłustą, mieszaną?
+
+Customer: Moja skóra jest raczej mieszana, więc szukam czegoś, co będzie dobrze redukować błyszczenie, ale jednocześnie nie przesuszy mojej skóry.
+
+Shop assistant: Rozumiem. Polecam podkład matujący, który jednocześnie nawilża. Mamy kilka opcji, które mogą się Panu spodobać. Czy preferuje Pan lekkie czy bardziej kryjące formuły?
+
+Customer: Chyba coś bardziej kryjącego, ale nie chcę, żeby wyglądało ciężko na skórze.
+
+Shop assistant: W takim razie proponuję ten podkład. Ma średnie krycie, które można stopniowo zwiększać, a jednocześnie wygląda bardzo naturalnie. Czy chciałby Pan go wypróbować?
+
+Customer: Tak, poproszę. Czy macie próbki?
+
+Shop assistant: Tak, oczywiście. Proszę usiąść, a ja nałożę go na Pana skórę, żeby zobaczyć, jak się sprawdza.
+
+Customer: Świetnie, dziękuję.
+
+(Shop assistant nakłada podkład na skórę Customera)
+
+Shop assistant: Jak się Pan czuje z tym podkładem? Czy odpowiada Panu jego konsystencja i wykończenie?
+
+Customer: Tak, jest naprawdę lekki i wygląda bardzo naturalnie. Myślę, że to będzie dobry wybór. Ile kosztuje?
+
+Shop assistant: Ten podkład kosztuje 150 złotych. Czy chciałby Pan jeszcze coś do tego? Może puder do utrwalenia makijażu?
+
+Customer: Tak, myślę, że puder też się przyda. Czy polecasz jakiś konkretny?
+
+Shop assistant: Mamy świetny puder transparentny, który idealnie utrwala makijaż i nie zmienia koloru podkładu. Jest bardzo lekki i nadaje się do każdego rodzaju skóry.
+
+Customer: Brzmi dobrze. Wezmę oba produkty.
+
+Shop assistant: Doskonale. Czy chciałby Pan jeszcze coś?
+
+Customer: To wszystko na teraz, dziękuję.
+
+Shop assistant: W takim razie zapraszam do kasy. Dziękuję za zakupy i życzę miłego dnia!
+
+Customer: Dziękuję, wzajemnie.
+

@@ -1,0 +1,29 @@
+Host: Olá e bem-vinda ao nosso programa de culinária! Hoje vamos aprender a fazer um delicioso bolo de chocolate. Está preparada?
+
+Participante: Olá, obrigada! Estou muito entusiasmada. Adoro chocolate.
+
+Host: Ótimo! Vamos começar pelos ingredientes. Precisamos de farinha, açúcar, cacau em pó, ovos, manteiga, leite e fermento. Já tens tudo isso preparado?
+
+Participante: Sim, já tenho tudo aqui. Qual é o primeiro passo?
+
+Host: Primeiro, vamos pré-aquecer o forno a 180 graus Celsius. Enquanto o forno aquece, vamos misturar os ingredientes secos. Podes peneirar a farinha, o açúcar, o cacau em pó e o fermento numa tigela grande?
+
+Participante: Claro, vou fazer isso agora.
+
+Host: Ótimo. Enquanto fazes isso, vou derreter a manteiga. Depois, vamos juntar os ovos e o leite à manteiga derretida. Quando terminares de peneirar os ingredientes secos, vamos misturar tudo.
+
+Participante: Já peneirei os ingredientes secos. O que faço a seguir?
+
+Host: Excelente! Agora, faz um buraco no meio da mistura seca e deita a mistura de manteiga, ovos e leite no centro. Depois, com uma espátula, mistura tudo até obteres uma massa homogénea.
+
+Participante: Está bem. Vou misturar tudo... pronto! A massa está pronta.
+
+Host: Perfeito! Agora, vamos untar uma forma com manteiga e polvilhar com um pouco de farinha para o bolo não colar. Depois, despejamos a massa na forma.
+
+Participante: Já untei a forma. Vou despejar a massa. Feito!
+
+Host: Ótimo trabalho. Agora, levamos ao forno e deixamos cozer durante cerca de 35 a 40 minutos. Enquanto esperamos, tens alguma dúvida ou queres saber alguma dica especial?
+
+Participante: Sim, gostava de saber como posso verificar se o bolo está pronto sem o abrir antes do tempo.
+
+Host: Boa pergunta! 

@@ -1,0 +1,19 @@
+**Is-Lywydd (VP):** Diolch i chi i gyd am ddod heddiw. Rwy'n gobeithio y gallwn ddod o hyd i syniadau newydd ar gyfer y nodwedd nesaf i'n cynnyrch. Pa syniadau sydd gennych chi?
+
+**Uwch Wyddonydd Cymhwysol 1 (SAS1):** Diolch, VP. Roeddwn i'n meddwl am ychwanegu nodwedd sy'n defnyddio dysgu peirianyddol i wella profiad y defnyddiwr. Gallwn ddefnyddio data defnyddiwr i greu argymhellion personol iawn.
+
+**Uwch Wyddonydd Cymhwysol 2 (SAS2):** Mae hynny'n swnio'n wych, SAS1. Rwy'n cytuno bod dysgu peirianyddol yn gallu darparu llawer o werth. Rwyf wedi bod yn edrych ar fodelau newydd a allai fod yn fwy effeithlon ac yn fwy cywir.
+
+**Prif Reolwr Rhaglen (PPM):** Mae'n swnio fel syniad da, ond byddai'n rhaid i ni sicrhau bod gennym y seilwaith cywir i gefnogi'r nodwedd hon. Bydd angen i ni ystyried y gallu i raddio a'r costau sydd ynghlwm.
+
+**VP:** Rwy'n cytuno â chi, PPM. Mae angen i ni ystyried yr holl agweddau hyn cyn i ni fynd ymhellach. SAS1, a allwch chi egluro sut y byddai'r system argymhellion personol yn gweithio?
+
+**SAS1:** Wrth gwrs, VP. Byddem yn casglu data defnyddiwr fel hanes chwilio, hoffterau a phatrymau defnydd. Yna, byddem yn defnyddio modelau dysgu peirianyddol i ddadansoddi'r data hwn a chreu argymhellion unigryw ar gyfer pob defnyddiwr.
+
+**SAS2:** Gallwn hefyd ystyried defnyddio modelau sy'n dysgu mewn amser real, fel y gall y system addasu yn barhaus i newidiadau yn ymddygiad y defnyddiwr. Byddai hyn yn gwneud y nodwedd hyd yn oed yn fwy effeithiol.
+
+**PPM:** Byddai angen i ni hefyd sicrhau bod gennym feddalwedd diogelwch cadarn i amddiffyn data defnyddiwr. Mae diogelwch data yn flaenoriaeth uchel, yn enwedig gyda'r holl wybodaeth bersonol y byddem yn casglu.
+
+**VP:** Yn hollol, diogelwch yw'r allwedd. Mae'n swnio fel bod gennym syniad cychwynnol da yma. Rwy'n gwerthfawrogi eich mewnbwn. Gadewch i ni wneud rhywfaint o ymchwil pellach ac adolygu ein hadnoddau cyn i ni symud ymlaen. Diolch i chi i gyd.
+
+**SAS1, SAS2, PPM:** Diolch, VP.

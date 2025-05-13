@@ -1,0 +1,33 @@
+Host: "Welkom bij onze kookshow! Vandaag gaan we een heerlijke chocoladetaart bakken. Bent u er klaar voor?"
+
+Deelnemer: "Ja, ik ben er helemaal klaar voor! Ik ben zo benieuwd naar het recept."
+
+Host: "Geweldig! Laten we beginnen met de ingrediënten. We hebben bloem, suiker, eieren, boter, cacao, bakpoeder en wat vanille-extract nodig. Heeft u alles klaarstaan?"
+
+Deelnemer: "Ja, ik heb alles hier voor me. Wat is de eerste stap?"
+
+Host: "Perfect. Eerst gaan we de oven voorverwarmen op 180 graden Celsius. Daarna gaan we de boter en suiker in een grote kom mixen tot een romige massa. Wilt u dat proberen?"
+
+Deelnemer: "Natuurlijk, dat kan ik doen." *begint te mixen* "Is dit goed zo?"
+
+Host: "Ja, dat ziet er goed uit! Nu voegen we één voor één de eieren toe en blijven we mixen. Zorg ervoor dat elk ei goed opgenomen is voordat u het volgende toevoegt."
+
+Deelnemer: "Oké, ik voeg nu het eerste ei toe... en nu het tweede. Het mengsel ziet er al lekker uit."
+
+Host: "Prima! Nu gaan we de bloem, cacao en bakpoeder zeven en beetje bij beetje toevoegen aan het beslag. Wilt u dat ook proberen?"
+
+Deelnemer: "Zeker, ik zal het voorzichtig doen." *zeeft en mengt* "Het beslag wordt nu mooi dik en glad."
+
+Host: "Dat doet u uitstekend! Als laatste voegen we een theelepel vanille-extract toe voor extra smaak. Roer het goed door het beslag."
+
+Deelnemer: "Oké, de vanille is toegevoegd en ik heb goed geroerd. Wat is de volgende stap?"
+
+Host: "Nu gieten we het beslag in een ingevette bakvorm en plaatsen we het in de voorverwarmde oven. Het moet ongeveer 35-40 minuten bakken. We kunnen de tijd gebruiken om de keuken op te ruimen."
+
+Deelnemer: "Dat klinkt goed. Ik ben zo benieuwd hoe de taart eruit zal komen!"
+
+Host: "Ik ook! Laten we ondertussen alles netjes maken. Over een tijdje hebben we een heerlijke chocoladetaart om van te genieten."
+
+Deelnemer: "Dank u wel voor de begeleiding. Ik heb er echt van genoten!"
+
+Host: "Graag gedaan! Het was een plezier om samen met u te bakken. Ik ben zeker dat de taart heerlijk zal smaken."

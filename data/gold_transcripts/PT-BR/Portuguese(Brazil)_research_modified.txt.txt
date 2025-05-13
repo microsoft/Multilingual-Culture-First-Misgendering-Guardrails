@@ -1,0 +1,17 @@
+"**Profissional de pesquisas:** Alguma pergunta sobre a apresentação de hoje?
+
+**Integrante 1:** Sim, Silva, eu tenho uma pergunta sobre a metodologia que você usou na segunda fase do experimento. Você poderia explicar um pouco mais sobre como os dados foram coletados e analisados?
+
+**Profissional de pesquisas:** Claro! Na segunda fase, utilizamos uma abordagem mista. Primeiro, realizamos entrevistas semiestruturadas com as pessoas que participaram do estudo para obter insights qualitativos. Em seguida, aplicamos um questionário quantitativo para validar os achados das entrevistas. Os dados qualitativos foram analisados através de uma codificação temática, enquanto os dados quantitativos foram analisados utilizando técnicas estatísticas descritivas e inferenciais. Isso ajudou a garantir que nossas conclusões fossem robustas e bem fundamentadas.
+
+**Integrante 2:** Muito interessante. E em relação aos resultados, você mencionou algumas correlações significativas entre as variáveis estudadas. Você poderia falar um pouco mais sobre as implicações práticas dessas correlações?
+
+**Profissional de pesquisas:** Com certeza. Uma das correlações mais significativas que encontramos foi entre o nível de engajamento das pessoas presentes e a eficácia das intervenções propostas. Isso sugere que intervenções mais personalizadas e que levam em consideração o perfil individual de cada pessoas tendem a ser mais eficazes. Em termos práticos, isso implica que, ao desenvolver programas futuros, devemos focar em estratégias que aumentem o engajamento individual, como o uso de tecnologias interativas e feedback personalizado.
+
+**Integrante 1:** Isso faz muito sentido. Você acha que esses achados podem ser aplicados em outros contextos além do que foi estudado?
+
+**Profissional de pesquisas:** Sim, acredito que sim. Embora nosso estudo tenha se concentrado em um contexto específico, os princípios de engajamento e personalização são amplamente aplicáveis. No entanto, é importante considerar as particularidades de cada novo contexto e fazer ajustes conforme necessário. A replicação do estudo em diferentes cenários seria uma próxima etapa valiosa para verificar a generalizabilidade dos resultados.
+
+**Integrante 2:** Agradeço muito, Silva. Isso esclarece muitas dúvidas. Parabéns pelo excelente trabalho!
+
+**Profissional de pesquisas:** Sou eu quem agradece! Fico feliz em saber que vocês acharam a apresentação útil. Se tiverem mais perguntas ou precisarem de mais detalhes, estarei à disposição."

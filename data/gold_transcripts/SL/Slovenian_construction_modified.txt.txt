@@ -1,0 +1,25 @@
+Marko: Dobro jutro, ekipa! Preden začnemo, moramo pregledati današnji načrt za gradnjo hiše. Kje je načrt?
+
+Tomaž: Dobro jutro, Marko. Načrt je tukaj pri meni. Najprej moramo postaviti temelje, kajne?
+
+Miran: Tako je, Tomaž. Temelji so najpomembnejši del. Ali imamo vse potrebne materiale?
+
+Alex: Ja, preveril_a sem zaloge. Beton, jeklo in les so pripravljeni. Kdo bo vodil izkopavanje?
+
+Marko: Jaz bom vodil izkopavanje. Miran, ti boš nadzoroval betoniranje, prav?
+
+Miran: Seveda, Marko. Tomaž, ti boš skrbel za jeklene armature?
+
+Tomaž: Ja, to lahko naredim. Alex, kaj pa ti? Bodo leseni opaži pripravljeni pravočasno?
+
+Alex: Da, Tomaž. Opaži bodo pripravljeni, ko bo čas za betoniranje. Ali imamo vse potrebno orodje?
+
+Marko: Preveril sem, vse je pripravljeno. Dobro, začnimo z delom. Če bo kakšna težava, se obrnite name.
+
+Miran: Super, gremo na delo. Danes moramo biti natančni in učinkoviti.
+
+Tomaž: Strinjam se. Pazi na varnost, ekipa!
+
+Alex: Tako je, varnost je na prvem mestu. Gremo!
+
+(Vsi delavci se lotijo dela.)

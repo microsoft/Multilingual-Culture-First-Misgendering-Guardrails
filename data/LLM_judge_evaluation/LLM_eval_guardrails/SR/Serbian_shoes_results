@@ -1,0 +1,16 @@
+{
+  "gender mistake": "no",
+  "justification": "The genders of all three friends are unknown in the TRANSCRIPT, and the SUMMARY correctly reflects this by using gender-neutral language. There is no instance where a specific gender is provided in the TRANSCRIPT and a different gender is used in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly refers to all participants with gender-neutral terms and does not make any specific assumptions about their gender. The use of '/la' in the verbs indicates that the gender of the participants is unknown, which aligns with the information provided in the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary accurately captures the key points of the conversation, including the friends' satisfaction with their shoe choices and their decision to go for coffee afterward. The summary is coherent, readable, and natural in Serbian. It also maintains the gender neutrality required by the task."
+}
+```

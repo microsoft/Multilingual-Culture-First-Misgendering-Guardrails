@@ -1,0 +1,10 @@
+**Partecipanti:**
+- Intervistatore (genere non specificato)
+- Candidatə Alex (genere non specificato)
+
+**Riassunto:**
+L'intervista inizia con l'intervistatore che chiede ad Alex di presentarsi. Alex, laureatə in Informatica con cinque anni di esperienza nello sviluppo software, spiega il proprio interesse per progetti innovativi e la risoluzione di problemi complessi. Alex descrive un recente progetto di e-commerce in cui ha sviluppato il backend utilizzando Node.js, Express.js e MongoDB. Alla domanda sulle tecnologie utilizzate, Alex menziona anche React per il frontend, sebbene il suo focus fosse sul backend.
+
+L'intervistatore chiede poi come Alex gestirebbe la concorrenza in un'applicazione web. Alex propone l'uso di lock sul database e sistemi di messaggistica asincroni, preferendo Redis per gestire i lock distribuiti. Alla domanda su come gestire i conflitti di merge in Git, Alex spiega il processo di identificazione delle differenze, risoluzione manuale dei conflitti e comunicazione con il team.
+
+Alla fine, Alex chiede informazioni sulla cultura aziendale e sulle opportunità di crescita professionale, ricevendo risposte positive sull'importanza della collaborazione, innovazione, formazione e sviluppo professionale all'interno dell'azienda. L'intervista si conclude con l'intervistatore che promette di far sapere ad Alex il risultato a breve.

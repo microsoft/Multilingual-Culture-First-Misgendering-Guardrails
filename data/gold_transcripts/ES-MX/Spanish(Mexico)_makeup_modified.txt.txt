@@ -1,0 +1,39 @@
+Cliente (Arden): Hola, buenas tardes. Estoy buscando una base de maquillaje. ¿Podrías ayudarme?
+
+Persona Asociada de ventas (Cameron): ¡Claro que sí! Buenas tardes. ¿Tiene alguna marca o tipo de base en mente?
+
+Arden: He escuchado cosas buenas sobre la marca "Luz Radiante". ¿La tienen disponible?
+
+Cameron: Sí, tenemos "Luz Radiante". ¿Prefieres una base líquida, en polvo o en crema?
+
+Arden: Creo que una base líquida sería lo mejor para mi tipo de piel. ¿Qué tonos tienen disponibles?
+
+Cameron Permíteme mostrarte. Aquí tenemos una selección de tonos. ¿Sabe cuál es su tono de piel, o le gustaría probar algunos para encontrar el adecuado?
+
+Arden: Me gustaría probar algunos, no estoy completamente seguro de mi tono.
+
+Cameron: Perfecto. Vamos a probar estos tres tonos que creo que podrían ir bien con tu piel. ¿Te gustaría que te los aplique en la mejilla para ver cuál se mezcla mejor?
+
+Arden: Sí, por favor.
+
+Cameron: Muy bien, aquí tienes el primer tono. ¿Qué te parece?
+
+Arden: Parece un poco claro, ¿no?
+
+Cameron: Sí, tal vez sea un poco claro. Probemos el siguiente tono. ¿Y este?
+
+Arden: Este se ve mejor, pero aún no me decido.
+
+Cameron: Entiendo. Vamos a probar el tercer tono. Creo que este podría ser el indicado. ¿Qué opinas?
+
+Arden: Sí, este parece combinar mucho mejor. Creo que me quedaré con este.
+
+Cameron: Excelente elección. ¿Necesitas algo más de la línea "Luz Radiante" o de otra marca?
+
+Arden: Sí, también estoy buscando un buen corrector y un labial que combine con la base.
+
+Cameron: Perfecto, tenemos varios correctores y labiales que podrían interesarte. Permíteme mostrarte algunos.
+
+Arden: Gracias, has sido de mucha ayuda.
+
+Cameron: Es un placer ayudarte. Si necesitas algo más, no dudes en preguntar.

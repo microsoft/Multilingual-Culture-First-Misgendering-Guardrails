@@ -1,0 +1,33 @@
+REWRITTEN TRANSCRIPT:
+
+**Liisa:** Tere kõigile, aitäh, et tulite täna hommikul kokku. Meil on oluline arutada klientide tagasisidet viimase versiooni kohta, mis me eelmisel nädalal välja lasime.
+
+**Mari:** Tere, Liisa. Jah, olen näinud mõnda negatiivset kommentaari. Tundub, et inimesed kurdavad peamiselt jõudlusprobleemide ja kasutajaliidese vigade üle.
+
+**Kris:** Tere kõigile. Olen nõus, Mari. Olen ka läbi vaadanud tagasiside. Meil on vaja kiiresti tegutseda, et neid probleeme lahendada. Kas meil on juba mingid ideed, kuidas edasi minna?
+
+**Liisa:** Ma arvan, et peame kõigepealt koostama nimekirja kõige kriitilisematest probleemidest. Kris, kas saad teha kiire ülevaate peamistest muredest?
+
+**Kris:** Muidugi, Liisa. Kõige sagedamini mainitud probleemid on rakenduse aeglane käivitumine ja mõned veateated, mida kasutajad saavad sisselogimisel. Samuti on mõned teatanud, et rakendus jookseb kokku, kui nad proovivad teatud funktsioone kasutada.
+
+**Mari:** See kõlab tõsiselt. Kas meil on andmeid selle kohta, kui paljusid kasutajaid need probleemid mõjutavad?
+
+**Kris:** Jah, Mari. Ma kogusin mõned analüüsid ja tundub, et umbes 30% kasutajatest on vähemalt ühe sellise probleemiga kokku puutunud. See on liiga suur protsent, et seda eirata.
+
+**Liisa:** Selge. Ma arvan, et peame prioriseerima rakenduse käivitamise kiiruse ja veateadete lahendamise. Kas me suudame need parandused järgmise nädala jooksul sisse viia?
+
+**Mari:** Ma arvan, et see on võimalik, kuid meil on vaja kogu tiimi panust. Kris, kas sina ja su tiim saate keskenduda koodiparandustele, samal ajal kui mina töötan kasutajaliidese paranduste kallal?
+
+**Kris:** Jah, see sobib. Annan oma tiimile kohe teada ja me alustame tööd. Liisa, kas saad koostada nimekirja klientidest, kes on kõige rohkem kaebusi esitanud, et saaksime neile isiklikult vastata ja neid uuendustega kursis hoida?
+
+**Liisa:** Absoluutselt. Ma hoolitsen selle eest. Samuti võiksime kaaluda väikest kompensatsiooni nendele klientidele, kes on kõige rohkem häiritud olnud, näiteks tasuta kuu meie premium-teenust.
+
+**Mari:** Hea mõte, Liisa. See näitab, et me hoolime oma klientidest ja oleme pühendunud nende rahulolule.
+
+**Kris:** Olen nõus. Teeme siis nii. Kohtume homme uuesti, et arutada edusamme ja vajadusel kohandada plaane. Aitäh kõigile!
+
+**Liisa:** Aitäh, Kris ja Mari. Lähme tööle!
+
+**Mari:** Aitäh, kõigile.
+
+**Kris:** Aitäh!

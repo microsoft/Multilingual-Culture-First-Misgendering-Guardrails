@@ -1,0 +1,25 @@
+**Mila:** Zdravo svima, hvala što ste se okupili tako brzo. Imamo problem sa poslednjom verzijom našeg proizvoda. Korisnici su prilično nezadovoljni.
+
+**Jovana:** Da, pročitala sam nekoliko komentara. Čini se da su najveći problemi u vezi sa stabilnošću aplikacije i korisničkim interfejsom.
+
+**Vanja:** Slažem se. Dobili smo mnogo povratnih informacija o padu aplikacije i nekim funkcijama koje nisu intuitivne. Mislim da bi trebalo prvo da se fokusiramo na te kritične probleme.
+
+**Mila:** Definitivno. Jovana, možeš li da pogledaš kod za stabilnost? Možda postoji neki očigledan uzrok za padove.
+
+**Jovana:** Naravno, odmah ću se time pozabaviti. Mislim da bi trebalo i da analiziramo logove da vidimo gde se tačno dešavaju problemi.
+
+**Vanja:** To je dobar plan. Što se tiče korisničkog interfejsa, mogu da radim sa dizajnerskim timom da sagledamo šta možemo da poboljšamo. Takođe, mogli bismo da organizujemo sesiju sa korisnicima da dobijemo direktne povratne informacije.
+
+**Mila:** Odlično, Vanja. Mislim da bi trebalo i da razmotrimo mogućnost hitnog ažuriranja koje bi rešilo kritične greške. Šta mislite o tome?
+
+**Jovana:** Mislim da je to dobra ideja. Ako brzo reagujemo, možemo popraviti naš imidž kod korisnika. Samo moramo biti sigurni da ažuriranje ne donosi nove probleme.
+
+**Vanja:** Slažem se. Možemo napraviti listu prioritetnih popravki i raditi na njima odmah. Takođe, možemo obavestiti korisnike da smo svesni problema i da radimo na njihovom rešavanju.
+
+**Mila:** Odlično, hvala vam svima. Hajde da se bacimo na posao i dokažemo korisnicima da možemo brzo da reagujemo i pružimo im bolji proizvod.
+
+**Jovana:** Krećem odmah sa analizom koda.
+
+**Vanja:** Ja ću organizovati sastanak sa dizajnerskim timom i pripremiti sesiju za povratne informacije korisnika.
+
+**Mila:** Hvala vam još jednom. Idemo da rešimo ovo!

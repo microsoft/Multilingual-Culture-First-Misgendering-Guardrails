@@ -1,0 +1,45 @@
+**Host**: Benvenuta al nostro programma di cucina! Oggi impareremo a fare una deliziosa torta al cioccolato. Sei pronta?
+
+**Partecipante**: Ciao, grazie per l'invito! Sì, sono prontissima. Non vedo l'ora di imparare.
+
+**Host**: Perfetto! Iniziamo con gli ingredienti. Abbiamo bisogno di 200 grammi di farina, 200 grammi di zucchero, 200 grammi di burro, 200 grammi di cioccolato fondente, 4 uova, un pizzico di sale e una bustina di lievito per dolci. Hai tutto?
+
+**Partecipante**: Sì, ho tutto qui davanti a me. Da dove cominciamo?
+
+**Host**: Iniziamo sciogliendo il cioccolato e il burro a bagnomaria. Mentre si sciolgono, puoi separare i tuorli dagli albumi?
+
+**Partecipante**: Certo, posso farlo. Ecco, ho separato i tuorli dagli albumi. Cosa facciamo ora?
+
+**Host**: Ora monta gli albumi a neve con un pizzico di sale. Vuoi usare la frusta elettrica o quella manuale?
+
+**Partecipante**: Preferisco usare quella elettrica, così faccio prima.
+
+**Host**: Ottima scelta! Mentre monti gli albumi, io mescolo i tuorli con lo zucchero fino a ottenere un composto chiaro e spumoso. Fatto?
+
+**Partecipante**: Sì, gli albumi sono pronti. Sono belli montati a neve.
+
+**Host**: Perfetto! Adesso aggiungiamo il cioccolato e il burro fusi ai tuorli con lo zucchero. Mescola bene. Poi unisci la farina setacciata e il lievito, poco alla volta.
+
+**Partecipante**: Sto mescolando... Ok, la farina e il lievito sono ben incorporati. E ora?
+
+**Host**: Ora incorpora delicatamente gli albumi montati a neve, mescolando dal basso verso l'alto per non smontarli.
+
+**Partecipante**: Fatto! Il composto è bello liscio e omogeneo.
+
+**Host**: Perfetto! Versa il tutto in una tortiera imburrata e infarinata. Poi inforniamo a 180°C per circa 35-40 minuti. Vuoi avere tu l'onore di farlo?
+
+**Partecipante**: Certo, metto in forno subito. Non vedo l'ora di assaggiarla!
+
+**Host**: Ottimo lavoro! Adesso aspettiamo che la torta si cuocia. Nel frattempo, possiamo preparare una ganache al cioccolato per decorarla. Che ne dici?
+
+**Partecipante**: Mi sembra un'idea fantastica! Come si fa?
+
+**Host**: È semplice. Sciogliamo 200 grammi di cioccolato fondente con 200 ml di panna fresca, mescolando fino a ottenere una crema liscia. Poi la versiamo sulla torta una volta che si è raffreddata.
+
+**Partecipante**: Non vedo l'ora di provarla! Grazie mille per la lezione, è stato davvero divertente.
+
+**Host**: È stato un piacere averti con noi! Spero che la torta ti piaccia. Buon appetito!
+
+**Partecipante**: Grazie, a presto!
+
+**Host**: A

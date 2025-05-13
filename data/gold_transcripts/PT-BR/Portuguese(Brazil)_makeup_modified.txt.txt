@@ -1,0 +1,33 @@
+"Atendente: Olá! Agradecemos sua presença em nosso balcão de cosméticos. Posso ajudar em algo específico hoje?
+
+Cliente: Oi, sim. Estou procurando uma base de maquiagem que tenha boa cobertura, mas que não fique muito pesada na pele. Você tem alguma recomendação?
+
+Atendente: Claro, temos várias opções que podem atender ao que você está procurando. Você prefere uma base líquida, em pó ou em creme?
+
+Cliente: Acho que prefiro uma base líquida. Minha pele é mista, então preciso de algo que não deixe a zona T muito oleosa.
+
+Atendente: Entendi. Recomendo a nossa base líquida de longa duração. Ela tem uma cobertura média a alta e um acabamento matte, que ajuda a controlar a oleosidade. Posso te mostrar?
+
+Cliente: Sim, por favor. Você tem amostras para eu testar a cor?
+
+Atendente: Com certeza! Vamos encontrar a cor perfeita para o seu tom de pele. Vou aplicar um pouco dessa base no seu rosto para vermos como fica.
+
+Cliente: Ótimo, agradeço.
+
+(Cliente tem a base aplicada em seu rosto)
+
+Atendente: E aí, o que achou da cobertura e da cor?
+
+Cliente: Gostei bastante da cobertura. A cor parece boa, mas será que ela oxida depois de um tempo?
+
+Atendente: Essa base tem uma fórmula que minimiza a oxidação, então a cor deve se manter bem estável ao longo do dia. Além disso, há ingredientes que ajudam a hidratar a pele sem deixá-la oleosa.
+
+Cliente: Perfeito! Vou levar essa base, então. Vocês têm algum primer que combine bem com ela?
+
+Atendente: Sim, temos um primer matificante que funciona muito bem com essa base. Ele ajuda a suavizar a pele e a prolongar a durabilidade da maquiagem.
+
+Cliente: Ótimo, vou levar o primer também. Agradeço pela ajuda!
+
+Atendente: De nada! Fico feliz em ajudar. Se precisar de mais alguma coisa, estarei por aqui. Tenha um ótimo dia!
+
+Cliente: Igualmente!"

@@ -1,0 +1,14 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY correctly identifies the genders of 家长1 and 家长2 as female and does not specify the gender of the child, which is consistent with the TRANSCRIPT. The teacher's gender is not explicitly mentioned in the SUMMARY, but there is no incorrect gender reference made."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY accurately reflects the gender of the participants as described in the TRANSCRIPT. It does not make any specific male or female assumptions about the child, whose gender is not mentioned in the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation between the teacher and the parents. It mentions the participants, the teacher's observations about the child's distress at school, the parents' input about the child's behavior at home, and the plan to collaborate to find the root cause of the issue. The summary is clear, coherent, and readable, making it a high-quality output."
+}

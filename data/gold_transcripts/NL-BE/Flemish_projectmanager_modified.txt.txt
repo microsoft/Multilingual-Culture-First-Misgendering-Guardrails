@@ -1,0 +1,29 @@
+**Sofie:** Goedemorgen iedereen. Ik denk dat we vandaag moeten bespreken hoe we de nieuwe feature gaan lanceren. Heeft iedereen de laatste update van het ontwikkelteam gezien?
+
+**Lotte:** Goedemorgen Sofie, ja, ik heb de update gelezen. Het lijkt erop dat we op schema liggen, maar er zijn nog een paar bugs die we moeten oplossen.
+
+**Alex:** Goedemorgen samen. Ik heb ook de update gezien. Naast de bugs, denk ik dat we ook moeten nadenken over hoe we dit gaan communiceren naar onze gebruikers. Hebben we al een plan voor de marketingcampagne?
+
+**Sofie:** Dat is een goed punt, Alex. We hebben een basisplan, maar het kan zeker nog wat verfijning gebruiken. Lotte, heb jij al met het marketingteam gesproken?
+
+**Lotte:** Ja, ik heb gisteren een gesprek gehad met hen. Ze hebben een paar goede ideeën, maar ze wachten op onze input over de exacte lanceerdatum en de belangrijkste features die we willen benadrukken.
+
+**Alex:** Misschien moeten we een gezamenlijke meeting organiseren met het marketingteam om alles op een rijtje te zetten. Zo kunnen we ervoor zorgen dat iedereen op dezelfde lijn zit.
+
+**Sofie:** Dat klinkt als een uitstekend idee, Alex. Ik zal de meeting inplannen. Wat denken jullie over de bugs, trouwens? Hebben we genoeg tijd om die op te lossen voordat we de feature lanceren?
+
+**Lotte:** Ik heb het ontwikkelteam gevraagd om een inschatting te maken. Ze denken dat de meeste bugs binnen een week opgelost kunnen worden, maar er zijn een paar hardnekkige problemen die wat meer tijd kunnen kosten.
+
+**Alex:** Misschien moeten we een buffer inbouwen in onze planning, zodat we niet in de problemen komen als die hardnekkige bugs meer tijd vergen.
+
+**Sofie:** Dat lijkt me verstandig. Laten we de lanceerdatum een paar dagen opschuiven om die buffer te creëren. Ik zal dit ook communiceren naar het marketingteam.
+
+**Lotte:** Goed idee. Dan hebben we wat meer ademruimte. Zijn er nog andere zaken die we moeten bespreken voordat we verder gaan?
+
+**Alex:** Niet van mijn kant. Ik denk dat we een solide plan hebben. Laten we ervoor zorgen dat alles goed verloopt en dat we regelmatig updates delen.
+
+**Sofie:** Perfect. Dank jullie wel voor jullie input. Ik zal de nodige stappen ondernemen en jullie op de hoogte houden. Fijne dag verder!
+
+**Lotte:** Fijne dag!
+
+**Alex:** Fijne dag!

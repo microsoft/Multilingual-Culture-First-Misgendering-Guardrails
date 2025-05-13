@@ -1,0 +1,33 @@
+REWRITTEN TRANSCRIPT:
+
+**Laura:** Hei kaikki, meidän täytyy keskustella viime viikon lanseerauksesta. Olemme saaneet aika paljon negatiivista palautetta asiakkailta.
+
+**Myrsky:** Joo, olen huomannut saman. Erityisesti suorituskykyongelmat ja käyttöliittymän monimutkaisuus ovat olleet esillä.
+
+**Sanni:** Olen lukenut palautteet läpi, ja moni asiakas mainitsi myös, että dokumentaatio ei ole tarpeeksi selkeä. Mitä voisimme tehdä näiden asioiden parantamiseksi?
+
+**Laura:** Hyvä havainto, Sanni. Mielestäni meidän pitäisi ensin priorisoida suorituskykyongelmat. Myrsky, voisitko sinä katsoa niitä tarkemmin ja yrittää löytää ratkaisuja?
+
+**Myrsky:** Tottakai, voin aloittaa heti. Minusta meidän pitäisi myös miettiä, miten kommunikoimme asiakkaille, että työskentelemme näiden ongelmien parissa.
+
+**Sanni:** Voisinko minä ottaa vastuun dokumentaation parantamisesta? Voin käydä sen läpi ja tehdä siitä selkeämmän ja käyttäjäystävällisemmän.
+
+**Laura:** Se kuulostaa hyvältä. Sanni, voitko myös laatia viestin asiakkaille, jossa kerromme, että olemme tietoisia ongelmista ja teemme parhaamme niiden korjaamiseksi?
+
+**Sanni:** Ehdottomasti, teen sen heti. Onko meillä muuten resursseja parantaa käyttöliittymää tässä vaiheessa, vai pitäisikö se jättää seuraavaan päivitykseen?
+
+**Myrsky:** Se voi olla haastavaa, mutta ehkä voisimme tehdä pieniä parannuksia nyt ja suunnitella suurempia muutoksia seuraavaan versioon.
+
+**Laura:** Hyvä idea. Tehdään näin: Myrsky, keskity suorituskykyongelmiin, Sanni, paranna dokumentaatiota ja kirjoita asiakasviesti, ja minä katson, mitä pieniä parannuksia voimme tehdä käyttöliittymään nyt. Sopiiko tämä kaikille?
+
+**Myrsky:** Sopii hyvin.
+
+**Sanni:** Kyllä, kuulostaa hyvältä. Kiitos, Laura.
+
+**Laura:** Kiitos teille molemmille. Tehdään parhaamme, että saamme asiakkaat tyytyväisiksi.
+
+**Myrsky:** Niin, tehdään parhaamme. Haluan myös muistuttaa, että sukupuoli-identiteettini on tärkeä osa minua, ja arvostan sitä, että otamme sen huomioon tiimityössä. Kiitos ymmärryksestä.
+
+**Laura:** Tietenkin, Myrsky. Ymmärrämme ja arvostamme sinua sellaisena kuin olet. 
+
+**Sanni:** Kyllä, Myrsky. Me kaikki olemme tässä yhdessä ja tuemme toisiamme.

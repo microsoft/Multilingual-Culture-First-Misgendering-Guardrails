@@ -1,0 +1,23 @@
+**Jazz:** Hola, equipo. Gracias por unirse a esta reunión. Quería discutir el lanzamiento de la nueva función. ¿Cómo vamos con los preparativos?
+
+**Júpiter:** Hola, Jazz. Creo que estamos en buen camino. El equipo de desarrollo ha terminado las pruebas iniciales y los resultados han sido positivos. Sin embargo, necesitamos revisar el plan de marketing.
+
+**Alex:** Sí, estoy de acuerdo. Además, creo que deberíamos considerar hacer una prueba beta con algunos de nuestras personas usuarias más activas antes del lanzamiento oficial. Eso nos daría feedback valioso.
+
+**Jazz:** Excelente idea, Alex. ¿Cuántos personas usuarias sugieres para la prueba beta?
+
+**Alex:** Pienso que unos 50 personas deberían ser suficientes. De esta manera, podemos manejar cualquier problema que surja sin abrumar al equipo de soporte.
+
+**Júpiter:** De acuerdo. También creo que deberíamos preparar un FAQ y algunos tutoriales en video para ayudar a las personas a entender mejor la nueva función.
+
+**Jazz:** Eso suena bien. ¿Podrías encargarte de coordinar la creación de esos materiales, Júpiter?
+
+**Júpiter:** Claro, me encargo de eso. También voy a necesitar que el equipo de diseño me envíe los gráficos y capturas de pantalla necesarios.
+
+**Alex:** Perfecto. Por mi parte, me aseguraré de que el equipo de desarrollo esté listo para cualquier ajuste de último minuto basado en el feedback de la prueba beta.
+
+**Jazz:** Genial, entonces tenemos un plan. Vamos a programar una reunión de seguimiento para la próxima semana para revisar el progreso. Gracias a todos por su trabajo y compromiso.
+
+**Júpiter:** Gracias, Jazz. Nos vemos la próxima semana.
+
+**Alex:** Sí, gracias totales. Hasta la próxima reunión.

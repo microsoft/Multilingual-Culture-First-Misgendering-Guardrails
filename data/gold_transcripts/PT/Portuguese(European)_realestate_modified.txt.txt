@@ -1,0 +1,40 @@
+"**Agente Imobiliário (João):** Bom dia! Sejam bem-vindos. Sou João, agente imobiliário. Como posso ajudar-vos hoje?
+
+**Cliente 1 (Alex):** Bom dia, João. Somos o Alex e o Sam. Estamos à procura da nossa primeira casa e ouvimos falar muito bem desta propriedade.
+
+**Cliente 2 (Sam):** Sim, estamos muito entusiasmados para ver se é o lugar ideal para começarmos a nossa família.
+
+**João:** Excelente! Tenho a certeza de que vão gostar desta casa. É uma moradia de três quartos com um jardim espaçoso, perfeita para uma família. Vamos começar a visita?
+
+**Alex:** Claro, vamos a isso.
+
+**João:** Aqui temos a sala de estar. Como podem ver, é bastante ampla e tem muita luz natural. Ideal para momentos de convívio em família.
+
+**Sam:** Gosto muito da luminosidade. E a cozinha?
+
+**João:** Sigam-me, por favor. A cozinha está totalmente equipada e tem um design moderno. Há também uma área de refeições ao lado, ótima para os pequenos-almoços em família.
+
+**Alex:** É realmente espaçosa. E os quartos?
+
+**João:** Vamos subir ao primeiro andar. Aqui temos o quarto principal com casa de banho privativa. Os outros dois quartos são também bastante amplos e podem ser usados como quartos para crianças ou até mesmo um escritório.
+
+**Sam:** Parece perfeito. E o jardim?
+
+**João:** Sim, claro. Vamos lá fora. O jardim é um dos pontos fortes desta casa. Tem bastante espaço para brincadeiras, um churrasco ou até mesmo para plantar um pequeno jardim.
+
+**Alex:** Adoramos o espaço exterior. E quanto à localização?
+
+**João:** A casa está situada numa zona muito tranquila, com escolas, supermercados e transportes públicos nas proximidades. É um bairro muito seguro e ideal para famílias.
+
+**Sam:** Parece realmente a casa perfeita. Qual é o preço?
+
+**João:** O preço está dentro do vosso orçamento, e estamos dispostos a negociar um pouco. Acredito que esta casa seja uma excelente escolha para começar a vossa família.
+
+**Alex:** Vamos pensar um pouco, mas estamos muito impressionados. Obrigado pela visita, João.
+
+**João:** De nada, foi um prazer. Qualquer dúvida ou se quiserem marcar uma segunda visita, estou à disposição.
+
+**Sam:** Obrigado, João. Até breve!
+
+**João:** Até breve! Fico a aguardar o vosso contacto."
+

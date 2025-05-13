@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly uses gender-neutral terms for both the sales associate and the customer, aligning with the TRANSCRIPT where the customer's gender is not specified and the sales associate is referred to in a gender-neutral manner."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY uses gender-neutral terms for both the sales associate and the customer, consistent with the TRANSCRIPT, which does not specify the customer's gender and uses gender-neutral forms for the sales associate."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the customer's request for a new make-up, the sales associate's assistance in finding the right product, and the customer's final purchase of both make-up and a lipstick. The summary is coherent, readable, and natural in Slovak, making it a high-quality output."
+}
+```

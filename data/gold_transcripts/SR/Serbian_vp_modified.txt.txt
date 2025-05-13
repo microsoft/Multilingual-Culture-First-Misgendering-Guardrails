@@ -1,0 +1,25 @@
+**Potpredsednik/ca:** Hvala svima što ste se okupili danas. Imamo mnogo posla pred nama, ali hajde da prvo čujemo vaše ideje za novu funkciju našeg proizvoda. Marko, možeš li početi?
+
+**Marko (Viši primenjeni naučnik 1):** Naravno. Razmišljao sam o implementaciji mašinskog učenja kako bismo unapredili personalizaciju za korisnike. To bi nam omogućilo da predlažemo relevantniji sadržaj i poboljšamo korisničko iskustvo.
+
+**Nikola (Viši primenjeni naučnik 2):** To zvuči odlično, Marko. Takođe bih dodao da bismo mogli da koristimo podatke iz prošlih interakcija korisnika kako bismo preciznije predviđali njihove potrebe. Algoritmi dubokog učenja mogli bi značajno unaprediti tačnost tih predikcija.
+
+**Ivan (Glavni menadžer programa):** Slažem se sa obojicom. Mislim da bi kombinacija personalizacije i predikcije (pretpostavke) mogla biti vrlo moćna. Međutim, moramo voditi računa o privatnosti podataka korisnika. Trebalo bi da osmislimo način kako da implementiramo ove funkcije, a da pritom poštujemo sve regulative o zaštiti podataka.
+
+**Potpredsednik/ca:** Odlične ideje, sviđa mi se pravac u kojem razmišljate. Da li ste razmotrili kako bismo mogli da testiramo ove funkcije pre nego što ih pustimo u produkciju?
+
+**Marko:** Da, predložio bih da krenemo sa A/B testiranjem na manjem uzorku korisnika. Tako možemo pratiti kako se nove funkcije ponašaju u realnom okruženju i prikupiti povratne informacije pre nego što ih uvedemo široj publici.
+
+**Nikola:** Tako je, A/B testiranje bi nam dalo vredne uvide. Takođe, mogli bismo koristiti simulacije kako bismo predvideli potencijalne probleme i optimizovali algoritme pre nego što krenu u produkciju.
+
+**Ivan:** A šta mislite o korisničkim anketama? Mogli bismo ih koristiti kako bismo dobili direktne povratne informacije od korisnika nakon što su isprobali nove funkcije. To bi nam pomoglo da dodatno prilagodimo funkcionalnosti prema njihovim potrebama.
+
+**Potpredsednik/ca:** Sjajno, svi vaši predlozi su vrlo korisni. Marko, Nikola, molim vas da zajedno osmislite plan za implementaciju i testiranje ovih novih funkcija. Ivane, ti se pobrini da sve bude u skladu sa regulativama o zaštiti podataka i da imamo jasne kanale za prikupljanje povratnih informacija od korisnika.
+
+**Marko:** Razumem, odmah ćemo se baciti na posao.
+
+**Nikola:** Slažem se, ovo će biti uzbudljiv projekat.
+
+**Ivan:** U redu, pobrinuću se da sve bude u skladu sa regulativama i da imamo povratne informacije od korisnika.
+
+**Potpredsednik/ca:** Hvala svima, radujem se daljem napretku na ovom projektu.

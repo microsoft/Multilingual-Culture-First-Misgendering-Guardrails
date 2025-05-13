@@ -1,0 +1,28 @@
+"**Entrevistador:** Bom dia, obrigado por ter vindo. Pode começar por se apresentar e falar um pouco sobre a sua experiência?
+
+**Proponente:** Bom dia, agradeço oportunidade. O meu nome é Alex e tenho trabalhado no desenvolvimento de software nos últimos cinco anos. Tenho experiência em várias linguagens de programação, incluindo Java, Python e JavaScript.
+
+**Entrevistador:** Excelente, Alex. Pode dar-me um exemplo de um projeto recente em que tenha trabalhado e que considere relevante para esta posição?
+
+**Proponente:** Claro. Recentemente, trabalhei num projeto para uma empresa de e-commerce onde desenvolvi uma aplicação web para a gestão de inventário. Utilizei React para o front-end e Node.js para o back-end, com uma base de dados MongoDB. O projeto ajudou a empresa a melhorar a eficiência na gestão dos seus produtos.
+
+**Entrevistador:** Parece interessante. Pode explicar um desafio técnico que encontrou durante esse projeto e como o resolveu?
+
+**Proponente:** Um dos maiores desafios foi garantir que a aplicação pudesse lidar com um grande volume de dados sem comprometer a performance. Resolvi isso implementando a paginação e otimizando as consultas à base de dados. Também utilizei técnicas de caching para reduzir a carga no servidor.
+
+**Entrevistador:** Muito bem. E em termos de trabalho em equipa, como costuma colaborar com outros desenvolvedores e membros da equipa?
+
+**Proponente:** Acredito que a comunicação é fundamental. Costumo utilizar ferramentas como Slack e Jira para manter todos informados e alinhados. Participo regularmente em reuniões de stand-up e faço code reviews para garantir a qualidade do código. Além disso, estou sempre disponível para ajudar os colegas quando necessário.
+
+**Entrevistador:** Ótimo. Vejo que tem uma boa abordagem tanto técnica quanto de colaboração. Tem alguma pergunta sobre a nossa empresa ou sobre a função?
+
+**Proponente:** Sim, gostaria de saber mais sobre a cultura da empresa e as oportunidades de crescimento profissional.
+
+**Entrevistador:** A nossa empresa valoriza muito a inovação e o desenvolvimento contínuo. Oferecemos programas de formação e workshops regulares. Também incentivamos a participação em conferências e eventos da indústria. Há muitas oportunidades para crescer e assumir novas responsabilidades.
+
+**Proponente:** Isso é ótimo de ouvir. Agradeço a informação.
+
+**Entrevistador:** Obrigado, Alex. Vamos analisar todas as candidaturas e entraremos em contacto em breve. Tenha um bom dia.
+
+**Proponente:** Igualmente para si."
+

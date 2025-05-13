@@ -1,0 +1,25 @@
+Hoitaja: Hyvää huomenta, tohtori Virtanen ja tohtori Laine. Meillä on taas ongelmia henkilöstön kanssa.
+
+Tohtori Virtanen: Hyvää huomenta, Mikko. Mitä tällä kertaa on tapahtunut?
+
+Hoitaja: Meillä on ollut vaikeuksia löytää päteviä sairaanhoitajia ja lääkäreitä tänne maaseudulle. Monet eivät halua muuttaa näin syrjäiselle seudulle.
+
+Tohtori Laine: Tämä on ollut ongelma jo pitkään. Olemme yrittäneet rekrytoida kaupungeista, mutta tulokset ovat olleet kehnoja.
+
+Tohtori Virtanen: Kyllä, ja ne harvat, jotka tulevat, eivät yleensä viihdy pitkään. Pitäisikö meidän miettiä jotain kannustimia?
+
+Hoitaja: Olen samaa mieltä. Ehkä voisimme tarjota lisäetuja, kuten asumistukea tai korkeampaa palkkaa?
+
+Tohtori Laine: Se voisi toimia, mutta budjettimme on jo nyt tiukka. Voisimmeko saada tukea kunnalta tai valtiolta?
+
+Tohtori Virtanen: Meidän täytyy ehdottomasti tutkia kaikkia vaihtoehtoja. Ehkä voisimme myös tehdä yhteistyötä lääketieteellisten oppilaitosten kanssa ja tarjota harjoittelupaikkoja tänne.
+
+Hoitaja: Se on hyvä idea. Jos opiskelijat tulevat tänne harjoitteluun, he saattavat jäädä tänne valmistumisen jälkeen.
+
+Tohtori Laine: Jatketaan tätä keskustelua ensi viikon kokouksessa ja tehdään suunnitelma. Meidän on löydettävä ratkaisu tähän pian.
+
+Hoitaja: Sovittu. Kiitos teille molemmille tästä keskustelusta.
+
+Tohtori Virtanen: Kiitos sinulle, Mikko. Jatketaan tästä yhdessä.
+
+Tohtori Laine: Kyllä, kiitos. Toivottavasti löydämme pian ratkaisun.

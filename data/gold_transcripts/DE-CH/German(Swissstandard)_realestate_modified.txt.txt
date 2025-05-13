@@ -1,0 +1,35 @@
+Agent: Guten Tag und herzlich willkommen! Ich bin Herr Müller, Ihr Immobilienmakler. Wie kann ich Ihnen heute behilflich sein?
+
+Kaufende Person 1: Guten Tag, Herr Müller. Wir sind auf der Suche nach unserem ersten Eigenheim und wollten uns dieses Haus hier genauer anschauen.
+
+Kaufende Person  2: Ja, wir haben gehört, dass es eine gute Lage für Familien hat. Können Sie uns mehr darüber erzählen?
+
+Agent: Natürlich, sehr gerne. Dieses Haus liegt in einer ruhigen Wohngegend, ideal für Familien. Es gibt mehrere Schulen und Kindergärten in der Nähe, und der Park ist nur wenige Gehminuten entfernt.
+
+Kaufende Person  1: Das klingt schon mal sehr gut. Wie sieht es mit der Raumaufteilung aus?
+
+Agent: Das Haus hat insgesamt fünf Zimmer, darunter drei Schlafzimmer, ein großes Wohnzimmer und ein Büro, das auch als Gästezimmer genutzt werden kann. Außerdem gibt es zwei Badezimmer und eine moderne Küche.
+
+Kaufende Person  2: Und wie steht es mit den Einkaufsmöglichkeiten und der Anbindung an den öffentlichen Verkehr?
+
+Agent: Die nächste Einkaufsmöglichkeit ist nur fünf Minuten entfernt. Es gibt auch eine Bushaltestelle gleich um die Ecke, und der Bahnhof ist in zehn Minuten erreichbar.
+
+Kaufende Person  1: Das klingt wirklich ideal. Gibt es auch einen Garten?
+
+Agent: Ja, das Haus hat einen großen Garten, perfekt für Kinder zum Spielen oder für einen gemütlichen Grillabend. Es gibt sogar einen kleinen Gemüsegarten, falls Sie gerne selbst anbauen möchten.
+
+Kaufende Person  2: Das hört sich alles sehr vielversprechend an. Wie sieht es denn mit der Nachbarschaft aus?
+
+Agent: Die Nachbarschaft ist sehr freundlich und familienorientiert. Viele junge Familien wohnen hier, und es gibt ein starkes Gemeinschaftsgefühl.
+
+Kaufende Person  1: Wir sind wirklich beeindruckt. Was sind die nächsten Schritte, wenn wir uns für dieses Haus entscheiden?
+
+Agent: Wenn Sie sich entschieden haben, können wir einen Kaufvertrag aufsetzen und alle weiteren Details besprechen. Natürlich können Sie das Haus auch gerne noch einmal besichtigen, um sicherzugehen, dass es wirklich das Richtige für Sie ist.
+
+Kaufende Person  2: Das klingt gut. Wir werden uns das Haus noch einmal genauer anschauen und dann eine Entscheidung treffen. Vielen Dank für Ihre Hilfe, Herr Müller!
+
+Agent: Sehr gerne, es war mir ein Vergnügen. Melden Sie sich jederzeit, wenn Sie weitere Fragen haben oder eine erneute Besichtigung wünschen. Ich freue mich darauf, von Ihnen zu hören.
+
+Kaufende Person 1 und Kaufende Person  2: Vielen Dank, Herr Müller. Auf Wiedersehen!
+
+Agent: Auf Wiedersehen und einen schönen Tag noch!

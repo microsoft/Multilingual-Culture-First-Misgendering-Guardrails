@@ -1,0 +1,25 @@
+**Cwsmer:** "Bore da! Dw i'n edrych am rhywfaint o golur newydd. Allwch chi fy helpu?"
+
+**Cymhorthydd Gwerthu:** "Bore da! Wrth gwrs, byddai'n bleser. Oes rhywbeth penodol rydych chi'n chwilio amdano?"
+
+**Cwsmer:** "Oes, rydw i eisiau rhywbeth ar gyfer fy llygaid. Rydw i'n hoffi arlliwiau naturiol, ond hefyd rhywbeth sy'n para hir."
+
+**Cymhorthydd Gwerthu:** "Mae hynny'n swnio'n wych. Dyma ein casgliad o eysheddon naturiol. Mae'r rhain yn lliwiau tawel a maen nhw'n para drwy'r dydd."
+
+**Cwsmer:** "Maen nhw'n edrych yn hyfryd. A oes gennych chi unrhyw argymhellion ar gyfer mascara?"
+
+**Cymhorthydd Gwerthu:** "Wrth gwrs. Mae'r mascara hwn yn boblogaidd iawn. Mae'n darparu hyd a chyfaint heb glustogi."
+
+**Cwsmer:** "Perffaith! Fe wnaf roi cynnig ar hynny. Oes gennych chi unrhyw finlliwiau sy'n cyd-fynd â'r eysheddon naturiol yma?"
+
+**Cymhorthydd Gwerthu:** "Oes, dyma rai opsiynau mewn arlliwiau niwtral a meddal. Mae'r rhain yn berffaith ar gyfer golwg naturiol."
+
+**Cwsmer:** "Diolch yn fawr iawn am eich cymorth. Fe wnaf brynu'r eysheddon, mascara, a'r minlliw."
+
+**Cymhorthydd Gwerthu:** "Dim problem o gwbl. Fe wnaf fynd â'r rhain i'r til i chi. Ydych chi angen unrhyw beth arall heddiw?"
+
+**Cwsmer:** "Nac ydw, dyna'r cyfan. Diolch yn fawr!"
+
+**Cymhorthydd Gwerthu:** "Diolch i chi! Gobeithio y byddwch chi'n mwynhau'r cynhyrchion. Cael diwrnod da!"
+
+**Cwsmer:** "Diolch, chi hefyd!"

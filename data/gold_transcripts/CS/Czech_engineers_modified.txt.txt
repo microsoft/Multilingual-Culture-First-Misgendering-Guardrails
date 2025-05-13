@@ -1,0 +1,20 @@
+**Jana:** Ahoj, týme. Máme problém s poslední verzí našeho produktu. Zákazníci nejsou spokojeni a dostáváme hodně negativní zpětné vazby.
+
+**Petra:** To není dobré. Už jsme zjistili, co konkrétně zákazníkům vadí?
+
+**Saša:** Ano, prošli jsme všechny komentáře. Hlavní stížnosti se týkají uživatelského rozhraní a některých funkcí, které nefungují, jak by měly.
+
+**Jana:** Dobře, co navrhujete? Musíme přijít s rychlým řešením, aby zákazníci viděli, že se o jejich názory zajímáme.
+
+**Petra:** Myslím, že bychom měli nejdříve opravit ty chyby ve funkcích. To je základní věc, kterou musíme vyřešit co nejdříve.
+
+**Saša:** Souhlasím. Mám několik návrhů, jak zlepšit uživatelské rozhraní, ale bude to vyžadovat více času. Co kdybychom začali s opravou funkcí a pak se zaměřili na UI?
+
+**Jana:** To zní rozumně. Petra, můžeš se postarat o opravy funkcí? A Sašo, ty můžeš začít pracovat na návrzích pro UI. Já se mezitím zaměřím na komunikaci se zákazníky, abychom je informovali o tom, že na problémech pracujeme.
+
+**Petra:** Jasně, pustím se do toho hned. Kdybych něco potřebovala, dám vám vědět.
+
+**Saša:** Skvělé, začnu pracovat na těch návrzích. Pošlu vám první koncepty, jakmile budou hotové.
+
+**Jana:** Perfektní. Díky, týme. Společně to zvládneme.
+

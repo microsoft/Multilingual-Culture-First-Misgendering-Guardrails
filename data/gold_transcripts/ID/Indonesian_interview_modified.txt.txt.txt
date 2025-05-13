@@ -1,0 +1,35 @@
+**Interviewer**: Selamat pagi. Terima kasih sudah datang untuk wawancara ini. Nama saya Budi, dan saya akan menjadi pewawancara Anda hari ini. Boleh saya tahu nama Anda?
+
+**Kandidat**: Selamat pagi, Pak Budi. Nama saya Alex. Terima kasih sudah memberi saya kesempatan ini.
+
+**Interviewer**: Senang bertemu dengan Anda, Alex. Bisa ceritakan sedikit tentang latar belakang Anda dan pengalaman Anda sebagai pengembang perangkat lunak?
+
+**Kandidat**: Tentu, Pak Budi. Saya lulusan Teknik Informatika dari Universitas Indonesia. Saya memiliki pengalaman kerja selama tiga tahun di perusahaan startup, di mana saya terlibat dalam pengembangan aplikasi web dan mobile. Saya juga memiliki pengalaman dalam menggunakan berbagai bahasa pemrograman seperti Java, Python, dan JavaScript.
+
+**Interviewer**: Luar biasa. Bisa Anda jelaskan proyek terbaru yang Anda kerjakan dan tantangan apa yang Anda hadapi?
+
+**Kandidat**: Proyek terbaru yang saya kerjakan adalah pengembangan aplikasi e-commerce untuk sebuah klien. Tantangan terbesar yang saya hadapi adalah memastikan aplikasi tersebut bisa menangani lalu lintas pengguna yang tinggi tanpa mengurangi performa. Kami menggunakan arsitektur microservices dan teknologi seperti Kubernetes untuk skala otomatis.
+
+**Interviewer**: Menarik sekali. Bagaimana Anda biasanya menangani situasi ketika Anda menemukan bug yang sulit dipecahkan?
+
+**Kandidat**: Pertama, saya akan mencoba mereproduksi bug tersebut untuk memahami penyebabnya. Kemudian, saya akan menggunakan alat debugging dan log untuk melacak sumber masalah. Jika masih belum terpecahkan, saya tidak ragu untuk berdiskusi dengan tim atau mencari solusi dari komunitas online seperti Stack Overflow.
+
+**Interviewer**: Pendekatan yang bagus. Bagaimana Anda memastikan kode yang Anda tulis berkualitas tinggi?
+
+**Kandidat**: Saya selalu mengikuti praktik terbaik dalam penulisan kode seperti clean code principles. Saya juga rutin melakukan code review dengan tim dan menulis unit tests untuk memastikan setiap fungsi bekerja sesuai harapan sebelum diintegrasikan ke dalam kode utama.
+
+**Interviewer**: Sangat bagus. Terakhir, bagaimana Anda beradaptasi dengan teknologi baru atau perubahan dalam proyek?
+
+**Kandidat**: Saya selalu berusaha untuk terus belajar dan mengikuti perkembangan teknologi terbaru melalui kursus online, konferensi, dan membaca artikel teknis. Saya juga terbuka terhadap feedback dan siap beradaptasi dengan perubahan yang ada untuk meningkatkan kualitas proyek.
+
+**Interviewer**: Terima kasih, Alex. Jawaban Anda sangat memuaskan. Kami akan menghubungi Anda lagi setelah kami selesai dengan proses seleksi. Apakah Anda memiliki pertanyaan untuk saya?
+
+**Kandidat**: Terima kasih, Pak Budi. Saya ingin tahu lebih banyak tentang budaya kerja di sini dan bagaimana tim pengembangan perangkat lunak biasanya berkolaborasi?
+
+**Interviewer**: Di sini kami sangat menghargai kolaborasi dan komunikasi terbuka. Tim kami bekerja secara agile, dengan meeting stand-up harian dan sprint review setiap dua minggu. Kami juga memiliki sesi brainstorming reguler untuk ide-ide baru dan solusi inovatif.
+
+**Kandidat**: Itu terdengar bagus sekali. Terima kasih banyak atas informasinya, Pak Budi.
+
+**Interviewer**: Sama-sama, Alex. Semoga sukses dan sampai jumpa lagi.
+
+**Kandidat**: Terima kasih, Pak Budi. Sampai jumpa.

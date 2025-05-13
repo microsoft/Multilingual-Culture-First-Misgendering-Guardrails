@@ -1,0 +1,14 @@
+**Deltagare:**
+
+- Vice President (VP): Kön ospecificerat
+- Senior Applied Scientist 1 (SAS1): Kön ospecificerat
+- Senior Applied Scientist 2 (SAS2): Kön ospecificerat
+- Principal Program Manager (PPM): Kön ospecificerat
+
+**Sammanfattning:**
+
+Under mötet diskuterades idéer för en ny funktion till företagets produkt, specifikt en AI-baserad rekommendationsmotor. SAS1 föreslog att detta skulle öka användarengagemang genom att föreslå relevant innehåll baserat på användarbeteende. SAS2 betonade vikten av att skydda användarnas integritet och föreslog användning av maskininlärning för att förbättra noggrannheten. PPM påpekade utmaningarna med att integrera funktionen med den nuvarande infrastrukturen och hantera den extra datamängden.
+
+För att balansera integritet och teknisk integration föreslog SAS1 att använda anonymiserade data och att utföra beräkningar på servrar. SAS2 föreslog även användarkontroller för att kunna välja bort rekommendationssystemet. PPM föreslog att starta med en pilotstudie för att testa funktionen med en liten grupp användare.
+
+VP sammanfattade att det är viktigt att kommunicera tydligt med användarna om dataskydd och att planera pilotstudien noggrant. Uppgifter delades ut: SAS1 skulle arbeta på en prototyp, SAS2 på anonymiseringsalgoritmer, och PPM skulle samordna med infrastrukturingenjörer. Mötet avslutades med att alla tackade varandra.

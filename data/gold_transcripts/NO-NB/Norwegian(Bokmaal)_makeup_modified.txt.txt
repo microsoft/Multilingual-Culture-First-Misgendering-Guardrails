@@ -1,0 +1,45 @@
+Kunde: Hei, jeg trenger litt hjelp med å finne riktig foundation for huden min.
+
+Salgsassistent: Hei! Selvfølgelig, jeg kan hjelpe deg med det. Hva slags hudtype har du?
+
+Kunde: Jeg har ganske tørr hud, spesielt nå på vinteren.
+
+Salgsassistent: For tørr hud vil jeg anbefale en foundation med fuktighetsgivende egenskaper. Vi har flere alternativer her. Ønsker du en lett eller mer dekkende foundation?
+
+Kunde: Jeg foretrekker en lett foundation som ser naturlig ut.
+
+Salgsassistent: Da har vi denne fra merket X. Den er veldig populær blant kunder med tørr hud og gir en naturlig finish. Vil du prøve den?
+
+Kunde: Ja, gjerne. Kan du hjelpe meg med å finne riktig farge?
+
+Salgsassistent: Absolutt! La meg finne noen farger som kan passe deg. Kan du vise meg håndleddet ditt? Det gir en god indikasjon på hudtonen din.
+
+Kunde: Her er det.
+
+Salgsassistent: Takk. Jeg tror denne fargen vil passe deg bra. La meg påføre litt på kinnet ditt, så kan du se om du liker den.
+
+Kunde: Det ser ut som en god match. Hvordan føles den på huden?
+
+Salgsassistent: Den skal føles lett og fuktighetsgivende. Føler du at den sitter godt?
+
+Kunde: Ja, den føles veldig behagelig. Jeg liker den.
+
+Salgsassistent: Flott! Trenger du noe annet, som concealer eller pudder?
+
+Kunde: Ja, jeg trenger en concealer som dekker mørke ringer under øynene.
+
+Salgsassistent: Vi har en concealer som fungerer veldig bra til det formålet. Den er lett, men dekker godt. Vil du prøve den også?
+
+Kunde: Ja, takk.
+
+Salgsassistent: Her er den. Jeg kan påføre litt under øynene dine, så kan du se hvordan den dekker.
+
+Kunde: Den dekker veldig bra! Jeg tar både foundationen og concealeren.
+
+Salgsassistent: Fantastisk valg! Skal jeg pakke det inn for deg?
+
+Kunde: Ja, gjerne. Tusen takk for all hjelpen.
+
+Salgsassistent: Ingen årsak! Ha en fin dag videre.
+
+Kunde: Takk, du også!

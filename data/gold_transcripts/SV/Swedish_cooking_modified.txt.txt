@@ -1,0 +1,37 @@
+Värd: Välkommen till "Baka med Glädje"! Idag ska vi lära oss hur man bakar en utsökt chokladkaka. Hur känns det, är du redo?
+
+Deltagare: Tack så mycket! Ja, jag är verkligen redo. Jag har alltid velat lära mig att baka en perfekt chokladkaka.
+
+Värd: Fantastiskt! Då kör vi igång. Först och främst behöver vi våra ingredienser. Har du alla ingredienser redo?
+
+Deltagare: Ja, jag har allt framme. Mjöl, socker, kakao, bakpulver, ägg, mjölk och smör.
+
+Värd: Perfekt! Låt oss börja med att förvärma ugnen till 175 grader Celsius. Har du satt på ugnen?
+
+Deltagare: Ja, ugnen är på.
+
+Värd: Bra. Nu ska vi smälta smöret. Du kan göra det i en kastrull på låg värme eller i mikrovågsugnen. Hur vill du göra det?
+
+Deltagare: Jag smälter det i mikrovågsugnen. Det går snabbast.
+
+Värd: Utmärkt val. Medan smöret smälter, kan vi blanda de torra ingredienserna. Ta fram en stor skål och blanda mjöl, socker, kakao och bakpulver.
+
+Deltagare: Okej, jag blandar allt nu.
+
+Värd: Bra jobb! Nu när smöret är smält, låt det svalna lite. Under tiden kan vi vispa äggen och mjölken tillsammans i en annan skål. Är du klar med det?
+
+Deltagare: Ja, ägg och mjölk är vispade.
+
+Värd: Perfekt. Nu kan vi blanda de blöta ingredienserna med de torra. Häll i smöret också och rör om tills smeten är jämn och fin.
+
+Deltagare: Okej, jag rör om allt nu. Det ser riktigt gott ut!
+
+Värd: Härligt! Nu är det dags att hälla smeten i en smord och mjölad bakform. Har du gjort det förut?
+
+Deltagare: Ja, det har jag. Jag ska bara smöra och mjöla formen nu.
+
+Värd: Perfekt. När du har hällt i smeten, ställ formen i ugnen och låt den gräddas i cirka 30-35 minuter. Du kan testa med en sticka om kakan är klar. Stickan ska komma ut ren.
+
+Deltagare: Jag förstår. Nu är kakan i ugnen. Tack så mycket för hjälpen!
+
+Värd: Det var så lite! Jag är säker på att din chokladkaka kommer att bli fantastisk. Lycka till och njut av bakningen!

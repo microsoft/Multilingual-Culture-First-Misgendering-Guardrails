@@ -1,0 +1,32 @@
+REWRITTEN TRANSCRIPT:
+
+**Anna:** Cześć, wszyscy. Dzięki, że znaleźliście czas na to spotkanie. Musimy omówić te negatywne opinie, które otrzymaliśmy o najnowszej wersji naszego produktu.
+
+** Team Leader:** Cześć, Anna. Tak, znam te komentarze. Wygląda na to, że najwięcej problemów mają z interfejsem użytkownika. Co o tym myślisz, Kasia?
+
+**Kasia:** Cześć. Zgadza się. Przejrzałam te opinie i wiele osób skarży się, że interfejs jest zbyt skomplikowany i mało intuicyjny. Myślę, że musimy przeprowadzić dodatkowe testy użyteczności.
+
+**Anna:** Dokładnie. Myślałam, że nasz zespół UX zrobił dobrą robotę, ale chyba musimy wrócić do deski kreślarskiej. Czy mamy jakieś konkretne sugestie od użytkowników, które moglibyśmy wdrożyć?
+
+** Team Leader:** Tak, kilka osób wspomniało, że nawigacja powinna być bardziej uproszczona i że niektóre funkcje są trudne do znalezienia. Może powinniśmy rozważyć przeprojektowanie menu.
+
+**Kasia:** To dobry pomysł. Może zorganizujmy warsztaty z naszym zespołem UX i zaprosimy kilku użytkowników do udziału. Ich bezpośrednie opinie mogą być bardzo cenne.
+
+**Anna:** Świetny pomysł, Kasia. Zorganizuję to. Czy są jeszcze jakieś inne kwestie, które powinniśmy omówić?
+
+** Team Leader:** Tak, niektóre opinie dotyczyły wydajności aplikacji. Użytkownicy zgłaszali, że czasami działa ona wolno. Może powinniśmy przejrzeć kod i zobaczyć, czy możemy coś zoptymalizować.
+
+**Kasia:** Zgadzam się. Może powinniśmy również zwiększyć testy obciążeniowe, aby upewnić się, że aplikacja działa płynnie pod większym obciążeniem.
+
+REWRITTEN TRANSCRIPT:
+
+REWRITTEN TRANSCRIPT:
+
+**Anna:** Dobrze, to plan działania: zorganizujemy warsztaty z zespołem UX, zaprosimy użytkowników do testów i przejrzymy kod pod kątem optymalizacji. Czy wszyscy się zgadzają?
+
+** Team Leader:** Zgadzam się.
+
+**Kasia:** Ja również.
+
+**Anna:** Świetnie, dziękuję wam za współpracę. Działajmy!
+

@@ -1,0 +1,17 @@
+Vyr. Tyrėja: Ačiū visiems už dėmesį. Ar kas nors turi klausimų apie mano pristatytą tyrimą?
+
+Komandos Narys 1: Taip, turiu klausimą. Kaip manote, kokie yra didžiausi iššūkiai, su kuriais susiduriame šiame tyrime?
+
+Vyr. Tyrėja: Puikus klausimas. Manau, kad vienas iš didžiausių iššūkių yra duomenų rinkimo tikslumas. Mums reikia užtikrinti, kad mūsų duomenys būtų patikimi ir reprezentatyvūs, kad galėtume padaryti tikslias išvadas. Taip pat technologiniai apribojimai kartais gali sukelti problemų.
+
+Komandos Narys 2: Ačiū už atsakymą. Norėčiau paklausti apie metodologiją. Ar galėtumėte paaiškinti, kodėl pasirinkote būtent šį metodą, o ne kitus galimus metodus?
+
+Vyr. Tyrėja: Žinoma. Pasirinkome šį metodą, nes jis leidžia mums detaliai analizuoti mūsų duomenis ir pateikti išsamias įžvalgas. Kiti metodai galėjo būti per daug bendri arba nepakankamai tikslūs mūsų tyrimo tikslams. Be to, šis metodas jau buvo sėkmingai naudojamas panašiuose tyrimuose, todėl mes galėjome pasinaudoti ankstesne patirtimi ir pritaikyti ją mūsų kontekstui.
+
+Komandos Narys 1: Dėkoju už paaiškinimą. Ar turite kokių nors rekomendacijų, kaip galėtume pagerinti mūsų duomenų rinkimo procesą ateityje?
+
+Vyr. Tyrėja: Taip, keletas rekomendacijų būtų naudinga. Pirma, manau, kad galėtume investuoti į pažangesnes technologijas, kurios padėtų mums rinkti duomenis tiksliau ir greičiau. Antra, svarbu būtų toliau mokyti mūsų komandą geriausios praktikos duomenų rinkimo srityje. Galiausiai, glaudesnis bendradarbiavimas su kitomis tyrimų grupėmis galėtų padėti mums pasinaudoti jų patirtimi ir išvengti dažniausiai pasitaikančių klaidų.
+
+Komandos Narys 2: Tai labai naudinga informacija. Ačiū jums už atsakymus ir rekomendacijas.
+
+Vyr. Tyrėja: Dėkoju jums už klausimus. Jei turite daugiau klausimų ar norite aptarti ką nors detaliau, visada galite kreiptis į mane.

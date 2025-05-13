@@ -1,0 +1,43 @@
+Gostitelj: Dobrodošli v naši kuharski oddaji! Danes bomo pekli čokoladno torto. Ste pripravljeni?
+
+Udeleženec: Seveda, komaj čakam! Vedno sem si želel_a naučiti peči čokoladno torto.
+
+Gostitelj: Odlično! Najprej bomo pripravili vse sestavine. Potrebovali bomo moko, sladkor, jajca, maslo, kakav v prahu, pecilni prašek in mleko. Imate vse to pri roki?
+
+Udeleženec: Da, vse sestavine imam pripravljene. Kaj je prvi korak?
+
+Gostitelj: Najprej segrejemo pečico na 180 stopinj Celzija. Nato v večji skledi zmešamo moko, kakav v prahu in pecilni prašek.
+
+Udeleženec: V redu, to bom naredil_a. Koliko moke pa potrebujemo?
+
+Gostitelj: Potrebovali bomo 200 gramov moke. Ko to zmešate, dodajte 150 gramov sladkorja in dobro premešajte.
+
+Udeleženec: V redu, to sem storil_a. Kaj pa zdaj?
+
+Gostitelj: Sedaj v drugi skledi stepemo jajca in maslo. Potrebovali bomo tri jajca in 100 gramov masla. Ko je to dobro stepeno, dodamo še 200 ml mleka.
+
+Udeleženec: To zveni enostavno. Stepal_a sem jajca in maslo, zdaj dodajam mleko.
+
+Gostitelj: Odlično! Sedaj počasi dodajamo mokre sestavine k suhim sestavinam in mešamo, dokler ne dobimo gladke mase.
+
+Udeleženec: Mešam... Masa je res gladka. Kaj pa zdaj?
+
+Gostitelj: Sedaj maso prelijemo v pekač, ki smo ga predhodno namastili z maslom ali obložili s peki papirjem. Nato torto pečemo približno 30-35 minut.
+
+Udeleženec: V redu, masa je v pekaču in pečica je segreta. Postavljam v pečico.
+
+Gostitelj: Odlično! Medtem ko se torta peče, lahko pripravimo glazuro. Potrebovali bomo čokolado in malo smetane. Stopimo čokolado in jo zmešamo s smetano, dokler ne dobimo gladke glazure.
+
+Udeleženec: To zveni slastno. Koliko čokolade pa potrebujemo?
+
+Gostitelj: Približno 200 gramov čokolade in 100 ml smetane. Ko je torta pečena in ohlajena, jo premažemo z glazuro.
+
+Udeleženec: Torta je pečena in ohlajena. Glazura je pripravljena. Premazujem torto.
+
+Gostitelj: Čudovito! Sedaj je vaša čokoladna torta pripravljena za postrežbo. Kako se vam zdi?
+
+Udeleženec: Izgleda fantastično in vonj je neverjeten! Hvala vam za pomoč.
+
+Gostitelj: Vesel sem, da vam je uspelo. Uživajte v svoji čokoladni torti in hvala, da ste se nam pridružili v naši kuharski oddaji!
+
+Udeleženec: Hvala vam! Bom zagotovo še pekel_a po vaših receptih.

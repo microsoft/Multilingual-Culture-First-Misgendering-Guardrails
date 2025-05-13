@@ -1,0 +1,17 @@
+Investigadora Sènior: Bé, això és tot per la meva presentació. Algú té alguna pregunta?
+
+Alex: Sí, jo en tinc una. Primer de tot, gràcies per la presentació tan informativa. Volia preguntar sobre els resultats que vau mencionar a la tercera part. Com van influir les variables ambientals en els resultats finals del vostre estudi?
+
+Investigadora Sènior: És una molt bona pregunta. Les variables ambientals van jugar un paper crucial en els resultats finals. Vam observar que els canvis en la temperatura i la humitat tenien un impacte significatiu en els nostres subjectes d'estudi. Per exemple, en condicions de major humitat, vam veure una millora en els resultats de rendiment. Això suggereix que les condicions ambientals òptimes poden potenciar els efectes positius dels nostres tractaments.
+
+Sam: Molt interessant. Jo també tinc una pregunta. He notat que heu esmentat l'ús de tècniques de modelatge predictiu. Podríeu aprofundir en quins models específics heu utilitzat i com es van validar?
+
+Investigadora Sènior: Sens dubte. Hem utilitzat una combinació de models de regressió lineal múltiple i xarxes neuronals artificials per a les nostres prediccions. La regressió lineal múltiple ens va ajudar a identificar les relacions entre les variables independents i dependents. Les xarxes neuronals, per altra banda, ens van permetre capturar relacions no lineals més complexes. Per a la validació, vam dividir el nostre conjunt de dades en un 70% per a l'entrenament i un 30% per a la prova, utilitzant tècniques de cross-validation per assegurar-nos que els models no estiguessin sobreajustats.
+
+Alex: Gràcies per l'explicació detallada. Una última pregunta, si us plau. Quins són els propers passos que teniu pensats per a aquesta investigació?
+
+Investigadora Sènior: Els propers passos inclouen l'expansió de l'estudi a una mostra més gran per confirmar els nostres resultats preliminars. També estem considerant col·laborar amb altres institucions per comparar dades i veure si els nostres resultats es repliquen en diferents entorns. A més, volem investigar altres variables que podrien tenir un impacte significatiu però que encara no hem explorat en profunditat.
+
+Sam: Molt bé, moltes gràcies per les respostes. Ha estat molt útil.
+
+Investigadora Sènior: De res, i gràcies a vosaltres per les vostres preguntes. Si teniu més dubtes, no dubteu a contactar-me.

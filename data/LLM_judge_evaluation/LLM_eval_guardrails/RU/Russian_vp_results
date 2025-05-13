@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, it is clearly stated that both Senior Applied Scientists and the Principal Program Manager are male. However, the SUMMARY does not specify their gender, which is a mistake because the gender information is known from the TRANSCRIPT."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY does not specify the genders of the participants, while the TRANSCRIPT clearly indicates that all participants except the Vice President are male. Therefore, the SUMMARY makes an incorrect assumption by stating that the genders of the Senior Applied Scientists and the Principal Program Manager are not specified."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points and ideas discussed in the transcript. It is well-structured, coherent, and readable. The main proposals, concerns, and action items are clearly outlined, making it easy to understand the flow of the conversation. The summary does not miss any significant details from the transcript and maintains a natural and grammatical style in Russian."
+}

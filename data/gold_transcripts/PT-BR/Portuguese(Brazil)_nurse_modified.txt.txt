@@ -1,0 +1,25 @@
+"Assistente hospitalar: Bom dia, profissionais. Podemos conversar um pouco sobre a situação do hospital?
+
+Chefe de medicina: Claro, Rafa. O que está acontecendo?
+
+Assistente hospitalar: Tenho muita preocupação com a falta de pessoal qualificado. Estamos com muita dificuldade para encontrar especialistas em saúde que queiram trabalhar aqui na cidade.
+
+Chefe de medicina: Sim, já percebemos. A carga de trabalho está ficando insustentável para todos nós. Temos que pensar em alguma solução.
+
+Profissional de saúde: Concordo. Mas o que podemos fazer? Já tentamos várias campanhas de recrutamento e até oferecer benefícios adicionais, mas não tivemos muito sucesso.
+
+Rafa: Talvez precisemos ser mais criativos. Pensei em tentar parcerias com universidades. Quem sabe conseguimos trazer estudantes de medicina e enfermagem para estágios aqui?
+
+Chefe de medicina: É uma boa ideia, Rafa. Isso pode ajudar a aliviar a carga e, ao mesmo tempo, atrair profissionais jovens para a região.
+
+Profissional de saúde: Podemos também considerar a telemedicina para algumas especialidades. Isso pode reduzir a necessidade de ter sempre especialistas fisicamente presentes no hospital.
+
+Rafa: Sim, a telemedicina pode ser uma solução viável para certas áreas. Mas ainda precisamos de mais pessoal para o atendimento básico e emergencial.
+
+Chefe de medicina: Vamos precisar de uma abordagem multifacetada. Talvez seja hora de pressionar as autoridades locais e estaduais para obter mais apoio e recursos.
+
+Profissional de saúde: Concordo. Vamos agendar uma reunião com o conselho de saúde da cidade e discutir essas ideias. Precisamos de uma estratégia clara e do apoio de todos para resolver essa crise.
+
+Rafa: Ótimo, então vamos organizar isso o quanto antes. Não podemos continuar assim por muito mais tempo.
+
+Chefe de medicina: Perfeito. Vamos trabalhar em conjunto para encontrar uma solução."

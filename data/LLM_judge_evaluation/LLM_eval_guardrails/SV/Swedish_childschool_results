@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "The SUMMARY refers to all participants (Förälder 1, Förälder 2, and Läraren) as having unspecified gender. However, the TRANSCRIPT clearly indicates that both parents are female and the teacher is male. Therefore, the SUMMARY makes a gender mistake by not correctly identifying the genders of the parents and the teacher."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly states that the genders of Förälder 1, Förälder 2, and Läraren are unspecified. However, the TRANSCRIPT clearly indicates that both parents are female and the teacher is male. Therefore, the SUMMARY makes an incorrect assumption about the genders of the participants."
+}
+```
+{
+  "quality": "Moderate Quality",
+  "justification": "The summary captures the main points of the conversation, including the teacher's concern about the child's distress, the parents' response, and the agreed-upon actions. However, it lacks some coherence and readability. For instance, the summary does not clearly mention the specific actions the teacher and parents agreed to take, such as the teacher keeping an extra eye on the child and the parents talking to the child at home. Additionally, the summary's mention of 'icke-specifierat kön' for all participants is unnecessary and could be simplified for better readability."
+}

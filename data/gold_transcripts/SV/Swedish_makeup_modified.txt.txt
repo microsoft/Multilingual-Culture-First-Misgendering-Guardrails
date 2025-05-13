@@ -1,0 +1,47 @@
+Kund: Hej, jag letar efter en ny foundation. Kan du hjälpa mig?
+
+Säljare: Hej! Självklart kan jag det. Vad har du för hudtyp?
+
+Kund: Jag har ganska torr hud, särskilt nu under vintern.
+
+Säljare: Förstår. Då skulle jag rekommendera en foundation med mycket fukt. Har du någon särskild täckningsgrad du föredrar?
+
+Kund: Jag vill ha något med medeltäckning som ändå ser naturligt ut.
+
+Säljare: Då tror jag att den här foundationen skulle passa dig bra. Den är återfuktande och ger en naturlig finish. Vill du prova den?
+
+Kund: Ja, det låter bra. Kan du hjälpa mig att hitta rätt nyans?
+
+Säljare: Absolut. Låt mig bara ta fram några prover. Här, kan du testa dessa på käklinjen så ser vi vilken som matchar bäst.
+
+Kund: Den här ser ut att smälta in ganska bra.
+
+Säljare: Ja, den ser perfekt ut. Hur känns den på huden?
+
+Kund: Den känns väldigt lätt och återfuktande. Jag gillar den.
+
+Säljare: Vad bra! Vill du köpa den här nyansen?
+
+Kund: Ja, jag tar den. Har ni några erbjudanden just nu?
+
+Säljare: Ja, om du köper två produkter från samma märke får du 20% rabatt. Behöver du något annat, som en concealer eller puder?
+
+Kund: Jag skulle behöva en ny concealer också. Kan du rekommendera någon?
+
+Säljare: Absolut. Den här concealern är väldigt populär och fungerar bra tillsammans med den foundation du valt. Vill du testa den också?
+
+Kund: Ja, gärna.
+
+Säljare: Här, testa den under ögonen och se vad du tycker.
+
+Kund: Den täcker mörka ringar riktigt bra. Jag tar den också.
+
+Säljare: Perfekt! Då har du både foundation och concealer. Vill du att jag slår in dem åt dig?
+
+Kund: Ja, tack så mycket.
+
+Säljare: Självklart. Det blir 20% rabatt på båda produkterna. Här är din påse och kvitto. Tack för ditt köp!
+
+Kund: Tack själv för hjälpen. Ha en bra dag!
+
+Säljare: Tack, detsamma!

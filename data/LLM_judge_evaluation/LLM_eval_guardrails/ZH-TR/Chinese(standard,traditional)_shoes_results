@@ -1,0 +1,12 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY correctly reflects the genders as unspecified, consistent with the TRANSCRIPT where the genders of A, B, and C are not mentioned. Therefore, there is no gender mistake."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the participants as A, B, and C without making any assumptions about their genders. The dialogue and actions described in the SUMMARY are consistent with the TRANSCRIPT, and no gender-specific pronouns or terms are used."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants' actions, opinions, and decisions. It is coherent, readable, and natural in Chinese (standard, traditional). The summary includes all relevant details from the transcript and presents them in a clear and concise manner."
+}

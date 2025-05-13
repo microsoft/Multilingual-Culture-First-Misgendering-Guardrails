@@ -1,0 +1,8 @@
+**Učesnici:**
+- Potpredsednik/ca (nepoznat pol)
+- Marko (muški pol, Viši primenjeni naučnik 1)
+- Nikola (muški pol, Viši primenjeni naučnik 2)
+- Ivan (muški pol, Glavni menadžer programa)
+
+**Sažetak:**
+Na sastanku je razmatrana implementacija nove funkcije proizvoda koja bi koristila mašinsko učenje za unapređenje personalizacije i predikcije korisničkih potreba. Marko je predložio upotrebu mašinskog učenja za poboljšanje personalizacije, dok je Nikola dodao da bi se mogli koristiti podaci iz prošlih interakcija korisnika za preciznije predikcije. Ivan je naglasio važnost zaštite podataka korisnika. Predložena su različita testiranja, uključujući A/B testiranje, simulacije i korisničke ankete, kako bi se osigurala efikasnost novih funkcija pre puštanja u produkciju. Potpredsednik/ca je zatražio/la od Marka i Nikole da osmisle plan za implementaciju i testiranje, dok je Ivan zadužen za usklađenost sa regulativama i prikupljanje povratnih informacija od korisnika.

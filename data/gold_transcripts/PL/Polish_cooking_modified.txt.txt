@@ -1,0 +1,40 @@
+Host: Witaj na naszym programie kulinarnym! Dziś nauczymy się, jak upiec pyszne ciasto czekoladowe. Jak masz na imię?
+
+Anna: Cześć, nazywam się Anna. Bardzo się cieszę, że tu jestem!
+
+Host: Miło mi cię poznać, Anno! Czy piekłaś już kiedyś ciasto czekoladowe?
+
+Anna: Tak, ale nigdy nie wychodziło mi idealnie. Mam nadzieję, że dziś się uda!
+
+Host: Na pewno się uda! Zacznijmy od składników. Będziemy potrzebować mąki, cukru, masła, jajek, czekolady, proszku do pieczenia i mleka. Czy masz wszystko przygotowane?
+
+Anna: Tak, wszystko jest gotowe.
+
+Host: Świetnie! Najpierw rozgrzej piekarnik do 180 stopni Celsjusza. Teraz weź miskę i wymieszaj w niej mąkę z proszkiem do pieczenia.
+
+Anna: Już mieszam.
+
+Host: Teraz w drugiej misce utrzyj masło z cukrem, aż masa będzie puszysta. Dodaj jajka, jedno po drugim, cały czas mieszając.
+
+Anna: OK, już dodaję jajka. Czy dobrze to wygląda?
+
+Host: Tak, wygląda świetnie! Teraz rozpuść czekoladę w kąpieli wodnej i dodaj ją do masy maślanej, delikatnie mieszając.
+
+Anna: Czekolada jest już rozpuszczona i dodana. Co dalej?
+
+Host: Teraz stopniowo dodawaj mieszankę mąki i mleka, na przemian, zaczynając i kończąc na mące. Mieszaj delikatnie, aby masa była gładka.
+
+Anna: Już dodaję. Masa wygląda na jednolitą.
+
+Host: Doskonale! Teraz przelej ciasto do formy wyłożonej papierem do pieczenia. Wstaw do piekarnika i piecz przez około 35-40 minut.
+
+Anna: Ciasto jest w piekarniku. Nie mogę się doczekać, aż będzie gotowe!
+
+Host: Będzie pyszne, gwarantuję! Po upieczeniu wyjmij ciasto z piekarnika i pozostaw do ostygnięcia. Czy masz jakieś pytania?
+
+Anna: Na razie wszystko jest jasne. Dziękuję za pomoc!
+
+Host: Proszę bardzo, Anno! Cieszę się, że mogę pomóc. Życzę smacznego i do zobaczenia następnym razem!
+
+Anna: Dziękuję! Do zobaczenia!
+

@@ -1,0 +1,27 @@
+Pirkėjas: Laba diena. Norėčiau nusipirkti makiažo priemonių, bet nežinau, nuo ko pradėti.
+
+Pardavėja: Laba diena! Žinoma, mielai jums padėsiu. Ar turite kokių nors konkrečių produktų, kuriuos norėtumėte išbandyti?
+
+Pirkėjas: Na, man reikia tiek pagrindo, tiek lūpdažio. Taip pat norėčiau kažko natūralaus dienos makiažui.
+
+Pardavėja: Puiku. Pradėkime nuo pagrindo. Koks jūsų odos tipas? Ar turite riebią, sausą ar mišrią odą?
+
+Pirkėjas: Manau, kad mano oda yra mišri. Kartais ji būna riebi T-zonoje, bet kitur sausesnė.
+
+Pardavėja: Supratau. Rekomenduočiau jums šį lengvą pagrindą, kuris suteikia natūralų užbaigimą ir tinka mišriai odai. Ar norėtumėte išbandyti jį?
+
+Pirkėjas: Taip, būtų puiku. O kaip dėl lūpdažio? Norėčiau kažko subtilaus, bet ilgai išliekančio.
+
+Pardavėja: Turime puikų asortimentą ilgai išliekančių lūpdažių. Štai šis atspalvis yra labai populiarus ir puikiai tinka natūraliam dienos makiažui. Ar jums patinka šis spalvos variantas?
+
+Pirkėjas: Taip, man atrodo, kad tai puikus pasirinkimas. Paimsiu ir pagrindą, ir šį lūpdažį.
+
+Pardavėja: Puiku! Ar dar kažko ieškote šiandien?
+
+Pirkėjas: Ne, manau, kad tai viskas. Ačiū už pagalbą.
+
+Pardavėja: Nėra už ką. Jei turėsite klausimų ar reikės daugiau pagalbos, visada galite grįžti. Gero apsipirkimo!
+
+Pirkėjas: Ačiū, gero jums dienos!
+
+Pardavėja: Jums taip pat!

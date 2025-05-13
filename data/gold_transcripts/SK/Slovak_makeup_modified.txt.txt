@@ -1,0 +1,35 @@
+Predavač/-ka: Dobrý deň, ako vám môžem pomôcť?
+
+Zákazník: Dobrý deň, hľadám nejaký nový make-up. Môžete mi niečo odporučiť?
+
+Predavač/-ka: Samozrejme, aký typ make-upu preferujete? Máte radšej tekutý, kompaktný alebo púder?
+
+Zákazník: Myslím, že by som chcel skúsiť tekutý make-up. Mám zmiešanú pleť, takže potrebujem niečo, čo vydrží celý deň a nezanecháva mastný pocit.
+
+Predavač/-ka: Rozumiem. Môžem vám odporučiť tento tekutý make-up. Má dlhú výdrž a je vhodný pre zmiešanú pleť. Chcete si vyskúšať odtieň?
+
+Zákazník: Áno, to by bolo skvelé. Môžete mi pomôcť nájsť správny odtieň?
+
+Predavač/-ka: Samozrejme, poďte sem, máme tu tester. Aký podtón má vaša pleť? Skôr teplý, studený alebo neutrálny?
+
+Zákazník: Myslím, že mám skôr neutrálny podtón.
+
+Predavač/-ka: Dobre, tak skúšame tento odtieň. Aplikujem vám ho na čeľusť, aby sme videli, ako sa zhoduje s vašou pleťou. Čo myslíte, páči sa vám tento odtieň?
+
+Zákazník: Vyzerá to celkom dobre. Myslím, že by mohol byť ten správny.
+
+Predavač/-ka: Výborne! Chcete si ešte niečo pozrieť? Máme aj novú kolekciu rúžov a očných tieňov.
+
+Zákazník: Možno by som sa pozrel na rúže. Máte niečo v prirodzených tónoch?
+
+Predavač/-ka: Áno, určite. Tu sú naše najobľúbenejšie odtiene v prirodzených tónoch. Môžete si ich vyskúšať.
+
+Zákazník: Ďakujem, pozriem sa na ne. Tento odtieň sa mi páči. Myslím, že si vezmem aj tento rúž.
+
+Predavač/-ka: Skvelý výber. Takže máte záujem o tekutý make-up a tento rúž, je to správne?
+
+Zákazník: Áno, presne tak.
+
+Predavač/-ka: Výborne, zabalím vám to. Môžete ísť k pokladni a zaplatiť. Ďakujeme, že ste sa zastavili u nás. Prajem vám pekný deň!
+
+Zákazník: Ďakujem, aj vám!

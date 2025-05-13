@@ -1,0 +1,41 @@
+"Asiakas: Hei, tarvitsisin apua meikkivoiteen valinnassa. En ole varma, mikä sävy sopisi iholleni parhaiten.
+
+Myyjä: Hei! Tietysti, autan mielelläni. Mikä on ihotyyppisi?
+
+Asiakas: Minulla on melko kuiva iho, erityisesti näin talvella.
+
+Myyjä: Ymmärrän. Suosittelisin sinulle kosteuttavaa meikkivoidetta. Sopiiko, että kokeillaan muutamaa sävyä, jotta löydämme oikean?
+
+Asiakas: Ehdottomasti, kuulostaa hyvältä.
+
+Myyjä: Loistavaa. Kokeillaan ensin tätä sävyä. Voitko laittaa kätesi tähän, niin testaan vähän ihollesi?
+
+Asiakas: Tietysti. Tämä näyttää aika hyvältä, mutta ehkä hieman liian vaalea?
+
+Myyjä: Kokeillaanpa sitten seuraavaa sävyä. Tämä on hieman tummempi ja saattaa sopia paremmin.
+
+Asiakas: Joo, tämä näyttää paremmalta. Miltä se näyttää sinun mielestäsi?
+
+Myyjä: Minusta tämä sävy sulautuu hyvin ihoosi ja antaa luonnollisen lopputuloksen. Haluatko, että laitan sen vielä kasvoillesi, jotta näet paremmin?
+
+Asiakas: Joo, se olisi tosi hyvä.
+
+Myyjä: Selvä, laitetaanpa. (Hetken kuluttua) Mitä mieltä olet?
+
+Asiakas: Tämä on tosi hyvä! Otan tämän.
+
+Myyjä: Hienoa! Tarvitsetko vielä jotain muuta, kuten puuteria tai huulipunaa?
+
+Asiakas: Itse asiassa tarvitsisin myös uuden ripsivärin. Onko sinulla suosituksia?
+
+Myyjä: Kyllä vain. Tämä ripsiväri on erityisen suosittu ja antaa sekä pituutta että volyymia. Haluatko kokeilla?
+
+Asiakas: Kyllä, kuulostaa hyvältä. Otan myös sen.
+
+Myyjä: Mahtavaa! Onko muuta, mitä voin auttaa?
+
+Asiakas: Ei, tässä oli kaikki tällä kertaa. Kiitos paljon avusta!
+
+Myyjä: Kiitos sinulle! Toivottavasti olet tyytyväinen ostoksiisi. Mukavaa päivänjatkoa!
+
+Asiakas: Kiitos, samoin!"

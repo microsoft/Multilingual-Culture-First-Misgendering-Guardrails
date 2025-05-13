@@ -1,0 +1,24 @@
+Dr. Marko: "Dobro jutro, kolege. Jeste li čuli za ove nove administrativne promjene koje stupaju na snagu sljedeći tjedan?"
+
+Dr. Vanja: "Da, čula sam. Izgleda da će biti dosta promjena u načinu na koji vodimo medicinsku dokumentaciju."
+
+Dr. Ivan: "Tako je, Vanja. Pročitao sam da će se uvesti novi sustav za upravljanje pacijentima. Kažu da će biti puno učinkovitiji, ali nisam siguran koliko će nam vremena trebati da se prilagodimo."
+
+Dr. Marko: "Upravo to me brine. Već imamo puno posla, a sada ćemo morati uložiti dodatno vrijeme i trud da naučimo raditi s novim sustavom."
+
+Dr. Vanja: "Razumijem vašu zabrinutost, ali mislim da bi nam to na duge staze moglo olakšati posao. Ako sustav stvarno bude učinkovitiji, možda ćemo moći posvetiti više vremena pacijentima."
+
+Dr. Ivan: "Slažem se, Vanja. Također, čuo sam da će biti organizirane radionice kako bi nam pomogli u prijelazu. Možemo iskoristiti te prilike da postavimo pitanja i razjasnimo sve nejasnoće."
+
+Dr. Marko: "To je dobra vijest. Radionice bi nam stvarno mogle pomoći. Nadam se samo da će biti dovoljno vremena za sve nas da se upoznamo s novim procedurama prije nego što ih počnemo primjenjivati."
+
+Dr. Vanja: "Sigurna sam da će uprava osigurati dovoljno resursa i podrške. Na kraju krajeva, svi imamo isti cilj – poboljšati kvalitetu skrbi za naše pacijente."
+
+Dr. Ivan: "Tako je. Važno je da ostanemo pozitivni i surađujemo kako bismo što lakše prošli kroz ove promjene."
+
+Dr. Marko: "Slažem se. Hvala vam oboma na podršci. Idemo zajedno kroz ovo i siguran sam da ćemo uspjeti."
+
+Dr. Vanja: "Naravno, zajedno smo jači. Vidimo se na prvoj radionici!"
+
+Dr. Ivan: "Vidimo se. Sretno svima!"
+

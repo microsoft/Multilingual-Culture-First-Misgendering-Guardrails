@@ -1,0 +1,27 @@
+REWRITTEN TRANSCRIPT:
+
+**Ana**: Hola, ¿han tenido la oportunidad de revisar los últimos detalles del lanzamiento de la nueva función?
+
+**María**: Sí, Ana. Estuve revisando el informe de QA y parece que todo está en orden. Solo hay un par de bugs menores que deberíamos solucionar antes del lanzamiento oficial.
+
+**Alex**: Estoy de acuerdo, María. También he revisado el informe y creo que podemos solucionarlos rápidamente. ¿Cuál es el plan de comunicación para el lanzamiento?
+
+**Ana**: Bueno, hemos preparado una campaña en redes sociales y un webinar para mostrar la nueva función en acción. Además, nuestro equipo de marketing ha creado un comunicado de prensa que se enviará el día del lanzamiento.
+
+**María**: Excelente. Me preocupa un poco la capacitación del equipo de soporte. ¿Están listxs para manejar las preguntas y problemas que puedan surgir?
+
+**Alex**: He hablado con el equipo de soporte. Están en proceso de recibir la capacitación necesaria. Les he pedido que preparen una guía rápida y una serie de preguntas frecuentes para que puedan responder de manera eficiente.
+
+**Ana**: Perfecto. Entonces, ¿estamos todxs de acuerdo en que el lanzamiento puede proceder la próxima semana?
+
+**María**: Por mi parte, sí. Solo necesitamos asegurarnos de que los bugs menores se solucionen antes del lanzamiento.
+
+**Alex**: Estoy de acuerdo. Si abordamos esos bugs en los próximos días, no veo ningún problema en seguir adelante con la fecha planificada.
+
+**Ana**: Genial, entonces vamos a trabajar en esos últimos detalles. Gracias por su dedicación. ¡Vamos a hacer que este lanzamiento sea un éxito.
+
+**María**: ¡Claro que sí!
+
+**Alex**: ¡Vamos a por ello!
+
+

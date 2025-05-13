@@ -1,0 +1,19 @@
+Anna: Sziasztok, köszönöm, hogy mindketten eljöttetek. Ma szeretném megbeszélni a legutóbbi termékverziónkról kapott negatív visszajelzéseket. Elég sok kritikát kaptunk, és fontos, hogy gyorsan reagáljunk.
+
+Dóra: Szia Anna, persze, beszéljünk róla. Már én is átnéztem néhány visszajelzést, és úgy tűnik, hogy a felhasználói felület az egyik legnagyobb probléma. Sokan panaszkodtak, hogy nem elég intuitív.
+
+Alex: Igen, én is észrevettem ezt. Talán érdemes lenne egy felhasználói tesztet végeznünk, hogy pontosan lássuk, hol akadnak el a felhasználók. Mit gondoltok?
+
+Anna: Jó ötlet, Alex! De azt hiszem, nem csak a felhasználói felületen van a gond. Volt néhány visszajelzés a teljesítménnyel kapcsolatban is. Azt mondták, hogy az alkalmazás lassú és gyakran lefagy.
+
+Dóra: Ezt én is láttam. Valószínűleg optimalizálnunk kell a kódot. Talán érdemes lenne átnézni a legutóbbi frissítéseket, hogy kiderítsük, hogy hol lehet a hiba.
+
+Alex: Egyetértek. Talán érdemes lenne egy hibaelhárító csapatot összeállítani, akik kifejezetten ezekre a problémákra fókuszálnának. Szívesen részt vennék benne.
+
+Anna: Ez remek ötlet, Alex. Akkor legyen így: Dóra, te vezeted a felhasználói teszteket, Alex, te pedig a hibaelhárító csapatot. Én pedig közben kapcsolatban maradok a felhasználókkal, hogy tájékoztassam őket a fejlesztésekről.
+
+Dóra: Rendben, Anna. Kezdek is hozzá a tesztek megszervezéséhez.
+
+Alex: Én pedig összeállítom a csapatot, és elkezdjük az optimalizálást. Köszönöm, hogy összehoztad ezt a megbeszélést, Anna.
+
+Anna: Köszönöm nektek is a gyors reagálást. Dolgozzunk együtt azon, hogy javítsuk a termékünket és elégedettebbé tegyük a felhasználóinkat!

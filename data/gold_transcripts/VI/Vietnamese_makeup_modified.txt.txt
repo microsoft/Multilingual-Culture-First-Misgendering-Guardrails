@@ -1,0 +1,37 @@
+**Sales Associate:** Xin chào, quý khách cần giúp gì ạ?
+
+**Customer:** Chào chị, tôi đang tìm mua một số sản phẩm trang điểm. Chị có thể giới thiệu cho tôi vài loại phấn nền được không?
+
+**Sales Associate:** Dạ được ạ. Quý khách có loại da gì ạ? Da dầu, da khô hay da hỗn hợp?
+
+**Customer:** Da tôi là da hỗn hợp, nhưng hơi thiên dầu ở vùng chữ T.
+
+**Sales Associate:** Vậy thì em xin giới thiệu cho quý khách phấn nền này của thương hiệu XYZ. Sản phẩm này kiểm soát dầu rất tốt và cũng giữ ẩm cho các vùng da khô.
+
+**Customer:** Nghe hay đấy. Chị có thể cho tôi thử màu không?
+
+**Sales Associate:** Dạ, tất nhiên rồi. Đây là một vài màu phổ biến, quý khách có thể thử trực tiếp trên da tay hoặc trên mặt để xem màu nào phù hợp nhất.
+
+**Customer:** Cảm ơn chị. Tôi sẽ thử một chút trên mặt để kiểm tra độ hòa hợp.
+
+**Sales Associate:** Dạ, quý khách cứ tự nhiên. Em sẽ lấy gương và bông mút cho quý khách.
+
+**Customer:** Cảm ơn chị. Tôi thấy màu này khá hợp với da tôi. Chị có thể giới thiệu thêm về son môi không?
+
+**Sales Associate:** Dạ, bên em có rất nhiều loại son môi với nhiều màu sắc và chất liệu khác nhau. Quý khách thích son lì, son bóng hay son dưỡng có màu?
+
+**Customer:** Tôi thích son lì, nhưng không muốn quá khô môi.
+
+**Sales Associate:** Vậy thì em xin giới thiệu dòng son lì mềm mịn này. Chất son rất mượt và không làm khô môi.
+
+**Customer:** Tuyệt vời! Tôi sẽ lấy một cây son màu đỏ và một cây phấn nền.
+
+**Sales Associate:** Dạ, quý khách chờ em một chút để em gói sản phẩm cho quý khách nhé.
+
+**Customer:** Cảm ơn chị rất nhiều.
+
+**Sales Associate:** Dạ, không có gì. Cảm ơn quý khách đã mua sắm tại cửa hàng. Chúc quý khách một ngày vui vẻ!
+
+**Customer:** Chào chị, hẹn gặp lại!
+
+**Sales Associate:** Chào quý khách, hẹn gặp lại!

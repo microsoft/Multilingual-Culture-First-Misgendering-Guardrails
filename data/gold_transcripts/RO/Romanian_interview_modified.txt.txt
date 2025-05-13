@@ -1,0 +1,27 @@
+Intervievator: Bună ziua! Mulțumesc că ați venit la interviu. Eu sunt Andrei și voi fi intervievatorul dumneavoastră astăzi. Cum vă numiți?
+
+Candidat: Bună ziua, Andrei! Mă numesc Alex. Mulțumesc pentru oportunitate.
+
+Andrei: Cu plăcere, Alex! Haideți să începem cu întrebările. Ne puteți spune câte ceva despre experiența dumneavoastră în domeniul dezvoltării software?
+
+Alex: Sigur. Am lucrat în domeniul dezvoltării software de aproximativ cinci ani. Am experiență în limbaje precum Java, Python și JavaScript și am lucrat la diverse proiecte, de la aplicații web la sisteme complexe de backend.
+
+Andrei: Foarte bine. Ați menționat că aveți experiență cu JavaScript. Puteți să-mi povestiți despre un proiect recent în care ați utilizat acest limbaj?
+
+Alex: Desigur. În ultimul meu proiect, am dezvoltat o aplicație web pentru gestionarea inventarului. Am folosit JavaScript pentru a crea interfața utilizatorului, utilizând framework-ul React. Am implementat și funcționalități de interacțiune cu API-uri REST pentru a obține și a trimite date către server.
+
+Andrei: Interesant. Cum ați gestionat eventualele probleme de performanță în acest proiect?
+
+Alex: Pentru a îmbunătăți performanța, am folosit tehnici precum lazy loading pentru componentele care nu erau necesare imediat și memoization pentru a preveni re-randarea inutilă a componentelor. De asemenea, am optimizat interogările către API pentru a reduce numărul de apeluri.
+
+Andrei: Foarte bine, Alex. Acum, să trecem la o întrebare mai tehnică. Cum ați implementa un algoritm de sortare eficient pentru un set mare de date?
+
+Alex: În funcție de cerințe, aș putea folosi QuickSort sau MergeSort. QuickSort este eficient în medie, dar are o complexitate de O(n^2) în cel mai rău caz. MergeSort, pe de altă parte, are o complexitate de O(n log n) în toate cazurile, dar necesită spațiu suplimentar pentru a funcționa. Dacă spațiul nu este o problemă, MergeSort ar fi alegerea mai sigură pentru seturi mari de date.
+
+Andrei: Foarte bine explicat. Ultima întrebare pentru astăzi: Cum vă asigurați că codul dumneavoastră este de calitate și ușor de întreținut?
+
+Alex: Mă asigur că scriu cod curat și bine documentat, folosesc principii de design precum SOLID și respect standardele de codare. De asemenea, scriu teste unitare și de integrare pentru a mă asigura că funcționalitățile sunt corect implementate și nu introduc bug-uri noi atunci când fac modificări.
+
+Andrei: Mulțumesc, Alex. Ați răspuns foarte bine la toate întrebările. Vom reveni cu un răspuns cât de curând posibil. O zi bună!
+
+Alex: Mulțumesc, Andrei! O zi bună și dumneavoastră!

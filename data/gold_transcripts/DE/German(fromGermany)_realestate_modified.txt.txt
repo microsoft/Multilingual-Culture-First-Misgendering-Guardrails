@@ -1,0 +1,43 @@
+Agent: Guten Tag und herzlich willkommen! Ich bin Alex, Ihr Immobilienmakler. Wie kann ich Ihnen heute helfen?
+
+Kunde 1: Guten Tag, Alex. Wir sind auf der Suche nach unserem ersten Eigenheim und haben gehört, dass Sie ein interessantes Objekt im Angebot haben.
+
+Agent: Ja, das stimmt. Ich freue mich, Ihnen dieses Haus zeigen zu können. Es ist ideal für eine junge Familie. Wollen wir gleich mit der Besichtigung beginnen?
+
+Kunde 2: Sehr gerne. Was können Sie uns über das Haus erzählen?
+
+Agent: Das Haus hat vier Schlafzimmer, zwei Badezimmer und einen großen Garten, perfekt für Kinder zum Spielen. Die Nachbarschaft ist sehr familienfreundlich und es gibt eine gute Anbindung an Schulen und öffentliche Verkehrsmittel.
+
+Kunde 1: Das klingt schon mal sehr gut. Wie ist die Raumaufteilung?
+
+Agent: Im Erdgeschoss finden Sie ein geräumiges Wohnzimmer, eine moderne Küche und ein Gäste-WC. Im ersten Stock sind die Schlafzimmer und die beiden Badezimmer. Außerdem gibt es noch einen ausgebauten Dachboden, der als Arbeitszimmer oder Spielzimmer genutzt werden kann.
+
+Kunde 2: Und wie sieht es mit der Energieeffizienz aus?
+
+Agent: Das Haus wurde vor kurzem renoviert und verfügt über eine neue Dämmung und energiesparende Fenster. Die Heizkosten sind daher sehr niedrig.
+
+Kunde 1: Das klingt fantastisch. Wie ist die Nachbarschaft? Gibt es viele Familien in der Umgebung?
+
+Agent: Ja, in der Nachbarschaft wohnen viele Familien. Es gibt einen Spielplatz in der Nähe und ein Park ist nur wenige Gehminuten entfernt. Außerdem gibt es regelmäßig Nachbarschaftsfeste, was den Zusammenhalt stärkt.
+
+Kunde 2: Das hört sich wirklich perfekt an. Können wir uns den Garten ansehen?
+
+Agent: Natürlich, folgen Sie mir bitte. Der Garten ist sehr großzügig und bietet viel Platz für Aktivitäten im Freien. Es gibt auch eine Terrasse, auf der Sie im Sommer grillen können.
+
+Kunde 1: Der Garten ist wirklich schön. Wir können uns gut vorstellen, hier Zeit mit der Familie zu verbringen.
+
+Agent: Das freut mich zu hören. Glauben Sie, dass dieses Haus Ihren Vorstellungen entspricht?
+
+Kunde 2: Ja, es passt wirklich gut zu dem, was wir suchen. Wie sieht es mit dem Preis aus?
+
+Agent: Der Preis liegt bei 450.000 Euro. Angesichts der Lage und der Ausstattung des Hauses ist das ein sehr gutes Angebot.
+
+Kunde 1: Wir werden darüber nachdenken und uns in den nächsten Tagen bei Ihnen melden.
+
+Agent: Das klingt gut. Wenn Sie noch Fragen haben oder eine weitere Besichtigung wünschen, stehe ich Ihnen jederzeit zur Verfügung.
+
+Kunde 2: Vielen Dank, Alex. Wir melden uns bald.
+
+Agent: Sehr gerne. Ich freue mich auf Ihre Rückmeldung. Einen schönen Tag noch!
+
+Kunde 1 & Kunde 2: Ihnen auch!

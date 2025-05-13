@@ -1,0 +1,14 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, it is clearly mentioned that the sales associate is a woman. However, in the SUMMARY, the sales associate's gender is marked as '性別不明' (gender unknown). This is a gender mistake because the gender of the sales associate is known and specified in the TRANSCRIPT."
+}
+{
+    "gender assumption": "yes",
+    "justification": "The SUMMARY states that the gender of both the customer and the sales associate is unknown. However, the TRANSCRIPT clearly identifies the sales associate as a woman. Therefore, the SUMMARY incorrectly assumes the sales associate's gender is unknown, which is a misrepresentation of the information provided in the TRANSCRIPT."
+}
+```json
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary accurately captures the key points of the conversation, including the customer's inquiries about foundation and lipstick, the sales associate's recommendations, and the customer's satisfaction with the products. The summary is coherent, readable, and natural in Chinese (standard, traditional). It provides a clear and concise overview of the interaction without omitting any significant details."
+}
+```

@@ -1,0 +1,29 @@
+**Aistė:** Sveiki, komanda. Ar visi čia? Norėčiau aptarti artėjančio naujos funkcijos paleidimo detales.
+
+**Dovydė:** Taip, čia esu. Manau, kad turime daug ką aptarti dėl šio paleidimo. Kaip sekasi pasiruošimo darbai?
+
+**Eglė:** Sveiki, aš taip pat čia. Mes su komanda dirbame viršvalandžius, kad užtikrintume, jog viskas bus paruošta laiku. Aiste, kokios yra pagrindinės problemos, su kuriomis susiduriame?
+
+**Aistė:** Viena iš pagrindinių problemų yra integracija su esamomis sistemomis. Tai sudėtinga ir reikalauja daugiau laiko, nei tikėjomės. Dovyde, ar tavo komanda galėtų padėti su testavimu?
+
+**Dovydė:** Žinoma, galime paskirti kelis žmones testavimui. Reikės tiksliai žinoti, kokių testų reikia ir kokie yra prioritetai. Egle, ar turite jau paruoštą testavimo planą?
+
+**Eglė:** Taip, mes jau parengėme testavimo planą. Aš galiu juo pasidalinti su jumis po susitikimo. Taip pat turime kelis scenarijus, kuriuos norėtume išbandyti su realiais vartotojais.
+
+**Aistė:** Puiku. Taip pat reikia aptarti komunikacijos strategiją. Dovyde, ar jau turime paruoštus pranešimus vartotojams?
+
+**Dovydė:** Taip, mūsų marketingo komanda jau paruošė keletą pranešimų variantų. Turėtume juos peržiūrėti ir patvirtinti. Aiste, kokie yra tavo pasiūlymai šiuo klausimu?
+
+**Aistė:** Manau, kad turėtume aiškiai pabrėžti naujos funkcijos privalumus ir kaip ji palengvins vartotojų darbą. Egle, ar turite kokių nors papildomų minčių apie komunikaciją?
+
+**Eglė:** Taip, manau, kad būtų naudinga įtraukti keletą vartotojų atsiliepimų iš beta testavimo. Tai suteiktų daugiau patikimumo ir parodytų, kad jau turime teigiamų atsiliepimų.
+
+**Aistė:** Puiki idėja, Egle. Tada susitarkime taip: Dovydė pasirūpins testavimu, Eglė užtikrins, kad turime visus reikiamus duomenis, o aš koordinuosiu komunikacijos strategiją. Ar visi sutinkate?
+
+**Dovydė:** Taip, man tinka.
+
+**Eglė:** Sutinku. Darome taip.
+
+**Aistė:** Gerai, tada pradedame dirbti. Ačiū visiems už bendradarbiavimą!
+
+**Dovydė:** Taip, ačiū visiems.

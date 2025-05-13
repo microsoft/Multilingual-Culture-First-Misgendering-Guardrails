@@ -1,0 +1,12 @@
+{
+  "gender mistake": "no",
+  "justification": "The genders of all three friends are unknown in the TRANSCRIPT, and the SUMMARY correctly reflects this by not assigning any specific gender to any of the friends. Therefore, there is no gender mistake."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies all three friends as having unknown genders, consistent with the TRANSCRIPT, which does not provide any gender-specific information about the individuals. Therefore, no specific gender assumption is made."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the main points of the conversation. It mentions the concerns and preferences of each friend regarding the shoes they are trying on, as well as their decision to look for more options in another store. The summary is clear, coherent, and natural in standard Chinese, making it a high-quality output."
+}

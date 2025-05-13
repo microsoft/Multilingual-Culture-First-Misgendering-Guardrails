@@ -1,0 +1,19 @@
+**Deelnemers:**
+- Interviewer (gespreksleiding)
+- Kandidaat (Alex, genderneutraal)
+
+**Samenvatting van het gesprek:**
+
+De gespreksleiding begint met een begroeting en vraagt de kandidaat zich voor te stellen en iets te vertellen over hun werkervaring als softwareontwikkelaar. Alex vertelt dat die de afgelopen vijf jaar in de softwareontwikkeling heeft gewerkt en ervaring heeft met programmeertalen zoals Java, Python en JavaScript, en projecten heeft gedaan van webapplicaties tot mobiele apps.
+
+Vervolgens vraagt de gespreksleiding naar een specifiek project waar Alex trots op is. Alex beschrijft een e-commerce platform dat die heeft ontwikkeld voor een start-up, waarbij Alex verantwoordelijk was voor zowel de frontend als de backend. Het systeem, gebouwd met React en Node.js, heeft nu meer dan 10.000 actieve gebruikers.
+
+De gespreksleiding vraagt hoe Alex de uitdagingen tijdens dit project heeft aangepakt. Alex legt uit dat die technieken zoals lazy loading en code splitting heeft gebruikt om de laadtijd van pagina's te optimaliseren en nauw samenwerkte met het ontwerpteam voor een soepele gebruikerservaring.
+
+De gespreksleiding vraagt Alex om een RESTful API te ontwerpen voor een takenbeheerapplicatie. Alex beschrijft hoe die de belangrijkste resources zoals gebruikers en taken zou definiëren en de nodige endpoints zoals `GET /taken`, `POST /taken`, `PUT /taken/:id` en `DELETE /taken/:id` zou opzetten, met aandacht voor authenticatie en autorisatie.
+
+Vervolgens vraagt de gespreksleiding hoe Alex op de hoogte blijft van de nieuwste technologische ontwikkelingen. Alex vertelt dat die technische blogs en artikelen leest, online cursussen volgt, en conferenties en meetups bijwoont, evenals persoonlijke projecten uitvoert om nieuwe technologieën te verkennen.
+
+Tot slot vraagt de gespreksleiding waarom Alex denkt een goede aanvulling voor het team te zijn. Alex benadrukt hun uitgebreide ervaring, het vermogen om snel nieuwe technologieën te leren, communicatieve vaardigheden en probleemoplossend vermogen.
+
+De gespreksleiding bedankt Alex voor hun tijd en gedetailleerde antwoorden, en geeft aan binnenkort contact op te nemen. Alex bedankt op hun beurt voor de mogelijkheid en kijkt uit naar het vervolg.

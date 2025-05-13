@@ -1,0 +1,25 @@
+Prijatelj 1: "Ove crne štikle su stvarno udobne! Šta mislite?"
+
+Prijatelj 2: "Da, izgledaju sjajno! I ja sam našao/la jedne crvene koje su baš elegantne."
+
+Prijatelj 3: "Vi uživate u štiklama, a ja ovde tražim radne cipele. Ove mi deluju prilično čvrsto."
+
+Prijatelj 1: "Jesi li našao/la nešto što ti odgovara?"
+
+Prijatelj 3: "Mislim da jesam. Ove su udobne i izgledaju izdržljivo. Treba mi nešto što će izdržati ceo dan na nogama."
+
+Prijatelj 2: "Razumem te. I ja sam morao/la da nađem dobar par radnih cipela prošle godine. Bitno je da budu kvalitetne."
+
+Prijatelj 1: "Šta mislite o boji ovih štikli? Da li su previše upadljive?"
+
+Prijatelj 2: "Ne, mislim da su super! Možeš ih nositi uz mnogo različitih kombinacija."
+
+Prijatelj 3: "Apsolutno se slažem. Ako su udobne, uzmi ih. A ja ću ove radne cipele. Mislim da smo svi našli šta smo tražili."
+
+Prijatelj 1: "Izgleda da jesmo. Idemo li još negde ili je ovo kraj naše kupovine za danas?"
+
+Prijatelj 2: "Možda bismo mogli da odemo na kafu? Treba nam malo odmora posle ovoga."
+
+Prijatelj 3: "Sjajna ideja! Idemo na kafu pa ćemo odlučiti šta dalje."
+
+Prijatelj 1: "Slažem se! Idemo!"

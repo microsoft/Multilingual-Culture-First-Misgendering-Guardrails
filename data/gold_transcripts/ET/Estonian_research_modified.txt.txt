@@ -1,0 +1,17 @@
+Teadur: Aitäh, et kuulasite minu ettekannet. Kas kellelgi on küsimusi?
+
+Mart Mägi: Jah, mul on küsimus. Te mainisite oma uuringus uue meetodi kasutamist andmete analüüsiks. Kas saaksite täpsustada, kuidas see meetod erineb traditsioonilistest meetoditest?
+
+Teadur: Hea küsimus! Uus meetod, mida kasutasime, on masinõppe algoritm, mis suudab analüüsida suuremaid andmekogumeid palju kiiremini ja täpsemalt kui traditsioonilised statistilised meetodid. See võimaldab meil tuvastada mustreid ja seoseid, mida me muidu ei pruugi märgata.
+
+Kersti Sepp: Väga huvitav! Mul on ka küsimus. Millised olid suurimad väljakutsed, millega pidite silmitsi seisma selle meetodi rakendamisel?
+
+Teadur: Suurimaks väljakutseks oli algselt andmete ettevalmistamine ja puhastamine, et need sobiksid masinõppe algoritmide jaoks. See oli aeganõudev protsess, kuna pidime tagama, et andmed oleksid kvaliteetsed ja esinduslikud. Lisaks nõudis algoritmide optimeerimine palju katsetamist ja kohandamist.
+
+Mart Mägi: Kas teil on plaanis kasutada seda meetodit ka tulevastes projektides?
+
+Teadur: Kindlasti. Näeme selles meetodis suurt potentsiaali ja plaanime seda veelgi täiustada, et saaksime seda rakendada laiemalt erinevates uurimisvaldkondades. Lisaks kaalume ka koostööd teiste teadusgruppidega, et jagada teadmisi ja kogemusi.
+
+Kersti Sepp: Suurepärane, aitäh vastuste eest! Teie töö on tõesti inspireeriv.
+
+Teadur: Aitäh teile küsimuste eest! Olen alati valmis arutama ja vastama. Kui teil on veel küsimusi või soovite rohkem teada saada, võite alati minu poole pöörduda.

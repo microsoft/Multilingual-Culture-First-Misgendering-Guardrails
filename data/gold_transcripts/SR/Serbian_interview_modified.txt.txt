@@ -1,0 +1,37 @@
+Intervju:
+
+Ispitivač: Dobar dan, hvala što ste došli na intervju. Možete li nam se ukratko predstaviti i reći nešto o svom iskustvu?
+
+Kandidat: Dobar dan, hvala na pozivu. Zovem se Vanja. Završio/la sam Fakultet tehničkih nauka i imam pet godina iskustva u razvoju softvera, posebno u Java programiranju.
+
+Ispitivač: Odlično, Vanja. Možete li nam reći nešto o poslednjem projektu na kojem ste radili?
+
+Kandidat: Naravno. Poslednji projekat na kojem sam radio/la bio je razvoj aplikacije za upravljanje zalihama za jednog velikog maloprodajnog lanca. Koristili smo Spring Boot za backend i Angular za frontend. Moj zadatak je bio da implementiram REST API i radim na optimizaciji baze podataka.
+
+Ispitivač: Zvuči impresivno. Kako ste pristupili optimizaciji baze podataka?
+
+Kandidat: Prvo sam analizirao/la postojeće upite i identifikovao/la one koji su najsporiji. Zatim sam koristio/la indekse i normalizaciju podataka kako bih poboljšao/la performanse. Takođe sam implementirao/la keširanje za često korišćene podatke.
+
+Ispitivač: Dobro. Da li ste imali priliku da radite sa DevOps alatima?
+
+Kandidat: Da, imao/la sam priliku. Koristio/la sam Docker za kreiranje kontejnera i Jenkins za kontinuiranu integraciju i isporuku. Takođe sam radio/la sa Kubernetesom za orkestraciju kontejnera.
+
+Ispitivač: Odlično. Kako biste rešili problem kada aplikacija prestane da odgovara na zahteve korisnika?
+
+Kandidat: Prvo bih proverio/la logove aplikacije da vidim da li postoji neki očigledan problem. Ako nema, proverio/la bih performanse servera i baze podataka da vidim da li postoji problem sa resursima. Ako ni tu ne nađem ništa, koristio/la bih alatke za praćenje performansi kao što su New Relic ili Grafana da bih identifikovao/la gde je usko grlo.
+
+Ispitivač: Vrlo dobro. Kako biste ocenili svoje komunikacione veštine?
+
+Kandidat: Verujem da su moje komunikacione veštine na visokom nivou. Uvek se trudim da jasno i koncizno prenosim informacije, bilo da radim sa timom ili sa klijentima. Takođe imam iskustva u vođenju sastanaka i prezentacija.
+
+Ispitivač: Hvala, Vanja. To bi bilo sve za danas. Imate li vi neka pitanja za nas?
+
+Kandidat: Hvala vama na prilici. Zanima me koji su sledeći koraci u procesu selekcije?
+
+Ispitivač: Sledeći korak je tehnički intervju sa našim timom inženjera. Ako prođete taj deo, sledi finalni intervju sa menadžmentom. Obavestićemo vas o daljim koracima uskoro.
+
+Kandidat: Hvala vam. Radujem se daljoj saradnji.
+
+Ispitivač: Hvala još jednom na dolasku. Prijatan dan!
+
+Kandidat: Prijatan dan i vama!

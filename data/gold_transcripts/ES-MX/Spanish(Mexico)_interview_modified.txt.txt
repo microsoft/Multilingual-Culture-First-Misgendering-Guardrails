@@ -1,0 +1,35 @@
+**Entrevistador (Andy):** Buenos días, ¿cómo estás?
+
+**Candidato (Alex):** Buenos días, Andy. Estoy bien, gracias. ¿Y tú?
+
+**Andy:** Muy bien, gracias. Gracias por venir hoy. Vamos a empezar con algunas preguntas sobre tu experiencia. ¿Puedes contarme un poco sobre tu trayectoria como persona desarrolladora de software?
+
+**Alex:** Claro, he trabajado como persona desarrolladora de software durante los últimos cinco años. Empecé en una pequeña startup donde aprendí mucho sobre desarrollo ágil y luego me moví a una empresa más grande donde me especialicé en desarrollo backend con Java y Spring.
+
+**Andy:** Excelente. ¿Podrías describir un proyecto reciente en el que hayas trabajado y cuál fue tu rol en él?
+
+**Alex:** Por supuesto. Recientemente trabajé en un proyecto para una aplicación de e-commerce. Mi rol principal fue diseñar y desarrollar la arquitectura del backend, asegurando que fuera escalable y eficiente. Utilicé microservicios y contenedores Docker para facilitar la implementación y el mantenimiento.
+
+**Andy:** Muy interesante. Ahora, hablemos un poco sobre tus habilidades técnicas. ¿Cuál es tu lenguaje de programación favorito y por qué?
+
+**Alex:** Mi lenguaje favorito es Python. Me gusta porque es muy versátil y tiene una sintaxis clara y concisa, lo que facilita el desarrollo rápido y la lectura del código. Además, la comunidad es muy activa y hay muchas librerías disponibles.
+
+**Andy:** Muy bien. Imaginemos que tienes que optimizar una base de datos que está funcionando lentamente. ¿Cuáles serían los pasos que seguirías?
+
+**Alex:** Primero, identificaría los cuellos de botella utilizando herramientas de monitoreo de rendimiento. Luego, revisaría los índices para asegurarme de que están optimizados. También evaluaría las consultas SQL para ver si pueden ser reescritas de manera más eficiente. Finalmente, consideraría la posibilidad de particionar tablas grandes si fuera necesario.
+
+**Andy:** Suena como un buen enfoque. ¿Podrías darme un ejemplo de una vez en la que tuviste que comunicarte con personas de equipo no técnico para explicar un problema complejo?
+
+**Alex:** Claro, en mi trabajo anterior, tuvimos un problema con la sincronización de datos entre el frontend y el backend. Tuve que explicar el problema al equipo de marketing, que no tenía conocimientos técnicos. Utilicé analogías simples para describir cómo los datos se movían entre los sistemas y por qué estaba ocurriendo el problema. También les presenté las posibles soluciones y los beneficios de cada una.
+
+**Andy:** Eso es genial. Es muy importante poder comunicar ideas técnicas de manera clara. Finalmente, ¿tienes alguna pregunta sobre el puesto o la empresa?
+
+**Alex:** Sí, me gustaría saber más sobre el equipo con el que estaría trabajando y cuáles son los principales desafíos que están enfrentando actualmente.
+
+**Andy:** Nuestro equipo está compuesto por desarrolladores con diversas especialidades, desde frontend hasta DevOps. Actualmente, uno de nuestros mayores desafíos es mejorar la escalabilidad de nuestros servicios para manejar un mayor volumen de usuarios. Estamos buscando a alguien que pueda aportar ideas innovadoras y ayudar a implementar soluciones efectivas.
+
+**Alex:** Suena como una gran oportunidad. Gracias por la información, Andy.
+
+**Andy:** Gracias a ti, Alex. Ha sido un placer conocerte. Te estaremos contactando pronto con los siguientes pasos. ¡Que tengas un buen día!
+
+**Alex:** Igualmente, muchas gracias.

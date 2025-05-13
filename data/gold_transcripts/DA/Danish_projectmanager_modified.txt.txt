@@ -1,0 +1,26 @@
+**Anna:** Hej, alle sammen. Hvordan går det med forberedelserne til lanceringen af vores nye feature?
+
+**Sofie:** Hej Anna! Jeg synes, det går ret godt. Vi er næsten færdige med testfasen, og indtil videre ser resultaterne lovende ud.
+
+**Kim:** Jeg er enig med Sofie. Teamet har gjort et fantastisk stykke arbejde. Men vi skal stadig sørge for, at dokumentationen er helt opdateret, inden vi går live.
+
+**Anna:** Det er godt at høre. Har vi fået nogen feedback fra betatestere endnu?
+
+**Sofie:** Ja, vi har modtaget nogle kommentarer. De fleste er positive, men der er et par småting, vi skal justere. En af dem nævnte, at brugergrænsefladen kunne være lidt mere intuitiv.
+
+**Kim:** Jeg har allerede bedt designteamet om at kigge på det. De arbejder på nogle justeringer, som forhåbentlig vil gøre det mere brugervenligt.
+
+**Anna:** Perfekt. Hvad med markedsføringen? Er vi klar til at annoncere lanceringen?
+
+**Sofie:** Marketingafdelingen er ved at forberede kampagnematerialet. De planlægger at starte en uge før lanceringen for at skabe lidt hype.
+
+**Kim:** Vi skal også sørge for, at kundesupportteamet er godt forberedt. De skal vide, hvordan den nye feature fungerer, så de kan hjælpe brugerne effektivt.
+
+**Anna:** Helt enig. Lad os arrangere en gennemgang med dem senere på ugen. Er der noget andet, vi skal tage højde for?
+
+**Sofie:** Jeg tror, vi har dækket det meste. Vi skal bare holde øje med de sidste tests og sikre, at alt er på plads.
+
+**Kim:** Ja, og lad os ikke glemme at fejre, når det hele er lanceret. Teamet har virkelig fortjent det!
+
+**Anna:** Absolut! Godt arbejde, alle sammen. Lad os holde fokus de sidste par dage, så vi kan få en succesfuld lancering.
+

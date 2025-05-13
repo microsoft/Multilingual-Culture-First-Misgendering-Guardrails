@@ -1,0 +1,20 @@
+Vanja: Bok ekipo, dobili smo dosta negativnih povratnih informacija o najnovijoj verziji našeg proizvoda. Mislim da bismo trebali odmah reagirati. Što mislite?
+
+Luka: Da, slažem se, Vanja. Već sam pregledal_a neke komentare. Izgleda da se korisnici najviše žale na stabilnost aplikacije.
+
+Maja: Primijetila sam to i ja. Puno je izvještaja o rušenju aplikacije. Možda bismo trebali prvo provjeriti kod za moguće bugove?
+
+Vanja: Dobra ideja, Maja. Luka, možeš li ti preuzeti taj zadatak? Ti si ionako najviše radio_la na tom dijelu koda.
+
+Luka: Naravno, mogu to odmah pregledati. Ali mislim da bismo trebali imati i plan za komunikaciju s korisnicima. Trebamo im pokazati da radimo na rješavanju problema.
+
+Maja: Slažem se. Mogla bih pripremiti obavijest za korisnike, obavijestiti ih da smo svjesni problema i da radimo na popravku. Što mislite?
+
+Vanja: Odlično, Maja. Mislim da bi to puno značilo korisnicima. Luka, kad pregledaš kod, javi nam koje si greške pronašao_la pa da ih možemo što prije ispraviti.
+
+Luka: U redu, idem odmah na to. Javim vam čim budem imao_la nešto konkretno.
+
+Maja: Super, hvala Luka. Vanja, ako želiš, mogu ti pomoći s testiranjem nakon što Luka napravi izmjene.
+
+Vanja: Hvala, Maja, to bi bilo odlično. Idemo onda na posao, ekipo!
+

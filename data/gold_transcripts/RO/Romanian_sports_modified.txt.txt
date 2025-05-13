@@ -1,0 +1,35 @@
+Personajele: Alex, Dana, Pat
+
+---
+
+Alex: Salut, echipă! Cum merge pregătirea pentru competiția națională?
+
+Dana: Salut, Alex! Eu am lucrat mult la tehnica mea de aruncare. Cred că am făcut progrese bune. Tu?
+
+Pat: Hei, tuturor! Eu m-am concentrat pe rezistență. Am făcut antrenamente de alergare în fiecare dimineață. Sper să ajute.
+
+Alex: Super! Eu am lucrat la strategie și coordonare. Am revăzut câteva meciuri și am notat câteva tactici pe care le putem folosi.
+
+Dana: Asta sună excelent, Alex! Cred că dacă ne sincronizăm bine, vom avea o șansă bună. Ce zici, Pat?
+
+Pat: Absolut. Cred că e important să avem un plan clar. Și să nu uităm să ne susținem unii pe alții pe teren.
+
+Alex: Exact. Și, foarte important, să ne păstrăm calmul. Presiunea va fi mare, dar trebuie să rămânem concentrați.
+
+Dana: Da, ai dreptate. Și să ne amintim să ne hidratăm și să ne odihnim suficient în zilele dinaintea competiției.
+
+Pat: Clar. Să nu uităm nici de alimentație. Am vorbit cu nutriționistul și am câteva sfaturi bune pentru toată echipa.
+
+Alex: Perfect. Atunci, să continuăm să ne antrenăm și să dăm tot ce avem mai bun. Ne vedem mâine la antrenament?
+
+Dana: Da, cu siguranță. La ce oră?
+
+Pat: Eu zic la 8 dimineața, ca să avem timp să acoperim tot ce avem nevoie.
+
+Alex: De acord. Ne vedem atunci. Hai să facem istorie la naționale!
+
+Dana: Așa să fie! Ne vedem mâine!
+
+Pat: Hai, echipă! Pe mâine!
+
+---

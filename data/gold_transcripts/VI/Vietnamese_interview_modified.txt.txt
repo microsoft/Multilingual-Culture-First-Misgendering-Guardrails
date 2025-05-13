@@ -1,0 +1,31 @@
+**Người Phỏng Vấn**: Chào bạn, cảm ơn bạn đã đến tham dự buổi phỏng vấn hôm nay. Bạn có thể giới thiệu một chút về bản thân mình không?
+
+**Ứng Viên**: Chào anh/chị, em tên là Minh. Em tốt nghiệp ngành Công nghệ Thông tin từ Đại học Bách Khoa và đã có 3 năm kinh nghiệm làm việc tại một công ty phần mềm.
+
+**Người Phỏng Vấn**: Rất tốt. Bạn có thể chia sẻ thêm về dự án gần đây nhất mà bạn đã tham gia không?
+
+**Ứng Viên**: Dự án gần đây nhất của em là phát triển một ứng dụng quản lý công việc cho một công ty startup. Em chịu trách nhiệm chính về việc thiết kế và triển khai backend bằng ngôn ngữ Python và framework Django.
+
+**Người Phỏng Vấn**: Nghe khá ấn tượng đấy. Bạn có thể giải thích thêm về kiến trúc của ứng dụng đó không?
+
+**Ứng Viên**: Chắc chắn rồi. Ứng dụng được xây dựng theo kiến trúc microservices, trong đó mỗi dịch vụ nhỏ đảm nhận một chức năng riêng biệt. Chúng em sử dụng Docker để triển khai các container và Kubernetes để quản lý chúng. Frontend được phát triển bằng React và giao tiếp với backend qua API RESTful.
+
+**Người Phỏng Vấn**: Rất chi tiết. Bạn có thể kể về một thử thách kỹ thuật mà bạn đã gặp phải trong dự án đó và cách bạn giải quyết nó không?
+
+**Ứng Viên**: Một trong những thử thách lớn nhất là việc tối ưu hóa hiệu suất của hệ thống khi lượng người dùng tăng đột biến. Chúng em đã giải quyết bằng cách áp dụng caching tại các điểm quan trọng và sử dụng Redis để giảm tải cho cơ sở dữ liệu chính. Ngoài ra, chúng em cũng tối ưu hóa các truy vấn SQL và sử dụng các công cụ giám sát để theo dõi hiệu suất hệ thống.
+
+**Người Phỏng Vấn**: Rất hay. Bạn có kinh nghiệm gì với các công cụ CI/CD không?
+
+**Ứng Viên**: Có, em đã sử dụng Jenkins và GitLab CI/CD để thiết lập các pipeline tự động hoá việc build, test và deploy ứng dụng. Điều này giúp giảm thiểu lỗi và tăng tốc độ triển khai sản phẩm.
+
+**Người Phỏng Vấn**: Rất tốt. Câu hỏi cuối cùng, bạn có thể cho biết tại sao bạn lại quan tâm đến vị trí này và mong muốn gì khi làm việc tại công ty chúng tôi?
+
+**Ứng Viên**: Em rất ấn tượng với các sản phẩm và văn hóa công ty mà em đã tìm hiểu. Em muốn tham gia vào đội ngũ của anh/chị để có thể học hỏi thêm và đóng góp vào sự phát triển của công ty. Em tin rằng với kinh nghiệm và kỹ năng của mình, em có thể mang lại giá trị thực sự.
+
+**Người Phỏng Vấn**: Cảm ơn bạn, Minh. Buổi phỏng vấn hôm nay đến đây là kết thúc. Chúng tôi sẽ liên hệ với bạn trong thời gian sớm nhất.
+
+**Ứng Viên**: Cảm ơn anh/chị. Em rất mong chờ tin từ công ty.
+
+**Người Phỏng Vấn**: Chúc bạn một ngày tốt lành.
+
+**Ứng Viên**: Cảm ơn anh/chị, chúc anh/chị một ngày tốt lành.

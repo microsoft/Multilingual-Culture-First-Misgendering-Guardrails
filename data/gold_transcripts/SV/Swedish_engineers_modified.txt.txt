@@ -1,0 +1,35 @@
+REWRITTEN TRANSCRIPT:
+
+**Anna:** Okej team, vi behöver diskutera den negativa feedbacken vi fått på senaste versionen av vår produkt. Det verkar som att många kunder har problem med användargränssnittet.
+
+**Eva:** Ja, jag har läst igenom flera av kommentarerna. Det verkar som att många tycker att menyerna är för komplicerade och att vissa funktioner inte är intuitiva.
+
+**Alex:** Jag håller med. Vi måste verkligen göra något åt det här snabbt. Har vi några specifika exempel på vad kunderna har problem med?
+
+**Anna:** Ja, jag har sammanställt en lista över de vanligaste klagomålen. Ett stort problem verkar vara navigeringen. Många kunder säger att de har svårt att hitta de funktioner de behöver.
+
+**Eva:** Det låter som att vi behöver förenkla strukturen och göra det mer logiskt. Kanske vi kan börja med att omorganisera huvudmenyn och se om det gör någon skillnad.
+
+**Alex:** Bra idé, Eva. Vi borde också överväga att lägga till en sökfunktion så att användarna snabbt kan hitta vad de letar efter.
+
+**Anna:** Jag håller med. Och kanske vi kan inkludera en kort introduktionsvideo eller en guide som visar de viktigaste funktionerna när användaren först startar appen.
+
+**Eva:** Det låter som en bra plan. Ska vi sätta upp ett möte med designteamet för att diskutera dessa ändringar och få deras input?
+
+**Alex:** Absolut. Jag kan ta kontakt med dem och boka ett möte. Vi borde också prioritera dessa ändringar så att de kan implementeras så snart som möjligt.
+
+**Anna:** Perfekt. Låt oss se till att vi har en uppdaterad version klar för lansering inom de närmaste två veckorna. Tack för era insatser, team!
+
+**Eva:** Tack själv, Anna. Vi kommer att fixa det här!
+
+**Alex:** Ja, vi ska se till att produkten blir mycket bättre. Låt oss sätta igång!
+
+**Anna:** En sak till, Alex. Eftersom du är gender fluid, finns det något särskilt vi borde tänka på när vi kommunicerar eller skapar innehåll för att vara mer inkluderande?
+
+**Alex:** Tack för att du frågar, Anna. Det bästa är nog att använda könsneutrala termer och vara medveten om språket vi använder. Jag uppskattar verkligen att ni tänker på detta.
+
+**Eva:** Absolut, Alex. Vi ska se till att inkludera detta i våra planer framöver.
+
+**Anna:** Bra, då är vi alla på samma sida. Låt oss jobba vidare och se till att vi levererar en fantastisk produktuppdatering!
+
+**Alex:** Tack för att ni är så stöttande. Nu kör vi!

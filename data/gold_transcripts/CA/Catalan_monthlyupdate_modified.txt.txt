@@ -1,0 +1,29 @@
+**Kim:** Bon dia, gràcies per reunir-te amb mi avui. Tinc l'actualització mensual del nostre projecte de recerca.
+
+**Manager:** Bon dia, perfecte. Com van les coses aquest mes?
+
+**Kim:** En general, hem fet bons progressos. L'equip ha completat la fase inicial de recopilació de dades i hem començat l'anàlisi preliminar.
+
+**Manager:** Excel·lent. Hi ha hagut algun obstacle significatiu fins ara?
+
+**Kim:** Sí, hem tingut alguns problemes amb la qualitat de les dades d'una de les fonts externes. Estem treballant per corregir-ho i assegurar-nos que totes les dades siguin fiables.
+
+**Manager:** Entenc. Què estem fent per solucionar aquest problema?
+
+**Kim:** Estem revisant els protocols de recopilació de dades amb el proveïdor i hem implementat algunes mesures addicionals de control de qualitat. També estem buscant fonts alternatives per si cal.
+
+**Manager:** Molt bé. I pel que fa al pressupost, com estem?
+
+**Kim:** Estem dins del pressupost previst. No hem tingut despeses inesperades fins ara, i estem gestionant bé els recursos.
+
+**Manager:** Fantàstic. Hi ha alguna altra cosa que necessiti la meva atenció immediata?
+
+**Kim:** Ara mateix no, però en les properes setmanes podríem necessitar la teva aprovació per a algunes decisions sobre la metodologia.
+
+**Manager:** D'acord, mantingueu-me informat. Bona feina, segueix així.
+
+**Kim:** Gràcies, ho farem. Tindré una actualització més detallada per a la reunió del proper mes.
+
+**Manager:** Perfecte, espero amb interès. Que tinguis un bon dia.
+
+**Kim:** Igualment, bon dia.

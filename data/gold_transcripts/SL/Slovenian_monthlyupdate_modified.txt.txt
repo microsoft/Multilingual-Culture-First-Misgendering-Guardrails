@@ -1,0 +1,31 @@
+Senior Researcher (SR): Dober dan, hvala, da ste si vzeli čas za mesečno poročilo.
+
+Manager (M): Dober dan, ni problema. Veselim se vašega poročila. Kako napreduje projekt?
+
+SR: Projekt napreduje zelo dobro. V zadnjem mesecu smo dosegli nekaj pomembnih mejnikov. Najprej smo uspešno zaključili fazo testiranja prototipa.
+
+M: To so odlične novice. Ali so bili rezultati v skladu z našimi pričakovanji?
+
+SR: Da, rezultati so bili celo boljši od pričakovanih. Naši testi so pokazali, da je prototip zelo učinkovit in stabilen. Prav tako smo prejeli pozitivne povratne informacije od naših partnerjev.
+
+M: To je res spodbudno slišati. Kako je s proračunom? Ali smo znotraj načrtovanih stroškov?
+
+SR: Trenutno smo znotraj načrtovanih stroškov. Smo pa morali prilagoditi nekaj manjših postavk zaradi nepredvidenih izzivov, vendar to ni bistveno vplivalo na skupni proračun.
+
+M: Razumem. Ali potrebujete kakršno koli dodatno podporo ali vire za nadaljnje faze projekta?
+
+SR: Zaenkrat smo dobro opremljeni, vendar bi morda potrebovali dodatno osebje za analizo podatkov v naslednjih mesecih. To bi nam pomagalo hitreje napredovati.
+
+M: V redu, bom preveril možnosti za dodatno osebje. Ali imate še kakšne druge pomembne informacije, ki bi jih morali obravnavati?
+
+SR: Da, še ena stvar. Naša ekipa je predlagala, da bi organizirali delavnico s ciljem izboljšanja sodelovanja med oddelki. Menim, da bi to lahko pozitivno vplivalo na našo učinkovitost.
+
+M: To se sliši kot dobra ideja. Prosimo, pripravite predlog delavnice in ga posredujte za odobritev.
+
+SR: Seveda, bom to uredil_a. Hvala za vašo podporo in čas.
+
+M: Hvala vam za vaš trud in odlične rezultate. Nadaljujte z dobrim delom!
+
+SR: Hvala, se bom potrudil_a. Lep dan še naprej!
+
+M: Lep dan tudi vam!

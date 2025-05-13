@@ -1,0 +1,45 @@
+Verkoper: Goedemiddag! Welkom bij onze make-up afdeling. Kan ik u ergens mee helpen vandaag?
+
+Klant: Goedemiddag! Ja, ik ben op zoek naar een nieuwe foundation. Mijn huid is nogal droog, dus ik zoek iets wat hydraterend is.
+
+Verkoper: Natuurlijk, ik begrijp het. We hebben verschillende foundations die speciaal zijn ontworpen voor een droge huid. Heeft u een specifieke merkvoorkeur?
+
+Klant: Niet echt, ik sta open voor suggesties. Ik heb gehoord dat jullie nieuwe producten van een merk hebben binnengekregen. Kun je daar iets meer over vertellen?
+
+Verkoper: Absoluut! We hebben net de nieuwe lijn van Clarins binnen. Hun Skin Illusion foundation is erg populair en bevat hydraterende ingrediënten zoals aloë vera en hyaluronzuur. Wilt u dat ik een kleurtest voor u doe?
+
+Klant: Dat klinkt goed. Ja, graag een kleurtest. Ik wil er zeker van zijn dat de kleur goed bij mijn huid past.
+
+Verkoper: Natuurlijk, laten we eens kijken. Wat is uw huidige foundationkleur, of weet u uw huidondertoon?
+
+Klant: Mijn huidige foundation is meestal een lichte beige tint, en ik denk dat mijn ondertoon neutraal is.
+
+Verkoper: Perfect, dan denk ik dat we moeten kijken naar de tinten 103 en 105. Mag ik een beetje van uw gezicht reinigen om de foundation goed te kunnen testen?
+
+Klant: Ja, dat is prima. Ga uw gang.
+
+Verkoper: Dank u. [Reinigt een klein gedeelte van het gezicht van de klant en brengt de foundation aan] Ziet u, de 103 lijkt erg goed te matchen met uw huid. Hoe voelt het aan?
+
+Klant: Het voelt heel comfortabel, helemaal niet droog. Ik denk dat dit een goede match is. Kun je me de prijs vertellen?
+
+Verkoper: Natuurlijk, de Skin Illusion foundation kost €39,99. We hebben momenteel een aanbieding waarbij je 10% korting krijgt als je ook een primer koopt.
+
+Klant: Interessant! Heb je een primer die je zou aanraden voor mijn huidtype?
+
+Verkoper: Ja, ik zou de SOS Primer van Clarins aanraden. Deze is speciaal ontwikkeld om de huid te hydrateren en de foundation langer mooi te houden. Wilt u die ook proberen?
+
+Klant: Ja, laten we dat doen. Als het goed werkt, neem ik beide.
+
+Verkoper: Prima, ik zal de primer even aanbrengen. [Brengt de primer aan en daarna de foundation] Hoe voelt het nu?
+
+Klant: Het voelt fantastisch, heel licht en mijn huid ziet er stralend uit.
+
+Verkoper: Geweldig! Zal ik de foundation en primer voor u inpakken?
+
+Klant: Ja, graag. Bedankt voor al je hulp.
+
+Verkoper: Geen dank, het was mijn plezier. Hier zijn uw producten. Heeft u nog vragen of wilt u nog iets anders proberen?
+
+Klant: Nee, dit is alles voor nu. Bedankt en fijne dag verder!
+
+Verkoper: U ook een fijne dag! Tot ziens!

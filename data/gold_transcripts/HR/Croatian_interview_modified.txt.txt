@@ -1,0 +1,39 @@
+REWRITTEN TRANSCRIPT:
+
+Intervjuator: Dobar dan! Hvala što ste došli na intervju. Kako se osjećate danas?
+
+Kandidat: Dobar dan! Hvala na pozivu. Osjećam se dobro, malo sam uzbuđen/o, ali spreman/a sam za razgovor.
+
+Intervjuator: Drago mi je to čuti. Možete li nam reći nešto o svom iskustvu kao softverski developer?
+
+Kandidat: Naravno. Imam pet godina iskustva u razvoju softvera. Radio/la sam na različitim projektima, od web aplikacija do mobilnih aplikacija, koristeći jezike poput Jave, Pythona i JavaScripta.
+
+Intervjuator: Impresivno! Možete li nam dati primjer jednog projekta na kojem ste radili i koja je bila vaša uloga u timu?
+
+Kandidat: Radio/la sam na projektu razvoja e-commerce platforme. Moja uloga bila je backend developer, gdje sam dizajnirao/la i implementirao/la RESTful API-je, te radio/la na optimizaciji baze podataka za bolje performanse.
+
+Intervjuator: Zvuči kao zahtjevan projekt. Kako ste surađivali s ostatkom tima?
+
+Kandidat: Suradnja je bila ključna. Koristili smo Agile metodologiju, održavali redovite sastanke i koristili alate poput Jire za praćenje zadataka. Također, redovito smo obavljali code reviewe kako bismo osigurali kvalitetu koda.
+
+Intervjuator: Sjajno. Kako biste riješili problem performansi u aplikaciji koja ima spore upite prema bazi podataka?
+
+Kandidat: Prvo bih identificirao/la problematične upite koristeći alate za profiliranje. Zatim bih optimizirao/la te upite, možda dodavanjem indeksa ili prepisivanjem složenih upita. Ako je potrebno, razmislio/la bih o korištenju keširanja kako bih smanjio/la opterećenje baze podataka.
+
+Intervjuator: Vrlo dobro. Možete li nam reći nešto o svom iskustvu s DevOps praksama?
+
+Kandidat: Imam iskustva s implementacijom CI/CD cjevovoda koristeći alate poput Jenkins i GitLab CI. Također, radio/la sam s Dockerom za kreiranje i upravljanje kontejnerima, te s Kubernetesom za orkestraciju tih kontejnera.
+
+Intervjuator: Hvala vam na detaljnim odgovorima. Imate li vi možda neka pitanja za nas?
+
+Kandidat: Da, zanima me koje tehnologije trenutno koristite u vašim projektima i kakva je kultura rada u vašem timu?
+
+Intervjuator: Koristimo širok spektar tehnologija, uključujući Spring Boot za backend, React za frontend, te AWS za cloud usluge. Naša kultura rada temelji se na suradnji i kontinuiranom učenju, te potičemo inovacije i dijeljenje znanja.
+
+Kandidat: Hvala vam na informacijama. To zvuči kao odlično okruženje za rad.
+
+Intervjuator: Hvala vam na dolasku i želimo vam puno sreće. Javimo vam se uskoro s povratnim informacijama.
+
+Kandidat: Hvala vam! Radujem se vašem odgovoru. Doviđenja!
+
+Intervjuator: Doviđenja!

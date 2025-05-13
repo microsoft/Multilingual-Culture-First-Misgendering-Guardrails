@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of all three doctors as specified in the TRANSCRIPT. Dr. Wang is male, Dr. Lin is male, and Dr. Li is female. There are no gender mistakes in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants as specified in the TRANSCRIPT. There is no assumption made about gender without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY accurately captures the key points discussed in the TRANSCRIPT. It mentions the administrative changes, the challenges highlighted by Lin and Li, and the suggestions made by Wang, Lin, and Li. The summary is coherent, readable, and natural in Chinese (standard, traditional). It includes all the necessary details and presents them in a clear and concise manner."
+}

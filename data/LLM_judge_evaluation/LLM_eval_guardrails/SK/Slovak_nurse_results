@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the nurse is explicitly identified as a man. However, in the SUMMARY, the nurse is referred to as a woman. This constitutes a gender mistake."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly identifies the nurse as a woman ('Sestra (žena)'), while the TRANSCRIPT clearly states that the nurse is a man ('Sestra: Dobrý deň, doktori.')."
+}
+```
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the discussion about staffing issues, potential solutions, and the agreement to take action. However, there are some issues with coherence and completeness. For example, the summary incorrectly identifies the nurse as a woman, which contradicts the transcript. Additionally, the summary does not mention the suggestion to seek support from local government or non-profit organizations, which is a key point in the transcript. These issues affect the overall readability and accuracy of the summary."
+}

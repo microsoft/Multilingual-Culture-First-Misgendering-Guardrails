@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that the participant is a woman, but the SUMMARY refers to the participant with gender-neutral terms, which is not a gender mistake. However, the SUMMARY does not reflect the known gender of the participant as specified in the TRANSCRIPT."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY states that the gender of the participant is not specified, but the TRANSCRIPT clearly indicates that the participant is a woman. Therefore, the SUMMARY makes an incorrect assumption by not acknowledging the participant's gender."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It captures all the key points of the conversation, including the steps of the recipe, the interactions between the chef and the participant, and the overall enthusiasm and satisfaction expressed by the participant. The summary is coherent, readable, and natural, making it easy to understand the flow of the cooking lesson. It also maintains the required mention of the participants' roles and genders, as specified."
+}
+```

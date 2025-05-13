@@ -1,0 +1,37 @@
+Host: Dobrý deň a vitajte v našej kuchárskej šou! Dnes sa naučíme, ako upiecť čokoládovú tortu. Ako sa voláte?
+
+Participant: Dobrý deň, volám sa Jana. Teším sa na pečenie!
+
+Host: Rád vás spoznávam, Jana. Máte už nejaké skúsenosti s pečením?
+
+Jana: Áno, pečiem celkom často, ale čokoládovú tortu som ešte neskúšala.
+
+Host: To je skvelé! Začneme tým, že si pripravíme všetky ingrediencie. Budeme potrebovať múku, cukor, kakao, prášok do pečiva, vajcia, mlieko, olej a samozrejme čokoládu. Máte všetko pripravené?
+
+Jana: Áno, všetko mám pred sebou.
+
+Host: Výborne. Najprv si predhrejeme rúru na 180 stupňov Celzia. Potom zmiešame suché ingrediencie – múku, cukor, kakao a prášok do pečiva – v jednej mise. Skúste to, prosím.
+
+Jana: Už to robím. Mám všetko dobre premiešané.
+
+Host: Perfektné. Teraz v druhej mise rozšľaháme vajcia, pridáme mlieko a olej. Potom postupne pridáme suché ingrediencie a dobre premiešame, aby sme získali hladké cesto.
+
+Jana: Rozumiem. Už to miešam a vyzerá to dobre.
+
+Host: Skvelá práca, Jana. Teraz pridáme roztopenú čokoládu do cesta a opäť premiešame. Hotové cesto nalejeme do vymastenej a múkou vysypanej formy na pečenie.
+
+Jana: Už to mám. Cesto je vo forme.
+
+Host: Výborne. Teraz vložíme formu do predhriatej rúry a pečieme približne 30-35 minút. Môžeme skontrolovať špáradlom, či je torta upečená – ak sa špáradlo vyjde čisté, je hotová.
+
+Jana: Dobre, už sa pečie. Nemôžem sa dočkať, kedy ju ochutnám!
+
+Host: Ani ja! Keď bude torta hotová, necháme ju vychladnúť a potom ju môžeme ozdobiť podľa vlastnej chuti. Máte nejaké plány na ozdobenie?
+
+Jana: Myslela som na čokoládovú polevu a niekoľko čerstvých jahôd.
+
+Host: To znie úžasne! Ďakujem, že ste sa k nám dnes pridali, Jana. Verím, že si tortu užijete.
+
+Jana: Ďakujem vám za skvelé rady. Upečiem ju aj pre svoju rodinu!
+
+Host: Prajem vám veľa úspechov a dobrú chuť!

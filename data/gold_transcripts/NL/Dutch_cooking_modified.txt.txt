@@ -1,0 +1,37 @@
+Host: "Welkom bij onze kookshow! Vandaag gaan we een heerlijke chocoladetaart bakken. Ben je er klaar voor?"
+
+Deelnemer: "Ja, ik ben er helemaal klaar voor! Ik ben dol op chocoladetaart."
+
+Host: "Geweldig! Laten we beginnen met de ingrediënten. We hebben bloem, suiker, cacaopoeder, bakpoeder, eieren, melk, boter en vanille-extract nodig. Heb je alles klaarstaan?"
+
+Deelnemer: "Ja, ik heb alles hier voor me. Wat is de eerste stap?"
+
+Host: "Perfect. De eerste stap is om de oven voor te verwarmen op 180 graden Celsius. Daarna gaan we de droge ingrediënten mengen. Kun je de bloem, suiker, cacaopoeder en bakpoeder in een kom doen en goed door elkaar roeren?"
+
+Deelnemer: "Dat kan ik zeker doen. Zo, alles zit in de kom en ik roer het goed door."
+
+Host: "Goed zo! Nu gaan we de natte ingrediënten mengen. In een andere kom, klop je de eieren, melk, gesmolten boter en vanille-extract samen. Zorg ervoor dat alles goed gemengd is."
+
+Deelnemer: "Oké, ik ben nu de eieren aan het kloppen en voeg de melk, boter en vanille-extract toe. Het ziet er goed uit!"
+
+Host: "Fantastisch! Nu voegen we de natte ingrediënten toe aan de droge ingrediënten. Roer het voorzichtig door tot het een glad beslag is."
+
+Deelnemer: "Ik voeg ze nu samen en roer het goed. Het beslag ziet er heerlijk uit."
+
+Host: "Dat klinkt perfect. Giet het beslag nu in een ingevette bakvorm en strijk de bovenkant glad."
+
+Deelnemer: "Ik heb het beslag in de vorm gedaan en de bovenkant gladgestreken. Wat is de volgende stap?"
+
+Host: "Nu bak je de taart in de voorverwarmde oven voor ongeveer 35 tot 40 minuten. Je kunt controleren of de taart gaar is door een satéprikker in het midden te steken; als die er schoon uitkomt, is de taart klaar."
+
+Deelnemer: "Ik zet de taart nu in de oven. Ik ben zo benieuwd hoe hij zal smaken!"
+
+Host: "Ik weet zeker dat hij heerlijk zal zijn. Terwijl we wachten, kunnen we alvast nadenken over de decoratie. Heb je al ideeën?"
+
+Deelnemer: "Ik denk eraan om de taart te versieren met chocoladeglazuur en wat verse aardbeien."
+
+Host: "Dat klinkt heerlijk! We wachten nu tot de taart klaar is. Bedankt dat je vandaag met ons hebt gebakken!"
+
+Deelnemer: "Dank je wel voor de begeleiding! Ik kan niet wachten om de taart te proeven."
+
+Host: "Graag gedaan! Tot de volgende keer en geniet van je chocoladetaart!"

@@ -1,0 +1,25 @@
+Alex: "Hej, ekipa, kako vam grejo priprave za državno tekmovanje? Ravno sem končal_a z zadnjim treningom za danes."
+
+Pat: "Pozdravljeni! Priprave gredo kar dobro, ampak še vedno čutim, da moram izboljšati svojo tehniko. Kaj pa ti, Sam?"
+
+Sam: "Tudi jaz sem zadovoljen_a s svojim napredkom, ampak mislim, da bi morali še enkrat pregledati našo strategijo. Alex, si opazil_a kaj posebnega med treningom?"
+
+Alex: "Ja, opazil_a sem, da bi lahko izboljšali našo koordinacijo pri ekipnem delu. Morda bi morali več časa posvetiti temu na naslednjem treningu."
+
+Pat: "Se strinjam. Mislim, da bi nam lahko koristila tudi dodatna vaja za moč in vzdržljivost. Sam, kako se počutiš glede tega?"
+
+Sam: "Mislim, da je to dobra ideja. Če bomo močnejši in bolj vzdržljivi, bomo lažje premagali nasprotnike. Alex, kaj misliš o tem?"
+
+Alex: "Vsekakor, to je ključnega pomena. Poleg tega bi morali poskrbeti tudi za mentalno pripravo. Tekmovanje na državni ravni je lahko zelo stresno."
+
+Pat: "Res je. Morda bi lahko vključili nekaj tehnik za sproščanje in izboljšanje koncentracije. Kakšno mnenje imate o tem?"
+
+Sam: "To bi bilo super. Mislim, da bi nam pomagalo ostati mirni in osredotočeni med tekmovanjem. Alex, imaš kakšne predloge za mentalne vaje?"
+
+Alex: "Lahko bi poskusili z meditacijo ali vizualizacijo. To nam lahko pomaga pri obvladovanju stresa in izboljšanju naše osredotočenosti."
+
+Pat: "Odlično, torej bomo na naslednjem treningu poskusili vključiti vse te elemente. Verjamem, da smo na pravi poti."
+
+Sam: "Tako je, ekipa. Skupaj bomo dosegli vrhunske rezultate. Gremo naprej s polno paro!"
+
+Alex: "Se strinjam! Dajmo pokazati, kaj zmoremo!"

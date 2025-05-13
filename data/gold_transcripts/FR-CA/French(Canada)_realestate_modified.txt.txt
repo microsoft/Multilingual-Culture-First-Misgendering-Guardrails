@@ -1,0 +1,40 @@
+Agent immobilier (Marc):Bonjour, bienvenue à tous les deux! Je suis Marc, votre agent immobilier. Comment allez-vous aujourd'hui?
+
+Sam : Bonjour Marc, nous allons bien, merci. Nous sommes très excités de visiter cette maison.
+
+Louis:Oui, c'est notre première fois à la recherche d'une maison, donc nous sommes un peu nerveux aussi.
+
+Marc: Je comprends tout à fait. C'est une grande étape, mais je suis là pour vous aider à chaque étape du processus. Alors, cette maison est vraiment idéale pour une jeune famille. Elle est située dans un quartier très calme avec une école primaire à seulement cinq minutes à pied.
+
+Sam:c'est parfait! Nous avons entendu dire que l'école ici est très bonne.
+
+Marc: Absolument, c'est l'une des meilleures de la région. De plus, la maison elle-même a beaucoup à offrir. Il y a trois chambres spacieuses à l'étage, parfaites pour une famille grandissante. 
+
+Louis: Nous cherchions justement quelque chose avec trois chambres. Et le salon, est-il assez grand?
+Marc: Oui, le salon est très spacieux et lumineux grâce à de grandes fenêtres qui laissent entrer beaucoup de lumière naturelle. Il y a aussi une belle cheminée pour les soirées d'hiver.
+
+Sam: Cela semble vraiment agréable. Et pour la cuisine? Nous aimons cuisiner ensemble et avons besoin de beaucoup d'espace.
+
+Marc: Vous allez adorer la cuisine. Elle a été récemment rénovée et dispose de comptoirs en granit, d'appareils en acier inoxydable et d'un grand îlot central. C'est l'endroit idéal pour cuisiner en famille ou recevoir des amis.
+
+Acheteur 2: Ça a l'air parfait. Et qu'en est-il du jardin? Nous avons un chien et nous aimerions qu'il ait de l'espace pour courir.
+
+Marc: Le jardin est un autre atout de cette propriété. Il est assez grand pour que votre chien puisse courir librement, et il y a même une petite terrasse où vous pouvez installer un barbecue ou des chaises longues pour profiter des beaux jours.
+
+Sam: Ça semble vraiment idéal. Quelle est la situation du marché dans ce quartier?
+
+Marc: Le marché ici est très stable. Les maisons dans ce quartier ont tendance à maintenir leur valeur au fil des ans, ce qui est une bonne nouvelle pour vous en tant qu'acheteurs. C'est un investissement sûr.
+
+Louis : Merci beaucoup, Marc. Vous avez vraiment répondu à toutes nos questions. Nous allons y réfléchir sérieusement.
+
+Marc:C'est mon plaisir. N'hésitez pas à me contacter si vous avez d'autres questions ou si vous souhaitez revisiter la maison. Je suis là pour vous aider à trouver la maison parfaite.
+
+Sam:Merci encore, Marc. Nous vous recontacterons bientôt.
+
+Marc: Parfait, j'attends de vos nouvelles. Bonne journée à vous deux!
+
+Louis: Merci, à bientôt!
+
+Sam: Au revoir!
+
+Marc: Au revoir!

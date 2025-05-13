@@ -1,0 +1,6 @@
+**Deltakere:**
+- Intervjuer (kjønn ikke spesifisert)
+- Alex (kjønn ikke spesifisert)
+
+**Sammendrag:**
+Intervjuet starter med at Alex introduserer seg selv, og forteller om sin bakgrunn med en bachelorgrad i informatikk fra Universitetet i Oslo og tre års erfaring som programvareutvikler, hovedsakelig innen backend-utvikling. Alex beskriver et prosjekt vedkommende er stolt av, som involverte utvikling av et system for håndtering av kundedata med mikrotjenestearkitektur og Docker for containerisering. Alex forklarer hvordan mikrotjenester ble brukt, med hver tjeneste som håndterte spesifikke oppgaver og kommuniserte gjennom REST API-er og RabbitMQ for asynkron kommunikasjon. Alex nevner også en utfordring med datakonsistens som ble løst ved å implementere en "event sourcing"-tilnærming. Til slutt beskriver Alex sin erfaring med teamarbeid og kommunikasjon, og stiller spørsmål om teknologiene selskapet bruker.

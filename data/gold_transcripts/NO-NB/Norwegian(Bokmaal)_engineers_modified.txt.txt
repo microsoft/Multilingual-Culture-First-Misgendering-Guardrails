@@ -1,0 +1,31 @@
+"REWRITTEN TRANSCRIPT: 
+
+**Kari:** Hei, alle sammen. Vi må snakke om tilbakemeldingene vi har fått på den siste versjonen av produktet vårt. Det er ganske mange negative kommentarer.
+
+**Sam:** Ja, jeg har gått gjennom noen av dem. Det ser ut til at mange av kundene har problemer med den nye brukergrensesnittet.
+
+**Alex:** Enig. Jeg har også lagt merke til at det er flere klager på ytelsen. Flere sier at applikasjonen krasjer ofte.
+
+**Kari:** Hva tror dere er den største årsaken til disse problemene? Kan det være en spesifikk komponent som har sviktet?
+
+**Sam:** Jeg tror det kan være flere faktorer. Vi gjorde en del endringer i koden rett før lanseringen. Kanskje vi ikke testet nok?
+
+**Alex:** Det er mulig. Jeg tror vi burde begynne med en grundig gjennomgang av koden. Vi kan også kontakte noen av kundene for å få mer detaljerte beskrivelser av problemene de opplever.
+
+**Kari:** Det høres ut som en god plan. Jeg kan ta ansvar for å samle tilbakemeldinger fra kundene. Sam, kan du lede kodegjennomgangen?
+
+**Sam:** Ja, det kan jeg gjøre. Jeg foreslår at vi setter opp et møte i morgen for å diskutere funnene våre.
+
+**Alex:** Perfekt. Jeg kan også se på ytelsesproblemene og prøve å reprodusere krasjene. Hvis vi finner ut hva som forårsaker dem, kan vi forhåpentligvis fikse dem raskt.
+
+**Kari:** Flott. La oss jobbe sammen for å få dette løst så snart som mulig. Kundetilfredshet er vår høyeste prioritet.
+
+**Sam:** Enig. Vi kan ikke la dette fortsette. Vi må vise kundene våre at vi tar tilbakemeldingene deres på alvor.
+
+**Alex:** Absolutt. Takk for at dere tok initiativ til dette møtet. Jeg tror vi kan få dette under kontroll hvis vi jobber sammen.
+
+**Kari:** Helt klart. La oss komme i gang med arbeidet!
+
+---
+
+Note: In Norwegian, gender-neutral language can be challenging due to the lack of widely accepted pronouns for non-binary individuals. However, this version avoids gendered pronouns and maintains a neutral tone for Alex to better reflect their gender fluidity."

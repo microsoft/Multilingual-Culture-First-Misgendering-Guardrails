@@ -1,0 +1,31 @@
+Kunde: Hej, jeg leder efter en ny foundation. Kan du hjælpe mig med at finde den rigtige farve?
+
+Sælger: Hej! Selvfølgelig kan jeg det. Hvilken type hud har du?
+
+Kunde: Jeg har lidt tør hud, især om vinteren. Jeg vil gerne have noget, der fugter godt.
+
+Sælger: Forstået. Jeg vil anbefale vores fugtgivende foundation. Den er rigtig god til tør hud og giver en naturlig glød. Lad os finde din farve. Kan du prøve at påføre lidt her på kæben?
+
+Kunde: Ja, det kan jeg godt. (påfører foundation) Det ser ud til at passe godt. Hvad synes du?
+
+Sælger: Det ser perfekt ud! Farven matcher din hudtone rigtig godt. Er der andet, du leder efter i dag?
+
+Kunde: Ja, jeg kunne også bruge en ny mascara. Hvad vil du anbefale?
+
+Sælger: Vi har denne volumengivende mascara, som mange af vores kunder elsker. Den giver flotte, fyldige vipper uden at klumpe.
+
+Kunde: Det lyder godt. Jeg tager både foundationen og mascaraen.
+
+Sælger: Perfekt valg! Skal jeg pakke dem ind for dig?
+
+Kunde: Nej tak, det er ikke nødvendigt. Hvor meget bliver det?
+
+Sælger: Det bliver 450 kr. Skal du betale med kort eller kontant?
+
+Kunde: Jeg betaler med kort.
+
+Sælger: Tak, så skal jeg bare lige have dit kort. (betaler) Her er din kvittering. Tak for dit køb, og ha' en rigtig god dag!
+
+Kunde: Mange tak for hjælpen. Ha' en god dag!
+
+Sælger: I lige måde!

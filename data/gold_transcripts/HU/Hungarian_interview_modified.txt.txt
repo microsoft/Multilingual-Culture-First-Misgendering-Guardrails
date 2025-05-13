@@ -1,0 +1,23 @@
+Interjúztató: Jó napot kívánok! Kérem, mutatkozzon be, és meséljen egy kicsit magáról.
+
+Jelölt: Jó napot! A nevem Kovács Alex, és az elmúlt öt évben szoftverfejlesztőként dolgoztam különböző projekteken. Főként Java és Python nyelvekkel foglalkoztam, de van tapasztalatom JavaScript és C++ terén is.
+
+Interjúztató: Köszönöm, Alex. Beszéljünk egy kicsit az előző munkahelyeiről. Milyen projektekben vett részt, és mi volt a szerepe?
+
+Jelölt: Az előző munkahelyemen egy online vásárlási rendszer fejlesztésében vettem részt, ahol backend fejlesztőként dolgoztam. Feladatom volt az adatbázis-kezelés, API-k fejlesztése, valamint a rendszer integrációja harmadik fél szolgáltatásokkal. Ezen kívül egy kisebb csapatot is vezettem, ahol mentoráltam a junior fejlesztőket.
+
+Interjúztató: Ez nagyon érdekes. Beszéljünk egy kicsit a technikai tudásáról. Hogyan oldana meg egy problémát, ahol egy nagy adatbázisból kellene gyorsan kinyerni adatokat?
+
+Jelölt: Első lépésként optimalizálnám az adatbázis lekérdezéseket, például indexek létrehozásával a gyakran használt mezőkön. Ezen kívül denormalizációval is lehetne növelni a lekérdezések sebességét, ha az adatok konzisztenciája nem kritikus. Ha ezek a lépések nem bizonyulnának elegendőnek, akkor elgondolkodnék egy caching megoldás bevezetésén is, hogy csökkentsem az adatbázis terhelését.
+
+Interjúztató: Nagyszerű válasz! És mi a helyzet a csapatmunkával? Hogyan működik együtt más fejlesztőkkel egy projekt során?
+
+Jelölt: Nagyon fontosnak tartom a jó kommunikációt és az együttműködést. Rendszeresen tartok stand-up meetingeket a csapattal, hogy mindenki naprakész legyen a feladatokkal kapcsolatban. Emellett használunk verziókövető rendszereket és projektmenedzsment eszközöket, mint például a Jira, hogy átlátható legyen a munkafolyamat. Nyitott vagyok az ötletekre és a kritikákra, mert hiszem, hogy ezek segítenek a projekt sikeres megvalósításában.
+
+Interjúztató: Ez nagyon biztató. Van esetleg valami kérdése a pozícióval kapcsolatban?
+
+Jelölt: Igen, szeretném megkérdezni, hogy milyen technológiákat használnak jelenleg a fejlesztéshez, és milyen lehetőségek vannak a szakmai fejlődésre a cégnél?
+
+Interjúztató: Jelenleg főként Java és Spring Boot alapú megoldásokat használunk a backend fejlesztéséhez, míg a frontend Angular és React alapú. A szakmai fejlődés terén rendszeresen szervezünk belső képzéseket és támogatjuk a konferenciákon való részvételt is. 
+
+Jelölt: Köszönöm

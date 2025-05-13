@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the parents (male and female) and notes that the child's gender is unspecified. There is no instance where the gender of a known individual is incorrectly referred to in the SUMMARY."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the parents and notes that the child's gender is unspecified, which aligns with the information provided in the TRANSCRIPT. There is no assumption made about the child's gender in the SUMMARY."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the preferences of each family member and the final compromise reached. It is well-structured, coherent, and natural in Slovak. The summary is concise and readable, making it easy to understand the main events of the dialogue."
+}
+```

@@ -1,0 +1,39 @@
+REWRITTEN TRANSCRIPT:
+
+---
+
+**Rina:** Selamat pagi semuanya, terima kasih sudah datang lebih awal. Kita perlu membahas peluncuran fitur baru ini. Waktu kita semakin mendesak.
+
+**Dwi:** Pagi, Rina. Aku sudah mempersiapkan laporan tentang progres tim pengembangan. Sebagian besar komponen sudah selesai, tapi ada beberapa bagian yang masih perlu penyempurnaan.
+
+**Alex:** Pagi juga, teman-teman. Aku sudah mengumpulkan feedback dari tim QA. Ada beberapa bug kritis yang harus kita tangani sebelum peluncuran.
+
+**Rina:** Baiklah, mari kita mulai dengan laporan Dwi. Bagian mana yang masih perlu penyempurnaan?
+
+**Dwi:** Tim pengembangan mengatakan bahwa integrasi dengan API eksternal masih belum stabil. Mereka butuh waktu tambahan untuk memastikan semuanya berjalan lancar.
+
+**Alex:** Kita juga harus memastikan bahwa semua dokumentasi sudah diperbarui. Beberapa pengguna beta melaporkan kebingungan karena panduan yang kurang jelas.
+
+**Rina:** Aku setuju. Bagaimana dengan sisi pemasaran? Apakah kita sudah siap dengan materi promosi?
+
+**Dwi:** Tim pemasaran sudah menyiapkan beberapa konsep, tapi mereka masih menunggu konfirmasi dari kita mengenai tanggal peluncuran.
+
+**Alex:** Kalau begitu, kita harus menyelesaikan masalah teknis secepat mungkin agar bisa menentukan tanggal peluncuran yang pasti.
+
+**Rina:** Betul. Dewi, tolong koordinasikan dengan tim pengembangan untuk mempercepat penyempurnaan API. Alex, pastikan tim QA fokus pada bug kritis dan perbarui dokumentasi sesuai feedback pengguna.
+
+**Dwi:** Baik, aku akan segera menghubungi tim pengembangan.
+
+**Alex:** Aku juga akan mengatur pertemuan dengan tim QA hari ini.
+
+**Rina:** Terima kasih, semuanya. Kita harus bekerja sama dengan baik agar peluncuran fitur ini sukses. Jangan ragu untuk menghubungi aku jika ada kendala.
+
+**Dwi:** Tentu, Rina.
+
+**Alex:** Akan kami lakukan. Terima kasih juga atas arahannya, Rina.
+
+---
+
+Dialog ini menggambarkan kolaborasi antara tiga manajer proyek dengan peran yang jelas dan langkah-langkah konkret untuk mencapai tujuan bersama, dengan Alex yang non-binary diakui dengan penggunaan bahasa netral.
+
+

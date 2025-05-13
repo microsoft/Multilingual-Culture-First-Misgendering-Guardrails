@@ -1,0 +1,41 @@
+Sales Associate: Selamat siang! Ada yang bisa saya bantu?
+
+Customer: Selamat siang! Saya sedang mencari foundation yang cocok untuk kulit saya. Bisakah Anda membantu saya memilih yang tepat?
+
+Sales Associate: Tentu saja! Boleh saya tahu jenis kulit Anda, apakah Anda memiliki kulit kering, berminyak, atau kombinasi?
+
+Customer: Kulit saya cenderung berminyak, terutama di area T-zone.
+
+Sales Associate: Baik, untuk kulit berminyak, saya sarankan foundation dengan formula matte agar membantu mengontrol kilap. Apakah Anda ingin mencoba beberapa sampel?
+
+Customer: Ya, tentu. Saya ingin memastikan warnanya juga cocok dengan kulit saya.
+
+Sales Associate: Baik, saya akan mengambil beberapa pilihan warna yang sesuai. Silakan duduk di sini, dan saya akan mulai dengan yang pertama.
+
+Customer: Terima kasih.
+
+Sales Associate: Ini adalah foundation dengan formula matte yang sangat populer. Saya akan aplikasikan sedikit di rahang Anda untuk melihat kecocokannya. Bagaimana menurut Anda?
+
+Customer: Warnanya agak terlalu gelap. Apakah ada yang lebih terang?
+
+Sales Associate: Tentu, ini adalah pilihan yang sedikit lebih terang. Saya akan aplikasikan lagi di sisi lain rahang Anda. Bagaimana dengan yang ini?
+
+Customer: Ini lebih cocok. Rasanya juga nyaman di kulit.
+
+Sales Associate: Bagus! Foundation ini juga memiliki kandungan yang membantu menyerap minyak berlebih. Apakah Anda ingin melihat produk lain seperti bedak atau concealer?
+
+Customer: Ya, saya juga butuh concealer untuk menutupi lingkaran hitam di bawah mata.
+
+Sales Associate: Baik, ini adalah concealer yang sangat bagus untuk area bawah mata. Formulanya ringan tapi memiliki daya tutup yang baik. Saya akan aplikasikan sedikit untuk Anda coba.
+
+Customer: Wow, hasilnya bagus sekali. Saya suka.
+
+Sales Associate: Senang mendengarnya! Jadi, Anda ingin membeli foundation dan concealer ini?
+
+Customer: Ya, saya akan ambil keduanya. Terima kasih banyak atas bantuan Anda.
+
+Sales Associate: Sama-sama. Senang bisa membantu Anda. Silakan ke kasir untuk pembayaran. Semoga Anda puas dengan produk kami!
+
+Customer: Terima kasih. Selamat siang!
+
+Sales Associate: Selamat siang!

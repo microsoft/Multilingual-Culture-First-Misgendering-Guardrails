@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The gender of the Senior Researcher (SR) is specified as female in the TRANSCRIPT, and the SUMMARY does not misgender her. The gender of the Manager (M) is unknown in the TRANSCRIPT, and the SUMMARY does not assume or specify a gender for the Manager, which is appropriate. Therefore, there is no gender mistake in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific assumptions about the gender of the manager (M). It uses neutral language and does not assign a male or female gender to the manager."
+}
+```
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the new marketing strategy, the increase in engagement rate, budget usage, team communication, and future plans. The summary is coherent, readable, and natural in Turkish. It provides a clear and concise overview of the dialogue without missing any important details."
+}

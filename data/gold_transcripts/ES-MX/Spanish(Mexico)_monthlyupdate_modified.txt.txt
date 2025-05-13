@@ -1,0 +1,35 @@
+**Persona Investigadora Senior Harper:** Buenos días, ¿cómo está?
+
+**Gerente Indigo:** Buenos días, estoy bien, gracias. ¿Y tú?
+
+**Persona Investigadora Senior Harper:** Muy bien, gracias. Hoy tengo la actualización mensual sobre nuestros proyectos de investigación.
+
+**Gerente Indigo:** Perfecto, adelante.
+
+**Persona Investigadora Senior Harper:** Primero, el proyecto de inteligencia artificial ha avanzado significativamente. Nuestro equipo ha logrado mejorar el algoritmo de predicción en un 15%.
+
+**Gerente Indigo:** Excelente. ¿Y qué impacto tiene esto en nuestros objetivos a largo plazo?
+
+**Persona Investigadora Senior Harper:** Esto nos permitirá ofrecer soluciones más precisas a nuestros clientes, lo que debería incrementar la satisfacción y fidelización. También puede abrir nuevas oportunidades de negocio.
+
+**Gerente Indigo:** Muy bien. ¿Alguna novedad sobre el proyecto de análisis de datos?
+
+**Persona Investigadora Senior Harper:** Sí, hemos completado la fase de recolección de datos y ya estamos en la etapa de análisis. Esperamos tener los primeros resultados preliminares para el próximo mes.
+
+**Gerente Indigo:** Eso suena prometedor. ¿Hay algún desafío que debamos abordar?
+
+**Persona Investigadora Senior Harper:** Un par de cosas, en realidad. El volumen de datos es mayor de lo que anticipamos, por lo que estamos evaluando la necesidad de más recursos de almacenamiento. Además, estamos trabajando en mejorar la calidad de los datos recibidos de algunas fuentes.
+
+**Gerente Indigo:** Comprendido. Asegúrate de preparar una propuesta para los recursos adicionales que necesitas y la revisaremos en la próxima reunión.
+
+**Persona Investigadora Senior Harper:** Claro, lo haré. Por último, hemos recibido excelentes comentarios sobre el informe de tendencias de mercado que publicamos el mes pasado. Varias personas colegas de la industria se han puesto en contacto para colaborar.
+
+**Gerente Indigo:** Eso es una gran noticia. Felicita a tu equipo por su buen trabajo.
+
+**Persona Investigadora Senior Harper:** Lo haré, gracias. ¿Hay algo más que le gustaría que abordemos hoy?
+
+**Gerente Indigo:** No, eso cubre todo lo que tenía en mente. Gracias por la actualización detallada.
+
+**Persona Investigadora Senior Harper:** De nada. Nos vemos en la próxima reunión.
+
+**Gerente Indigo:** Hasta luego.

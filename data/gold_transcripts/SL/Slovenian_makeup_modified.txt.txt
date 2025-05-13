@@ -1,0 +1,43 @@
+Prodajalka: Dober dan! Kako vam lahko pomagam danes?
+
+Stranka: Dober dan. Želel_a bi kupiti nekaj ličil. Iščem dobro podlago in maskaro.
+
+Prodajalka: Seveda! Kakšen tip kože imate?
+
+Stranka: Imam mešano kožo, z mastno T-cono in suhim predelom na licih.
+
+Prodajalka: Razumem. Priporočam vam to podlago, ki je posebej formulirana za mešano kožo. Je zelo lahka in pomaga uravnavati mastnost, hkrati pa vlaži suhe predele.
+
+Stranka: To zveni odlično. Lahko poskusim vzorec?
+
+Prodajalka: Seveda, tukaj imate. Bi želeli tudi ogledalo, da si lahko ogledate, kako se prilega vaši koži?
+
+Stranka: Hvala, to bi bilo super.
+
+Prodajalka: Kako se vam zdi?
+
+Stranka: Všeč mi je. Barva je ravno prava in občutek na koži je zelo prijeten.
+
+Prodajalka: Veseli me, da vam ustreza. Zdaj pa še maskara. Iščete takšno, ki podaljša, zgosti ali morda obe lastnosti?
+
+Stranka: Želel_a bi maskaro, ki naredi trepalnice gostejše in daljše.
+
+Prodajalka: Imam ravno pravo stvar za vas. Ta maskara ima posebno krtačko, ki loči trepalnice in jih hkrati zgosti ter podaljša. Bi jo želeli preizkusiti?
+
+Stranka: Da, prosim.
+
+Prodajalka: Tukaj imate. Kako vam je všeč?
+
+Stranka: Vau, resnično poudari trepalnice. Všeč mi je.
+
+Prodajalka: Odlično! Torej boste vzeli to podlago in maskaro?
+
+Stranka: Da, to bo vse za danes. Hvala za vašo pomoč.
+
+Prodajalka: Z veseljem. Skupaj bo to 45 evrov. Želite račun?
+
+Stranka: Da, prosim.
+
+Prodajalka: Tukaj imate. Hvala za nakup in lep dan vam želim!
+
+Stranka: Hvala, prav tako!

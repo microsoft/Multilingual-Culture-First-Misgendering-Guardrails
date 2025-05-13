@@ -1,0 +1,31 @@
+**Anna:** Jó reggelt, mindenkinek! Ma beszélnünk kell az új funkció bevezetéséről. Hogy állunk a fejlesztéssel?
+
+**Kriszta:** Szia, Anna! Jó reggelt! A fejlesztőcsapat már majdnem készen van a kóddal. Csak néhány apróságot kell még finomítani.
+
+**Alex:** Sziasztok! Jó reggelt! Ez nagyszerű hír, Kriszta. Mi a helyzet a teszteléssel? Már mindent lefuttattunk?
+
+**Kriszta:** Igen, Alex, a legtöbb tesztet már lefuttattuk. Csak néhány edge case maradt, amit még át kell néznünk.
+
+**Anna:** Rendben, ez jól hangzik. És mi a helyzet a dokumentációval? A felhasználói kézikönyv és az online súgó készen áll?
+
+**Alex:** A dokumentációval is jól állunk. A felhasználói kézikönyv már majdnem kész, és az online súgó is frissítve lett az új funkcióval kapcsolatban.
+
+**Kriszta:** Az ügyfélszolgálatot is tájékoztattuk az új funkcióról, hogy felkészültek legyenek a beérkező kérdésekre.
+
+**Anna:** Nagyszerű. És mi a helyzet a marketinggel? Mikor kezdjük el a kampányt?
+
+**Alex:** A marketingcsapat már elkészítette a terveket. A kampány a jövő héten indul, hogy időben felkészüljünk a bevezetésre.
+
+**Kriszta:** Mindenki nagyon izgatott az új funkció miatt. Szerintem nagy sikere lesz.
+
+**Anna:** Egyetértek. Mindenki nagyon keményen dolgozott ezen. Köszönöm mindenkinek az erőfeszítéseit. Van még valami, amit át kell beszélnünk?
+
+**Alex:** Szerintem minden fontos dolgot érintettünk. Ha bármi felmerül, majd egyeztetünk.
+
+**Kriszta:** Rendben. Köszönöm, Anna, Alex. Folytassuk a munkát, hogy biztosan időben készen legyünk.
+
+**Anna:** Köszönöm, mindenkinek. Jó munkát!
+
+**Alex:** Jó munkát, sziasztok!
+
+**Kriszta:** Sziasztok!

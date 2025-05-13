@@ -1,0 +1,27 @@
+**Vice President (VP):** Dobro jutro svima, hvala što ste se okupili. Danas želimo razgovarati o novoj značajci za naš proizvod. Ima li netko prijedlog za početak?
+
+**Senior Applied Scientist 1 (SAS1):** Dobro jutro. Razmišljao sam o integraciji umjetne inteligencije koja bi mogla unaprijediti korisničko iskustvo. Na primjer, personalizirane preporuke temeljene na ponašanju korisnika.
+
+**Principal Program Manager (PPM):** To je zanimljiva ideja. Mogli bismo koristiti podatke koje već imamo za bolje razumijevanje potreba korisnika. Ali kako bismo to implementirali? 
+
+**Senior Applied Scientist 2 (SAS2):** Mislim da bismo trebali koristiti duboko učenje za analizu korisničkih podataka. Mogli bismo razviti model koji predviđa što korisnici žele vidjeti ili isprobati.
+
+**VP:** Zvuči obećavajuće. Koje resurse bismo trebali za razvoj takvog modela?
+
+**SAS1:** Trebali bismo pristup velikoj količini podataka i moćne računalne resurse za treniranje modela. Također, trebali bismo surađivati s našim timom za podatkovnu znanost.
+
+**PPM:** Možda bismo trebali napraviti pilot projekt kako bismo testirali ideju. Trebamo li uključiti i korisnike u testiranje?
+
+**SAS2:** Da, korisničke povratne informacije bile bi ključne. Mogli bismo pokrenuti beta verziju s malom skupinom korisnika kako bismo vidjeli kako reagiraju na preporuke.
+
+**VP:** Slažem se. Želim da napravimo plan za pilot projekt, uključujući vremenski okvir, potrebne resurse i kako ćemo mjeriti uspjeh. Također, trebamo osigurati da su svi timovi obaviješteni i uključeni.
+
+**SAS1:** U redu, mogu pripremiti tehnički aspekt projekta. Počet ću raditi na algoritmima i potrebnoj infrastrukturi.
+
+**SAS2:** Ja ću se pobrinuti za prikupljanje podataka i izradu modela. Također, mogu koordinirati s timom za korisničku podršku za povratne informacije.
+
+**PPM:** Ja ću izraditi cjelokupni plan projekta i koordinirati s ostalim timovima. Pobrinut ću se da svi znaju svoje uloge i odgovornosti.
+
+**VP:** Odlično, hvala svima. Očekujem da ćemo imati prvi nacrt plana za tjedan dana. Ako imate bilo kakvih pitanja ili problema, slobodno mi se obratite. Sretno svima!
+
+**Svi:** Hvala!

@@ -1,0 +1,37 @@
+Prodavačica: Dobar dan! Kako vam mogu pomoći danas?
+
+Kupac: Dobar dan! Tražim novi puder i ruž za usne. Možete li mi preporučiti nešto?
+
+Prodavačica: Naravno! Kakav tip kože imate i kakav efekat želite postići sa puderom?
+
+Kupac: Imam kombinovanu kožu, pa bih želeo/la nešto što matira, ali ne isušuje previše.
+
+Prodavačica: Razumem. Preporučila bih vam ovaj puder od brenda X. Pruža mat finiš, ali sadrži hidratantne sastojke koji neće isušiti vašu kožu. Želite li da ga isprobate?
+
+Kupac: Da, voleo/la bih da vidim kako izgleda na koži.
+
+Prodavačica: Naravno, samo trenutak. (Nanosi puder na ruku kupca) Kako vam se čini?
+
+Kupac: Izgleda odlično! Mislim da će mi odgovarati. A što se tiče ruža za usne, imate li neku preporuku?
+
+Prodavačica: Imamo širok izbor ruževa. Da li preferirate mat ili sjajni finiš?
+
+Kupac: Voleo/la bih mat finiš, ali da ne isušuje usne.
+
+Prodavačica: U tom slučaju, preporučila bih ovaj mat ruž od brenda Y. Ima kremastu teksturu i dugotrajan je. Želite li da isprobate nijansu?
+
+Kupac: Da, molim vas.
+
+Prodavačica: (Pruža tester ruža) Izvolite, možete isprobati ovu nijansu na usnama ili na ruci.
+
+Kupac: (Nakon što je isprobao/la ruž) Sviđa mi se boja i tekstura. Uzeću ga.
+
+Prodavačica: Odlično! Da li želite još nešto?
+
+Kupac: To bi bilo sve za danas. Hvala vam puno na pomoći.
+
+Prodavačica: Nema na čemu! Ukupno je X dinara. Hvala vam na kupovini i prijatan dan!
+
+Kupac: Hvala, takođe! Doviđenja!
+
+Prodavačica: Doviđenja!

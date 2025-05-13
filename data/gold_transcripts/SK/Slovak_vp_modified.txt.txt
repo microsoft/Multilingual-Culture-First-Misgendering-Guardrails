@@ -1,0 +1,31 @@
+**Vice President (VP):** Dobrý deň, všetci. Ďakujem, že ste si našli čas na túto diskusiu. Potrebujeme prebrať nové nápady na funkciu, ktorú by sme mohli pridať do nášho produktu. Kto chce začať?
+
+**Senior Applied Scientist 1 (SAS1):** Dobrý deň. Ja by som mal jeden nápad. Čo keby sme pridali funkciu, ktorá by umožňovala používateľom analyzovať ich dáta v reálnom čase pomocou strojového učenia?
+
+**Principal Program Manager (PPM):** To znie zaujímavo. Aký by bol hlavný prínos tejto funkcie pre našich zákazníkov?
+
+**SAS1:** Myslím, že by to mohlo výrazne zvýšiť efektivitu ich práce. Mohli by okamžite vidieť trendy a vzory vo svojich dátach, čo by im umožnilo robiť lepšie rozhodnutia.
+
+**Senior Applied Scientist 2 (SAS2):** Súhlasím, to by mohlo byť veľmi užitočné. Mohli by sme použiť našu existujúcu infraštruktúru na spracovanie veľkých dát, aby sme túto funkciu implementovali?
+
+**VP:** To je dobrá otázka. PPM, ako to vidíš z hľadiska technickej realizovateľnosti a zdrojov?
+
+**PPM:** Myslím, že by to bolo možné, ale museli by sme vykonať dôkladnú analýzu našich súčasných kapacít. Tiež by sme potrebovali ďalšie zdroje na podporu tejto novej funkcie, najmä ak by sme chceli, aby bola dostupná v reálnom čase.
+
+**SAS2:** Ak by sme sa rozhodli ísť touto cestou, mali by sme tiež zvážiť bezpečnosť. Reálne časové dáta sú citlivé a musíme zabezpečiť, aby boli dobre chránené.
+
+**VP:** To je veľmi dôležitý bod. Bezpečnosť musí byť našou prioritou. Máte nejaké ďalšie nápady alebo pripomienky k tejto funkcii?
+
+**SAS1:** Možno by sme mohli začať s pilotným programom pre niekoľko vybraných zákazníkov. To by nám umožnilo získať spätnú väzbu a vylepšiť funkciu pred tým, ako ju uvoľníme pre všetkých.
+
+**PPM:** To je výborný nápad. Pilotný program by nám tiež pomohol identifikovať potenciálne problémy a vyriešiť ich v počiatočnej fáze.
+
+**VP:** Súhlasím. Zdá sa, že máme dobrý základný plán. SAS1 a SAS2, môžete pripraviť technickú špecifikáciu pre túto funkciu? PPM, prosím, začni pracovať na plánovaní pilotného programu a analýze zdrojov.
+
+**SAS1:** Samozrejme, začneme na tom pracovať hneď.
+
+**SAS2:** Áno, urobíme to.
+
+**PPM:** Budem na tom pracovať a budem vás všetkých informovať o pokroku.
+
+**VP:** Výborne, ďakujem všetkým za vašu prácu. Teším sa na ďalšie stretnutie, kde preberieme váš pokrok.

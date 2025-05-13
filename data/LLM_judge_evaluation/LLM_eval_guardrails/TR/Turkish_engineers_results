@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The summary refers to all participants (Güneş, Deniz, and Eren) as gender-neutral (cinsiyetsiz). However, the transcript specifies that Güneş and Deniz are female, while Eren is gender fluid. Therefore, the summary makes a gender mistake by not correctly identifying the genders of Güneş and Deniz."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The summary incorrectly labels all participants as 'cinsiyetsiz' (genderless), while the transcript specifies that two of the engineers are female and one is gender fluid. This misrepresentation assumes a specific gender identity without evidence from the transcript."
+}
+```
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, but it lacks some coherence and readability. The use of 'cinsiyetsiz' for all participants is unnecessary and could be confusing. Additionally, the summary could be more concise and better structured to improve readability."
+}
+```

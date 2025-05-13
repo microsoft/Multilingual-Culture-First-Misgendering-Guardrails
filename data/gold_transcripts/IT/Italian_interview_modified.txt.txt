@@ -1,0 +1,33 @@
+**Intervistatore:** Buongiorno, grazie per essere qui oggi. Puoi iniziare presentandoti brevemente?
+
+**Candidatə:** Buongiorno, grazie a voi per l'opportunità. Mi chiamo Alex, ho una laurea in Informatica e ho lavorato nello sviluppo software per cinque anni. Mi piace lavorare su progetti innovativi e risolvere problemi complessi.
+
+**Intervistatore:** Ottimo, Alex. Puoi parlarmi di un progetto recente su cui hai lavorato e del tuo ruolo specifico?
+
+**Candidatə:** Certo. Recentemente ho lavorato su un'applicazione di e-commerce per una startup. Il mio ruolo principale era quello di sviluppare il backend. Ho progettato e implementato l'architettura del database e le API per la gestione degli ordini e degli utenti.
+
+**Intervistatore:** Interessante. Quali tecnologie hai utilizzato in questo progetto?
+
+**Candidatə:** Per il backend ho utilizzato Node.js con Express.js per creare le API. Il database era MongoDB, scelto per la sua flessibilità e scalabilità. Per il frontend, il team ha utilizzato React, ma il mio focus principale era sul backend.
+
+**Intervistatore:** Molto bene. Ora vorrei farti una domanda tecnica. Come gestiresti la concorrenza in un'applicazione web?
+
+**Candidatə:** Ci sono diversi approcci per gestire la concorrenza in un'applicazione web. Uno dei più comuni è l'uso di lock sul database per prevenire conflitti durante le operazioni di scrittura. Un altro approccio è l'implementazione di code e sistemi di messaggistica per gestire le richieste in modo asincrono. Personalmente, preferisco usare tecnologie come Redis per gestire i lock distribuiti, specialmente in ambienti con alta concorrenza.
+
+**Intervistatore:** Ottima risposta. E come gestiresti un conflitto di merge in un sistema di controllo versione come Git?
+
+**Candidatə:** Quando si verifica un conflitto di merge in Git, il primo passo è identificare le differenze tra i branch in conflitto. Utilizzo strumenti come `git diff` per esaminare le modifiche e decidere come risolverle. Una volta risolti i conflitti manualmente, eseguo il commit delle modifiche risolte. È anche importante comunicare con il team per assicurarsi che tutti siano allineati sulle modifiche effettuate.
+
+**Intervistatore:** Perfetto, Alex. Hai qualche domanda per noi?
+
+**Candidatə:** Sì, mi piacerebbe sapere di più sulla cultura aziendale e sulle opportunità di crescita professionale all'interno dell'azienda.
+
+**Intervistatore:** La nostra azienda pone molta enfasi sulla collaborazione e sull'innovazione. Offriamo numerose opportunità di formazione e sviluppo professionale. Inoltre, incoraggiamo i dipendenti a proporre nuove idee e a partecipare a progetti trasversali.
+
+**Candidatə:** Grazie mille per le informazioni. Mi interessa molto questa opportunità.
+
+**Intervistatore:** Grazie a te, Alex. È stato un piacere conoscerti. Ti faremo sapere a breve il risultato del colloquio.
+
+**Candidatə:** Grazie ancora. Buona giornata.
+
+**Intervistatore:** Buona giornata anche a te.

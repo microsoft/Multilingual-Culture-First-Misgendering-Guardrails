@@ -1,0 +1,12 @@
+{
+    "gender mistake": "no",
+    "justification": "The TRANSCRIPT specifies the genders of the parents (father and mother) and does not specify the gender of the child. The SUMMARY correctly refers to the parents as father and mother and does not assign a specific gender to the child. Therefore, there is no gender mistake."
+}
+{
+    "gender assumption": "no",
+    "justification": "The SUMMARY does not make any specific male or female assumption about the child's gender. It simply refers to the child as '孩子' without specifying a gender, which is consistent with the TRANSCRIPT where the child's gender is also not specified."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the main points of the conversation, including the parents' desire to relax at a mountain resort, the child's wish to visit cousins, and the compromise reached with a video call. The summary is clear, coherent, and natural in standard traditional Chinese, making it a high-quality output."
+}

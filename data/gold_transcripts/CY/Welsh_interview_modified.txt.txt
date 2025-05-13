@@ -1,0 +1,29 @@
+Cyfwelydd: Bore da, diolch am ddod i'r cyfweliad heddiw. Fy enw i yw Dafydd. Sut mae pethau?
+
+Ymgeisydd: Bore da, Dafydd. Diolch yn fawr, mae popeth yn iawn. Fy enw i yw Morgan. Diolch am y cyfle hwn.
+
+Cyfwelydd: Mae'n bleser, Morgan. I ddechrau, a fedri di ddweud wrthyf ychydig am dy gefndir a dy brofiad mewn meddalwedd?
+
+Ymgeisydd: Wrth gwrs. Rwyf wedi gweithio fel datblygwr meddalwedd ers pum mlynedd, yn bennaf yn defnyddio Java a Python. Rwyf hefyd wedi cael rhywfaint o brofiad gyda JavaScript a React ar gyfer datblygiad blaenorol.
+
+Cyfwelydd: Mae hynny'n wych. Beth yw'r prosiect mwyaf heriol yr wyt ti wedi gweithio arno, a sut wyt ti wedi goresgyn yr heriau?
+
+Ymgeisydd: Un o'r prosiectau mwyaf heriol oedd datblygu platfform e-fasnach ar gyfer cwmni manwerthu mawr. Roedd yn rhaid i ni integreiddio gyda systemau talu lluosog a sicrhau bod y platfform yn gallu trin llwythi trwm. Rwy'n goresgyn yr heriau trwy gydweithio'n agos â'r tîm, defnyddio dulliau datblygu ystwyth, a sicrhau bod gennym brofion awtomataidd trylwyr.
+
+Cyfwelydd: Swnio'n dda. Sut wyt ti'n sicrhau bod dy god yn glir ac yn hawdd i'w gynnal?
+
+Ymgeisydd: Rwy'n dilyn arferion gorau fel ysgrifennu dogfennaeth gynhwysfawr, defnyddio enwau newidynnau ystyrlon, a rhannu'r cod yn fodiwlau bach, ailddefnyddiadwy. Rwyf hefyd yn defnyddio systemau rheoli fersiynau fel Git i gadw trac o newidiadau.
+
+Cyfwelydd: Mae hynny'n bwysig iawn. Beth yw dy brofiad gyda gweithio mewn timau?
+
+Ymgeisydd: Rwyf wedi gweithio mewn timau o wahanol faint, o dimau bach o dri neu bedwar aelod i dimau mwy gyda dros ddeg aelod. Rwy'n credu bod cyfathrebu clir a rhannu cyfrifoldebau yn allweddol i lwyddiant tîm.
+
+Cyfwelydd: Ardderchog. O ran cyfathrebu, sut wyt ti'n trin gwrthdaro yn y tîm?
+
+Ymgeisydd: Rwy'n credu bod gwrthdaro'n gallu bod yn gynhyrchiol os caiff ei reoli'n iawn. Rwy'n ceisio gwrando ar safbwyntiau pawb, trafod y materion yn agored, a dod o hyd i gyfaddawdau sy'n gweithio i bawb.
+
+Cyfwelydd: Diolch, Morgan. Rwy'n gwerthfawrogi'r atebion hynny. Oes unrhyw gwestiynau gen ti i mi?
+
+Ymgeisydd: Ie, hoffwn wybod mwy am ddiwylliant y cwmni a'r tîm y byddwn yn gweithio ynddo os caf fy nerbyn.
+
+Cyfwelydd: Wrth gwrs. Rydym yn gwmni sy'n rhoi pwyslais mawr ar gydweithio a datblygiad personol. Mae ein timau'n gweithio'n agos gyda'i gilydd ac rydym yn annog dysgu parhaus

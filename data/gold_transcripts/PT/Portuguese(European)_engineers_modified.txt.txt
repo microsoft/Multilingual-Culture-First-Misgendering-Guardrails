@@ -1,0 +1,28 @@
+REWRITTEN TRANSCRIPT:
+
+**Sara:** Bom dia, equipa. Recebemos alguns comentários negativos sobre a última versão do nosso produto que lançámos na semana passada. Precisamos de abordar estas questões o mais rapidamente possível.
+
+**Joaquim:** Bom dia, Sara. Conseguiste identificar os principais problemas mencionados pelos clientes?
+
+**Sara:** Sim, Joaquim. A maioria dos comentários negativos está relacionada com a interface do utilizador. Parece que muitos utilizadores acham-na confusa e pouco intuitiva.
+
+**Alex:** Concordo. Também notei várias queixas sobre a lentidão do sistema em dispositivos mais antigos. Precisamos de otimizar o desempenho.
+
+**Joaquim:** Boa observação, Alex. Talvez possamos dividir as tarefas. Eu posso focar-me na otimização do desempenho, enquanto alguém trabalha na melhoria da interface do utilizador.
+
+**Sara:** Ótima ideia. Eu posso começar a trabalhar na interface do utilizador. Vou reunir-me com a equipa de design para ver como podemos simplificar e tornar a navegação mais intuitiva.
+
+**Alex:** Perfeito. Enquanto isso, posso analisar os logs de desempenho para identificar os pontos críticos que estão a causar a lentidão. Também vou verificar se há algum problema de compatibilidade com dispositivos mais antigos.
+
+**Joaquim:** Parece um bom plano. Vamos também manter a comunicação aberta com a equipa de suporte ao cliente para garantir que estamos a abordar todas as preocupações levantadas pelos utilizadores.
+
+**Sara:** Concordo. A comunicação é essencial. Vou agendar uma reunião diária de 15 minutos para fazermos um ponto de situação e ajustarmos o plano conforme necessário.
+
+**Alex:** Boa ideia, Sara. Assim, garantimos que todos estão alinhados e podemos resolver estas questões rapidamente.
+
+**Joaquim:** Perfeito. Vamos a isso, equipa. Temos um produto excelente, só precisamos de fazer alguns ajustes para garantir que os nossos clientes estão satisfeitos.
+
+**Sara:** Exatamente. Vamos mostrar aos nossos clientes que estamos a ouvi-los e comprometidos em melhorar.
+
+**Alex:** Vamos conseguir. Mãos à obra!
+

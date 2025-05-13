@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY does not specify any genders for the participants, and the TRANSCRIPT only specifies the gender of the Senior Applied Scientists and the Principal Program Manager as male. Since no incorrect gender references are made in the SUMMARY, there is no gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific gender assumptions about the Vice President. It refers to the Vice President using the neutral term 'Başkan Yardımcısı' without specifying a gender."
+}
+```
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary accurately captures the key points and ideas discussed in the transcript. It is well-organized, coherent, and readable. The summary includes all the main contributions from each participant and provides a clear overview of the discussion. The language used is natural and grammatically correct, making it easy to understand for a native Turkish speaker."
+}

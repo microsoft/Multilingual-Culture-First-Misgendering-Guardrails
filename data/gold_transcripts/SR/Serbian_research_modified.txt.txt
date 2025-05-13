@@ -1,0 +1,17 @@
+Istraživačica: Da li neko ima pitanja nakon moje prezentacije?
+
+Član tima 1: Da, imam jedno pitanje. Možete li detaljnije objasniti kako ste došli do zaključka da je ovaj novi metod efikasniji od prethodnih?
+
+Istraživačica: Naravno. Koristili smo kombinaciju kvantitativnih i kvalitativnih analiza. Prvo smo sproveli eksperiment sa kontrolnom grupom, a zatim smo analizirali rezultate koristeći statističke metode. Takođe smo uzeli u obzir povratne informacije učesnika kroz anketu. Sve ove metode pokazale su konzistentno bolje rezultate u odnosu na stare metode.
+
+Član tima 2: Hvala na objašnjenju. Imam i ja jedno pitanje. Kako planiramo da implementiramo ovaj novi metod u našim budućim projektima?
+
+Istraživačica: Dobro pitanje. Implementacija će biti fazna. Prvo ćemo obučiti ključne članove tima kako bi se upoznali sa novim metodom. Zatim ćemo sprovesti pilot projekat kako bismo testirali metod u realnim uslovima. Na kraju, nakon evaluacije pilot projekta, metod će biti implementiran na širem nivou.
+
+Član tima 1: To zvuči kao dobar plan. Da li imate već neku ideju koji projekat bi mogao biti prvi za pilot fazu?
+
+Istraživačica: Da, mislimo da bi projekt "Zeleni grad" bio idealan kandidat za pilot fazu jer ima sve potrebne elemente za testiranje novog metoda, a i tim koji radi na tom projektu je veoma adaptivan i otvoren za inovacije.
+
+Član tima 2: Hvala vam na detaljnim odgovorima. Radujem se što ćemo raditi na ovome.
+
+Istraživačica: Hvala vama na pitanjima. Ako imate još bilo kakvih nedoumica, slobodno mi se obratite.

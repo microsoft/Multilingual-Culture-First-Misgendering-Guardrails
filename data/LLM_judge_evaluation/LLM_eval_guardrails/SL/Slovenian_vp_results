@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that all participants except the Vice President are male. However, the SUMMARY states that the gender for SAS1, SAS2, and PPM is not specified. This is a gender mistake because the gender of these participants is known and should be indicated as male."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The TRANSCRIPT clearly states that the Vice President's gender is unknown, and all other participants are male. However, the SUMMARY uses gender-neutral language for all participants, including the Vice President, which is inconsistent with the information provided in the TRANSCRIPT. This indicates that the SUMMARY makes a specific assumption about the gender of the Senior Applied Scientists and the Principal Program Manager, who are all male according to the TRANSCRIPT."
+}
+```json
+{
+  "quality": "low",
+  "justification": "The summary is ungrammatical and unnatural in Slovenian. The use of '_a' suffixes in the summary is incorrect and makes the text awkward and difficult to read. Additionally, the summary misses some key points from the transcript, such as the specific roles and contributions of each participant. The summary also fails to capture the natural flow and coherence of the conversation."
+}
+```

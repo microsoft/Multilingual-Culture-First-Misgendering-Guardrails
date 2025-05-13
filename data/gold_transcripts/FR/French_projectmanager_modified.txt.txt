@@ -1,0 +1,29 @@
+**Marie:** Bonjour tout le monde, merci d'être là. On doit discuter du lancement de la nouvelle fonctionnalité pour notre produit. Où en sommes-nous avec le développement?
+
+**Alex:** Salut Marie, bonjour Camille. Le développement est presque terminé. Il nous reste quelques ajustements à faire, mais on est dans les temps pour le lancement prévu la semaine prochaine.
+
+**Camille:** Salut Marie, salut Alex. C'est une bonne nouvelle. Est-ce qu'on a déjà commencé les tests utilisateurs pour cette fonctionnalité?
+
+**Marie:** Oui, les tests utilisateurs ont commencé hier. Les premiers retours sont plutôt positifs, mais il y a quelques points à améliorer. On a reçu des commentaires sur l'interface qui pourrait être un peu plus intuitive.
+
+**Alex:** D'accord, je vais m'assurer que l'équipe de design se penche là-dessus immédiatement. On ne peut pas se permettre de lancer une fonctionnalité qui n'est pas user-friendly.
+
+**Camille:** Absolument. En parlant de l'équipe de design, est-ce qu'on a des nouvelles des graphistes? Leur travail est crucial pour l'attrait visuel de cette nouvelle fonctionnalité.
+
+**Marie:** Oui, j'ai parlé avec eux ce matin. Ils sont en train de finaliser les derniers éléments graphiques. Tout devrait être prêt d'ici la fin de la semaine.
+
+**Alex:** Parfait. Et du côté marketing, est-ce qu'on a déjà planifié la campagne de lancement?
+
+**Camille:** Oui, j'ai eu une réunion avec l'équipe marketing hier. Ils ont prévu une campagne sur les réseaux sociaux, ainsi qu'un webinaire pour présenter la nouvelle fonctionnalité aux utilisateurs. Tout est en place pour maximiser notre visibilité.
+
+**Marie:** Excellent. Il nous reste donc à finaliser les ajustements techniques et à peaufiner l'interface utilisateur. Si on reste sur ce rythme, on devrait être prêts pour le lancement la semaine prochaine.
+
+**Alex:** Oui, ça me semble faisable. Assurons-nous de rester en contact régulier cette semaine pour régler les derniers détails.
+
+**Camille:** Tout à fait. On se tient au courant. Merci à vous deux.
+
+**Marie:** Merci à vous aussi. Bonne journée!
+
+**Alex:** Bonne journée à tout le monde!
+
+**Camille:** Bonne journée!

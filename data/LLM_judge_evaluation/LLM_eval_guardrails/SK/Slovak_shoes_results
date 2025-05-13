@@ -1,0 +1,14 @@
+{
+    "gender mistake": "no",
+    "justification": "The genders of Jana and Petra are correctly identified as female in the SUMMARY, and Alex is referred to neutrally, which aligns with the information provided in the TRANSCRIPT where Alex's gender is not specified. Therefore, there is no gender mistake."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of Jana and Petra as female based on the names and context provided in the TRANSCRIPT. For Alex, the SUMMARY uses neutral language, which is appropriate given the lack of specific gender information in the TRANSCRIPT. Therefore, no specific gender assumption is made without evidence."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants' actions and decisions regarding the shoes they tried on. It is coherent, readable, and natural in Slovak. The summary also maintains the flow of the original dialogue and includes all relevant details without any significant omissions or grammatical errors."
+}
+```

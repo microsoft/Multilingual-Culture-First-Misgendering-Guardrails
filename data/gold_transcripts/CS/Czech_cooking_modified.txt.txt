@@ -1,0 +1,36 @@
+Host: Dobrý den, vítám vás v našem pořadu o vaření. Dnes budeme péct čokoládový dort. Jak se jmenujete?
+
+Participant: Dobrý den, jmenuji se Peťa.
+
+Host: Těší mě, Peťo. Co říkáte na čokoládové dorty?
+
+Participant: Miluji je! Ale nemám zkušenost s jejich pečením.
+
+Host: Nebojte se, společně to zvládneme. Nejprve si připravíme všechny potřebné ingredience. Máte připravenou mouku, cukr, vejce, máslo, kakao a čokoládu?
+
+Participant: Ano, všechno mám připravené.
+
+Host: Skvěle. Začneme tím, že si rozehřejeme troubu na 180 stupňů. Poté si vezmeme mísu a smícháme mouku, cukr a kakao. Můžete to udělat?
+
+Participant: Ano, už to dělám.
+
+Host: Výborně. Teď přidáme vejce a rozpuštěné máslo. Promícháme to do hladkého těsta.
+
+Participant: Hotovo. Těsto vypadá krásně hladké.
+
+Host: Perfektní. Teď přidáme nasekanou čokoládu. To udělá dort ještě chutnější.
+
+Participant: Už přidávám čokoládu. Miluji, když je v dortu kousky čokolády.
+
+Host: Já také. Teď nalijeme těsto do formy a dáme péct na zhruba 30 minut. Nezapomeňte zkontrolovat, jestli je dort hotový pomocí špejle.
+
+Participant: Rozumím. Už to dávám do trouby.
+
+Host: Skvěle. Teď už jen počkáme, až bude dort upečený. Máte nějaké otázky?
+
+Participant: Ne, zatím ne. Uvidíme, jak se mi povede.
+
+Host: Určitě to bude chutné. Děkuji, za dnešní spolupráci, Peťo. Přeji vám hodně štěstí s vaším čokoládovým dortem!
+
+Participant: Děkuji moc za pomoc!
+

@@ -1,0 +1,23 @@
+Projekta vadītāja Anna: "Labrīt, visi! Ir pienācis laiks pārrunāt mūsu jaunās funkcijas palaišanu. Kā mēs esam ar termiņiem?"
+
+Projekta vadītāja Elīna: "Labrīt, Anna! Mēs esam uz pareizā ceļa. Izstrādes komanda ir gandrīz pabeigusi kodēšanu, un testēšana sāksies nākamnedēļ."
+
+Alex no projekta vadīšanas daļas: "Sveiki visiem! Man ir jautājums par dokumentāciju. Vai mēs esam pārliecināti, ka visi lietotāju ceļveži un atbalsta materiāli būs gatavi līdz palaišanai?"
+
+Anna: "Labs jautājums, Alex. Es uzrunāšu mūsu dokumentācijas komandu un pārliecināšos, ka viņi ievēro grafiku. Mums ir nepieciešams, lai viss būtu gatavs vienlaicīgi."
+
+Elīna: "Vēl viens aspekts, par ko mums jādomā, ir mārketinga kampaņa. Vai mēs esam saskaņojuši visas aktivitātes ar mārketinga komandu?"
+
+Alex: "Jā, es nesen runāju ar viņiem. Viņi plāno sākt reklāmas kampaņu divas nedēļas pirms palaišanas. Mums tikai jānodrošina, ka viss tehniskais ir gatavs līdz tam."
+
+Anna: "Labi, tas izklausās lieliski. Vai ir vēl kādi neatrisināti jautājumi vai bažas?"
+
+Elīna: "Mani uztrauc tikai tas, vai mūsu serveri spēs izturēt palielināto slodzi pēc palaišanas. Mums vajadzētu veikt dažus stresa testus, lai pārliecinātos."
+
+Alex: "Piekrītu. Es sazināšos ar mūsu IT komandu un organizēšu stresa testus nākamās nedēļas laikā."
+
+Anna: "Lieliski! Paldies, Elīna un Alex. Es domāju, ka mēs esam uz pareizā ceļa. Turpināsim cieši sadarboties, lai nodrošinātu veiksmīgu palaišanu."
+
+Elīna: "Protams, Anna. Mēs to paveiksim!"
+
+Alex: "Jā, mēs to paveiksim. Paldies visiem par sadarbību!"

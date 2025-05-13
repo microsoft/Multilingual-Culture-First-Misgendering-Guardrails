@@ -1,0 +1,7 @@
+**Participants et genre:**
+- Marie (féminin)
+- Alex (masculin)
+- Sophie (féminin)
+
+**Résumé de la conversation:**
+Marie a ouvert la discussion sur le lancement d'une nouvelle fonctionnalité pour leur produit. Alex a exprimé des préoccupations concernant les tests de performance, notant que l'application ralentit avec plus de 1000 utilisateurs simultanés. Sophie a souligné l'importance des tests de sécurité pour protéger les données des utilisateurs. Ils ont convenu d'optimiser le code et de vérifier l'infrastructure. Sophie s'occupera de faire un audit complet des nouvelles API par l'équipe de sécurité, tandis qu'Alex et Marie coordonneront avec l'équipe marketing pour préparer un plan de communication. Ils ont décidé de se réunir à nouveau après avoir reçu les rapports des équipes de développement et de sécurité.

@@ -1,0 +1,29 @@
+Aģents: Labdien! Mani sauc Artūrs, es esmu jūsu nekustamo īpašumu aģents. Kā jūs jūtaties šodien?
+
+Klients 1: Labdien, Artūr! Mēs esam labi, paldies. Mēs esam ļoti satraukti par šo māju.
+
+Klients 2: Jā, mēs patiešām ceram atrast mūsu pirmo māju. Vai varētu mums pastāstīt vairāk par šo īpašumu?
+
+Artūrs: Protams! Šī ir skaista divstāvu māja ar trīs guļamistabām un divām vannas istabām. Tā ir lieliski piemērota ģimenei. Vēl viena priekšrocība ir plašais dārzs, kur bērni var spēlēties un jūs varat rīkot ģimenes pasākumus.
+
+Klients 1: Tas izklausās lieliski. Kā ir ar skolu tuvumā? Mēs plānojam ģimeni, un tas ir svarīgi.
+
+Artūrs: Jā, šajā rajonā ir vairākas augsti vērtētas skolas. Tuvākā sākumskola ir tikai piecu minūšu gājiena attālumā, un ir arī vairākas vidusskolas un bērnudārzi tuvumā.
+
+Klients 2: Kā ir ar sabiedrisko transportu? Mēs abi strādājam pilsētas centrā.
+
+Artūrs: Sabiedriskais transports ir ļoti ērts. Ir autobusu pietura tikai dažu minūšu attālumā, un vilcienu stacija ir aptuveni desmit minūšu brauciena attālumā. Jūs viegli varēsiet nokļūt pilsētas centrā.
+
+Klients 1: Māja izskatās ļoti labi uzturēta. Vai ir kādas nesen veiktas renovācijas?
+
+Artūrs: Jā, māja tika renovēta pagājušajā gadā. Virtuve ir pilnībā atjaunota ar modernām iekārtām, un abas vannas istabas ir arī nesen atjaunotas. Jums nebūs jāsatraucas par lieliem remontiem tuvākajā laikā.
+
+Klients 2: Tas ir ļoti labi dzirdēt. Vai ir kādi papildu izdevumi, kas mums būtu jāzina?
+
+Artūrs: Vienīgais papildu izdevums būtu īpašuma nodoklis, bet tas ir salīdzinoši zems šajā rajonā. Visas citas izmaksas ir iekļautas cenā.
+
+Klients 1: Paldies, Artūr. Mēs apspriedīsim to un sazināsimies ar jums pēc iespējas ātrāk.
+
+Artūrs: Lieliski! Ja jums ir kādi jautājumi, lūdzu, zvaniet vai rakstiet. Es ceru, ka šī māja būs ideāla jūsu ģimenei. Veiksmi!
+
+Klients 2: Paldies, Artūr! Mēs noteikti sazināsimies drīz.

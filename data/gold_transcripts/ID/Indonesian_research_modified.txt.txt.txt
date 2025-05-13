@@ -1,0 +1,19 @@
+Peneliti Senior: Baiklah, apakah ada yang punya pertanyaan tentang presentasi saya tadi?
+
+Anggota Tim 1: Ya, Bu. Saya ingin bertanya tentang metode pengumpulan data yang digunakan dalam penelitian ini. Apakah ada alasan khusus mengapa kita memilih metode survei dibandingkan metode wawancara mendalam?
+
+Peneliti Senior: Pertanyaan yang bagus. Kita memilih metode survei karena ingin mendapatkan data dari sampel yang lebih besar untuk meningkatkan validitas hasil penelitian. Metode survei memungkinkan kita untuk mengumpulkan data dari banyak responden dalam waktu yang relatif singkat. Selain itu, survei juga lebih efisien dari segi biaya dibandingkan wawancara mendalam.
+
+Anggota Tim 2: Terima kasih atas penjelasannya, Bu. Saya ada pertanyaan tentang analisis data. Apakah kita menggunakan software tertentu untuk menganalisis data yang diperoleh? Jika ya, software apa yang kita gunakan dan mengapa memilih software tersebut?
+
+Peneliti Senior: Ya, kita menggunakan software SPSS untuk analisis data. SPSS dipilih karena memiliki berbagai fitur yang mendukung analisis statistik yang kompleks dan mudah digunakan. Selain itu, banyak rekan peneliti kita yang juga menggunakan SPSS, sehingga memudahkan kolaborasi dan pertukaran data di antara kita.
+
+Anggota Tim 1: Terima kasih, Bu. Satu lagi pertanyaan, bagaimana kita memastikan keakuratan data yang dikumpulkan? Apakah ada langkah-langkah khusus yang diambil untuk meminimalisasi kesalahan dalam pengumpulan data?
+
+Peneliti Senior: Tentu saja, kita sangat memperhatikan keakuratan data. Beberapa langkah yang kami ambil termasuk melakukan uji coba survei sebelum disebarkan secara luas, memastikan pertanyaan yang diajukan jelas dan tidak ambigu, serta memberikan pelatihan kepada enumerator untuk memastikan mereka memahami cara mengumpulkan data dengan benar. Selain itu, kami juga melakukan validasi data secara berkala untuk mendeteksi dan memperbaiki kesalahan yang mungkin terjadi.
+
+Anggota Tim 2: Terima kasih banyak, Bu. Penjelasan Ibu sangat membantu.
+
+Peneliti Senior: Sama-sama. Jika ada pertanyaan lain atau butuh penjelasan lebih lanjut, jangan ragu untuk menghubungi saya. Terima kasih semua atas perhatian dan partisipasinya.
+
+

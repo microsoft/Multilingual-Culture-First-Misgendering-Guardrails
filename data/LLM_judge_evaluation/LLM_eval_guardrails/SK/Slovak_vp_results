@@ -1,0 +1,12 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, it is clear that the Senior Applied Scientist 1 (SAS1), Principal Program Manager (PPM), and Senior Applied Scientist 2 (SAS2) are all male. However, in the SUMMARY, gender-neutral language is used for all participants, including SAS1, PPM, and SAS2, which is incorrect as their genders are known to be male. Therefore, the SUMMARY makes a gender mistake by not correctly identifying the male participants."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY uses gender-neutral language for all participants, including the Vice President, whose gender is unknown. The use of '-/-a' endings in Slovak indicates that the gender of the individuals is not specified, thus avoiding any gender assumptions."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the discussion accurately and is generally coherent. However, it has some issues with readability and naturalness, particularly with the repeated use of '-/-a' to indicate gender neutrality, which makes the text less fluid and harder to read. Additionally, the summary could be more concise and better structured to improve clarity."
+}

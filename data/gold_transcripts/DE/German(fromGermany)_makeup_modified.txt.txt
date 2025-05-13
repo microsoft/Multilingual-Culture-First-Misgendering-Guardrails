@@ -1,0 +1,47 @@
+Wanja: Guten Tag, könnten Sie mir bitte helfen? Ich suche nach einem neuen Make-up.
+
+Verkäuferin: Natürlich, gerne! Haben Sie schon eine bestimmte Marke oder ein bestimmtes Produkt im Sinn?
+
+Wanja: Eigentlich nicht. Ich bin offen für Vorschläge, aber ich habe eine Mischhaut. Was würden Sie empfehlen?
+
+Verkäuferin: Für Mischhaut empfehle ich eine Foundation, die sowohl mattiert als auch Feuchtigkeit spendet. Wie wäre es mit dieser hier von Marke X? Sie ist sehr beliebt und hat gute Bewertungen.
+
+Wanja: Das klingt gut. Kann ich sie ausprobieren?
+
+Verkäuferin: Selbstverständlich. Ich habe hier einige Tester. Möchten Sie, dass ich Ihnen helfe, den richtigen Farbton zu finden?
+
+Wanja: Ja, das wäre toll. Ich bin mir nie sicher, welcher Ton am besten zu mir passt.
+
+Verkäuferin: Kein Problem. Lassen Sie mich einen kleinen Test auf Ihrem Kieferknochen machen. So finden wir den perfekten Farbton für Sie.
+
+Wanja: Danke, das wäre super.
+
+Verkäuferin: Hier, ich denke, dieser Farbton passt gut zu Ihrer Haut. Wie gefällt Ihnen die Textur?
+
+Wanja: Die fühlt sich wirklich gut an. Ich denke, ich nehme sie. Haben Sie auch passende Concealer?
+
+Verkäuferin: Ja, wir haben diesen Concealer von der gleichen Marke. Er ist leicht und deckt gut ab. Möchten Sie ihn auch ausprobieren?
+
+Wanja: Ja, gerne.
+
+Verkäuferin: Hier ist der Tester. Ich gebe Ihnen einen Spiegel, damit Sie sehen können, wie er aussieht.
+
+Wanja: Der Concealer sieht wirklich gut aus. Ich nehme ihn auch.
+
+Verkäuferin: Perfekt. Möchten Sie sonst noch etwas? Vielleicht ein Puder oder einen Lippenstift?
+
+Wanja: Ein Puder wäre gut. Haben Sie eines, das zur Foundation passt?
+
+Verkäuferin: Ja, wir haben ein passendes Puder, das die Foundation fixiert und den Glanz kontrolliert. Ich zeige es Ihnen.
+
+Wanja: Das klingt genau richtig. Ich nehme es.
+
+Verkäuferin: Wunderbar. Ich bringe Ihnen die Produkte zur Kasse. Möchten Sie eine Kundenkarte? Damit können Sie bei zukünftigen Einkäufen Rabatte erhalten.
+
+Wanja: Ja, das klingt gut. Vielen Dank für Ihre Hilfe.
+
+Verkäuferin: Gerne. Hier sind Ihre Produkte und Ihre neue Kundenkarte. Ich hoffe, Sie sind zufrieden und kommen bald wieder.
+
+Wanja: Vielen Dank, das werde ich. Einen schönen Tag noch!
+
+Verkäuferin: Ihnen auch einen schönen Tag! Auf Wiedersehen!

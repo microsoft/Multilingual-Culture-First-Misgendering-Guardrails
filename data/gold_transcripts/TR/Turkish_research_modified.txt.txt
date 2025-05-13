@@ -1,0 +1,23 @@
+Araştırmacı: Sunumum burada sona eriyor. Sorularınız varsa memnuniyetle cevaplarım.
+
+Takım Üyesi 1: Teşekkürler hocam, çok bilgilendirici bir sunumdu. Bir sorum olacak: Bu yeni metodolojiyi kullanarak elde ettiğiniz verilerle, önceki çalışmalar arasındaki farklar nelerdir?
+
+Araştırmacı: Güzel bir soru. Yeni metodolojimiz, veri toplama sürecinde daha yüksek doğruluk sağlıyor. Bu da, özellikle küçük örneklem gruplarında daha güvenilir sonuçlar elde etmemizi sağladı. Önceki çalışmalarımızda bazı belirsizlikler vardı, ancak bu yeni yaklaşım sayesinde bu belirsizlikleri büyük ölçüde azalttık.
+
+Takım Üyesi 2: Ben de bir soru sormak istiyorum. Yeni metodolojiyi uygularken karşılaştığınız en büyük zorluk neydi?
+
+Araştırmacı: En büyük zorluk, metodolojiyi laboratuvar ortamına entegre etmek oldu. Yeni cihazlar ve yazılımlar kullanmamız gerekti, bu da ekibin alışma sürecini biraz uzattı. Ancak, ekip olarak bu zorluğun üstesinden gelmeyi başardık ve şimdi çok daha verimli çalışabiliyoruz.
+
+Takım Üyesi 1: Anladım, teşekkürler. Bu yeni metodolojiyi farklı alanlarda da uygulamayı düşünüyor musunuz?
+
+Araştırmacı: Evet, kesinlikle. Şu an üzerinde çalıştığımız projelerden bazıları, bu metodolojinin farklı disiplinlerde nasıl kullanılabileceğini test etmeyi amaçlıyor. İlk sonuçlar oldukça umut verici.
+
+Takım Üyesi 2: Çok heyecan verici! Son olarak, bu metodolojiyi diğer araştırma gruplarıyla paylaşmayı planlıyor musunuz?
+
+Araştırmacı: Kesinlikle. Bilimsel ilerlemenin en önemli unsurlarından biri bilgi paylaşımıdır. Bu metodolojiyi detaylandıran bir makale üzerinde çalışıyoruz ve yakında yayınlamayı planlıyoruz. Ayrıca, uluslararası konferanslarda da sunum yaparak daha geniş bir kitleye ulaşmayı hedefliyoruz.
+
+Takım Üyesi 1: Çok teşekkürler hocam, sorularımızı yanıtladığınız için.
+
+Takım Üyesi 2: Evet, çok teşekkürler. Çalışmalarınızda başarılar dilerim.
+
+Araştırmacı: Ben teşekkür ederim. Hep birlikte büyük işler başaracağımıza inanıyorum.

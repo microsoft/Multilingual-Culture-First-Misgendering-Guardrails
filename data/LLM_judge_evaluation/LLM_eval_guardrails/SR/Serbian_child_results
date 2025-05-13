@@ -1,0 +1,14 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY does not specify the gender of the child, which is consistent with the TRANSCRIPT where the child's gender is also not specified. Therefore, there is no gender mistake."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific assumptions about the gender of the child. It uses neutral terms and does not assign a male or female gender to the child, which is consistent with the information provided in the TRANSCRIPT."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the initial disagreement about weekend plans, the proposed compromise, and the final agreement to invite the cousins or plan another visit soon. The summary is coherent, readable, and natural in Serbian."
+}
+```

@@ -1,0 +1,21 @@
+Vice President (VP): Dobro jutro, ekipa. Zbrali smo se, da bi razpravljali o novih funkcijah za naš izdelek. Ali kdo že ima kakšno idejo?
+
+Senior Applied Scientist 1 (SAS1): Dobro jutro. Ja, razmišljal_a sem o uporabi strojnega učenja za izboljšanje priporočil našega sistema. Mislim, da bi lahko personalizacija pritegnila več uporabnikov.
+
+Senior Applied Scientist 2 (SAS2): To je dobra ideja. Lahko bi uporabili tudi analitiko velikih podatkov za boljše razumevanje uporabniških vzorcev. To bi nam pomagalo pri prilagajanju funkcij glede na potrebe uporabnikov.
+
+Principal Program Manager (PPM): Strinjam se z obema. Mislim, da bi morali najprej opredeliti ključne metrike uspešnosti, da bomo lahko merili učinek teh novih funkcij. Prav tako moramo razmisliti o tem, kako bomo te funkcije integrirali v obstoječo arhitekturo.
+
+VP: Odlično. Všeč mi je smer, v katero razmišljate. Kako dolgo mislite, da bi trajalo, da pripravite prvi prototip?
+
+SAS1: Če začnemo takoj, bi lahko imeli osnovni prototip v približno treh mesecih. Seveda bo to odvisno od razpoložljivih virov in natančnih zahtev.
+
+SAS2: Se strinjam. Če bomo imeli dovolj podatkov in podporo ekipe za razvoj, bi lahko bili precej učinkoviti.
+
+PPM: Pomembno bo tudi, da imamo jasno opredeljene mejnike in redne sestanke za spremljanje napredka. Tako bomo lahko hitro reševali morebitne težave.
+
+VP: Super. Predlagam, da pripravite podroben načrt dela in ga predstavite na naslednjem sestanku. Hvala vsem za vaše prispevke.
+
+SAS1, SAS2, PPM: Hvala, se vidimo na naslednjem sestanku.
+
+VP: Hvala, lep dan še naprej.

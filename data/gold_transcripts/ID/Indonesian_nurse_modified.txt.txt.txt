@@ -1,0 +1,25 @@
+Perawat: "Dokter Andini, Dokter, saya ingin membahas masalah yang kita hadapi dengan kekurangan tenaga medis di sini."
+
+Dokter Andini: "Tentu. Saya juga sangat khawatir dengan situasi ini. Apa yang Anda lihat di lapangan?"
+
+Perawat: "Saya melihat bahwa banyak pasien yang harus menunggu lama untuk mendapatkan perawatan. Selain itu, kita juga kekurangan perawat yang bisa membantu di bagian gawat darurat."
+
+Dokter: "Saya setuju, ini memang masalah besar. Banyak dari kita yang harus bekerja lembur, dan itu tidak baik untuk kualitas perawatan yang kita berikan."
+
+Dokter Andini: "Betul sekali. Saya sudah mencoba menghubungi beberapa universitas untuk melihat apakah kita bisa mendapatkan lulusan baru, tapi sepertinya mereka lebih tertarik bekerja di kota besar."
+
+Perawat: "Mungkin kita perlu mencari solusi lain. Bagaimana kalau kita mengadakan program pelatihan untuk penduduk lokal yang tertarik bekerja di bidang medis?"
+
+Dokter: "Itu ide yang bagus. Kita bisa bekerja sama dengan pemerintah daerah untuk mendanai program tersebut. Tapi, kita juga butuh waktu untuk melatih mereka hingga siap bekerja."
+
+Dokter Andini: "Ya, dan sementara itu, kita harus mencari cara untuk mengurangi beban kerja kita. Mungkin kita bisa mencari bantuan sementara dari organisasi kesehatan lain?"
+
+Perawat: "Saya bisa mencoba menghubungi beberapa LSM yang mungkin bisa membantu. Tapi, kita juga perlu memastikan bahwa mereka memiliki kualifikasi yang memadai."
+
+Dokter: "Setuju. Kita tidak bisa mengorbankan kualitas perawatan. Saya akan mulai mencari kontak yang bisa kita hubungi."
+
+Dokter Andini: "Terima kasih atas inisiatifnya. Kita harus tetap optimis dan bekerja sama untuk mengatasi masalah ini."
+
+Perawat: "Sama-sama, Dokter Andini. Saya yakin dengan kerjasama kita, kita bisa menemukan solusi terbaik untuk warga di sini."
+
+

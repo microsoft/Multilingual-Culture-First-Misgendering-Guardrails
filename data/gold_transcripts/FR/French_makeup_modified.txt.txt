@@ -1,0 +1,47 @@
+**Client :** Bonjour !
+
+**Vendeuse :** Bonjour ! Comment puis-je vous aider aujourd'hui ?
+
+**Client :** Je cherche un fond de teint qui correspondrait à ma peau. Vous auriez des recommandations ?
+
+**Vendeuse :** Bien sûr ! Quel type de peau avez-vous ? Plutôt sèche, mixte ou grasse ?
+
+**Client :** J'ai la peau mixte, avec une zone T qui a tendance à briller.
+
+**Vendeuse :** D'accord, je vous recommande alors un fond de teint matifiant. Nous avons plusieurs options. Voulez-vous que je vous fasse essayer quelques teintes pour trouver celle qui correspond le mieux à votre carnation ?
+
+**Client :** Oui, ce serait parfait. Merci !
+
+**Vendeuse :** Très bien, asseyez-vous ici, je vais préparer quelques échantillons. Quel genre de couvrance préférez-vous ? Légère, moyenne ou complète ?
+
+**Client :** Plutôt moyenne, je veux quelque chose qui couvre bien mais qui reste naturel.
+
+**Vendeuse :** Parfait. Voici trois teintes qui pourraient convenir. Je vais les appliquer sur votre mâchoire pour voir laquelle se fond le mieux. 
+
+**Client :** D'accord, je vous fais confiance.
+
+**Vendeuse :** (appliquant les échantillons) Voilà, regardez dans le miroir. La première teinte me semble un peu trop claire, la deuxième est pas mal, et la troisième semble se fondre parfaitement avec votre peau. Qu'en pensez-vous ?
+
+**Client :** Oui, je pense aussi que la troisième est la meilleure. Elle a l'air très naturelle.
+
+**Vendeuse :** Excellent choix ! Voulez-vous essayer autre chose, comme un anti-cernes ou un blush ?
+
+**Client :** Oui, pourquoi pas. J'aurais besoin d'un bon anti-cernes. 
+
+**Vendeuse :** Très bien, pour votre teint, je vous recommande cet anti-cernes. Il est très couvrant mais reste léger sur la peau. Voulez-vous que je l'applique pour que vous puissiez voir le résultat ?
+
+**Client :** Oui, merci.
+
+**Vendeuse :** (appliquant l'anti-cernes) Voilà, c'est fait. Vous voyez comme il illumine votre regard ?
+
+**Client :** Oui, c'est parfait ! Je vais prendre le fond de teint et l'anti-cernes alors.
+
+**Vendeuse :** Parfait. Je vais les emballer pour vous. Ce sera tout pour aujourd'hui ?
+
+**Client :** Oui, c'est tout. Merci beaucoup pour votre aide.
+
+**Vendeuse :** Avec plaisir ! Passez une excellente journée.
+
+**Client :** Merci, vous aussi. Au revoir !
+
+**Vendeuse :** Au revoir !

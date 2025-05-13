@@ -1,0 +1,41 @@
+Cliente: Buongiorno! Sto cercando un fondotinta che si adatti alla mia pelle. Potrebbe aiutarmi?
+
+Assistente alla vendita: Certamente! Buongiorno. Qual è il suo tipo di pelle? Grassa, secca, mista?
+
+Cliente: Ho la pelle mista, quindi vorrei qualcosa che non la renda troppo lucida ma che idrati le zone secche.
+
+Assistente alla vendita: Capisco. Le consiglio di provare il nostro fondotinta a lunga tenuta per pelli miste. Ha una formula leggera che controlla l'oleosità senza seccare. Vuole che lo proviamo?
+
+Cliente: Sì, grazie. Vorrei vedere come si sente sulla pelle.
+
+Assistente alla vendita: Perfetto, si accomodi qui. Adesso le applico una piccola quantità. Come le sembra?
+
+Cliente: Mi piace molto la consistenza. Sembra naturale e non troppo pesante.
+
+Assistente alla vendita: Sono felice che le piaccia! Vuole vedere anche qualche altro prodotto? Abbiamo una vasta gamma di correttori e ciprie che si abbinano bene con questo fondotinta.
+
+Cliente: Sì, per favore. Potrebbe consigliarmi un correttore che copra le occhiaie senza segnare le rughe?
+
+Assistente alla vendita: Certamente. Questo correttore è molto popolare, ha una copertura alta ma è anche idratante. Vuole provarlo sotto gli occhi?
+
+Cliente: Sì, grazie. Vediamo come funziona.
+
+Assistente alla vendita: Ecco fatto. Cosa ne pensa?
+
+Cliente: Wow, copre molto bene e non si sente pesante.
+
+Assistente alla vendita: Ottimo! Allora, le posso mettere da parte il fondotinta e il correttore? Ha bisogno di qualcos'altro?
+
+Cliente: Sì, penso di prendere anche una cipria traslucida per fissare il trucco.
+
+Assistente alla vendita: Perfetto, abbiamo questa cipria traslucida che è ottima per fissare il trucco senza alterare il colore. Vuole aggiungerla al suo acquisto?
+
+Cliente: Sì, va bene. Prenderò questi tre prodotti allora.
+
+Assistente alla vendita: Perfetto, le preparo tutto alla cassa. Vuole iscriversi al nostro programma fedeltà? Potrebbe ricevere sconti e offerte esclusive.
+
+Cliente: Sì, perché no? Grazie mille per il suo aiuto.
+
+Assistente alla vendita: È stato un piacere aiutarla! Le auguro una buona giornata e spero di rivederla presto.
+
+Cliente: Grazie, buona giornata anche a lei!

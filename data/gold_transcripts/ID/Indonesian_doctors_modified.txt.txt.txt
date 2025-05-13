@@ -1,0 +1,33 @@
+Dr. Andi: "Selamat pagi, Dr. Budi dan Dr. Sis. Terima kasih sudah bisa hadir di pertemuan ini. Ada beberapa perubahan administratif yang akan mulai berlaku minggu depan di rumah sakit kita."
+
+Dr. Budi: "Pagi, Dr. Andi dan Dr. Sis. Saya sudah mendengar sedikit tentang perubahan ini, tapi belum tahu detailnya. Apa saja yang akan berubah?"
+
+Dr. Sis: "Selamat pagi semuanya. Saya juga penasaran. Bisa jelaskan lebih lanjut, Dr. Andi?"
+
+Dr. Andi: "Tentu. Pertama-tama, kita akan menerapkan sistem baru untuk penjadwalan shift. Sistem ini akan lebih otomatis dan diharapkan bisa mengurangi kesalahan manual."
+
+Dr. Budi: "Itu sepertinya ide bagus. Saya sering mendengar keluhan dari staf tentang ketidakjelasan jadwal. Apakah ada pelatihan untuk sistem baru ini?"
+
+Dr. Andi: "Ya, akan ada sesi pelatihan untuk semua staf pada hari Jumat ini. Selain itu, kita juga akan memperkenalkan aplikasi mobile untuk memudahkan komunikasi antar tim medis."
+
+Dr. Sis: "Aplikasi mobile? Itu pasti sangat membantu. Apakah aplikasi ini juga bisa digunakan untuk mengakses catatan medis pasien?"
+
+Dr. Andi: "Benar sekali, Dr. Sis. Dengan aplikasi ini, kita bisa mengakses catatan medis pasien secara real-time. Ini akan sangat berguna terutama dalam situasi darurat."
+
+Dr. Budi: "Saya setuju. Dengan akses real-time, kita bisa membuat keputusan lebih cepat dan tepat. Bagaimana dengan keamanan datanya?"
+
+Dr. Andi: "Keamanan data adalah prioritas utama. Aplikasi ini telah dilengkapi dengan sistem enkripsi yang kuat dan hanya bisa diakses oleh staf yang berwenang."
+
+Dr. Sis: "Bagus sekali. Apakah ada hal lain yang perlu kita ketahui mengenai perubahan ini?"
+
+Dr. Andi: "Ada satu lagi. Kita akan memperkenalkan sistem evaluasi kinerja baru yang lebih transparan dan berbasis merit. Ini diharapkan bisa meningkatkan motivasi dan kinerja semua staf."
+
+Dr. Budi: "Saya sangat mendukung perubahan ini. Saya yakin ini akan membawa banyak manfaat bagi rumah sakit kita."
+
+Dr. Sis: "Saya juga setuju. Terima kasih atas informasi lengkapnya, Dr. Andi. Kita harus memastikan semua staf siap untuk perubahan ini."
+
+Dr. Andi: "Tentu, Dr. Sis. Mari kita bekerja sama untuk memastikan transisi ini berjalan lancar. Terima kasih atas waktu kalian."
+
+Dr. Budi dan Dr. Sis: "Terima kasih, Dr. Andi."
+
+

@@ -1,0 +1,29 @@
+Jana: Hej, ekipa, dobila sem nekaj povratnih informacij o naši zadnji verziji izdelka. Na žalost niso najbolj pozitivne.
+
+Maja: Oh, res? Kakšne so bile konkretne pripombe?
+
+Alex: Ja, to moramo čim prej rešiti. Kaj so uporabniki povedali?
+
+Jana: Najpogosteje so se pritoževali nad uporabniškim vmesnikom. Pravijo, da je zmeden in težko uporaben.
+
+Maja: To sem že pričakovala. Imela sem občutek, da bi lahko bil bolj intuitiven. Imamo kakšne konkretne predloge, kako ga izboljšati?
+
+Alex: Morda bi lahko izvedli nekaj uporabniških testov z našimi ciljnimi skupinami. Tako bi dobili boljši vpogled v njihove potrebe in pričakovanja.
+
+Jana: Dobra ideja, Alex. Poleg tega so nekateri uporabniki omenili tudi počasno delovanje aplikacije. Verjetno bomo morali optimizirati kodo.
+
+Maja: Strinjam se. Morda bi lahko pregledali, katere funkcionalnosti najbolj obremenjujejo sistem, in jih poskušali optimizirati.
+
+Alex: Prav tako bi lahko razmislili o izboljšanju podpore za stranke. Če bi imeli bolj učinkovit način za reševanje težav, bi lahko zmanjšali negativno povratno informacijo.
+
+Jana: Odlično, torej imamo tri glavne točke za izboljšanje: uporabniški vmesnik, optimizacija delovanja in podpora za stranke. Predlagam, da se razdelimo in vsak prevzame eno področje.
+
+Maja: Lahko prevzamem uporabniški vmesnik. Imam že nekaj idej, kako ga narediti bolj prijaznega.
+
+Alex: Jaz se bom lotil_a optimizacije kode. Prepričan_a sem, da lahko izboljšamo delovanje z nekaj prilagoditvami.
+
+Jana: Super, potem bom jaz poskrbela za izboljšanje podpore za stranke. Gremo torej na delo, ekipa!
+
+Maja: Dogovorjeno!
+
+Alex: Gremo!

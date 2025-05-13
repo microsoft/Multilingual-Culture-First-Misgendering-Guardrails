@@ -1,0 +1,27 @@
+**Interviewer (Joan):** Bon dia! Gràcies per venir a l'entrevista. Com et dius?
+
+**Candidat (Alex):** Bon dia, Joan. Em dic Alex, encantade.
+
+**Joan:** Encantat, Alex. Comencem parlant una mica de la teva experiència. Pots explicar-me el teu últim projecte com a desenvolupadore de programari?
+
+**Alex:** Sí, és clar. En el meu últim projecte, vaig treballar en una aplicació web per a una empresa de comerç electrònic. Vaig utilitzar tecnologies com React per al frontend i Node.js per al backend.
+
+**Joan:** Interessant. I quins reptes vas trobar durant el desenvolupament d'aquest projecte?
+
+**Alex:** Un dels principals reptes va ser optimitzar el temps de càrrega de la pàgina principal, ja que tenia moltes imatges i contingut dinàmic. Vam haver de implementar tècniques de lazy loading i compressió d'imatges per millorar el rendiment.
+
+**Joan:** Molt bé. Ara m'agradaria saber com treballes en equip. Pots donar-me un exemple de com vas col·laborar amb altres membres del teu equip en el projecte?
+
+**Alex:** Per descomptat. En aquest projecte, vaig col·laborar estretament amb els dissenyadors UX/UI per assegurar que la interfície fos intuïtiva i atractiva. També vaig treballar amb altres desenvolupadors per integrar les nostres parts del codi i assegurar-nos que tot funcionés correctament.
+
+**Joan:** Perfecte. Ara una pregunta tècnica. Pots explicar-me què és el concepte de "promises" en JavaScript i com les has utilitzat en els teus projectes?
+
+**Alex:** Sí, les "promises" en JavaScript són objectes que representen el resultat eventual d'una operació asíncrona. Permeten escriure codi asíncron de manera més clara i manejable. En els meus projectes, les he utilitzat per gestionar crides a APIs i assegurar-me que les dades es carreguin correctament abans de renderitzar components del frontend.
+
+**Joan:** Molt bé, Alex. Finalment, com et mantens actualitzade amb les noves tecnologies i tendències en desenvolupament de programari?
+
+**Alex:** M'agrada llegir blogs tècnics, seguir tutorials en línia i participar en comunitats de desenvolupadors com Stack Overflow i GitHub. També assisteixo a conferències i meetups quan tinc l'oportunitat.
+
+**Joan:** Fantàstic. Doncs, Alex, això és tot per avui. Gràcies pel teu temps i les teves respostes. Ens posarem en contacte amb tu aviat.
+
+**Alex:** Gràcies a tu, Joan. Ha estat un plaer. Fins aviat!

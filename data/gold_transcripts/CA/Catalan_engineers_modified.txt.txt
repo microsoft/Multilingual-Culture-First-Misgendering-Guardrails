@@ -1,0 +1,27 @@
+**Maria:** Bon dia, equip! Hem rebut alguns comentaris negatius sobre la nova versió del producte que vam llançar la setmana passada. Hem de parlar sobre com abordar-los.
+
+**Laia:** Bon dia, Maria. Sí, he llegit alguns dels comentaris. Sembla que hi ha problemes amb la interfície d'usuari. Molts usuaris diuen que és confusa i poc intuïtiva.
+
+**Alex:** Totalment d'acord, Laia. A més, hi ha queixes sobre la velocitat de resposta de l'aplicació. Alguns usuaris diuen que és més lenta que la versió anterior.
+
+**Maria:** Crec que hauríem de començar per prioritzar els problemes. Què penseu que és més urgent, la interfície d'usuari o la velocitat de resposta?
+
+**Laia:** Per mi, la interfície d'usuari és clau. Si els usuaris no poden navegar fàcilment per l'aplicació, no arribaran a experimentar la millora en la velocitat, encara que la solucionem.
+
+**Alex:** Sí, però si l'aplicació és lenta, això afectarà negativament l'experiència general, fins i tot si la interfície és més intuïtiva. Jo crec que hauríem de treballar en ambdós fronts, però potser començar amb la interfície d'usuari.
+
+**Maria:** D'acord, estic d'acord amb vosaltres dos. Prioritzem la interfície d'usuari i després ens enfoquem en la velocitat de resposta. Laia, pots començar a treballar en la simplificació de la interfície?
+
+**Laia:** Sí, cap problema. Tinc algunes idees per fer-la més intuïtiva. Em posaré a treballar-hi immediatament.
+
+**Maria:** Perfecte. Alex, pots investigar les causes de la lentitud i veure si podem optimitzar el codi o si és un problema de servidor?
+
+**Alex:** Sí, ja tinc algunes hipòtesis. Faré algunes proves i us mantindré informades.
+
+**Maria:** Molt bé, equip. Recordeu que és important comunicar-nos constantment. Vull que fem una reunió de seguiment demà a la mateixa hora per veure com avancem.
+
+**Laia:** Entesos.
+
+**Alex:** D'acord, fins demà.
+
+**Maria:** Gràcies a tothom, fins demà!

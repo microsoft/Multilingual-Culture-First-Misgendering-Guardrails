@@ -1,0 +1,27 @@
+Intervjueerija: Tere päevast! Minu nimi on Martin ja ma olen selle ettevõtte tehniline juht. Mul on hea meel teid siin tervitada. Kuidas te end täna tunnete?
+
+Kandidaat: Tere, Martin! Aitäh, tunnen end hästi ja olen põnevil selle intervjuu üle. Aitäh, et mind kutsusite.
+
+Intervjueerija: Väga tore kuulda. Alustame siis. Palun rääkige veidi oma taustast ja kogemustest tarkvaraarenduses.
+
+Kandidaat: Olen töötanud tarkvaraarendajana viimased viis aastat. Olen peamiselt keskendunud veebirakenduste arendamisele ja mul on kogemusi nii front-end kui ka back-end tehnoloogiatega. Viimases projektis, kus osalesin, kasutasime Reacti ja Node.js-i.
+
+Intervjueerija: Väga huvitav. Kas te saaksite täpsemalt kirjeldada ühte projekti, mille kallal olete töötanud? Mida te konkreetselt tegite ja milliseid tehnoloogiaid kasutasite?
+
+Kandidaat: Kindlasti. Üks suuremaid projekte, milles osalesin, oli e-kaubanduse platvormi arendamine. Olin vastutav front-endi eest ning kasutasime Reacti, Reduxi ja Sassi. Lisaks lõin REST API ühendusi back-endiga, mis oli ehitatud Node.js ja Expressi peale. Tegin tihedat koostööd disainerite ja back-end arendajatega, et tagada sujuv kasutajakogemus.
+
+Intervjueerija: Suurepärane! Kuidas lahendasite meeskonnas tekkivaid probleeme või konflikte?
+
+Kandidaat: Meie meeskonnas oli avatud suhtlus väga oluline. Kui tekkisid probleemid või erimeelsused, pidasime koosolekuid, kus igaüks sai oma arvamust avaldada ja lahendusi pakkuda. Püüdsime alati leida kompromissi, mis oleks kõigile osapooltele sobiv.
+
+Intervjueerija: Väga hea lähenemine. Nüüd, räägime tehnilisest oskusteabest. Kuidas hindate oma oskusi algoritmide ja andmestruktuuride alal?
+
+Kandidaat: Usun, et mul on tugevad teadmised algoritmide ja andmestruktuuride osas. Olen osalenud mitmetes kodeerimisvõistlustes ja lahendanud palju keerulisi probleeme. Kasutan sageli andmestruktuure nagu puid, graafe ja hash-tabeleid ning olen tuttav erinevate sorteerimis- ja otsingualgoritmidega.
+
+Intervjueerija: Muljetavaldav. Lõpetuseks, kas teil on küsimusi meie ettevõtte või selle rolli kohta?
+
+Kandidaat: Jah, mul on üks küsimus. Millised on teie ootused selle rolli suhtes esimese kuue kuu jooksul?
+
+Intervjueerija: Ootame, et uus arendaja integreeruks meie meeskonda, mõistaks meie praeguseid projekte ja süsteeme ning hakkaks aktiivselt kaasa lööma arendustöös. Samuti hindame proaktiivsust ja uute ideede toomist. Esimese kuue kuu jooksul oleks tore näha, kuidas te võtate vastutust ja juhite väiksemaid projekte.
+
+Kandida

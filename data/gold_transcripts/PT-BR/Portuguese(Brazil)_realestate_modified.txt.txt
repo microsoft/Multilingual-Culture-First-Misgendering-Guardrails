@@ -1,0 +1,33 @@
+"**Agente de imóveis (Cris):** Boa tarde e desejo boas vindas! Meu nome é Cris, sou agente de imóveis e vou acompanhar vocês hoje. Como posso ajudar?
+
+**Cliente 1 (Sandri):** Boa tarde, Cris! Eu sou Sandri, e te apresento Duda. Estamos procurando nossa primeira casa e gostaríamos de saber mais sobre essa propriedade.
+
+**Cris:** Prazer em conhecer, Sandri e Kaká! Fico feliz em mostrar essa casa para vocês. Vamos começar pela sala de estar. Como podem ver, é bem espaçosa e tem bastante luz natural. Ideal para receber colegas e família, não acham?
+
+**Kaká:** Sim, parece bem acolhedora. E a cozinha? É importante para nós que a cozinha seja funcional e moderna.
+
+**Cris:** Claro, vamos dar uma olhada. A cozinha foi recentemente reformada, com todos os eletrodomésticos novos e bastante espaço de armazenamento. Além disso, ela se conecta diretamente com a sala de jantar, o que facilita bastante na hora das refeições.
+
+**Sandri:** Isso é ótimo. E os quartos? Quantos são e como é a disposição?
+
+**Cris:** A casa possui três quartos. O quarto principal é bastante amplo, com um closet e uma suíte. Os outros dois quartos são ideais para crianças ou podem ser usados como escritório ou quarto de hóspedes. Todos têm bastante iluminação e ventilação natural.
+
+**Kaká:** Perfeito. E quanto ao quintal? Gostaríamos de ter um espaço ao ar livre para relaxar e, quem sabe, fazer um churrasco nos fins de semana.
+
+**Cris:** Vocês vão adorar o quintal! Ele é bem espaçoso, com uma área gramada e uma churrasqueira. É o lugar perfeito para relaxar e aproveitar o tempo com a família e colegas.
+
+**Sandri:** Parece realmente ótimo. E a vizinhança? É segura e tem boas opções de escolas e comércio por perto?
+
+**Cris:** A vizinhança é muito tranquila e segura, ideal para famílias. Há várias escolas bem avaliadas na região, além de supermercados, farmácias e outros comércios. Vocês terão tudo o que precisam a poucos minutos de distância.
+
+**Kaká:** Cris, a casa e a vizinhança são realmente impressionantes. Qual é o próximo passo se decidirmos seguir em frente?
+
+**Cris:** Fico feliz que tenham gostado! O próximo passo seria discutir os detalhes financeiros e, se estiverem de acordo, podemos iniciar o processo de compra. Estou aqui para ajudar com todas as suas dúvidas e garantir que tudo corra da melhor forma possível.
+
+**Sandri:** Agradeço, Cris. Vamos conversar um pouco e te daremos uma resposta em breve.
+
+**Cris:** Claro, fiquem à vontade. Estou à disposição para qualquer dúvida que possam ter. Foi um prazer conhecer vocês!
+
+**Kaká:** O prazer foi nosso, Cris. Até breve!
+
+**Cris:** Até breve!"

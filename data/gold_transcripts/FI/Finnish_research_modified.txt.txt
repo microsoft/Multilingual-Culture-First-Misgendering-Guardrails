@@ -1,0 +1,17 @@
+Senioritutkija: Kiitos kaikille osallistumisesta. Onko kellään kysymyksiä tutkimuksestani?
+
+Tiimin ruskeapaitainen jäsen: Kyllä, kiitos esityksestäsi. Voisitko selventää, miten tämä uusi menetelmä parantaa analyysien tarkkuutta verrattuna aikaisempiin menetelmiin?
+
+Senioritutkija: Hyvä kysymys. Uusi menetelmämme hyödyntää kehittyneempiä algoritmeja, jotka pystyvät käsittelemään suurempia tietomääriä nopeammin ja tarkemmin. Tämä vähentää virhemarginaalia ja parantaa tulosten luotettavuutta.
+
+Tiimin valkopaitainen jäsen: Mielenkiintoista. Entä miten tämä vaikuttaa tutkimuksen kustannuksiin? Onko tämä menetelmä kalliimpi toteuttaa?
+
+Senioritutkija: Alkuinvestointi voi olla korkeampi, sillä tarvitsemme tehokkaampaa laskentatehoa ja kehittyneempiä ohjelmistoja. Kuitenkin pitkällä aikavälillä menetelmä parantaa tehokkuutta ja vähentää manuaalisen työn tarvetta, mikä voi lopulta säästää kustannuksia.
+
+Tiimin ruskeapaitainen jäsen: Kiitos selvennyksestä. Onko teillä suunnitelmia laajentaa tätä menetelmää muihin tutkimusalueisiin?
+
+Senioritutkija: Kyllä, olemme jo aloittaneet pilotointiprojekteja muutamissa muissa tutkimusryhmissä. Alustavat tulokset ovat lupaavia, ja uskomme, että menetelmä soveltuu hyvin monenlaisiin tutkimusaiheisiin.
+
+Tiimin valkopaitainen jäsen: Kuulostaa erittäin lupaavalta. Kiitos vastauksistasi.
+
+Senioritutkija: Kiitos teille kysymyksistä. Jos tulee lisää kysymyksiä, voitte aina ottaa yhteyttä minuun sähköpostitse.

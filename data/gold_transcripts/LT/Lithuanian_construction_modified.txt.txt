@@ -1,0 +1,29 @@
+Vytas: Labas rytas, visi. Kaip sekasi? Pradėkime nuo dienos plano.
+
+Jonas: Labas, Vytai. Gerai, kad susirinkome. Taigi, kokie darbai mūsų laukia šiandien?
+
+Patrikas: Sveiki. Aš patikrinsiu medžiagų sąrašą ir įsitikinsiu, kad viskas yra vietoje. Ar kas nors turi klausimų dėl to?
+
+Marius: Labas rytas. Aš būsiu atsakingas už pamatų kasimo darbus. Reikia įsitikinti, kad turime visus reikiamus įrankius.
+
+Vytas: Gerai, Mariau. Jonai, tu galėtum pradėti nuo sienų karkaso. Patikrink, ar turime pakankamai medienos.
+
+Jonas: Supratau, Vytai. Patikrinsiu ir pranešiu, jei ko nors trūksta.
+
+Patrikas: Aš taip pat pasirūpinsiu, kad būtų paruoštos visos reikalingos dokumentacijos ir brėžiniai. Jei kas nors turite klausimų dėl planų, kreipkitės į mane.
+
+Alex: Aš patikrinsiu, ar visi saugos įrenginiai veikia tinkamai. Jei kas nors turite klausimų ar reikia pagalbos, praneškite man.
+
+Vytas: Gerai, Alex. Svarbu, kad visi saugos įrenginiai būtų tvarkingi. Mariau, ar tu pasiruošęs pradėti darbus?
+
+Marius: Taip, viskas paruošta. Pradėsiu kasimo darbus iš karto.
+
+Jonas: Aš taip pat pasiruošęs. Patikrinsiu medienos atsargas ir pradėsiu karkaso darbus.
+
+Vytas: Puiku, komanda. Saugiai dirbkite ir nepamirškite laikytis visų saugumo taisyklių. Sėkmės visiems!
+
+Patrikas: Geros dienos visiems! Jei reikės pagalbos, aš būsiu šalia.
+
+Jonas: Taip, laikykimės saugumo. Geros dienos ir produktyvaus darbo!
+
+Alex: Geros dienos ir sėkmės darbuose!

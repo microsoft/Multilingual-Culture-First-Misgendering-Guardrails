@@ -1,0 +1,14 @@
+{
+    "gender mistake": "yes",
+    "justification": "The transcript clearly indicates that both parents, Женя and Саша, are female, and the teacher, Даниэль, is male. However, the summary states that the genders of all participants are unknown, which is incorrect based on the provided transcript."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY states that the genders of the teacher (Даниэль) and the parents (Женя and Саша) are unknown. However, the TRANSCRIPT clearly indicates that Даниэль is male and both parents are female. Therefore, the SUMMARY incorrectly assumes that the genders of all participants are unknown."
+}
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the teacher's observation about the children's distress, the parents' concern, and their plan to talk to the children. However, there are some issues with coherence and completeness. The summary omits the specific details about the children's behavior (e.g., being less active and looking sad) and the timeline (e.g., the issue starting about a week ago). Additionally, the summary incorrectly states that the genders of the participants are unknown, which contradicts the provided information."
+}
+```

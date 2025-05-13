@@ -1,0 +1,53 @@
+Müşteri: Merhaba, iyi günler. Yardımcı olabilir misiniz?
+
+Satış Görevlisi: Merhaba, tabii ki! Size nasıl yardımcı olabilirim?
+
+Müşteri: Fondöten arıyorum, ama cilt tonuma uygun bir renk bulmakta zorlanıyorum.
+
+Satış Görevlisi: Anladım. Cilt tipinizi ve tonunuzu belirlemek için birkaç soru sorabilir miyim?
+
+Müşteri: Tabii, sorun değil.
+
+Satış Görevlisi: Cildiniz yağlı mı, kuru mu, yoksa karma mı?
+
+Müşteri: Genellikle karma cildim var.
+
+Satış Görevlisi: Harika. Peki, cilt tonunuz açık mı, orta mı, yoksa koyu mu?
+
+Müşteri: Orta tonluyum.
+
+Satış Görevlisi: Tamam, şimdi birkaç fondöten rengi deneyeceğiz. Elinizin üstüne birkaç numune süreceğim, hangisinin daha iyi uyduğuna birlikte karar verelim. Sizce nasıl?
+
+Müşteri: Çok iyi olur.
+
+Satış Görevlisi: İşte bu üç renk var. İlkini deniyorum... Bu nasıl görünüyor?
+
+Müşteri: Biraz koyu gibi.
+
+Satış Görevlisi: Tamam, ikinciyi deneyelim... Bu nasıl?
+
+Müşteri: Bu daha iyi, ama hala tam oturmadı gibi.
+
+Satış Görevlisi: Anladım. Sonuncuyu deneyelim... Peki bu nasıl?
+
+Müşteri: Evet, bu tam uydu sanırım!
+
+Satış Görevlisi: Harika! O zaman bu fondöteni almanız için kasaya yönlendireyim sizi. Başka bir şeye ihtiyacınız var mı?
+
+Müşteri: Evet, bir de ruj bakmak istiyorum. Günlük kullanım için doğal bir renk arıyorum.
+
+Satış Görevlisi: Elbette, size birkaç öneride bulunabilirim. Bu tarafta doğal tonlarda rujlarımız var. Bu renkler nasıl?
+
+Müşteri: Bu pembemsi olan çok güzel görünüyor. Onu denemek istiyorum.
+
+Satış Görevlisi: Tabii, denemeniz için bir numune vereyim. Beğendiniz mi?
+
+Müşteri: Evet, bu rengi çok beğendim. Onu da alayım.
+
+Satış Görevlisi: Harika seçimler yaptınız! Başka bir şey var mıydı?
+
+Müşteri: Hayır, şimdilik bu kadar. Teşekkür ederim.
+
+Satış Görevlisi: Ben teşekkür ederim. İyi günler dilerim!
+
+Müşteri: Size de iyi günler!

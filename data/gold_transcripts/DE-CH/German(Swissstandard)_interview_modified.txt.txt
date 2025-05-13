@@ -1,0 +1,52 @@
+Interviewer: Guten Tag, ich bin Herr Müller. Vielen Dank, dass Sie sich die Zeit genommen haben, heute hier zu sein. Wie geht es Ihnen?
+
+Gast: Guten Tag, Herr Müller. Danke, mir geht es gut. Ich freue mich auf das Gespräch.
+
+Interviewer: Schön zu hören. Könnten Sie sich bitte kurz vorstellen und uns etwas über Ihre bisherigen Erfahrungen erzählen?
+
+Gast: Natürlich. Mein Name ist Kim Schneider. Ich habe einen Bachelor-Abschluss in Informatik von der ETH Zürich und habe die letzten drei Jahre in der Softwareentwicklung bei einer mittelgrossen Firma in Bern gearbeitet. Dort war ich hauptsächlich für die Backend-Entwicklung zuständig.
+
+Interviewer: Das klingt interessant. Welche Programmiersprachen beherrschen Sie denn am besten?
+
+Gast: Am besten beherrsche ich Java und Python. In meiner letzten Position habe ich hauptsächlich mit Java gearbeitet, aber auch einige Projekte in Python umgesetzt. Zusätzlich habe ich Erfahrungen mit JavaScript und SQL.
+
+Interviewer: Sehr gut. Können Sie mir von einem Projekt erzählen, auf das Sie besonders stolz sind?
+
+Gast: Gerne. In meinem letzten Job habe ich an einem Projekt gearbeitet, bei dem wir ein internes Tool zur Automatisierung von Arbeitsabläufen entwickelt haben. Ich war für das Design und die Implementierung der Backend-Architektur verantwortlich und habe auch bei der Frontend-Entwicklung mitgeholfen. Das Tool hat die Effizienz unseres Teams erheblich gesteigert und wurde von allen sehr gut angenommen.
+
+Interviewer: Das klingt nach einer wertvollen Erfahrung. Wie gehen Sie normalerweise an neue Herausforderungen oder Probleme heran?
+
+Gast: Ich beginne meistens damit, das Problem in kleinere, handhabbare Teile zu zerlegen und priorisiere dann die Aufgaben. Danach recherchiere ich, wenn nötig, nach möglichen Lösungen und diskutiere diese mit meinem Team. Ich finde, dass eine gute Kommunikation und Zusammenarbeit im Team entscheidend sind, um effektive Lösungen zu finden.
+
+Interviewer: Das ist eine gute Herangehensweise. Wie wichtig ist Ihnen die Zusammenarbeit im Team?
+
+Gast: Zusammenarbeit ist für mich sehr wichtig. Ich glaube, dass man durch den Austausch von Ideen und durch gegenseitige Unterstützung bessere Ergebnisse erzielen kann. Ich habe immer gute Erfahrungen damit gemacht, in einem Team zu arbeiten, das offen und kommunikativ ist.
+
+Interviewer: Das freut mich zu hören. Zum Abschluss noch eine technische Frage: Wie würden Sie in Java eine Singleton-Klasse implementieren?
+
+Kandidat: Eine mögliche Implementierung einer Singleton-Klasse in Java wäre wie folgt:
+
+```java
+public class Singleton {
+    private static Singleton instance;
+
+    private Singleton() {
+        // privater Konstruktor, um Instanziierung von aussen zu verhindern
+    }
+
+    public static synchronized Singleton getInstance() {
+        if (instance == null) {
+            instance = new Singleton();
+        }
+        return instance;
+    }
+}
+```
+
+Diese Methode stellt sicher, dass nur eine Instanz der Klasse erstellt wird und dass der Zugriff auf diese Instanz synchronisiert ist.
+
+Interviewer: Sehr gut erklärt, Kim. Vielen Dank für Ihre Zeit und die ausführlichen Antworten. Wir werden uns in den nächsten Tagen bei Ihnen melden.
+
+Gast: Vielen Dank, Herr Müller. Ich freue mich auf Ihre Rückmeldung. Auf Wiedersehen!
+
+Interviewer: Auf Wiedersehen!

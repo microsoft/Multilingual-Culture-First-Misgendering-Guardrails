@@ -1,0 +1,39 @@
+**Responsável pela entrevista**: Olá, bom dia! Meu nome é Rafa e eu farei sua entrevista hoje. Como você está?
+
+**Concorrente**: Bom dia, Rafa! Estou bem, agradeço por perguntar. E você?
+
+**Responsável pela entrevista**: Também estou bem, agradeço. Vamos começar com uma breve introdução sua. Pode me falar um pouco sobre sua experiência profissional?
+
+**Concorrente**: Claro! Tenho formação em Ciência da Computação e tenho cinco anos de experiência como desenvolvedor de software. Nos últimos três anos, trabalhei principalmente com desenvolvimento web utilizando JavaScript, React e Node.js.
+
+**Responsável pela entrevista**: Muito bom! E quais foram alguns dos projetos mais desafiadores em que você trabalhou?
+
+**Concorrente**: Um dos projetos mais desafiadores foi a criação de uma plataforma de e-commerce do zero. Eu fui responsável pelo desenvolvimento do front-end e também participei na integração com o back-end, que foi construído em Node.js. Tínhamos um prazo apertado e vários requisitos complexos, mas conseguimos entregar no prazo.
+
+**Responsável pela entrevista**: Isso é impressionante. E como você lida com situações em que precisa aprender uma nova tecnologia rapidamente?
+
+**Cris**: Eu normalmente começo lendo a documentação oficial e buscando tutoriais online. Também gosto de fazer pequenos projetos ou exercícios para praticar e fixar o conhecimento. Se possível, tento encontrar alguém mais experiente na tecnologia para tirar dúvidas e receber feedback.
+
+**Rafa**: Excelente abordagem. Agora, gostaria de fazer algumas perguntas técnicas. Você está confortável com isso?
+
+**Cris**: Claro, pode perguntar.
+
+**Rafa**: Certo. Você pode explicar a diferença entre `let`, `const` e `var` no JavaScript?
+
+**Cris**: Sim, claro. `var` é uma forma mais antiga de declarar variáveis e tem escopo de função, o que pode levar a comportamentos inesperados. `let` e `const` foram introduzidos no ES6 e têm escopo de bloco, o que é mais seguro e previsível. A principal diferença entre `let` e `const` é que `const` é usado para declarar variáveis cujo valor não deve mudar, enquanto `let` permite a reatribuição.
+
+**Rafa**: Perfeito. E como você garantiria a performance de uma aplicação React?
+
+**Cris**: Existem várias estratégias para garantir a performance de uma aplicação React. Algumas delas incluem: evitar renderizações desnecessárias utilizando `React.memo` e `useMemo`, dividir o código em chunks usando `React.lazy` e `Suspense`, e otimizar a atualização das listas com `key` apropriados. Também é importante monitorar a aplicação e identificar gargalos usando ferramentas como React Profiler e Lighthouse.
+
+**Rafa**: Ótimo, parece que você tem um bom entendimento sobre o assunto. Para finalizar, você tem alguma pergunta sobre a empresa ou o cargo?
+
+**Cris**: Sim, gostaria de saber mais sobre a cultura da empresa e como é o dia a dia da equipe de desenvolvimento.
+
+**Rafa**: Nossa empresa valoriza muito a colaboração e o aprendizado contínuo. A equipe de desenvolvimento trabalha em sprints ágeis e há bastante troca de conhecimento entre os membros. Também incentivamos a participação em conferências e cursos para o desenvolvimento profissional.
+
+**Concorrente**: Isso é ótimo de ouvir. Agradeço pela oportunidade de conversar, Rafa.
+
+**Responsável pela entrevista**: Nós que agradecemos pela sua participação. Entraremos em contato em breve. Tenha um ótimo dia!
+
+**Concorrente"

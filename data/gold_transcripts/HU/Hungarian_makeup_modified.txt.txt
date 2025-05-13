@@ -1,0 +1,35 @@
+**Ügyfél:** Jó napot kívánok! Szeretnék érdeklődni néhány sminktermék iránt.
+
+**Eladó:** Jó napot! Örülök, hogy itt van. Miben segíthetek?
+
+**Ügyfél:** Köszönöm. Szeretnék egy jó minőségű alapozót találni. Van valamilyen ajánlata?
+
+**Eladó:** Természetesen! Milyen bőrtípusra keres alapozót? Száraz, zsíros, kombinált?
+
+**Ügyfél:** Kombinált bőröm van, és szeretnék valami könnyű, de tartós alapozót.
+
+**Eladó:** Értem. Akkor ajánlom ezt a terméket. Ez egy könnyű, de jól fedő alapozó, ami egész nap tartós marad. Szeretné kipróbálni?
+
+**Ügyfél:** Igen, szívesen kipróbálnám. Van itt tükör?
+
+**Eladó:** Igen, itt van egy tükör. Kipróbálhatja itt a pulton.
+
+**Ügyfél:** Köszönöm. Nos, ez tényleg jól néz ki. Mennyibe kerül?
+
+**Eladó:** Ez az alapozó 8,500 forintba kerül. Van most akciónk is, ha két terméket vásárol, a harmadikat féláron kapja.
+
+**Ügyfél:** Ez jól hangzik. Szükségem lenne még egy szempillaspirálra és egy rúzsra is. Tudna ajánlani valamit?
+
+**Eladó:** Természetesen! Ez a szempillaspirál nagyon népszerű, hosszabbítja és dúsítja a pillákat. A rúzsok közül pedig ez a szín nagyon jól állna Önnek, és hidratál is.
+
+**Ügyfél:** Köszönöm a segítséget. Ezeket a termékeket kérem.
+
+**Eladó:** Nagyon szívesen! Összesen 18,700 forint lesz. Csomagolhatom Önnek?
+
+**Ügyfél:** Igen, kérem. Köszönöm szépen a segítséget!
+
+**Eladó:** Nagyon szívesen! Kellemes napot kívánok!
+
+**Ügyfél:** Köszönöm, viszontlátásra!
+
+**Eladó:** Viszontlátásra!

@@ -1,0 +1,33 @@
+Emlakçı: Merhaba, hoş geldiniz! Ben Ahmet, size yardımcı olacağım. İlk eviniz için heyecanlı mısınız?
+
+Alıcı 1: Merhaba Ahmet Bey, evet, çok heyecanlıyız. Bu evle ilgili daha fazla bilgi alabilir miyiz?
+
+Emlakçı: Tabii ki! Bu ev, özellikle aileler için ideal. Geniş bir oturma odası var, çocuklar için çok uygun bir bahçesi var ve okullara çok yakın.
+
+Alıcı 2: Bahçenin büyüklüğü ne kadar? Çocuklarımız için oyun alanı olması bizim için önemli.
+
+Emlakçı: Bahçe yaklaşık 150 metrekare. Ayrıca güvenli bir çevrede bulunuyor, bu yüzden çocuklarınız rahatça oynayabilir.
+
+Alıcı 1: İçerisi nasıl? Odaların büyüklüğü ve düzeni hakkında bilgi verir misiniz?
+
+Emlakçı: İçerisi de oldukça ferah. Üç yatak odası var, her biri geniş ve aydınlık. Mutfak modern ekipmanlarla donatılmış ve açık plan bir tasarıma sahip.
+
+Alıcı 2: Peki, komşular nasıl? Mahalle güvenli mi?
+
+Emlakçı: Komşular oldukça arkadaş canlısı ve mahalle çok güvenli. Ayrıca mahallede birçok park ve sosyal alan mevcut.
+
+Alıcı 1: Fiyat konusunda biraz bilgi verebilir misiniz? Bütçemize uygun olup olmadığını bilmek istiyoruz.
+
+Emlakçı: Elbette, fiyat 950.000 TL. Ancak, ödeme planları ve finansman seçenekleri konusunda size yardımcı olabiliriz.
+
+Alıcı 2: Evi görmek için bir randevu ayarlayabilir miyiz?
+
+Emlakçı: Tabii ki, ne zaman müsait olursunuz?
+
+Alıcı 1: Bu hafta sonu uygun olabiliriz. Cumartesi günü saat 11 nasıl olur?
+
+Emlakçı: Mükemmel! Cumartesi günü saat 11'de görüşmek üzere. Eminim ki bu evi çok beğeneceksiniz.
+
+Alıcı 2: Teşekkür ederiz Ahmet Bey. Görüşmek üzere.
+
+Emlakçı: Ben teşekkür ederim. Görüşmek üzere!

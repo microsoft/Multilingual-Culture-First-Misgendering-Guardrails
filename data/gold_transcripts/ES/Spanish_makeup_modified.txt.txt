@@ -1,0 +1,52 @@
+**Alex:** Hola, buenos días.
+
+**Vendedora:** ¡Buenos días! ¿En qué puedo ayudarte hoy?
+
+**Cliente:** Estoy buscando una base de maquillaje. ¿Podrías recomendarme alguna?
+
+**Vendedora:** Claro, con mucho gusto. ¿Sabes cuál es tu tipo de piel?
+
+**Cliente:** Creo que tengo la piel mixta, pero no tengo cien por cien certeza sobre eso.
+
+**Vendedora:** Entiendo. Para piel mixta, te recomendaría una base que sea ligera pero que también controle el brillo en las zonas más grasosas. ¿Te gustaría probar alguna de nuestras bases líquidas?
+
+**Cliente:** Sí, eso suena perfecto. ¿Tienes alguna marca en particular que me recomiendes?
+
+**Vendedora:** Tenemos varias opciones excelentes. Por ejemplo, la base de la marca "Luminous Glow" es muy popular entre la gente que viene a nuestra tienda y que tiene piel mixta. Además, tiene un acabado natural y dura todo el día.
+
+**Cliente:** Me gustaría probarla. ¿Tienes muestras para probar el color?
+
+**Vendedora:** Sí, por supuesto. Vamos a encontrar el tono que mejor se adapte a tu piel. ¿Podrías darme tu mano para hacer una prueba?
+
+**Cliente:** Claro, aquí tienes.
+
+**Vendedora:** Perfecto, voy a aplicar un poco de la base en tu mandíbula para ver cómo se mezcla con tu tono de piel... Creo que este tono te queda muy bien. ¿Qué te parece?
+
+**Cliente:** Me gusta cómo se ve. ¿Cuánto cuesta?
+
+**Vendedora:** Esta base cuesta $35, pero si compras hoy, tenemos una promoción del 10% de descuento en todos los productos de maquillaje.
+
+**Cliente:** ¡Eso suena genial! Me llevaré una.
+
+**Vendedora:** Perfecto. ¿Hay algo más en lo que pueda ayudarte?
+
+**Cliente:** Sí, también necesito un corrector. ¿Tienes alguno que recomiendes?
+
+**Vendedora:** Claro, el corrector de la misma línea "Luminous Glow" es muy bueno y complementa perfectamente la base. Tiene buena cobertura y es fácil de aplicar.
+
+**Alex:** Muy bien, lo tomaré también.
+
+**Vendedora:** Excelente elección. ¿Algo más?
+
+**Alex:** No, eso sería todo. Muchas gracias por tu ayuda.
+
+**Vendedora:** De nada, es un placer. Te acompaño a la caja para que puedas realizar tu compra.
+
+**Alex:** Perfecto, gracias.
+
+**Vendedora:** Que tengas un buen día. ¡Hasta luego!
+
+**Alex:** Gracias, igualmente. ¡Adiós!
+
+
+

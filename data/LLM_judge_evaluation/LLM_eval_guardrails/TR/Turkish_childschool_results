@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT clearly specifies that both parents are female and the teacher is male. However, the SUMMARY refers to all participants with neutral gender terms, which is incorrect given the specific genders provided in the TRANSCRIPT."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly labels the participants as gender-neutral (nötr) despite the TRANSCRIPT clearly indicating the genders of the teacher (male) and the parents (female)."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the teacher's concerns about the child's behavior, the parents' responses, and the teacher's emphasis on the child's well-being. The summary is clear, coherent, and natural in Turkish. It also maintains readability and provides a concise overview of the dialogue without omitting any significant details."
+}

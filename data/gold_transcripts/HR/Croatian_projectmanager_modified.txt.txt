@@ -1,0 +1,28 @@
+Ana: Bok Ivana, bok Matija. Jeste li spremne za današnji sastanak o lansiranju nove funkcije?
+
+Ivana: Bok Ana, da, spremna sam. Mislim da smo napravile dobar posao do sada, ali trebamo još neke detalje razjasniti prije lansiranja.
+
+Matija: Hej, obje. Slažem se s Ivanom. Imamo solidan temelj, ali trebamo biti sigurni da su sve moguće greške otklonjene prije nego što krenemo javno.
+
+Ana: Točno, Matija. Prošli tjedan smo imali testiranje i primijetili smo nekoliko manjih problema. Jesi li uspjela riješiti one bugove koje smo pronašle?
+
+Ivana: Da, tim je radio na njima cijeli vikend. Svi prijavljeni bugovi su ispravljeni, ali uvijek postoji mogućnost da smo nešto propustile.
+
+Matija: Zato je važno da provedemo još jedno interno testiranje prije službenog lansiranja. Možemo li dogovoriti dodatno testiranje za sutra?
+
+Ana: Mislim da je to dobra ideja. Također, trebamo pripremiti komunikacijski plan za korisnike. Ivana, jesi li već razgovarala s marketinškim timom?
+
+Ivana: Jesam, već smo pripremili nacrt plana. Trebamo samo finalizirati detalje i odobriti ga.
+
+Matija: Super, mislim da smo na dobrom putu. Što je s podrškom korisnicima? Jesmo li ih informirali o novoj funkciji i mogućim pitanjima koja bi mogli imati?
+
+Ana: Da, održale smo trening s timom za podršku prošli tjedan. Svi su upoznati s novom funkcijom i imaju upute kako odgovarati na potencijalna pitanja.
+
+Ivana: Odlično, čini se da smo pokrile sve važne točke. Samo još da dogovorimo to dodatno testiranje za sutra i mislim da smo spremne.
+
+Matija: Slažem se. Idemo to završiti i lansirati ovu funkciju kako treba. Hvala vam svima na trudu i suradnji.
+
+Ana: Hvala i vama. Idemo ovo odraditi kako treba!
+
+Ivana: Idemo!
+

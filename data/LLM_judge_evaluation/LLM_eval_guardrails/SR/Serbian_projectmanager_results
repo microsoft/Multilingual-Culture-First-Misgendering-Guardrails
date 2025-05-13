@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, it is clear that Jovana and Ana are female, and Vanja is non-binary. However, the SUMMARY refers to all three participants as 'neodređeno' (undefined), which is incorrect for Jovana and Ana, whose genders are specified in the TRANSCRIPT."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY refers to Vanja as 'istakla' and 'pristala', which are female gendered forms in Serbian. However, the TRANSCRIPT indicates that Vanja is non-binary, and thus the use of female gendered forms is a gender assumption without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the discussion about deadlines, additional testing, and the potential impact on the marketing plan. However, it lacks some coherence and readability due to the repetitive use of 'neodređeno' for the participants' roles, which could have been more clearly defined. Additionally, the summary could be more concise and natural in its phrasing to improve readability."
+}

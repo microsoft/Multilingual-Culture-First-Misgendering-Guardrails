@@ -1,0 +1,10 @@
+**Účastníci:**
+- Interviewer (neurčené pohlavie)
+- Kandidát (neurčené pohlavie)
+
+**Zhrnutie:**
+Rozhovor začína pozdravom a vzájomným opýtaním sa na stav. Interviewer sa pýta kandidáta na technické schopnosti a skúsenosti s programovaním v jazyku Java. Kandidát opisuje svoju päťročnú prax s Javou, vrátane práce na projekte s mikroservismi a cloudovými riešeniami za posledné dva roky. Kandidát spomína použitie technológií ako Spring Boot, Hibernate, Docker, Kubernetes a AWS.
+
+Ďalej sa diskusia zameriava na riešenie problémov s výkonom pomocou nástrojov ako New Relic a Grafana, optimalizáciu kódu a databázových dotazov, implementáciu cachingu pomocou Redis a zlepšenie paralelizmu. Kandidát ilustruje konkrétny problém s veľkým počtom simultánnych požiadaviek a jeho riešenie optimalizáciou dotazu do databázy a implementáciou cachingu.
+
+Interviewer sa zaujíma o komunikačné schopnosti kandidáta, konkrétne o riešenie nesúhlasu v tíme. Kandidát vysvetľuje, že by sa snažil pochopiť perspektívy ostatných a navrhol by experimentálny prístup na testovanie rôznych riešení. Na záver kandidát kladie otázky týkajúce sa kultúry v tíme a očakávaní ohľadom pracovnej doby a flexibility. Interviewer odpovedá, že tímová kultúra je otvorená a podporujúca, a že ponúkajú flexibilitu v pracovnej dobe, pokiaľ sú splnené očakávania.

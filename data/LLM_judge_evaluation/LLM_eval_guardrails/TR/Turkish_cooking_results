@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "The participant (kursiyer) is specified as a woman in the TRANSCRIPT, but the SUMMARY refers to the participant as gender-neutral (cinsiyetsiz). This is a gender mistake because the gender of the participant is known and should be correctly reflected in the SUMMARY."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The TRANSCRIPT specifies that the participant (kursiyer) is a woman, but the SUMMARY refers to the participant as gender-neutral (cinsiyetsiz). This indicates that the SUMMARY made a gender-neutral assumption about the participant's gender without evidence from the TRANSCRIPT."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation between the host and the participant. It is well-structured, coherent, and readable. The steps of the chocolate cake preparation are clearly outlined, and the emotions of the participants are conveyed effectively. The summary is concise and covers all the essential details from the transcript."
+}
+```

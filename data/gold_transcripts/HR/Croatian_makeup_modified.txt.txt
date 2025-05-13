@@ -1,0 +1,38 @@
+Kupac: Dobar dan! Zanima me koji su vaši najnoviji proizvodi za šminkanje.
+
+Prodavačica: Dobar dan! Imamo nekoliko novih proizvoda koji su nedavno stigli. Imamo novu liniju ruževa i sjenila za oči. Želite li pogledati nešto specifično?
+
+Kupac: Da, tražim dobar tekući puder koji pruža dobru pokrivenost, ali izgleda prirodno.
+
+Prodavačica: Naravno, preporučila bih vam naš novi tekući puder iz linije "Glow Radiance". Ima laganu teksturu i pruža srednju do punu pokrivenost. Želite li ga isprobati?
+
+Kupac: Da, mogu ga isprobati. Imate li možda i preporuku za dobar korektor?
+
+Prodavačica: Naravno, naš "Perfect Cover" korektor je vrlo popularan. Ima kremastu teksturu i dobro prekriva tamne podočnjake i nepravilnosti. Mogu vam ga nanijeti da vidite kako izgleda?
+
+Kupac: Molim vas, to bi bilo odlično.
+
+Prodavačica: Evo, samo trenutak... (nanosi korektor i tekući puder) Što mislite? Kako vam se sviđa?
+
+Kupac: Izgleda odlično! Mislim da ću uzeti i puder i korektor. Imate li možda i preporuku za maskaru?
+
+Prodavačica: Imamo novu maskaru "Volume Boost" koja daje punoću i dužinu trepavicama. Mogu vam je nanijeti da vidite efekt?
+
+Kupac: Da, svakako. Hvala vam.
+
+Prodavačica: Evo, samo trenutak... (nanosi maskaru) Što mislite?
+
+Kupac: Izgleda fantastično! Uzet ću i maskaru. Mislim da je to sve za danas.
+
+Prodavačica: Odlično! Drago mi je da ste zadovoljni. Hoćete li još nešto ili je to sve za danas?
+
+Kupac: To bi bilo sve. Hvala vam puno na pomoći.
+
+Prodavačica: Nema na čemu! Ukupno je 450 kuna. Želite li platiti karticom ili gotovinom?
+
+Kupac: Karticom, molim.
+
+Prodavačica: U redu, hvala vam. Evo vaše potvrde i proizvoda. Ugodan vam dan!
+
+Kupac: Hvala, i vama također!
+

@@ -1,0 +1,26 @@
+**Senior Researcher:** Dobar dan! Htjela bih vam pružiti mjesečno poslovno izvješće.
+
+**Manager:** Dobar dan! Naravno, izvolite. Kako napredujemo ovaj mjesec?
+
+**Senior Researcher:** Sveukupno gledano, imamo nekoliko značajnih pomaka. Prvo, završili smo fazu testiranja za novi proizvod. Rezultati su vrlo obećavajući.
+
+**Manager:** To su odlične vijesti! Možete li mi reći više o rezultatima?
+
+**Senior Researcher:** Naravno. Testirali smo proizvod na 100 korisnika i 85% njih je izrazilo visoko zadovoljstvo. Također, otkrili smo nekoliko manjih problema koje sada rješavamo.
+
+**Manager:** Sjajno, drago mi je čuti da je većina korisnika zadovoljna. Koji su to manji problemi?
+
+**Senior Researcher:** Uglavnom se radi o korisničkom sučelju i nekim tehničkim poteškoćama. Naš tim već radi na njihovom otklanjanju.
+
+**Manager:** Dobro je da ste to brzo identificirali. Što je s drugim projektima?
+
+**Senior Researcher:** Drugi projekti također napreduju po planu. Radimo na istraživanju tržišta za sljedeći proizvod i rezultati su prilično pozitivni.
+
+**Manager:** Odlično. Ima li još nešto što bih trebam znati?
+
+**Senior Researcher:** Da, imamo nekoliko novih članova u timu koji su se brzo uklopili i već doprinose projektima. To će nam sigurno pomoći u daljnjem napretku.
+
+**Manager:** Lijepo je čuti da imamo nove talentirane ljude. Hvala vam na ovom detaljnom izvješću. Nastavimo tako i sljedeći mjesec.
+
+**Senior Researcher:** Hvala vam, drago mi je da ste zadovoljni. Nastavit ćemo raditi najbolje što možemo.
+

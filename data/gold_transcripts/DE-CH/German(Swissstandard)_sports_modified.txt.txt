@@ -1,0 +1,23 @@
+Alex: "Hallo zusammen, wie läuft eure Vorbereitung für den nationalen Wettkampf?"
+
+Sam: "Hey Alex! Ich habe diese Woche intensiv trainiert. Meine Ausdauer hat sich deutlich verbessert. Wie sieht's bei dir aus, Chris?"
+
+Chris: "Hi Sam, hi Alex! Ich habe mich vor allem auf meine Technik konzentriert. Ich denke, das könnte unser Schlüssel zum Erfolg sein. Wie sieht es bei dir aus, Alex?"
+
+Alex: "Ich habe mich auf die mentale Vorbereitung konzentriert. Meditation und Visualisierung haben mir geholfen, fokussiert zu bleiben. Ich glaube, das wird uns einen Vorteil verschaffen."
+
+Sam: "Das klingt super! Ich denke, wenn wir unsere Stärken kombinieren, sind wir unschlagbar. Hat jemand von euch schon die Konkurrenz analysiert?"
+
+Chris: "Ja, ich habe mir ein paar Videos angesehen. Sie sind stark, aber ich glaube, wir haben die besseren Strategien. Wir müssen nur unser Bestes geben."
+
+Alex: "Genau, und nicht vergessen, als Team zusammenzuhalten. Unser Zusammenhalt ist unser grösster Trumpf."
+
+Sam: "Absolut! Ich freue mich schon darauf, mit euch auf dem Spielfeld zu stehen. Lasst uns das Ding gewinnen!"
+
+Chris: "Ja, lasst uns alles geben und zeigen, was wir draufhaben. Wir schaffen das!"
+
+Alex: "Auf jeden Fall! Wir sehen uns morgen beim Training. Bis dann!"
+
+Sam: "Bis morgen! Tschüss!"
+
+Chris: "Bis morgen! Tschüss!"

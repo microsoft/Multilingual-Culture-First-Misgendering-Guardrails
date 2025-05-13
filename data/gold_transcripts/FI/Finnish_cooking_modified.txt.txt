@@ -1,0 +1,35 @@
+Juontaja: Tervetuloa takaisin ohjelmaan! Tänään meillä on mukana Halla, joka haluaa oppia leipomaan herkullisen suklaakakun. Tervetuloa, Halla!
+
+Halla: Kiitos! Olen todella innoissani tästä.
+
+Juontaja: Hienoa kuulla. Aloitetaanpa. Ensimmäiseksi tarvitsemme ainekset. Oletko jo koonnut kaikki tarvittavat aineet?
+
+Halla: Kyllä, minulla on täällä jauhot, sokeri, kaakaojauhe, leivinjauhe, suola, kananmunat, maito, öljy ja vaniljauute.
+
+Juontaja: Erinomaista! Aloitetaan sekoittamalla kuivat aineet yhteen. Eli jauhot, sokeri, kaakaojauhe, leivinjauhe ja suola.
+
+Halla: Selvä, kaadan ne kaikki kulhoon ja sekoitan hyvin.
+
+Juontaja: Hyvä! Seuraavaksi sekoitamme märät aineet erillisessä kulhossa. Eli kananmunat, maito, öljy ja vaniljauute. Voitko hoitaa sen?
+
+Halla: Tottakai, kaadan ne kulhoon ja sekoitan tasaiseksi.
+
+Juontaja: Nyt yhdistämme kuivat ja märät aineet keskenään. Sekoita varovasti, kunnes taikina on tasaista.
+
+Halla: Okei, sekoitan nyt... Näyttää hyvältä.
+
+Juontaja: Loistavaa! Nyt kaadamme taikinan voideltuun kakkuvuokaan. Onko vuoka valmiina?
+
+Halla: Kyllä, voitelin sen jo etukäteen.
+
+Juontaja: Hienoa työtä. Kaada taikina vuokaan ja tasoita pinta. Sitten laitamme kakun uuniin 175 asteeseen noin 30-35 minuutiksi.
+
+Halla: Valmista! Vien kakun nyt uuniin.
+
+Juontaja: Loistavaa, Halla. Nyt odotamme, että kakku paistuu. Onko sinulla kysymyksiä tähän mennessä?
+
+Halla: Ei oikeastaan, kaikki on sujunut tosi hyvin. Kiitos selkeistä ohjeista!
+
+Juontaja: Mahtavaa kuulla. Odotetaan nyt hetki ja katsotaan, millainen kakku saadaan aikaiseksi.
+
+Halla: En malta odottaa!

@@ -1,0 +1,19 @@
+Mies: "Hei kaikki, nyt kun uusi saippuabrändimme on vihdoin lanseerattu, meidän täytyy keskustella myyntitavoitteista ja ennusteista. Miten te näette tämän sujuvan?"
+
+Nainen: "Olen todella innoissani! Uskon, että meillä on hyvä mahdollisuus saavuttaa merkittävää markkinaosuutta. Olemme tehneet paljon työtä markkinoinnin kanssa."
+
+Esihenkilö: "Kyllä, olen samaa mieltä. On tärkeää, että keskitymme myös asiakaspalautteeseen heti alusta alkaen. Se voi auttaa meitä parantamaan tuotetta nopeasti."
+
+Mies: "Hyvä pointti. Meidän täytyy myös tarkastella kilpailijoiden hintoja ja mukauttaa omaa hinnoittelustrategiaamme sen mukaan. Mitä mieltä olette meidän alkuperäisestä hinta-arviosta?"
+
+Nainen: "Minusta se on hyvä lähtökohta. Emme ole liian kalliita, mutta emme myöskään halvimpia markkinoilla. Se antaa meille joustavuutta."
+
+Esihenkilö: "Totta, mutta meidän täytyy myös varmistaa, että laatu vastaa hintaa. Jos asiakkaat kokevat saavansa rahoilleen vastinetta, he tulevat todennäköisemmin takaisin."
+
+Mies: "Ehdottomasti. Miten arvioitte ensimmäisen kuukauden myynnin? Onko realistista odottaa, että saavutamme 10 000 euroa?"
+
+Nainen: "Uskon, että se on mahdollista, jos markkinointikampanjamme onnistuu ja saamme hyvää näkyvyyttä sosiaalisessa mediassa."
+
+Esihenkilö: "Minäkin pidän sitä realistisena tavoitteena. Voimme myös harkita yhteistyötä vaikuttajien kanssa saadaksemme lisää huomiota."
+
+Mies: "Hyvä idea. Tehdään niin, että seuraamme tarkasti ensimmäisen viikon myyntilukuja ja säädetään strategiaa sen mukaan. Kiitos kaikille, tämä keskustelu oli erittäin hyödyllinen."

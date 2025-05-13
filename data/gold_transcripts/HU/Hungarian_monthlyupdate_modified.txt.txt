@@ -1,0 +1,27 @@
+Kutató: Jó napot kívánok! Örülök, hogy újra beszélhetünk a havi üzleti frissítésről.
+
+Vezető: Jó napot! Igen, én is várom. Kérem, kezdje el.
+
+Kutató: Természetesen. Az elmúlt hónapban a kutatócsoportunk sikeresen befejezte a három fő projekttel kapcsolatos kísérleteket. Az eredmények ígéretesek, különösen az új gyógyszerfejlesztési projekt esetében.
+
+Vezető: Ez nagyszerű hír. Milyen konkrét eredményeket értek el?
+
+Kutató: Az új gyógyszer esetében a preklinikai tesztek során kimutattuk, hogy a vegyület 80%-kal csökkentette a daganatok méretét az állatkísérletekben. Emellett a mellékhatások minimálisak voltak.
+
+Vezető: Ez valóban ígéretes. Mi a következő lépés?
+
+Kutató: A következő lépés a klinikai tesztelés első fázisa lesz, amelyet jövő hónapban tervezünk elindítani. Már előkészítettük a szükséges dokumentációt és a betegcsoport kiválasztása is folyamatban van.
+
+Vezető: Rendben, és a másik két projekt hogyan halad?
+
+Kutató: A második projekt, amely a nanotechnológiai alkalmazásokat vizsgálja, szintén jól halad. Az első prototípusokat sikeresen teszteltük, és a visszajelzések pozitívak voltak. A harmadik projekt, amely az új diagnosztikai eszköz fejlesztésére irányul, még korai fázisban van, de az eddigi eredmények biztatóak.
+
+Vezető: Köszönöm az átfogó beszámolót. Van még valami, amit meg kellene vitatnunk?
+
+Kutató: Igen, még egy dolog. Szeretném javasolni, hogy növeljük a kutatócsoport létszámát, mivel a jelenlegi projektek mellett több új lehetőséget is látunk a jövőben.
+
+Vezető: Ez érthető. Megvizsgálom a költségvetést és megbeszélem a többi vezetővel. Köszönöm a javaslatot.
+
+Kutató: Köszönöm szépen! Várom a visszajelzését. További szép napot kívánok!
+
+Vezető: Önnek is! Viszontlátásra.

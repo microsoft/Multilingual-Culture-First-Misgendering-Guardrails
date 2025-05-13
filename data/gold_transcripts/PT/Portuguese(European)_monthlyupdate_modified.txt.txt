@@ -1,0 +1,31 @@
+"**Senior Researcher:** Olá, bom dia. Estou aqui para dar a atualização mensal sobre o nosso projeto de pesquisa.
+
+**Manager:** Bom dia. Ótimo, estou ansioso para ouvir os progressos. Como estão as coisas?
+
+**Senior Researcher:** Este mês foi bastante produtivo. Conseguimos finalizar a fase inicial de testes com os novos compostos e os resultados são promissores.
+
+**Manager:** Excelente. Pode detalhar um pouco mais sobre os resultados?
+
+**Senior Researcher:** Claro. Dos dez compostos testados, três mostraram uma eficácia superior a 80% nas condições laboratoriais. Isso é significativamente melhor do que esperávamos nesta fase.
+
+**Manager:** Isso é muito bom. E quanto à análise de custos? Estamos dentro do orçamento?
+
+**Senior Researcher:** Sim, estamos dentro do orçamento. Tivemos algumas economias em materiais que conseguimos reutilizar de experimentos anteriores. Isso ajudou a manter os custos controlados.
+
+**Manager:** Ótimo trabalho. E quanto à equipa? Há alguma necessidade específica que devemos abordar?
+
+**Senior Researcher:** A equipa está a trabalhar bem, mas notamos que poderíamos beneficiar de um técnico adicional para ajudar com a análise de dados. Isso permitiria aos investigadores focarem-se mais nas experiências.
+
+**Manager:** Compreendo. Vou ver o que podemos fazer a esse respeito. Mais alguma coisa que precise de ser discutida?
+
+**Senior Researcher:** Sim, há um ponto importante. Estamos a planear uma apresentação dos resultados preliminares na conferência de biotecnologia no próximo mês. Acho que seria uma ótima oportunidade para mostrar o nosso trabalho e obter feedback da comunidade científica.
+
+**Manager:** Concordo plenamente. Vamos apoiar essa iniciativa. Certifique-se de que a apresentação está bem preparada e que temos todos os dados necessários.
+
+**Senior Researcher:** Perfeito. Vou garantir isso. Mais alguma coisa que gostaria de discutir?
+
+**Manager:** Não, acho que cobrimos tudo por agora. Excelente trabalho este mês. Continue assim.
+
+**Senior Researcher:** Obrigada. Até à próxima atualização.
+
+**Manager:** Até à próxima."

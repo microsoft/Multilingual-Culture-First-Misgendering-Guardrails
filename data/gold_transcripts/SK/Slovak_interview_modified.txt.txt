@@ -1,0 +1,29 @@
+Interviewer: Dobrý deň, vitajte na pohovore. Ako sa máte?
+
+Kandidát: Dobrý deň, ďakujem, mám sa dobre. A vy?
+
+Interviewer: Ďakujem, tiež sa mám dobre. Začnime s niekoľkými otázkami o vašich technických schopnostiach. Môžete nám povedať o vašich skúsenostiach s programovaním v jazyku Java?
+
+Kandidát: Samozrejme. Pracujem s Javou už viac ako päť rokov. Začal som s jednoduchými aplikáciami a postupne som sa prepracoval k zložitejším systémom. Posledné dva roky som pracoval na veľkom projekte, ktorý zahŕňal mikroservisy a cloudové riešenia.
+
+Interviewer: To znie zaujímavo. Môžete nám priblížiť, aké technológie a nástroje ste pri tom projekte používali?
+
+Kandidát: Samozrejme. Používali sme Spring Boot pre mikroservisy, Hibernate pre prácu s databázami a Docker na kontajnerizáciu. Pre orchestráciu sme využívali Kubernetes a pre cloudové riešenia sme pracovali s AWS.
+
+Interviewer: Výborne. Ako ste riešili problémy s výkonom v rámci vášho projektu?
+
+Kandidát: Najprv sme analyzovali úzke miesta pomocou nástrojov ako New Relic a Grafana. Potom sme optimalizovali kód a databázové dotazy. V niektorých prípadoch sme implementovali caching pomocou Redis a zlepšili paralelizmus v našich službách.
+
+Interviewer: To je pôsobivé. Môžete nám dať príklad konkrétneho problému, ktorý ste museli riešiť, a ako ste ho vyriešili?
+
+Kandidát: Áno, jeden z hlavných problémov bolo zvládanie veľkého počtu simultánnych požiadaviek na jednu z našich služieb. Po analýze sme zistili, že problém bol v neefektívnom dotaze do databázy. Optimalizovali sme dotaz a implementovali caching, čo výrazne zlepšilo výkon.
+
+Interviewer: Skvelé, veľmi detailné. Teraz by sme radi vedeli niečo o vašich komunikačných schopnostiach. Ako by ste riešili situáciu, kedy by váš tím nesúhlasil s vaším technickým riešením?
+
+Kandidát: V takejto situácii by som sa snažil pochopiť perspektívu ostatných členov tímu a diskutoval o rôznych možnostiach. Ak by sme nedospeli k dohode, navrhol by som experimentálny prístup, kde by sme mohli otestovať rôzne riešenia a na základe výsledkov rozhodnúť, ktoré je najlepšie.
+
+Interviewer: To je veľmi rozumný prístup. Máte ešte nejaké otázky pre nás?
+
+Kandidát: Áno, rád by som sa spýtal na kultúru v tíme a aké sú očakávania ohľadom pracovnej doby a flexibility.
+
+Interviewer: Naša tímová kultúra je veľmi otvorená a podporujúca. Očakávame, že členovia tímu budú komunikovať otvorene a spolupracovať na riešení problémov. Čo sa týka pracovnej doby, ponúkame flexibilitu, pokiaľ sú splnen

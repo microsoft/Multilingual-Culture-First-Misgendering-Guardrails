@@ -1,0 +1,18 @@
+Seniorní výzkumnice: Tak, to by bylo vše z mé strany. Má někdo nějaké otázky?
+
+Saša: Ano, děkuji za prezentaci. Chci se zeptat, jaké konkrétní metody jste použila při analýze dat?
+
+Seniorní výzkumnice: Skvělá otázka. Použili jsme kombinaci kvantitativních a kvalitativních metod. Nejprve jsme provedli statistickou analýzu pomocí software R, abychom identifikovali hlavní trendy. Poté jsme realizovali několik hloubkových rozhovorů s účastníky, abychom lépe pochopili jejich zkušenosti a názory.
+
+Člen týmu 2: Dobrý den, děkuji za inspirativní prezentaci. Zajímalo by mě, jaké byly největší výzvy, kterým jste během projektu čelila?
+
+Seniorní výzkumnice: Děkuji za otázku. Největší výzvou bylo získávání dostatečně reprezentativního vzorku respondentů. Mnoho lidí bylo zpočátku skeptických k účasti na našem výzkumu. Museli jsme tedy investovat značný čas a úsilí do budování důvěry s komunitami, které jsme studovali. Další výzvou bylo zpracování a interpretace velkého množství dat, což vyžadovalo pečlivou koordinaci s naším týmem analytiků.
+
+Saša: To zní velmi náročně. Jaké jsou další kroky v tomto výzkumu?
+
+Seniorní výzkumnice: V současné době pracujeme na rozšíření našeho vzorku a zahrnutí dalších demografických skupin, abychom získali ještě širší pohled na problematiku. Také plánujeme publikovat několik článků v odborných časopisech a prezentovat naše zjištění na mezinárodních konferencích. Vaše zapojení a další nápady budou v tomto procesu velmi cenné.
+
+Člen týmu 2: To je skvělé, rádi se zapojíme. Děkujeme za odpovědi a těšíme se na další spolupráci.
+
+Seniorní výzkumnice: Děkuji vám oběma za zájem a otázky. Jsem ráda, že máme tak angažovaný tým. Pokračujme v dobré práci!
+

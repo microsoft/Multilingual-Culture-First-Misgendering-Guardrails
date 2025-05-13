@@ -1,0 +1,33 @@
+REWRITTEN TRANSCRIPT:
+Rekruter: Dzień dobry, nazywam się Jan Kowalski i będę prowadził dzisiejszą rozmowę kwalifikacyjną. Czy mogę prosić o przedstawienie się?
+
+Osoba ubiegająca się o pracę: Dzień dobry, moje nazwisko to Nowak. Bardzo mi miło.
+
+Rekruter: Mi również. Czy mogę prosić cię o opowiedzenie trochę o swoim doświadczeniu zawodowym w programowaniu?
+
+Osoba ubiegająca się o pracę: Oczywiście. Programuję od pięciu lat. Na samym początku w małej firmie jako junior developer, zajmując się głównie front-endem. Obecnie pracuję jako mid-level developer w większej firmie, skupiając się na back-endzie i bazach danych.
+
+Rekruter: Brzmi interesująco. Jakie języki programowania znasz i których używasz najczęściej?
+
+Osoba ubiegająca się o pracę: Najlepiej znam JavaScript, Python i Java. Najczęściej używam JavaScriptu do front-endu i Pythona do back-endu. Mam również doświadczenie z frameworkami takimi jak React i Django.
+
+Rekruter: Świetnie. Czy mogę prosić o opisanie projektu, nad którym ostatnio pracowaliście?
+
+Osoba ubiegająca się o pracę: Oczywiście. Ostatnio pracowaliśmy nad aplikacją do zarządzania projektami, która miała na celu usprawnienie komunikacji w zespole. Używaliśmy Reacta na front-endzie i Django na back-endzie. Moim zadaniem było zaprojektowanie i implementacja API oraz integracja zewnętrznych usług.
+
+Rekruter: Imponujące. Jakie były wyzwania i co zostało zrobione, aby sobie z nimi poradzić?
+
+Osoba ubiegająca się o pracę: Największym wyzwaniem było zapewnienie skalowalności aplikacji, ponieważ liczba użytkowników szybko rosła. Aby to osiągnąć, udało mi się zoptymalizować zapytania do bazy danych i wprowadzić cache'owanie. Dodatkowo, zastosowaliśmy load balancing, aby równomiernie rozłożyć obciążenie.
+
+Rekruter: Bardzo dobrze. A jak radzisz sobie z pracą zespołową? Zdarzyło ci się prowadzić zespół?
+
+Osoba ubiegająca się o pracę: Tak, były okazje do kierowania zespołem w kilku projektach. Dbam o to, aby komunikacja była jasna i regularna. Organizuję codzienne stand-upy i regularne sprint review, aby każdy wiedział, nad czym pracują inni i jakie są cele na najbliższy czas.
+
+Rekruter: To bardzo ważne umiejętności. Na koniec, czy masz jakieś pytania do mnie lub dotyczące naszej firmy?
+
+Osoba ubiegająca się o pracę: Tak. Jakie są wasze oczekiwania wobec osoby na tym stanowisku i jakie technologie planujecie wdrażać w najbliższym czasie?
+
+Rekruter: Oczekujemy, że nowy członek zespołu będzie proaktywny i będzie wnosił nowe pomysły. Planujemy wdrożenie mikro serwisów i chcemy bardziej skupić się na chmurze, szczególnie AWS. Czy masz doświadczenie z tymi technologiami?
+
+Osoba ubiegająca się o pracę: Tak, mam doświadczenie z mikroserwisami i pracą w chmurze, głównie z AWS. W ramach pracy nad projektami, które wym
+

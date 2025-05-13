@@ -1,0 +1,35 @@
+Agent: Dobrodošla! Vesel sem, da sta prišla pogledat to čudovito hišo. Sem Janez, vaš nepremičninski agent. Kako vama lahko pomagam danes?
+
+Kupec 1: Živjo, Janez. Iščeva najin prvi dom in slišala sva, da je ta hiša res nekaj posebnega.
+
+Agent: Prav imate. Ta hiša je idealna za mlado družino. Ima tri spalnice, veliko dnevno sobo in lep vrt, kjer lahko otroci varno igrajo.
+
+Kupec 2: Vrt se sliši super. Koliko je velika parcela?
+
+Agent: Parcela je velika 500 kvadratnih metrov. Poleg tega je hiša v mirni soseski, blizu šol in trgovin. Resnično idealna lokacija za družinsko življenje.
+
+Kupec 1: To je zelo pomembno za naju. Kakšno je stanje hiše? Bova morala kaj obnoviti?
+
+Agent: Hiša je bila prenovljena pred dvema letoma, tako da je v odličnem stanju. Nova streha, okna in izolacija. Vselita se lahko takoj, brez dodatnih stroškov za obnovo.
+
+Kupec 2: To je super. Kakšna je cena?
+
+Agent: Cena je 250.000 evrov, kar je zelo konkurenčno za to območje. Poleg tega je lastnik pripravljen razpravljati o možnosti manjšega popusta za resne kupce.
+
+Kupec 1: Zveni zelo obetavno. Ali lahko pogledava notranjost hiše?
+
+Agent: Seveda, kar prosim, sledita mi. Tukaj je prostorna dnevna soba z veliko naravne svetlobe. Kuhinja je moderna in popolnoma opremljena. Poglejmo še spalnice.
+
+Kupec 2: Všeč mi je, kako svetla je hiša. Spalnice so tudi dovolj velike za najine načrte.
+
+Agent: Veseli me, da vama je všeč. Ali imata še kakšna vprašanja?
+
+Kupec 1: Mislim, da ne za zdaj. Bova se še pogovorila in se odločila.
+
+Agent: V redu, razumem. Tukaj imate moje kontaktne podatke. Če imata kakršno koli vprašanje ali potrebujeta več informacij, me lahko kadarkoli pokličeta. Veselim se vajine odločitve!
+
+Kupec 2: Hvala lepa, Janez. Bova se javila kmalu.
+
+Agent: Ni za kaj. Lep dan vama želim!
+
+Kupec 1 in Kupec 2: Enako, hvala!

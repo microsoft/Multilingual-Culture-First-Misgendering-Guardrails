@@ -1,0 +1,31 @@
+Pārdevēja: Labdien! Kā es varu jums palīdzēt šodien?
+
+Klients: Labdien! Es meklēju jaunu lūpu krāsu un tonālo krēmu. Vai varat man palīdzēt izvēlēties?
+
+Pārdevēja: Protams! Kāda veida lūpu krāsu jūs vēlaties? Vai ir kāds konkrēts tonis, ko jūs meklējat?
+
+Klients: Es gribētu kaut ko dabisku, bet ar nelielu spīdumu. Varbūt kaut ko rozīgu.
+
+Pārdevēja: Labi, mums ir dažas lieliskas iespējas. Šeit ir mūsu populārākais rozā tonis ar spīdumu. Vai vēlaties to izmēģināt?
+
+Klients: Jā, lūdzu.
+
+Pārdevēja: Lūk, spogulis. Ko jūs domājat par šo toni?
+
+Klients: Tas izskatās lieliski! Es ņemšu šo. Tagad par tonālo krēmu, man ir kombinēta āda. Vai jums ir kaut kas, kas labi nosedz, bet nav pārāk smags?
+
+Pārdevēja: Jā, mums ir tonālais krēms, kas ir ideāli piemērots kombinētai ādai. Tas nodrošina labu pārklājumu, bet ir viegls uz ādas. Vai vēlaties to izmēģināt?
+
+Klients: Jā, lūdzu.
+
+Pārdevēja: Lūk, es uzklāšu nedaudz uz jūsu ādas, lai jūs varētu redzēt, kā tas izskatās.
+
+Klients: Tas jūtas ļoti labi un izskatās dabiski. Es ņemšu arī šo.
+
+Pārdevēja: Lieliski! Vai vēl kaut ko vēlaties šodien?
+
+Klients: Nē, tas būs viss. Paldies par palīdzību!
+
+Pārdevēja: Paldies jums! Lai jums jauka diena!
+
+Klients: Paldies, jums arī!

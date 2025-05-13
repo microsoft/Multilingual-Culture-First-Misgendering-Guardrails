@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY does not specify any gender for Dr. Novak, Dr. Kovač, or Dr. Potočnik, and the TRANSCRIPT does not provide explicit gender information for any of the doctors. Therefore, there is no gender mistake in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY uses gender-neutral language ('oseba') for all participants and does not make any specific male or female assumptions about their gender. The use of '_a' in Slovenian indicates gender neutrality in the context of the conversation."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants' names and their main concerns about the administrative changes. It is well-structured, coherent, and readable. The summary also maintains the natural flow of the original dialogue and includes all significant details discussed by the doctors. There are no grammatical errors or unnatural phrases, making it a high-quality summary."
+}

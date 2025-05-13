@@ -1,0 +1,7 @@
+**Deelnemers:**
+- Jordan (gender onbekend)
+- Alex (gender onbekend)
+- Max (gender onbekend)
+
+**Samenvatting:**
+Tijdens de vergadering bespraken Jordan, Alex en Max de lancering van een nieuwe feature. Alex merkte op dat er problemen zijn met de integratie van bestaande API's, wat vertragingen veroorzaakt bij het ophalen van data. Dit kan de gebruikerservaring negatief beïnvloeden. Er werden verschillende oplossingen voorgesteld, zoals het optimaliseren van API-calls en het implementeren van een cache-mechanisme. Max suggereerde een hybride aanpak, waarbij zowel optimalisatie als caching wordt toegepast. Er werd ook besproken hoe dit gecommuniceerd kan worden naar het supportteam, inclusief het opstellen van een FAQ-sectie en het plannen van een training sessie. De taken werden verdeeld: Alex zal de technische details bespreken met het ontwikkelteam, Max zal de communicatie en documentatie opzetten, en Jordan zal de training sessie coördineren.

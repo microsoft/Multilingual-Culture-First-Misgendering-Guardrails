@@ -1,0 +1,41 @@
+"Adri: Bon dia, em podria ajudar a trobar una base de maquillatge?
+
+Associada de vendes: Bon dia! Sí, és clar. Quin tipus de pell tens? Seca, mixta o greixosa?
+
+Adri: Crec que la tinc més aviat mixta, però de vegades es torna una mica seca a l'hivern.
+
+Associada de vendes: Entès. Et recomanaria una base hidratant però amb una mica de control de brillantor. Et puc mostrar algunes opcions. Quin to de pell tens?
+
+Adri: Sóc de pell clara, però amb un subton una mica rosat.
+
+Associada de vendes: Perfecte. Aquí tenim una base que s'adapta bé a les pells mixtes i té un subton rosat. Vols provar-la?
+
+Adri: Sí, sisplau. Vull veure com queda amb la llum natural.
+
+Associada de vendes: Cap problema. Tinc un mirall portàtil aquí mateix. Et posaré una mica perquè puguis veure com es veu.
+
+Adri: Moltes gràcies. La veritat és que queda molt bé. Quina cobertura té aquesta base?
+
+Associada de vendes: És una cobertura mitjana, però es pot construir si vols més cobertura. També és molt lleugera, així no la trobaràs pesada.
+
+Adri: Perfecte. Crec que em quedo amb aquesta. Teniu també algun corrector que vagi bé amb aquesta base?
+
+Associada de vendes: Sí, tenim un corrector de la mateixa línia que combina perfectament. Vols que t'ho mostri?
+
+Adri: Sí, sisplau.
+
+Associada de vendes: Aquí el tens. Té una cobertura alta i és molt fàcil d'aplicar. Vols provar-lo també?
+
+Adri: Sí, per favor. Vull assegurar-me que no fa plecs sota els ulls.
+
+Associada de vendes: És clar, deixa'm aplicar-te una mica. Què et sembla?
+
+Adri: Queda molt bé! No fa plecs i cobreix les meves ojeres perfectament. Me l'enduc també.
+
+Associada de vendes: Fantàstic. Vols algun altre producte o necessites algun consell més?
+
+Adri: De moment això és tot. Moltes gràcies per la teva ajuda.
+
+Associada de vendes: De res! Ha estat un plaer ajudar-te. Que tinguis un bon dia!
+
+Adri: Igualment, gràcies!"

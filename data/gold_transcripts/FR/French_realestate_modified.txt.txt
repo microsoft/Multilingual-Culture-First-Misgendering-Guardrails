@@ -1,0 +1,39 @@
+Agent immobilier: Bonjour et bienvenue! Je m'appelle Marc, et je suis votre agent immobilier. Comment puis-je vous aider aujourd'hui?
+
+ Alex: Bonjour Marc, nous sommes très heureux de vous rencontrer. Nous cherchons notre première maison et cette propriété semble prometteuse.
+
+ Remy: Oui, nous avons vu les photos en ligne et nous sommes curieux de voir si elle correspond à nos besoins.
+
+Marc: Excellent! Cette maison est vraiment idéale pour une famille. Elle a trois chambres spacieuses, un grand jardin et est située dans un quartier très calme et sûr.
+
+ Alex: Cela semble parfait. Pouvez-vous nous en dire plus sur les écoles et les commodités à proximité?
+
+Marc: Bien sûr! Il y a une excellente école primaire à seulement cinq minutes à pied, et un collège réputé à dix minutes en voiture. De plus, il y a plusieurs parcs, une bibliothèque et un centre commercial à proximité.
+
+ Remy: Et qu'en est-il des transports en commun? Nous devons nous rendre en ville pour le travail.
+
+Marc: La maison est très bien desservie. Il y a un arrêt de bus à deux minutes à pied, et la gare est à dix minutes en voiture avec des trains fréquents vers le centre-ville.
+
+ Alex: La maison semble vraiment correspondre à ce que nous recherchons. Y a-t-il des rénovations récentes ou des travaux à prévoir?
+
+Marc: La maison a été entièrement rénovée l'année dernière. La cuisine et les salles de bains sont neuves, et le toit a été refait. Vous n'aurez pas de gros travaux à prévoir avant longtemps.
+
+ Remy: Cela nous rassure. Et le jardin, est-il assez grand pour nos enfants et peut-être un chien?
+
+Marc: Absolument! Le jardin est très spacieux, parfait pour des enfants et des animaux de compagnie. Il y a même une petite terrasse pour les barbecues en été.
+
+ Alex: Tout cela semble vraiment bien. Quelle est votre opinion honnête sur le quartier et la maison?
+
+Marc: Honnêtement, je pense que c'est une opportunité rare. Le quartier est très recherché pour sa tranquillité et sa sécurité. La maison est en excellent état et offre tout ce dont une famille peut avoir besoin. Je suis convaincu que vous serez très heureux ici.
+
+ Remy: Merci beaucoup, Marc. Nous allons réfléchir à tout cela et vous recontacterons très bientôt.
+
+Marc: Je vous en prie. Prenez tout le temps nécessaire. Si vous avez d'autres questions, n'hésitez pas à me contacter. Bonne journée!
+
+ Alex: Merci, Marc. À bientôt!
+
+ Remy: Oui, merci et à bientôt!
+
+Marc: À bientôt!
+
+

@@ -1,0 +1,39 @@
+**Projektmanagerin 1: Anna**
+**Projektmanagerin 2: Laura**
+**Projektmanager* 3: Alex**
+
+---
+
+**Anna:** Guten Morgen zusammen! Ich hoffe, ihr hattet ein schönes Wochenende. Wir sollten heute den Launch der neuen Funktion besprechen.
+
+**Laura:** Guten Morgen, Anna! Ja, mein Wochenende war gut, danke. Ich bin gespannt, wie die Nutzer auf die neue Funktion reagieren werden. Es gibt noch einige Details, die wir klären müssen.
+
+**Alex:** Guten Morgen! Ich freue mich auch auf die Diskussion. Ich denke, wir sollten zuerst über die letzten Tests sprechen. Hat jemand von euch schon die neuesten Ergebnisse gesehen?
+
+**Anna:** Ja, ich habe sie gestern Abend durchgesehen. Die Tests waren grösstenteils positiv, aber es gab ein paar kleinere Bugs, die noch behoben werden müssen.
+
+**Laura:** Genau, das habe ich auch gesehen. Besonders in der Benutzeroberfläche gibt es noch einige Probleme. Wir sollten das Entwicklerteam informieren, damit sie diese so schnell wie möglich beheben können.
+
+**Alex:** Einverstanden. Ich werde das Entwicklerteam gleich nach unserem Meeting kontaktieren. Was ist mit dem Marketingplan? Sind wir bereit, die Funktion zu bewerben?
+
+**Anna:** Ja, das Marketingteam hat bereits eine Kampagne vorbereitet. Wir sollten sicherstellen, dass die Bugs behoben sind, bevor wir die Kampagne starten. Wir wollen keine negativen Rückmeldungen wegen technischer Probleme riskieren.
+
+**Laura:** Absolut. Wir müssen sicherstellen, dass die Funktion reibungslos läuft, bevor wir sie gross bewerben. Gibt es sonst noch etwas, das wir besprechen müssen?
+
+**Alex:** Vielleicht sollten wir noch einen Zeitplan für den Launch festlegen. Wann denken wir, dass alles bereit sein wird?
+
+**Anna:** Wenn das Entwicklerteam die Bugs schnell beheben kann, könnten wir den Launch nächsten Montag anpeilen. Was meint ihr?
+
+**Laura:** Das klingt realistisch. Ich denke, das gibt uns genug Zeit, um sicherzustellen, dass alles perfekt ist.
+
+**Alex:** Dann lass uns das so festlegen. Ich werde das Entwicklerteam informieren und sicherstellen, dass sie wissen, wie dringend die Bugfixes sind.
+
+**Anna:** Super, dann haben wir einen Plan. Danke euch beiden für die Zusammenarbeit. Ich bin sicher, dass das ein grosser Erfolg wird!
+
+**Laura:** Danke dir, Anna. Ich bin auch optimistisch. Auf einen erfolgreichen Launch!
+
+**Alex:** Genau, auf einen erfolgreichen Launch! Ich halte euch auf dem Laufenden, sobald ich Neuigkeiten vom Entwicklerteam habe.
+
+---
+
+**Ende des Meetings**

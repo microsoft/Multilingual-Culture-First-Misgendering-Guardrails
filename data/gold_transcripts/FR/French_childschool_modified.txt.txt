@@ -1,0 +1,26 @@
+Enseignant(e) : Bonjour, tout le monde. Merci d'être venu(e) aujourd'hui.
+
+Parent 1 : Bonjour. Nous avons reçu votre message. Est-ce que notre enfant, Melvin, va bien ?
+
+Enseignant(e) : Bonjour. Je voulais justement vous parler de cela. J'ai remarqué que Melvin semble un peu stressé ces derniers temps. Est-ce que quelque chose a changé à la maison récemment ?
+
+Parent 2 : Eh bien, nous avons déménagé il y a quelques semaines. Peut-être que cela a un impact sur eux.
+
+Enseignant(e) : C'est possible. Les enfants peuvent souvent être sensibles aux changements dans leur environnement. Avez-vous noté des changements dans leur comportement à la maison ?
+
+Parent 1 : Oui, en fait, ils ont  été un peu plus silencieux  que d'habitude et semble plus collés  à nous.
+
+Enseignant(e): C'est compréhensible. Il serait peut-être utile de leur parler de ce qu'ils ressentent et de les rassurer. À l'école, nous allons essayer d'être particulièrement attentifs et de leur offrir un environnement aussi stable que possible.
+
+Parent 2 : Merci de nous en informer. Nous allons essayer de discuter avec  eux et de voir comment nous pouvons les aider à se sentir plus à l'aise.
+
+Enseignant(e) : C'est une bonne idée. Si vous avez besoin de ressources ou de conseils supplémentaires, n'hésitez pas à me le faire savoir. Nous voulons tous ce qu'il y a de mieux pour eux.
+
+Parent 1 : Merci beaucoup. Nous apprécions votre soutien.
+
+Enseignant(e) : C'est tout naturel. N'hésitez pas à me contacter si vous avez d'autres questions ou préoccupations. Passez une bonne journée.
+
+Parent 2 : Merci, vous aussi. Au revoir.
+
+Enseignant(e): Au revoir.
+

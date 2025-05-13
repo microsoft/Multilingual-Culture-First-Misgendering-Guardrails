@@ -1,0 +1,35 @@
+Klienditeenindaja: Tere! Kuidas ma saan teid täna aidata?
+
+Merike: Tere! Ma otsin uut jumestuskreemi. Kas te oskate midagi soovitada?
+
+Klienditeenindaja: Muidugi! Mis tüüpi nahk teil on? Kas teate oma naha alatooni?
+
+Merike: Mul on kombineeritud nahk ja ma arvan, et mu alatoon on pigem soe.
+
+Klienditeenindaja: Selge. Sooja alatooniga kombineeritud nahale sobib hästi see jumestuskreem. See annab loomuliku katvuse ja püsib terve päeva.
+
+Merike: See kõlab hästi. Kas ma võiksin seda proovida?
+
+Klienditeenindaja: Loomulikult. Lubage mul leida teie toon. Palun istuge siia ja ma kannan seda veidi teie nahale.
+
+Merike: Aitäh! See tundub nahal väga kerge ja loomulik.
+
+Klienditeenindaja: Jah, see on üks meie populaarsemaid tooteid. Kas soovite seda osta?
+
+Merike: Jah, ma võtan selle. Kas teil on ka soovitusi huulepulkade osas?
+
+Klienditeenindaja: Kindlasti! Millist värvi te eelistate?
+
+Merike: Midagi neutraalset, mida saaks kanda igapäevaselt.
+
+Klienditeenindaja: Ma soovitaksin seda tooni, see on väga mitmekülgne ja sobib igaks puhuks.
+
+Merike: See on täpselt see, mida ma otsisin. Ma võtan ka selle.
+
+Klienditeenindaja: Suurepärane valik! Kas soovite veel midagi?
+
+Merike: Ei, see on kõik. Aitäh abi eest!
+
+Klienditeenindaja: Palun! Siin on teie ostud. Head päeva!
+
+Merike: Aitäh! Teile samuti!

@@ -1,0 +1,25 @@
+"Mikko: Huomenta kaikille! Aloitetaanpa päivän suunnitelmalla. Meillä on tänään paljon tehtävää.
+
+Petri: Huomenta Mikko! Joo, meidän täytyy saada perustukset valmiiksi ennen iltapäivää.
+
+Teemu: Huomenta! Eikö niin, että tänään pitäisi myös aloittaa seinien pystytys?
+
+Kaino: Kyllä, perustusten jälkeen siirrytään heti seinien pariin. Mikko, oletko sinä vastuussa perustuksista?
+
+Mikko: Joo, hoidan perustukset Petrin kanssa. Teemu ja Kaino, voitteko te keskittyä tänään seinien pystytykseen?
+
+Teemu: Tottakai, meillä on kaikki tarvittavat materiaalit valmiina. Kaino, oletko sinä valmis aloittamaan seinien kanssa?
+
+Kaino: Kyllä, minulla on kaikki työkalut valmiina. Pitäisikö meidän tarkistaa vielä kerran piirustukset ennen kuin aloitetaan?
+
+Petri: Hyvä idea. Käydään nopeasti läpi, että kaikki on selvää. Mikko, onko sinulla piirustukset?
+
+Mikko: Kyllä, tässä ne ovat. Katsotaanpa yhdessä. Tässä on perustusten kaavio, ja tässä on seinien pystytyksen ohjeet.
+
+Teemu: Näyttää hyvältä. Meidän pitäisi pystyä pysymään aikataulussa, jos kaikki menee suunnitelman mukaan.
+
+Kaino: Hyvä, aloitetaan sitten. Jos tulee jotain kysyttävää, pidetään yhteyttä radiopuhelimilla.
+
+Petri: Selvä. Mennään hommiin!
+
+Mikko: Hyvää työtä kaikille! Tehdään tästä talosta upea."

@@ -1,0 +1,45 @@
+Chef: Olá, desejamos boas vindas ao programa de culinária! Hoje vamos aprender a fazer um incrível bolo de chocolate. Alegres?
+
+Participante: Olá! Sim, estou muito contente. Adoro chocolate e sempre quis aprender a fazer um bolo perfeito.
+
+Chef: Que ótimo! Vamos começar então. Primeiro, precisamos separar os ingredientes. Você pode pegar duas xícaras de farinha de trigo, uma xícara de açúcar, meia xícara de cacau em pó, uma colher de chá de fermento em pó e uma colher de chá de bicarbonato de sódio?
+
+Participante: Claro, já estou pegando tudo. Aqui tenho farinha, açúcar, cacau, fermento e bicarbonato.
+
+Chef: Perfeito! Agora, em uma tigela grande, vamos misturar tudo o que for ingredientes seco. Você pode fazer isso?
+
+Participante: Sim, estou misturando. Tudo bem assim?
+
+Chef: Isso mesmo, ótimo trabalho. Agora, vamos adicionar ingredientes úmidos. Precisamos de uma xícara de leite, meia xícara de óleo, dois ovos e uma colher de chá de essência de baunilha. Pode pegar esses ingredientes também?
+
+Participante: Claro, aqui tenho leite, óleo, ovos e essência de baunilha.
+
+Chef: Excelente. Vamos adicionar esses ingredientes à mistura seca e mexer até ficar homogêneo. Pode fazer isso?
+
+Participante: Sim, estou misturando tudo. Está ficando com uma aparência incrível!
+
+Chef: Que bom ouvir isso! Agora, vamos despejar a massa em uma forma untada e enfarinhada. Já fez isso antes?
+
+Participante: Sim, já untei e enfarinhei a forma. Vou despejar a massa agora.
+
+Chef: Perfeito. Agora é só levar ao forno preaquecido a 180 graus Celsius por cerca de 35 a 40 minutos. Enquanto isso, podemos preparar a cobertura. Gosta de ganache de chocolate?
+
+Participante: Adoro ganache! Como fazemos?
+
+Chef: É bem simples. Vamos precisar de 200 gramas de chocolate meio amargo e 200 ml de creme de leite. Primeiramente, derreta o chocolate no micro-ondas ou em banho-maria. Pode fazer isso?
+
+Participante: Sim, vou derreter no micro-ondas. Pronto, o chocolate já está derretido.
+
+Chef: Ótimo. Agora, adicione o creme de leite ao chocolate derretido e misture bem até ficar homogêneo. Pode fazer isso?
+
+Participante: Claro, misturando agora. Nossa, está ficando demais!
+
+Chef: Maravilha! Quando o bolo estiver pronto e esfriar um pouco, vamos cobrir com essa ganache. Deseja provar?
+
+Participante: Muito! Estou com água na boca só de pensar.
+
+Chef: Tenho certeza de que vai ficar formidável. Agradeço por participar hoje. Foi um prazer cozinhar com você!
+
+Participante: Eu que agradeço! Aprendi muito e me diverti bastante. Mal posso esperar para fazer esse bolo em casa.
+
+Chef: Que bom ouvir isso! Até a próxima, e bom apetite!

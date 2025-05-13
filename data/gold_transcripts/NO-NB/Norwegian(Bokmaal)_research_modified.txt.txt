@@ -1,0 +1,23 @@
+Forsker: Tusen takk for oppmerksomheten. Er det noen som har spørsmål?
+
+Teammedlem 1: Ja, jeg har et spørsmål. Kan du forklare litt mer om metodene vi brukte for å samle inn dataene?
+
+Forsker: Selvfølgelig. Vi brukte en blanding av kvalitative og kvantitative metoder. For den kvalitative delen, gjennomførte vi dybdeintervjuer med deltakerne. For den kvantitative delen, benyttet vi oss av spørreskjemaer med lukkede spørsmål for å få statistisk signifikante resultater. Er det noe spesifikt du lurer på angående metodene?
+
+Teammedlem 1: Det er klart nå, takk. Jeg lurte også på hvordan vi sikret validiteten av våre data.
+
+Forsker: Godt spørsmål. For å sikre validiteten, sørget vi for at våre spørsmål var tydelige og enkle å forstå. Vi gjennomførte også en pilotstudie for å teste spørreskjemaene og justerte dem basert på tilbakemeldinger. I tillegg brukte vi triangulering, hvor vi sammenlignet data fra flere kilder for å bekrefte våre funn.
+
+Teammedlem 2: Jeg har også et spørsmål. Hvordan planlegger vi å publisere resultatene våre? Har vi allerede noen tidsskrifter i tankene?
+
+Forsker: Ja, vi har noen tidsskrifter i tankene. Vi planlegger å sende inn en artikkel til "Journal of Advanced Research" først, da de har et godt rykte innen vårt fagfelt. Vi vurderer også "International Journal of Data Science" som et alternativ. Vi skal diskutere dette nærmere i vårt neste møte for å sikre at alle er enige om valgene.
+
+Teammedlem 2: Det høres bra ut. Har vi allerede begynt å skrive utkastet til artikkelen?
+
+Forsker: Ja, vi har begynt på utkastet. Jeg har fordelt noen deler av skrivingen blant teamet, og jeg vil gjerne at vi går gjennom de første utkastene sammen i løpet av neste uke. Jeg setter pris på alles innsats så langt.
+
+Teammedlem 1: Takk for informasjonen. Jeg gleder meg til å bidra mer til artikkelen.
+
+Teammedlem 2: Ja, det gjør jeg også. Takk for en informativ presentasjon.
+
+Forsker: Takk selv! Jeg ser frem til å fortsette arbeidet sammen med dere.

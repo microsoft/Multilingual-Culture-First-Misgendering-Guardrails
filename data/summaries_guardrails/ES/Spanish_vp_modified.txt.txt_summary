@@ -1,0 +1,9 @@
+**Participantes:**
+1. Vice President (VP) - no especificado
+2. Senior Applied Scientist 1 (SAS1) - no especificado
+3. Senior Applied Scientist 2 (SAS2) - no especificado
+4. Principal Program Manager (PPM) - no especificado
+
+**Resumen:**
+
+El equipo discute ideas para una nueva característica del producto. SAS1 sugiere una función que predice las necesidades del usuario usando algoritmos de aprendizaje automático. SAS2 propone utilizar redes neuronales recurrentes para hacer recomendaciones más precisas. PPM pregunta sobre la integración de esta función en la interfaz actual sin complicarla. Se discuten ideas como notificaciones discretas y sugerencias contextuales, y la opción de desactivar estas sugerencias. PPM también sugiere realizar pruebas A/B para ajustar la presentación de la nueva función. SAS1 y SAS2 mencionan la importancia de entrenar bien los modelos y considerar la privacidad y seguridad de los datos. VP asigna tareas a SAS1, SAS2 y PPM para avanzar con el prototipo y coordinar las pruebas A/B. La reunión concluye con agradecimientos y un compromiso de seguir en contacto para revisar el progreso.

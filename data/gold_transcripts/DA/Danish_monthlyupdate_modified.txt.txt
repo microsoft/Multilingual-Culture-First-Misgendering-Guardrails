@@ -1,0 +1,27 @@
+Senior Researcher: Godmorgen! Tak fordi du havde tid til at mødes i dag.
+
+Manager: Godmorgen! Selvfølgelig, det er altid godt at få en opdatering. Hvordan går det med forskningsprojektet?
+
+Senior Researcher: Det går rigtig godt. Vi har gjort betydelige fremskridt denne måned. Vi har afsluttet den første fase af dataindsamlingen og er begyndt på analysen.
+
+Manager: Det lyder lovende. Har I stødt på nogen udfordringer?
+
+Senior Researcher: Ja, der har været et par logistiske problemer med nogle af vores eksterne partnere, men vi har arbejdet på at løse dem, og det ser ud til, at vi er tilbage på sporet nu.
+
+Manager: Fint. Hvordan ser tidsplanen ud for de næste par måneder?
+
+Senior Researcher: Hvis alt går efter planen, forventer vi at have de første resultater klar inden udgangen af næste måned. Derefter vil vi bruge yderligere to måneder på at validere og finjustere vores fund.
+
+Manager: Perfekt. Er der noget, du har brug for fra mig eller noget, vi skal prioritere anderledes?
+
+Senior Researcher: Lige nu har vi de ressourcer, vi har brug for. Men det kunne være nyttigt at få en ekstra forsker ombord, når vi når til valideringsfasen, for at sikre, at vi kan overholde tidsplanen.
+
+Manager: Det lyder som en god idé. Jeg vil se, hvad vi kan gøre for at få en ekstra person til at hjælpe jer. Er der andet?
+
+Senior Researcher: Ikke lige nu, men jeg vil holde dig opdateret, hvis der opstår noget nyt.
+
+Manager: Det lyder godt. Tak for opdateringen, og fortsæt det gode arbejde!
+
+Senior Researcher: Tak, det skal jeg nok. Ha' en god dag!
+
+Manager: Tak, i lige måde!

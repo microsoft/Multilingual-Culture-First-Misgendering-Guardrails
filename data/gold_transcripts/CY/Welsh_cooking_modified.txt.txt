@@ -1,0 +1,42 @@
+Cynhaliwr: Croeso i'r sioe coginio heddiw! Beth yw dy enw di?
+
+Cyfranogwr: Helo, fy enw i yw Aeron.
+
+Cynhaliwr: Braf cwrdd â ti, Aeron! Heddiw, byddwn ni'n dysgu sut i bobi cacen siocled. Wyt ti'n barod?
+
+Aeron: Ydw, dw i'n edrych ymlaen at hyn!
+
+Cynhaliwr: Gwych! Yn gyntaf, mae angen i ni gasglu'r cynhwysion. Oes gen ti flawd, siwgr, powdwr coco, menyn, wyau, a llaeth?
+
+Aeron: Oes, mae gen i bob un ohonyn nhw.
+
+Cynhaliwr: Ardderchog. Dechreuwn ni drwy gymysgu'r cynhwysion sych gyda'i gilydd mewn bowlen fawr. Cofia ddefnyddio llwy i fesur y blawd a'r powdwr coco.
+
+Aeron: Iawn, dw i'n gwneud hynny nawr. Sawl llwy o flawd sydd ei angen?
+
+Cynhaliwr: Rydyn ni angen dau gwpanaid o flawd a hanner cwpan o bowdwr coco.
+
+Aeron: Iawn, dw i wedi rhoi'r cynhwysion yn y fowlen. Beth nesaf?
+
+Cynhaliwr: Nawr, ychwanega'r siwgr. Mae angen cwpan a hanner o siwgr. Cymysga popeth gyda'i gilydd yn dda.
+
+Aeron: Iawn, wedi gwneud hynny. Beth am y cynhwysion gwlyb?
+
+Cynhaliwr: Gwych. Yn y fowlen arall, cymysga'r menyn wedi'i doddi, dau wy, a hanner cwpan o laeth. Gwna'n siŵr bod popeth yn gymysg yn dda.
+
+Aeron: Iawn, wedi gwneud hynny. Beth nesaf?
+
+Cynhaliwr: Nawr, ychwanega'r cynhwysion gwlyb at y cynhwysion sych, a chymysga nes bod y cytew yn llyfn. Paid â chymysgu'n ormodol.
+
+Aeron: Iawn, dw i'n gweld y cytew yn dod at ei gilydd yn neis. Beth am y cam nesaf?
+
+Cynhaliwr: Ardderchog! Nawr, arllwys y cytew i mewn i dun pobi wedi'i iro, a'i roi yn y ffwrn am oddeutu 30-35 munud ar 180 gradd Celsius.
+
+Aeron: Iawn, dw i'n gwneud hynny nawr. Dw i'n edrych ymlaen at weld y canlyniad!
+
+Cynhaliwr: Gwych, Aeron! Bydd y gacen yn barod pan fydd sgiwer yn dod allan yn lân. Gobeithio y bydd yn flasus iawn!
+
+Aeron: Diolch yn fawr iawn am dy help! Dw i wir wedi mwynhau'r wers heddiw.
+
+Cynhaliwr: Mae'n bleser, Aeron. Pob lwc gyda'r gacen, a mwynha dy ddiwrnod!
+

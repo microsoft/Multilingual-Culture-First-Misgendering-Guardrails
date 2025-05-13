@@ -1,0 +1,35 @@
+Remi: Bonjour! Bienvenue au comptoir de maquillage. Comment puis-je vous aider aujourd'hui?
+
+Eloise: Bonjour! Je cherche un nouveau fond de teint et peut-être un rouge à lèvres assorti.
+
+Remi : Bien sûr! Quel type de peau avez-vous? Cela nous aidera à choisir le bon fond de teint pour vous.
+
+Eloise : J'ai la peau mixte, donc elle est un peu grasse sur la zone T mais sèche sur les joues.
+
+Remi: D'accord, je recommande notre fond de teint hydratant avec une finition mate. Il contrôle la brillance tout en offrant une hydratation légère. Voulez-vous que je vous en applique pour voir comment il se fond sur votre peau?
+
+Eloise: Oui, cela serait parfait. Merci!
+
+Remi : (appliquant le fond de teint) Voilà, qu'en pensez-vous?
+
+Eloise: Il se sent vraiment léger et la couleur semble bien correspondre. Je l'aime beaucoup!
+
+Remi: Super! Maintenant, pour le rouge à lèvres, préférez-vous une teinte plus naturelle ou quelque chose de plus audacieux?
+
+Eloise: Je pense que je voudrais essayer quelque chose d'un peu plus audacieux, peut-être un rouge ou un bordeaux.
+
+Remi : Très bon choix! Nous avons ici un rouge intense et un bordeaux profond. Voulez-vous les essayer pour voir lequel vous plaît le plus?
+
+Francois: Oui, je vais essayer les deux, s'il vous plaît.
+
+Remi: (après application) Voici le rouge et voici le bordeaux. Lequel préférez-vous?
+
+Eloise : J'aime vraiment le bordeaux. Il est parfait pour l'automne.
+
+Remi: Excellent choix! Souhaitez-vous autre chose aujourd'hui?
+
+Eloise: Non, ce sera tout pour aujourd'hui. Merci beaucoup pour votre aide!
+
+Remi: Avec plaisir! Vous pouvez passer à la caisse quand vous êtes prêt. Passez une belle journée!
+
+Eloise: Merci, vous aussi!

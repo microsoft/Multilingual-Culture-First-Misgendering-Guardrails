@@ -1,0 +1,33 @@
+Intervjuvalec: Dober dan, in hvala, da ste se odzvali na naše povabilo za razgovor. Jaz sem Marko, vodja kadrovske službe. Kako vam je ime?
+
+Kandidat: Dober dan, Marko. Moje ime je Alex. Hvala za priložnost.
+
+Marko: Veseli me, Alex. Najprej bi rad izvedel nekaj več o vašem ozadju. Lahko na kratko opišete svojo izobrazbo in delovne izkušnje?
+
+Alex: Seveda. Diplomiral_a sem iz računalništva na Univerzi v Ljubljani. Po diplomi sem delal_a kot programski razvijalec_ka pri podjetju TechSolutions tri leta. Tam sem se ukvarjal_a predvsem z razvojem spletnih aplikacij.
+
+Marko: Zelo dobro. Katere programske jezike in tehnologije najbolj obvladate?
+
+Alex: Najbolj sem doma v JavaScriptu, Pythonu in Javi. Imam tudi izkušnje z uporabo okvirjev, kot so React, Angular in Django.
+
+Marko: Odlično. Zanima me, kako se lotevate reševanja kompleksnih problemov pri razvoju programske opreme?
+
+Alex: Prvi korak je vedno temeljito razumeti problem. Nato razdelim problem na manjše, obvladljive dele. Uporabljam različne metode, kot so algoritmi in podatkovne strukture, ter preverjam več možnih rešitev, preden se odločim za najbolj optimalno.
+
+Marko: Zelo dobro. Kako pa se znajdete pri delu v timu? Lahko navedete primer, ko ste morali sodelovati z drugimi, da ste dosegli skupni cilj?
+
+Alex: Absolutno. Pri TechSolutions sem bil_a del ekipe, ki je razvijala novo funkcionalnost za naš glavni produkt. Redno smo imeli sestanke, kjer smo izmenjevali ideje in reševali težave. Moja vloga je bila koordinacija med različnimi deli projekta in zagotavljanje, da so bile vse komponente pravilno integrirane.
+
+Marko: Zelo impresivno. Kako se spopadate s časovnim pritiskom in roki?
+
+Alex: Vedno se trudim biti organiziran_a in prioritizirati naloge. Uporabljam orodja za upravljanje projektov, kot je Jira, da sledim napredku in skrbim, da so roki doseženi. Če pride do nepredvidenih težav, se osredotočim na hitro iskanje rešitev in po potrebi obvestim ekipo o morebitnih zamudah.
+
+Marko: Hvala, Alex. Mislim, da smo pokrili vse ključne točke. Imate morda vi kakšno vprašanje glede delovnega mesta ali podjetja?
+
+Alex: Da, zanima me, kakšne možnosti za nadaljnje izobraževanje in napredovanje ponuja vaše podjetje?
+
+Marko: Naše podjetje zelo spodbuja stalno izobraževanje in profesionalni razvoj. Imamo redne delavnice, seminarje in dostop do spletnih tečajev. Poleg tega imamo jasno definirane poti za napredovanje znotraj podjetja.
+
+Alex: To se sliši odlično. Hvala za vse informacije.
+
+Marko: Hvala vam, Alex, za vaš čas in odgovore. Oglasili se vam bomo v roku enega tedna z našo odločitvijo.

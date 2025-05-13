@@ -1,0 +1,25 @@
+Viivi: "Hei, katsokaa näitä korkeakorkoisia kenkiä! Mitä mieltä olette?"
+
+Simo: "Vau, ne ovat todella tyylikkäät! Ovatko ne mukavat jalassa?"
+
+Viivi: "Yllättävän mukavat! Mutta en ole varma, ovatko ne liian korkeat."
+
+Venni: "Minä taas etsin mukavia työkenkiä. Nämä näyttävät hyvältä, mutta ovatko ne tarpeeksi tukevat?"
+
+Simo: "Kokeile niitä ja katso, miltä ne tuntuvat. Työkengissä tärkeintä on mukavuus."
+
+Viivi: "Niinpä. Hei, mitä mieltä olette näistä toisista korkeakorkoisista kengistä? Ne ovat vähän matalammat."
+
+Simo: "Ne näyttävät myös hyviltä! Kokeile niitä ja vertaa näihin, jotka sinulla on nyt jalassa."
+
+Venni: "Nämä työkengät ovat todella mukavat. Luulen, että otan nämä."
+
+Viivi: "Hyvä valinta! Minäkin taidan päätyä näihin matalampiin korkokenkiin. Ne tuntuvat vakaammilta."
+
+Simo: "Loistavaa! Näyttää siltä, että kaikki löysivät jotain sopivaa. Mennäänkö vielä katsomaan laukkuja?"
+
+Viivi: "Ehdottomasti! Haluan löytää jotain, joka sopii näihin uusiin kenkiin."
+
+Venni: "Hyvä idea. Sitten voimme mennä kahville ja rentoutua vähän."
+
+Simo: "Kuulostaa täydelliseltä suunnitelmalta. Mennään!"

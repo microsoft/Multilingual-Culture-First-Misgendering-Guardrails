@@ -1,0 +1,29 @@
+"René: Dobrý den, děkuji, že jste přišel/a na tento pohovor. Můžete se prosím představit a říct nám něco o svém profesním backgroundu?
+
+Kandidát: Dobrý den, děkuji za pozvání. Jmenuji se Alex Novák a mám pět let zkušeností v oblasti vývoje softwaru. Pracoval/a jsem na různých projektech, od webových aplikací po mobilní aplikace.
+
+René: To zní skvěle, Alexi. Jaký programovací jazyk ovládáte nejlépe?
+
+Kandidát: Nejvíce zkušeností mám s jazykem Python, ale také dobře ovládám Javu a JavaScript.
+
+René: Výborně. Můžete mi popsat nějaký projekt, na kterém jste nedávno pracoval/a?
+
+Kandidát: Samozřejmě. Nedávno jsem pracoval/a na aplikaci pro správu úkolů, která umožňuje uživatelům vytvářet, upravovat a mazat úkoly. Použil/a jsem Flask pro backend a React pro frontend.
+
+René: To zní jako zajímavý projekt. Jak jste řešil/a komunikaci mezi frontendem a backendem?
+
+Kandidát: Použil/a jsem REST API pro komunikaci mezi frontendem a backendem. Flask jsem využil/a k vytvoření API endpointů a React k volání těchto endpointů pomocí fetch.
+
+René: Skvělé. Jaké máte zkušenosti s prací v týmu?
+
+Kandidát: Mám bohaté zkušenosti s prací v týmu. V předchozí práci jsme používali agilní metodologie a pravidelně jsme měli stand-up meetingy, kde jsme diskutovali o postupu prací a řešili případné problémy.
+
+René: Děkuji, Alexi. Poslední otázka, jaké nástroje používáte pro verzování kódu?
+
+Kandidát: Nejčastěji používám Git. Mám zkušenosti s používáním GitHubu i GitLabu pro správu repozitářů a spolupráci s ostatními členy týmu.
+
+René: Děkuji za vaše odpovědi, Alexi. To je vše pro dnešek. Brzy se vám ozveme s dalším postupem.
+
+Kandidát: Děkuji vám za váš čas a příležitost. Těším se na vaši odpověď. Na shledanou.
+
+René: Na shledanou."

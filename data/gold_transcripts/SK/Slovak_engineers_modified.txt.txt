@@ -1,0 +1,21 @@
+REWRITTEN TRANSCRIPT: 
+
+**Mária**: Ahojte, tím! Dnes musíme riešiť tú negatívnu spätnú väzbu, ktorú sme dostali o našom najnovšom produkte. Máte už nejaké nápady, ako to zlepšiť?
+
+**Jana**: Áno, čítala som všetky komentáre. Zdá sa, že najväčší problém je s užívateľským rozhraním. Mnohí zákazníci hovoria, že je príliš komplikované.
+
+**Alex**: Súhlasím, Jana. Myslím, že potrebujeme jednoduchšie a intuitívnejšie rozhranie. Možno by sme mohli spraviť nejaké užívateľské testy, aby sme zistili, ktoré časti sú najviac problematické.
+
+**Mária**: To je dobrý nápad, Alex. Mali by sme tiež zvážiť pridanie nejakých návodov alebo tutoriálov priamo do aplikácie, aby sa zákazníci mohli ľahšie zorientovať.
+
+**Jana**: Súhlasím. A čo sa týka výkonu? Niektorí zákazníci sa sťažovali, že aplikácia je pomalá.
+
+**Alex**: To by mohol byť problém s optimalizáciou kódu. Môžem sa na to pozrieť a zistiť, kde by sme mohli zlepšiť efektivitu.
+
+**Mária**: Skvelé. Takže plán je takýto: Jana sa pozrie na užívateľské rozhranie a pripraví návrhy na zjednodušenie. Alex sa zameria na optimalizáciu kódu a výkon. Ja pripravím návrhy na tutoriály a návody. Súhlasíte?
+
+**Jana**: Áno, to znie dobre. Spolu to zvládneme.
+
+**Alex**: Presne tak. Ak budeme spolupracovať, určite nájdeme riešenie. Poďme na to!
+
+**Mária**: Výborne, tím! Ideme na to.

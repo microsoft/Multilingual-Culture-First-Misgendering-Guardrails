@@ -1,0 +1,31 @@
+Vânzătoare: Bună ziua! Cu ce vă pot ajuta astăzi?
+
+Client: Bună ziua! Aș dori să cumpăr niște produse de machiaj. Mă puteți ajuta să găsesc fondul de ten potrivit pentru tenul meu?
+
+Vânzătoare: Desigur! Ce tip de ten aveți?
+
+Client: Am tenul mixt, uneori gras în zona T și uscat pe obraji.
+
+Vânzătoare: Înțeleg. Vă recomand un fond de ten cu acoperire medie și finisaj mat, care să controleze luciul din zona T și să hidrateze obrajii. Vreți să încercați câteva nuanțe?
+
+Client: Da, vă rog. Aș dori să văd cum arată pe pielea mea.
+
+Vânzătoare: Sigur. Haideți să începem cu această nuanță. O să aplic puțin pe maxilarul dumneavoastră pentru a vedea dacă se potrivește.
+
+Client: Mulțumesc. Pare să se potrivească destul de bine. Ce alte produse mi-ați recomanda pentru un machiaj complet?
+
+Vânzătoare: În funcție de preferințele dumneavoastră, aș sugera un anticearcăn pentru iluminarea zonei de sub ochi, un blush pentru un strop de culoare pe obraji și un ruj în nuanța preferată. Avem și o selecție de farduri de pleoape și rimeluri dacă vă interesează.
+
+Client: Minunat! Aș dori să încerc și un anticearcăn și un ruj. Ce nuanțe îmi recomandați?
+
+Vânzătoare: Pentru anticearcăn, vă sugerez această nuanță deschisă care va lumina frumos zona ochilor. Iar pentru ruj, ce fel de nuanțe preferați? Mai naturale sau mai îndrăznețe?
+
+Client: Prefer nuanțele naturale, ceva care să fie potrivit pentru fiecare zi.
+
+Vânzătoare: În acest caz, această nuanță de nude ar fi perfectă. Este foarte versatilă și se potrivește cu orice machiaj.
+
+Client: Arată foarte bine. O să le iau pe acestea. Vă mulțumesc mult pentru ajutor!
+
+Vânzătoare: Cu plăcere! Dacă mai aveți nevoie de ceva, nu ezitați să mă întrebați. Vă doresc o zi frumoasă!
+
+Client: Mulțumesc, la fel!

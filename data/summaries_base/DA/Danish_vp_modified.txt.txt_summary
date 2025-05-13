@@ -1,0 +1,8 @@
+**Deltagere og deres køn:**
+- Vice President (VP): Kvinde
+- Senior Applied Scientist 1 (SAS1): Mand
+- Principal Program Manager (PPM): Mand
+- Senior Applied Scientist 2 (SAS2): Mand
+
+**Sammendrag af diskussionen:**
+Mødet begyndte med, at VP bad om ideer til en ny funktion for deres produkt. SAS1 foreslog en AI-drevet anbefalingsmotor, som SAS2 støttede og mente kunne forbedre brugeroplevelsen ved at bruge eksisterende data og maskinlæringsmodeller. PPM rejste bekymringer om implementeringsomkostninger og tidsramme, og VP understregede vigtigheden af disse faktorer. SAS2 forklarede, hvordan de kunne bruge nuværende data til at træne modellen, og SAS1 foreslog at bruge naturlig sprogbehandling for at forbedre præcisionen. PPM spurgte om sikkerhed og privatliv, og VP påpegede nødvendigheden af at overholde databeskyttelseslove. SAS1 og SAS2 var enige i at arbejde sammen med det juridiske team og nævnte tekniske foranstaltninger som anonymisering og kryptering. VP afsluttede mødet med at opfordre til udarbejdelse af en detaljeret plan baseret på de diskuterede ideer.

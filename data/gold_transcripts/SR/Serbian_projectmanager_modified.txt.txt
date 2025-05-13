@@ -1,0 +1,21 @@
+REWRITTEN TRANSCRIPT:
+
+Jovana: Zdravo svima! Drago mi je što smo svi ovde da razgovaramo o lansiranju nove funkcije. Kako stojimo sa rokovima?
+
+Vanja: Zdravo, Jovana, zdravo Ana. Rokovi su prilično tesni, ali mislim da možemo da ih ispunimo ako se svi potrudimo. Tim za razvoj je u završnoj fazi testiranja.
+
+Ana: Zdravo, Jovana, zdravo, Vanja. Slažem se, ali mislim da bi trebalo da razmotrimo još jedan krug testiranja. Ne želim da rizikujemo sa potencijalnim greškama kada funkcija postane dostupna korisnicima.
+
+Jovana: To je dobar predlog, Ana. Kvalitet je svakako prioritet. Vanja, da li bismo mogli da produžimo rok za još jednu nedelju kako bismo imali vremena za dodatno testiranje?
+
+Vanja: Mogu da razgovaram sa timom za razvoj i da vidim da li je to moguće. Međutim, to bi moglo da utiče na naš marketinški plan. Da li smo spremni da preuzmemo taj rizik?
+
+Ana: Mislim da je bolje da budemo oprezni. Bolje je odložiti lansiranje za nedelju dana nego da se suočimo sa negativnim povratnim informacijama korisnika zbog grešaka.
+
+Jovana: Slažem se. Kvalitet mora biti na prvom mestu. Vanja, molim te, razgovaraj sa timom za razvoj i javi nam što pre. Takođe, obavesti marketinški tim o mogućem odlaganju.
+
+Vanja: U redu, odmah ću ih kontaktirati. Hvala vam na podršci. Javiću vam čim budem imao/la više informacija.
+
+Ana: Hvala, Vanja. Držimo palčeve da sve prođe glatko.
+
+Jovana: Hvala svima na trudu i saradnji. Idemo zajedno ka uspehu!

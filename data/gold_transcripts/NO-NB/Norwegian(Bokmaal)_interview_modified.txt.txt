@@ -1,0 +1,27 @@
+Intervjuer: God morgen, og velkommen til intervjuet. Kan du starte med å fortelle litt om deg selv og din bakgrunn?
+
+Kandidat: God morgen! Takk for at jeg får muligheten. Jeg heter Alex og har en bachelorgrad i informatikk fra Universitetet i Oslo. Jeg har jobbet som programvareutvikler i tre år, hovedsakelig med backend-utvikling.
+
+Intervjuer: Det høres bra ut, Alex. Kan du beskrive et prosjekt du har jobbet med som du er spesielt stolt av?
+
+Kandidat: Absolutt. Et prosjekt jeg er veldig stolt av, er et system for håndtering av kundedata som jeg utviklet for min forrige arbeidsgiver. Systemet integrerte flere forskjellige datakilder og brukte en mikrotjenestearkitektur for å sikre skalerbarhet og pålitelighet. Vi brukte også Docker for å containerisere applikasjonene våre, noe som gjorde distribusjon mye enklere.
+
+Intervjuer: Det er imponerende. Kan du forklare litt mer om hvordan du brukte mikrotjenester i det prosjektet?
+
+Kandidat: Selvsagt. Vi delte applikasjonen i flere små, selvstendige tjenester, hver med sitt eget ansvar. For eksempel hadde vi en tjeneste for autentisering, en annen for kundedatahåndtering, og en tredje for rapportgenerering. Hver tjeneste kommuniserte med de andre gjennom REST API-er. Dette gjorde det enklere å vedlikeholde og skalere systemet, siden vi kunne oppdatere eller skalere hver tjeneste individuelt uten å påvirke de andre.
+
+Intervjuer: Det gir mening. Hvordan håndterte du kommunikasjonen mellom tjenestene og sikret at de var synkronisert?
+
+Kandidat: Vi brukte RabbitMQ som meldingskø for å håndtere asynkron kommunikasjon mellom tjenestene. For synkron kommunikasjon brukte vi HTTP REST API-er. For å sikre at dataene var synkronisert, implementerte vi også en mekanisme for hendelseslogging, slik at hver tjeneste kunne abonnere på og behandle relevante hendelser.
+
+Intervjuer: Veldig interessant. Kan du gi et eksempel på en utfordring du møtte under dette prosjektet og hvordan du løste den?
+
+Kandidat: En stor utfordring var å sikre datakonsistens på tvers av tjenestene. Vi løste dette ved å implementere en "event sourcing"-tilnærming, hvor alle endringer ble logget som hendelser. Disse hendelsene ble deretter prosessert av de relevante tjenestene for å oppdatere sine egne datalagre. Dette hjalp oss med å sikre at alle tjenestene alltid hadde den nyeste informasjonen.
+
+Intervjuer: Det høres ut som en solid løsning. Hvordan vil du beskrive din erfaring med teamarbeid og kommunikasjon i en utviklerrolle?
+
+Kandidat: Jeg verdsetter teamarbeid høyt og mener god kommunikasjon er nøkkelen til suksess i ethvert prosjekt. Jeg har erfaring med å jobbe i både små og store team, og jeg er komfortabel med å bruke verktøy som Slack, Jira og Confluence for å holde alle informert og på samme side. Jeg prøver alltid å være åpen og transparent i kommunikasjonen min, og jeg oppfordrer teammedlemmene til å dele sine tanker og bekymringer.
+
+Intervjuer: Det er godt å høre. Har du noen spørsmål til oss om stillingen eller selskapet?
+
+Kandidat: Ja, jeg lurer på hvilke teknologier dere hovedsakelig bruker, og

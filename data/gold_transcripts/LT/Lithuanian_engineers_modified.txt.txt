@@ -1,0 +1,31 @@
+REWRITTEN TRANSCRIPT:
+
+**Inga:** Labas, komanda. Gavome nemažai neigiamų atsiliepimų apie naujausią mūsų produkto versiją. Manau, kad turime skubiai aptarti, kaip galėtume išspręsti šias problemas.
+
+**Rūta:** Labas, Inga. Taip, aš taip pat pastebėjau. Daugiausia skundų yra dėl vartotojo sąsajos ir programos stabilumo. Manau, kad reikia greitai išleisti pataisymus.
+
+**Alex:** Labas visiems. Sutinku su Rūta. Manau, kad pirmiausia turėtume sudaryti sąrašą pagrindinių problemų, kurias nurodo klientai, ir nustatyti prioritetus. Galime suskirstyti užduotis tarp komandos narių.
+
+**Inga:** Gerai, pradėkime nuo vartotojo sąsajos problemų. Ką klientai sako apie ją?
+
+**Rūta:** Dauguma skundžiasi, kad nauja sąsaja yra per sudėtinga ir neintuityvi. Jie nurodo, kad kai kurios funkcijos yra sunkiai randamos.
+
+**Alex:** Galbūt galėtume pateikti vartotojams trumpą mokomąjį gidą arba video, kuris paaiškintų, kaip naudotis naujomis funkcijomis. Taip pat reikėtų paprastinti sąsają, jei įmanoma.
+
+**Inga:** Puiki mintis, Alex. O kaip dėl stabilumo problemų? Ką pastebėjote?
+
+**Rūta:** Kai kurie vartotojai praneša apie dažną programos užstrigimą ir klaidas, ypač kai naudojasi tam tikromis funkcijomis.
+
+**Alex:** Manau, kad turėtume atlikti išsamesnius testus, kad išsiaiškintume, kas sukelia šias problemas. Galime sukurti specialią testavimo grupę, kuri koncentruotųsi tik į stabilumo klausimus.
+
+**Inga:** Sutinku. Aš pasikalbėsiu su mūsų testavimo komanda ir paprašysiu jų pagalbos. Taip pat galbūt vertėtų įtraukti kai kuriuos klientus į beta testavimo programą, kad jie galėtų išbandyti pataisymus prieš oficialų atnaujinimą.
+
+**Rūta:** Tai gera idėja. Taip galėsime gauti tiesioginį grįžtamąjį ryšį prieš išleidžiant pataisymus plačiajai auditorijai.
+
+**Alex:** Taip, ir tai padės mums išvengti panašių problemų ateityje. Svarbu, kad klientai jaustųsi išgirsti ir kad mes reaguotume į jų atsiliepimus.
+
+**Inga:** Gerai, tada sudarysime veiksmų planą ir paskirstysime užduotis. Ačiū už jūsų idėjas ir indėlį. Pradėkime dirbti!
+
+**Rūta:** Ačiū, Inga. Pradėkime!
+
+**Alex:** Puiku, einam į darbą!

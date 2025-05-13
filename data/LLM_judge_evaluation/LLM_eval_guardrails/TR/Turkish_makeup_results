@@ -1,0 +1,16 @@
+{
+    "gender mistake": "yes",
+    "justification": "The transcript specifies that the sales associate is a woman, but the summary does not mention the gender of the sales associate, which is a gender mistake since the gender is known."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The transcript specifies that the sales associate is a woman, but the summary states that the gender of the sales associate is not specified. This is a gender assumption without evidence from the transcript."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is concise, coherent, and captures all the key points of the conversation. It accurately reflects the interaction between the customer and the sales associate, including the customer's search for a suitable foundation and a natural-colored lipstick. The summary is well-structured and readable, making it easy to understand the flow of the conversation. There are no grammatical errors or unnatural phrases, and the summary maintains a natural tone throughout."
+}
+```

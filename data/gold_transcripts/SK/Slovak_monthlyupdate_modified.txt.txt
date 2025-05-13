@@ -1,0 +1,27 @@
+Senior Researcher: Dobrý deň, rád/-a by som vám poskytol/-a mesačnú aktualizáciu našich výskumných aktivít.
+
+Manager: Dobrý deň, to znie skvele. Ako sa nám darilo tento mesiac?
+
+Senior Researcher: Tento mesiac sme dosiahli niekoľko významných míľnikov. Dokončili sme fázu testovania pre náš nový produkt a výsledky sú veľmi sľubné.
+
+Manager: To sú vynikajúce správy. Ako to vyzerá s harmonogramom? Sme na dobrej ceste?
+
+Senior Researcher: Áno, sme. V skutočnosti sme mierne pred plánom. Tím pracoval veľmi efektívne a podarilo sa nám zredukovať niektoré časové rezervy bez straty kvality.
+
+Manager: To je výborné. Ako je na tom rozpočet? Sú nejaké odchýlky?
+
+Senior Researcher: Rozpočet je zatiaľ v poriadku. Mali sme niekoľko neplánovaných výdavkov na dodatočné materiály, ale podarilo sa nám to kompenzovať úsporami v iných oblastiach.
+
+Manager: To znie dobre. Je ešte niečo, čo by som mal/-a vedieť?
+
+Senior Researcher: Áno, chcel/-a by som spomenúť, že sme identifikovali novú príležitosť na spoluprácu s jedným z našich partnerov. Mohlo by to viesť k ďalšiemu financovaniu a rozšíreniu nášho výskumu.
+
+Manager: To je veľmi zaujímavé. Pošlite mi, prosím, viac informácií o tejto príležitosti. Rád/-a by som sa na to pozrel/-a bližšie.
+
+Senior Researcher: Určite, do konca dňa vám pošlem podrobnosti. Ďakujem za váš čas.
+
+Manager: Ďakujem vám za aktualizáciu. Pokračujte v skvelej práci.
+
+Senior Researcher: Ďakujem, budem. Prajem pekný deň.
+
+Manager: Aj vám.

@@ -1,0 +1,45 @@
+Verkaufspersonal: Guten Tag! Wie kann ich Ihnen heute helfen?
+
+Kunde: Guten Tag! Ich suche ein neues Make-up, bin mir aber nicht sicher, welches Produkt am besten zu mir passt.
+
+Verkaufspersonal: Natürlich, ich helfe Ihnen gerne. Haben Sie eine bestimmte Marke im Kopf oder eine bestimmte Art von Make-up, die Sie suchen?
+
+Kunde: Ich habe keine bestimmte Marke im Sinn, aber ich brauche eine gute Foundation und vielleicht noch einen passenden Lippenstift.
+
+Verkaufspersonal: Alles klar. Haben Sie eine bestimmte Hauttyp oder irgendwelche Präferenzen, was die Deckkraft oder das Finish angeht?
+
+Kunde: Ich habe eher trockene Haut, also wäre etwas Feuchtigkeitsspendendes ideal. Und ich bevorzuge ein natürliches Finish.
+
+Verkaufspersonal: Das ist gut zu wissen. Ich kann Ihnen die neue Foundation von XYZ empfehlen. Sie ist sehr feuchtigkeitsspendend und hat ein natürliches Finish. Möchten Sie sie ausprobieren?
+
+Kunde: Ja, das klingt gut. Können Sie mir auch helfen, den richtigen Farbton zu finden?
+
+Verkaufspersonal: Natürlich! Lassen Sie mich einen Moment, ich hole schnell ein paar Tester. [geht kurz weg und kommt mit mehreren Fläschchen zurück] Könnten Sie vielleicht Ihr Handgelenk hinhalten? Ich werde ein paar Farbtöne auftragen, um den besten für Sie zu finden.
+
+Kunde: Klar, hier bitte.
+
+Verkaufspersonal: [trägt verschiedene Farbtöne auf] Ich denke, dieser hier passt am besten zu Ihrer Haut. Was meinen Sie?
+
+Kunde: Ja, der sieht wirklich gut aus. Ich nehme ihn.
+
+Verkaufspersonal: Perfekt! Möchten Sie noch einen passenden Lippenstift dazu?
+
+Kunde: Ja, das wäre toll. Haben Sie eine Empfehlung?
+
+Verkaufspersonal: Ich denke, ein dezenter Rosaton würde sehr gut zu Ihnen passen. Wie wäre es mit dieser Farbe hier?
+
+Kunde: Die gefällt mir sehr. Ich nehme sie auch.
+
+Verkaufspersonal: Wunderbar! Darf es sonst noch etwas sein?
+
+Kunde: Nein, das wäre alles. Vielen Dank für Ihre Hilfe!
+
+Verkaufspersonal: Sehr gerne! Ich werde das für Sie einpacken. [packt die Produkte ein] Das macht dann insgesamt 89 Franken.
+
+Kunde: Hier, bitte. [übergibt das Geld]
+
+Verkaufspersonal: Vielen Dank! Hier ist Ihr Einkauf und eine kleine Probe von unserer neuen Feuchtigkeitscreme. Einen schönen Tag noch!
+
+Kunde: Danke, Ihnen auch! Auf Wiedersehen.
+
+Verkaufspersonal: Auf Wiedersehen!

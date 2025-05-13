@@ -1,0 +1,31 @@
+Interviewer: Hej, velkommen til samtalen. Mit navn er Anders, og jeg vil være din interviewer i dag. Kan du starte med at præsentere dig selv og fortælle lidt om din baggrund?
+
+Kandidat: Hej Anders, tak fordi du ville mødes med mig. Jeg hedder Alex, og jeg har en kandidatgrad i datalogi fra Københavns Universitet. Jeg har arbejdet som softwareudvikler i tre år, primært med fokus på webudvikling og backend-systemer.
+
+Anders: Det lyder spændende, Alex. Kan du fortælle mig om et projekt, du har arbejdet på for nylig, som du er særligt stolt af?
+
+Alex: Selvfølgelig. Jeg arbejdede for nylig på en e-handelsplatform, hvor vi implementerede en ny betalingsgateway. Projektet involverede integration med flere tredjeparts-API'er og krævede, at vi sikrede høj sikkerhed og ydeevne. Jeg var ansvarlig for backend-udviklingen og arbejdede tæt sammen med frontend-teamet for at sikre en problemfri brugeroplevelse.
+
+Anders: Det lyder som en kompleks opgave. Hvordan håndterede du udfordringerne undervejs?
+
+Alex: Der var flere udfordringer, især med at sikre datasikkerhed og håndtere API-kald effektivt. Jeg brugte en række teknikker som caching og asynkron behandling for at optimere ydeevnen. Derudover havde vi regelmæssige kodegennemgange og brugte CI/CD pipelines for at sikre, at koden var af høj kvalitet og let at vedligeholde.
+
+Anders: Det er godt at høre. Hvordan vil du beskrive din erfaring med teamarbejde og kommunikation?
+
+Alex: Jeg værdsætter virkelig teamarbejde og har altid forsøgt at være en god teamspiller. Jeg tror på, at åben kommunikation og samarbejde er nøglen til succes i ethvert projekt. Jeg deltager aktivt i stand-up møder, deler mine fremskridt og er altid klar til at hjælpe mine kolleger med deres udfordringer.
+
+Anders: Det er vigtigt. Kan du også fortælle mig om din erfaring med nogle af de teknologier, vi bruger her, som Java, Spring Boot og Docker?
+
+Alex: Ja, jeg har arbejdet meget med Java og Spring Boot i mine tidligere projekter. Jeg har brugt Spring Boot til at bygge mikroservices og RESTful API'er. Med hensyn til Docker har jeg erfaring med at containerisere applikationer og opsætte Docker Compose til at håndtere flere containere i udviklings- og produktionsmiljøer.
+
+Anders: Det lyder som et godt match for vores teknologistak. Har du nogen spørgsmål til os eller til rollen?
+
+Alex: Ja, jeg vil gerne vide mere om teamets struktur og hvilke projekter I arbejder på i øjeblikket.
+
+Anders: Selvfølgelig. Vi har et tværfunktionelt team, der arbejder på flere spændende projekter, herunder en ny platform til dataanalyse. Vi fokuserer meget på innovation og bruger de nyeste teknologier. Jeg tror, du vil finde det meget givende at arbejde her.
+
+Alex: Det lyder rigtig spændende. Tak for informationen, Anders.
+
+Anders: Tak, Alex. Det var en fornøjelse at tale med dig. Vi vender tilbage til dig snart med næste skridt i processen.
+
+Alex: Tak, jeg ser frem til at høre fra jer.

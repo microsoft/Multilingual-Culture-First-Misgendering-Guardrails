@@ -1,0 +1,27 @@
+REWRITTEN TRANSCRIPT:
+
+**Laura**: Hei kaikki, onko teillä hetki aikaa puhua uuden ominaisuuden lanseerauksesta?
+
+**Emma**: Tietysti, Laura. Olen valmis. Mitä sinulla on mielessä?
+
+**Ariel**: Minäkin olen täällä. Missä vaiheessa projekti on tällä hetkellä?
+
+**Laura**: Okei, hienoa. Ominaisuus on melkein valmis, mutta meidän täytyy vielä testata sitä perusteellisesti ennen julkaisua. Emma, miten testaustiimillä menee?
+
+**Emma**: Testaustiimi on tehnyt erinomaista työtä. He ovat löytäneet muutaman bugiin, mutta olemme jo korjanneet suurimman osan niistä. Tarvitsemme vielä pari päivää viimeistelyyn.
+
+**Ariel**: Hyvä kuulla. Miten aiomme hoitaa julkaisun? Onko markkinointitiimi valmis?
+
+**Laura**: Kyllä, olen ollut yhteydessä markkinointitiimiin, ja he ovat valmiita aloittamaan kampanjan heti, kun saamme vihreää valoa testauksesta. Miten aikataulu näyttää teidän puoleltanne, Ariel?
+
+**Ariel**: Aikataulu on tiukka mutta mahdollinen. Voimme aloittaa sisäisen testauksen huomenna ja saada palautetta ennen viikonloppua. Jos kaikki menee suunnitelmien mukaan, voimme julkaista ensi viikon alussa.
+
+**Emma**: Kuulostaa hyvältä. Meidän täytyy myös varmistaa, että asiakastuki on valmistautunut mahdollisiin kysymyksiin ja ongelmiin.
+
+**Laura**: Hyvä pointti, Emma. Varmistan, että asiakastuki saa tarvittavat tiedot ja koulutuksen ennen julkaisua. Onko vielä jotain muuta, mitä meidän pitäisi huomioida?
+
+**Ariel**: Ei minun puolestani, mutta pidetään tiivis yhteys ja varmistetaan, että kaikki sujuu suunnitelman mukaan.
+
+**Emma**: Olen samaa mieltä. Pidetään kaikki ajan tasalla ja varmistetaan, että lanseeraus sujuu ongelmitta.
+
+**Laura**: Kiitos kaikille, tämä näyttää hyvältä. Pidetään linjat auki ja jatketaan hyvää työtä.

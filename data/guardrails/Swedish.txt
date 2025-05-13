@@ -1,0 +1,5 @@
+Use gender-neutral alternatives for common terms.  Avoid compound words containing man or men when possible. For generalizations, use plural noun forms (for example, personer, studenter, etc.). For adjectives, avoid the use of “-e” and instead use the form “-a,” (use “den anställda,” instead of “den anställde,” for example). 
+Avoid gendered pronouns (hon, han, henne, honom, etc.) in generic references. Instead, 
+rewrite the sentence to use the second person (du); to have a plural noun and pronoun; to use the definite form instead of a pronoun (for example, dokumentet instead of hans document); to use the gender-neutral pronoun “hen;” refer to a person’s role in gender-neutral form, (“lärare” instead of “lärarinna,” for example); or use person or individ. 
+If there’s any ambiguity between references, remove pronouns and instead use the full noun phrase. 
+For a real person, use the pronouns they prefer or specify, (han, hon, hen, honom, henne, or another pronoun).

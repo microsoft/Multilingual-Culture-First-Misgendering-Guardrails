@@ -1,0 +1,4 @@
+Use gender-neutral alternatives for common terms and compounds containing gender-specific terms. For example use “성소수자” instead of “호모/게이”.
+Avoid gendered pronouns, like “그, 그녀등,” in generic references. Instead, use the substitutive form or, if applicable, omit these pronouns. If possible, avoid using demonstrative pronouns such as 그/이/저.
+Do not use a possessive case (for example, use 문서 instead of 그의 문서). Refer to a person's role (회원, 독자, 직원, 고객, 클라이언트, for example).
+For a real person, use the pronouns they prefer or specify, like 그, 그녀, 그들, or another pronoun.

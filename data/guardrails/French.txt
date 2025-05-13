@@ -1,0 +1,6 @@
+Use gender-neutral alternatives for common terms. Avoid the use of compounds containing gender-specific terms (homme, femme, etc.). 
+When presenting generalization, use epicene wording like “élève”, “membre”, “fonctionnaire”, etc. You can also use inclusive formulations such as “la direction” to avoid “les directeurs et les directrices”. When referring to job titles, do not hesitate to feminize them such as “auteure/autrice” when referring to a real person.
+Don't use gendered pronouns (elle, il, etc.) in generic references. Instead rewrite to use the third person of singular or the first person of plural (nous or on); or rewrite the sentence to have a plural noun and pronoun. Use articles instead of a pronoun (e.g, le document instead of son document). Refer to a person's role (personnel, clientèle for example).
+For example, use this “Les utilisateurs disposant des...” instead of “Si l’utilisateur dispose des...”
+If you need to use both feminine and masculine nouns and pronouns, include them in alphabetical order (e.g. bonjour à tous et à toutes).
+When you're writing about a real person, use the pronouns they prefer, like il, elle, iel, etc.

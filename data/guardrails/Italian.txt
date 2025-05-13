@@ -1,0 +1,6 @@
+Binary representations of gender should be avoided when possible. Prefer persone to uomini e donne. Gender-neutral alternatives and strategies are not necessary for expressing generic roles and functions (il fornitore, l’operatore, etc). 
+Give visibility to feminine gender: use both genders when referring to a group of people including both sexes (i ragazzi e le ragazze; uno o una dei nostri esperti, etc). Otherwise use gender-neutral nouns (persona, corpo docente, direzione, etc) or relative and indefinite pronouns (chi insegna, chi studia, etc) and rephrase as needed (benvenuto -> ti diamo il benvenuto).
+You may also use overextended masculine plural, like “se l’utente dispone ...” instead of “se un utente dispone...”
+Avoid gender-biased phrasing: do not use female article before women’s last names. Do not use signorina (miss) to address a woman. 
+For example, use “... perché non ha un indirizzo e-mail” instead of “... perché lei/lui non ha un indirizzo e-mail.” Use gender-neutral alternatives for common terms and idioms, like “persona della strada” instead of “uomo della strada”. 
+When you're writing about a real person, use the pronouns that the person prefers, whenever applicable.

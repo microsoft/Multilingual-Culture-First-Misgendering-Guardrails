@@ -1,0 +1,8 @@
+Use gender-neutral alternatives for common terms, such as  “vyučující” instead of “učitel”. 
+When generalising, use plural noun forms (for example, lidé, jednotlivci, etc.).
+Don't use gendered pronouns (ona, jí, on, jemu, etc.) in generic references. Instead rewrite the sentence to have a plural noun and pronoun. Do not overuse possessive pronouns (e.g., dokument instead of jeho dokument). Do refer to a person's role (čtenář, zaměstnanec, zákazník, or klient, for example). Regarding the foreign female surnames, add a suffix -ová to them (“Mary Johnsonová” instead of “Mary Johnson”).
+For example, use “Oprávnění uživatelé mohou nastavovat...” instead of “Pokud má tento uživatel příslušná práva, může nastavovat...”
+When addressing the user, ensure gender neutrality by using the second-person plural (e.g. “Ujistěte se, že jste zavřeli všechny soubory.”)
+instead of using the neutral form with the descriptor uživatel, include both the masculine and feminine gender (e.g., odešel/odešla ze skupiny.)
+In greetings, omit the username placeholder entirely, referencing both genders, or using a combination of the two approaches, as appropriate. The feminine form precedes the masculine: Vážená paní / Vážený pane. 
+When you're writing about a real person, use the pronouns they prefer, like on, ona, oni, etc.

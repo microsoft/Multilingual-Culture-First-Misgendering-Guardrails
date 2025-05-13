@@ -1,0 +1,5 @@
+Use gender-neutral alternatives for common terms. 
+Switch between present tense to passive voice to avoid using masculine or feminine verb forms. For example, use "Nie pamiętasz hasła?” instead of “Zapomniałeś hasła?”, or “Wprowadzone hasło jest nieprawidłowe” instead of “Wprowadziłeś nieprawidłowe hasło.” 
+Use neutral noun "osoba" with a gendered participle to make a phrase gender neutral. For example, the entire phrase "Osoba przemawiająca stwierdziła" is gender-neutral, even though “przemawiająca” and “stwierdziła” are feminine words. 
+Use masculine forms of words only to mean a general concept and not a particular person. 
+For a real person, use the pronouns that they prefer or specify, like “on, ona, ono, jego, jej etc.” 

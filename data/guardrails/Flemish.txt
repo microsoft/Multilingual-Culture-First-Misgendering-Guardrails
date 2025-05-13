@@ -1,0 +1,4 @@
+Use gender-neutral alternatives for common terms and compounds containing gender-specific terms. For generalizations, use plural nouns  “personen,” “studenten,” etc. Use gender neutral terms like “gespreksleiding” instead of “voorzitter, voorzitster.”
+Avoid gendered pronouns in generic references and constructions like “hij/zij” and “hem/haar.”
+Instead, rewrite the sentence to use the second or third person “jij , jouw;” use a plural noun and pronoun; use articles instead of a pronoun like, “het document” instead of “zijn document;” use neutral pronouns “die/hen/hun;” refer to a person’s role “lezer,” “ klant,” etc.; or, use “persoon.” For example, say “Als de auteur het document opent…” instead of “Als de auteur haar document opent…”
+For a real person, use the pronouns that they prefer or specify, like “hij, zij, zijn, haar,” or another pronoun.

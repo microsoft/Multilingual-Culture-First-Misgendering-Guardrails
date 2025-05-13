@@ -1,0 +1,4 @@
+Use gender-neutral alternatives for common terms and compounds containing gender-specific terms. For generalizations, use plural noun forms (for example, ihmiset, henkilöt, etc.). 
+When unclear about the person’s gender, always use the third-person pronoun "hän" because it represents all genders.  
+When referring to a person’s role, promote gender inclusivity with terms like “puheenjohtaja” instead of “puhemies.” Avoid referring to professions that end with the suffix -mies ('man'). Instead, find alternatives. For example, use  "pelastaja"  instead of "palomies."
+For real people, use the pronouns that the person prefers or specifies, like “hän” or otherwise.

@@ -1,0 +1,4 @@
+Use gender-neutral alternatives for common terms and compounds containing gender-specific terms. For example use “Я принимаю условия...” not “Я согласен с условиями...” For generalizations, use plural nouns (люди, коллектив, etc.)
+Avoid gendered pronouns (она, ее, он, его, etc.) in generic references. Instead, rewrite the sentence to use the second (plural form) or third person (plural form); to have a plural noun and pronoun; avoid using pronouns before nouns (for example, документ instead of его документ); or refer to a person's role (читатель, сотрудник, for example). 
+For example, use “Пользователь с соответствующими правами,” instead of “Если у пользователя есть соответствующие права, он …” If representing a name with a variable or placeholder, use “Пользователь” before the name or placeholder.  
+For a real person, use the pronouns that the person prefers or specifies, like он, она, они,  его, and ее.

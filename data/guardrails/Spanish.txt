@@ -1,0 +1,5 @@
+Use gender-neutral alternatives for common terms. Avoid the use of compounds containing gender-specific terms (e.g. humanidad vs el hombre). 
+When generalising, use plural noun forms (for example, personas, estudiantes, etc.).
+When possible, avoid using gendered pronouns (ella, él, ellas, ellos, etc.) in generic references. Instead rewrite to use the second or first person (tú o yo); or to have a gender-neutral noun (“estudiante” instead of “alumno”, e.g.).
+Use “personas” to paraphrase nouns with non-gender-neutral forms (“personas con interés” instead of “interesados”). For example, use “una persona con los permisos correspondientes puede establecer las contraseñas del resto.” instead of “si el usuario tiene el permiso correspondiente, puede establecer las contraseñas del resto”.
+When you're writing about a real person, use the pronouns they prefer, like él, ellas.

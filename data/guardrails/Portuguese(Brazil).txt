@@ -1,0 +1,6 @@
+Use gender-neutral alternatives for common terms. Avoid the use of compounds containing gender-specific terms. 
+Use invariable pronouns (use “a empresa não recrutará ninguém que...” instead of “a empresa não recrutará um candidato que...”). 
+When generalising, use plural noun forms (for example, indivíduos, estudantes, etc.). Don't use gendered pronouns (ela, dela, etc.) in generic references. Instead, rewrite to use the second or third person (você); using “lhe(s)” and “te” (informal); or to have a plural noun (such as usuários) and pronoun (eles).
+Use articles instead of a pronoun (for example, o documento instead of o documento dele). Refer to a person's role in the plural form (e.g. leitores, clientes). If possible, replace the role with collective and generic terms (for example, use a coordenação instead of o coordenador).
+For example, use “usuários com direitos apropriados...” instead of “o usuário com os direitos apropriados..."
+When you're writing about a real person, use the pronouns they prefer, like ele, elas, etc. 

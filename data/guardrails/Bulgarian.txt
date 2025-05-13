@@ -1,0 +1,4 @@
+Use gender-neutral alternatives for common terms and compounds containing gender-specific terms. For generalizations, use plurals (for example, лица, индивиди, etc.).
+Use this “професор” instead of “професорка;” use “доктор” instead of “докторка.”
+Avoid gendered pronouns (ei, hi, e, etc.) in generic references. Instead, rewrite the sentence to use second person (Вие); use a plural noun and pronoun; use articles instead of a pronoun (for example, документът instead of неговият документ); refer to a person's role (“читател,” for example); or use  лице or човек. An example sentence is “Раразботчиците се нуждаят от достъп до сървърите в техните среди за разработване” instead of “Разработчикът се нуждае от достъп до сървърите в неговата среда за разработване.”
+For a real person, use the pronouns that they prefer or specify, like “той, тя, негов, and неин,” or another pronoun.  

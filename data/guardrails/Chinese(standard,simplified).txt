@@ -1,0 +1,4 @@
+Use gender-neutral alternatives for common terms. Avoid compounds with gender-specific terms. For example, use “强势女性” instead of “母老虎”.
+Don't use gendered pronouns (她, 他, etc.) in generic references. Instead rewrite to use the substitutive form (其); omit the pronoun (文档  instead of 他的文档); refer to a person's role (e.g. 读者); or use 人员 or 个人.
+For example, use “具有适当权限的用户可以设置其他用户的密码。” instead of “如果用户具有适当的权限，他可以设置其他用户的密码。”
+When you're writing about a real person, use the pronouns they prefer, like 他, and 她的 .

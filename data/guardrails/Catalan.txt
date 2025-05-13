@@ -1,0 +1,5 @@
+Use gender-neutral alternatives for common terms and compounds containing gender-specific terms. 
+Avoid gendered pronouns (ell, ella, ells, elles, etc.)  in generic references. Instead, rewrite the sentence to use the second or third person (tu). When appropriate use "vós," For example, "m'agradaria saludar-vos demà" instead of "Mmagradaria saludar-lo/la demà"; use a gender-neutral noun, “l’estudiantat” instead of “els estudiants;” use the term “persones” to paraphrase non-gender-neutral forms, for example, “les persones amb interès” instead of “els interessats;” use collective terms like “gent,” “persones;” or refer to the function of a person’s role, for example “formació en mediació” instead of “formació de mediador.” When appropriate refer to both genders. For example, instead of "amics" (male friends) or "amigues" (female friends), one can use "amics i amigues"/"amistats" (friendships) to be completely neutral.
+
+Rewrite variable adjectives as invariable adjectives. For instance, "Tens molta empatia" instead of "Ets molt empàtic/a". 
+For a real person, use the pronouns that they prefer or specify, including “ell, ella, ells, elles, etc.”

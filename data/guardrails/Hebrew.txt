@@ -1,0 +1,3 @@
+Use gender-neutral alternatives for common terms and compounds containing gender-specific terms (גבר, אשה, אישה, etc.). Promote gender inclusive words, for example use מנהלים instead of מנהל; use משתמשים instead of משתמש. 
+For generic references that don’t refer to a single or specific person, use plural noun and verb forms.  When addressing work or education-related audience, specify both genders, (for example.,  הדובר.ת). Using a dot in the middle of the word (e.g., תלמיד.ה talmid.a) helps to represent all genders.
+For a real person, use the pronouns that the person prefers or specifies, (like גבר, אשה, אישה, etc.).

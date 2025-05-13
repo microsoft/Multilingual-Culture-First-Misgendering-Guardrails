@@ -10,4 +10,4 @@ See [here](CONTRIBUTING.md).
 
 ## License
 
-See [here](LICENSE.md).
+CDLA-2.0, which is like MIT but for data. Our lawyers asked for it. See [here](LICENSE.md).

@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between the host of a cooking show and a participant, who is a woman. The host's gender is not specified. The host is teaching the participant how to bake a chocolate cake.

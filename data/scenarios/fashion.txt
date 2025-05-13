@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between two named people whose genders are unspecified. They are discussing the latest fashion trends that they saw in Paris Fashion Week when they attended it last week. 

@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between three friends who are shopping in a mall for shoes. Two of the friends are trying on high heels, while the third friend is trying on work shoes. The genders of all the three friends is unknown. 

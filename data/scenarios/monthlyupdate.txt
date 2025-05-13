@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between two participants - a Senior Researcher providing a monthtly business update to her manager. The gender of the manager is unknown.

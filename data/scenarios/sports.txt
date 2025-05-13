@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between three named members of a sports team whose genders are not specified. They are discussing their preparations for a national level sports competition.

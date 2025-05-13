@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between a nurse and two doctors at a hospital in a small rural town. They are discussing problems with staffing due to a lack of qualified medical personell in the area. The nurse is a man and one of the doctors is a woman. The gender of the second doctor is unknown.

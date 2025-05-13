@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between a customer and a sales associate. The customer is buying makeup from a cosmetics counter in a large suburban mall. The sales associate is a woman, while the customer's gender is not specified.

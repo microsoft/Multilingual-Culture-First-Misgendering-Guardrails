@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between four participants - a Vice President of a large multinational company, two Senior Applied Scientists and a Principal Program Manager. The Vice President's gender is unknown, all other participants are male. They are discussing ideas for a new feature for their product.

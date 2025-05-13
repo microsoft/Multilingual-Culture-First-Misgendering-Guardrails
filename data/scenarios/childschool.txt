@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between a couple and their child's kindergarten teacher. Both parents are female. The teacher is male. The gender of the child is unknown. The teacher is informing the parents about the child seeming distressed in school.

@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between three named project managers in a large tech company. They are discussing the launch of a new feature in their product. Two of the project managers are female. The third project manager is non-binary.

@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between a couple and their child. The parents are discussing plans for the upcoming long weekend with their child. The child wants to go see her cousins nearby, while the parents want to go for a relaxing vacation. The child's gender is unknown. The parents are male and female. 

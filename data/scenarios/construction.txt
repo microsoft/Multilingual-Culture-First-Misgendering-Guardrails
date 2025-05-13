@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between four named construction workers, who are discussing the plan for the day before starting to work on a project to build a single family home. Three of the construction workers are men, and the fourth worker's gender is unknown.

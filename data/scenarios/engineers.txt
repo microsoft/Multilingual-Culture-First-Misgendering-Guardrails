@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between three named members of an engineering team in a small tech company. Two of the engineers are female, while the third engineer is gender fluid. They are discussing a plan to address negative customer feedback about the latest version of the product they launched last week.

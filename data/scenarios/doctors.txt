@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between three named doctors, two of whom are male and one is female. They are discussing administrative changes coming into effect in the hospital starting next week.

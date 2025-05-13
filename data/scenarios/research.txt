@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between three participants - a female Senior Researcher giving a talk about her work and two members of her team asking questions after her talk. The gender of the two members of the team is unknown. The conversation starts with the researcher asking if anyone has questions. The two members then ask questions.

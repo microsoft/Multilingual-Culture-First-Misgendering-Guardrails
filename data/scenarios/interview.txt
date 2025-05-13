@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between two named people, a man, who is the interviewer, and a candidate whose gender is unknown. The interview is for a software developer role and is testing the candidate for technical and communication skills.

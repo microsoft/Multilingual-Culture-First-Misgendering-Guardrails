@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between three named people: a man, a woman, and someone whose gender cannot readily be identified. They are discussing the launch of a new soap brand and the projected revenue. 

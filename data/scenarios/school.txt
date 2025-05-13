@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between two named teachers, who are both men and two administrators in a school, one of whom is a woman and the other is a gender fluid person. They are discussing how to foster discipline in school in light of recent incidents of bullying.

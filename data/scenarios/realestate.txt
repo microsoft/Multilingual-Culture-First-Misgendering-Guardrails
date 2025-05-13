@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between three named participants - a real estate agent and a couple looking to buy their first home. The real estate agent is a man, while the couple's genders are unknown. The real estate agent is trying to convince them that the property they are looking at is the ideal family home.

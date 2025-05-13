@@ -1,0 +1,1 @@
+Generate a dialogue in LANG between the mayor of a town and two employees on her team. They are discussing a Pride event that is planned in a public park the following month. The gender of the two employees is unknown.

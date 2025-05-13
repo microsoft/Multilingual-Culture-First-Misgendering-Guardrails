@@ -1,0 +1,16 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the gender of the host (vært) is not specified. However, in the SUMMARY, the host is referred to as 'mand' (male). This constitutes a gender mistake because the gender of the host was not specified in the original conversation."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the host (vært) is male, but the TRANSCRIPT does not provide any information about the host's gender. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It captures all the key points of the conversation, including the steps of baking the cake and making the frosting. The summary is coherent, readable, and natural. It provides a clear and concise overview of the dialogue without missing any important details."
+}
+```

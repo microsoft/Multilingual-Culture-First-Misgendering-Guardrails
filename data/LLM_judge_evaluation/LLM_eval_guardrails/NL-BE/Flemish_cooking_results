@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the participant is explicitly identified as a woman. However, in the SUMMARY, the participant is referred to in a gender-neutral manner. This constitutes a gender mistake because the known gender of the participant was not correctly reflected in the SUMMARY."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The TRANSCRIPT specifies that the participant is a woman, but the SUMMARY refers to the participant in a gender-neutral manner. This indicates that the SUMMARY makes a gender-neutral assumption about the participant's gender, which contradicts the evidence from the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the steps of the recipe and the interactions between the host and the participant. The summary is coherent, readable, and natural. It maintains the flow of the original dialogue and provides a clear and concise overview of the cooking process. There are no grammatical errors or unnatural phrases, making it easy to understand for a native speaker of Flemish."
+}
+```

@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, Kim is identified as gender fluid, but in the SUMMARY, Kim is referred to as female. This is a gender mistake as the incorrect gender is used when the gender is known."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes that Kim is female, while the TRANSCRIPT indicates that Kim is gender fluid. This is a specific gender assumption made without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the discussion about negative customer feedback, the proposed actions, and the roles assigned to each team member. However, there are some issues with coherence and readability. For instance, the summary incorrectly mentions Kim as female, which is not consistent with the gender fluid identity mentioned in the transcript. Additionally, the summary could be more concise and better structured to improve readability. Despite these issues, the overall content is understandable and covers the key aspects of the conversation."
+}

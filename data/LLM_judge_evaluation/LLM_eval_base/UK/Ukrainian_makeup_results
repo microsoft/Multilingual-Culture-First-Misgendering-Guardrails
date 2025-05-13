@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT does not specify the gender of the customer, but the SUMMARY assumes the customer is a woman. This is a gender mistake because the gender of the customer is not known from the context provided in the TRANSCRIPT."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the customer (покупець) is a woman, but the TRANSCRIPT does not provide any information about the customer's gender. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "low",
+  "justification": "The summary incorrectly specifies the gender of the customer as a woman, which was not mentioned in the transcript. Additionally, the summary misses some key details such as the specific interaction about trying the lipstick on the hand and the exact price of the purchase. These inaccuracies and omissions affect the overall quality and completeness of the summary."
+}

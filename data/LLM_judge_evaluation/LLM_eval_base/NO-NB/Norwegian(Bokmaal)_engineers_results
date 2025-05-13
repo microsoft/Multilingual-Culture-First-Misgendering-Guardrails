@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that Sam is gender fluid, but the SUMMARY refers to Sam as 'mann' (male). This is a gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY explicitly identifies Sam as male ('mann') without any evidence from the TRANSCRIPT to support this gender assumption. The TRANSCRIPT does not provide any gender-specific information about Sam."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the identification of the participants, the nature of the customer feedback, the suspected causes of the issues, and the action plan decided by the team. The summary is coherent, readable, and natural in Norwegian (Bokmaal). It effectively conveys the essence of the discussion without omitting any critical details."
+}

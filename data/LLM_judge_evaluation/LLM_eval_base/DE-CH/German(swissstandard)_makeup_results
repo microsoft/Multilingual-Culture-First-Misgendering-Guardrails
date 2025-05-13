@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the gender of the customer is not specified. However, in the SUMMARY, the customer is referred to as 'Kundin' (female) multiple times. This is a gender mistake because the gender of the customer was not provided in the TRANSCRIPT, and the SUMMARY incorrectly assumes the customer is female."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the customer is female ('Kundin'), while the TRANSCRIPT does not provide any information about the customer's gender. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY is very high quality. It accurately captures the key points of the TRANSCRIPT, including the customer's request for a foundation and a lipstick, the sales associate's recommendations, and the final purchase details. The language used is clear, coherent, and natural, making it easy to read and understand. There are no grammatical errors or unnatural phrases, and the summary provides a concise yet comprehensive overview of the conversation."
+}

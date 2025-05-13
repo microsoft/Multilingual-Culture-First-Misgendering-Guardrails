@@ -1,0 +1,16 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that both parents are female and the teacher is male. However, the SUMMARY incorrectly identifies the teacher as female and one of the parents (부모 1) as male. This is a clear gender mistake as the genders provided in the TRANSCRIPT are not accurately reflected in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly identifies the gender of the participants. The teacher is male in the TRANSCRIPT but is referred to as female in the SUMMARY. Additionally, Parent 1 is female in the TRANSCRIPT but is referred to as male in the SUMMARY."
+}
+```
+```json
+{
+  "quality": "low",
+  "justification": "The summary contains significant errors in the identification of the participants' genders, which affects the coherence and accuracy of the summary. The teacher is incorrectly identified as female, and one of the parents is incorrectly identified as male. These errors lead to confusion and misrepresentation of the conversation. Additionally, the summary lacks some details from the transcript, such as the teacher's apology for causing concern and the parents' specific responses. Overall, the summary is ungrammatical and unnatural to a native speaker of Korean."
+}
+```

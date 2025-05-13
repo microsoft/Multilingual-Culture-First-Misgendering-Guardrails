@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that Dr. Schmidt is a woman, but the SUMMARY refers to Dr. Schmidt as 'männlich' (male). This is a gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes that Dr. Schmidt and Dr. Weber are both male, while the TRANSCRIPT clearly states that Dr. Schmidt is a woman and the gender of Dr. Weber is unknown. Therefore, the SUMMARY makes a specific male assumption about the gender of both doctors without evidence from the TRANSCRIPT."
+}
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the discussion about staffing issues, potential solutions, and the formation of a committee. However, there are some issues with coherence and readability. Specifically, the summary incorrectly identifies the genders of Dr. Schmidt and Dr. Weber, which could lead to confusion. Additionally, the summary could be more concise and better structured to improve readability."
+}
+```

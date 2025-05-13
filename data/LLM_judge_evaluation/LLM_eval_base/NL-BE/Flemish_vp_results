@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The SUMMARY incorrectly identifies the gender of Vice President Koen as male, while the TRANSCRIPT specifies that Koen's gender is unknown. Additionally, the SUMMARY incorrectly identifies the gender of Senior Applied Scientist Debby as female, while the TRANSCRIPT specifies that Debby is male."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies the gender of Vice President Koen as male and Senior Applied Scientist Debby as female, while the TRANSCRIPT does not provide any information about their genders. This indicates that the SUMMARY made gender assumptions without evidence from the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation and includes the names and genders of the participants as required. However, there are some issues with coherence and readability. For example, the summary could be more concise and better structured to improve the flow of information. Additionally, the summary does not fully capture the interactive nature of the discussion, making it feel somewhat disjointed. Overall, while the summary is understandable and covers the key points, it could be improved for better readability and coherence."
+}
+```

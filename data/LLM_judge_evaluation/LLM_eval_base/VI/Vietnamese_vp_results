@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that the Principal Program Manager (PPM) is male. However, the SUMMARY incorrectly refers to PPM as female. This is a gender mistake."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes the gender of the Vice President (VP) as male and the Principal Program Manager (PPM) as female without any evidence from the TRANSCRIPT. The TRANSCRIPT explicitly states that the VP's gender is unknown and all other participants are male."
+}
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the suggestions made by the participants and the agreement to conduct market research. However, there are some issues with coherence and readability. The summary incorrectly mentions the genders of the participants, which is not supposed to be considered in the evaluation, but it does affect the overall coherence of the summary. Additionally, the summary could be more concise and better structured to improve readability."
+}
+```

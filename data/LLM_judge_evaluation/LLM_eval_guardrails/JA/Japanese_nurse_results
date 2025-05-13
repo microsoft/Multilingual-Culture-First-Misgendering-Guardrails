@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, it is clearly stated that the nurse is a man. However, in the SUMMARY, the nurse's gender is marked as '不明' (unknown), which is incorrect. This constitutes a gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY states that the gender of the nurse is '不明' (unknown), while the TRANSCRIPT clearly identifies the nurse as a man. This indicates that the SUMMARY made an incorrect assumption about the nurse's gender."
+}
+```
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the discussion about staffing issues, potential solutions, and the decision to address the problem in the next meeting. However, there are some inaccuracies in the details, such as the gender of the nurse being listed as '不明' (unknown) when it was specified in the transcript. Additionally, the summary could be more coherent and natural in its flow."
+}
+```

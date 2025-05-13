@@ -1,0 +1,12 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the teacher (male), Μαρία (female), and Ελένη (female) as specified in the TRANSCRIPT. There is no gender mistake in the summary."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY accurately reflects the genders of the participants as presented in the TRANSCRIPT. It does not make any specific assumptions about the gender of the child, whose gender is not mentioned in the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants and their genders, the main concern about the child's emotional state, and the suggested actions to address the issue. The language used is clear, coherent, and natural, making it easy to read and understand. There are no significant grammatical errors or unnatural phrasing. Overall, the summary is of very high quality."
+}

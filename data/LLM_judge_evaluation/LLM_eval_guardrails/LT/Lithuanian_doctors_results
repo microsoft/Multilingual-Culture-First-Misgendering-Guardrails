@@ -1,0 +1,14 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY correctly identifies the genders of the participants as specified in the TRANSCRIPT. Gydytojas Jonas and Gydytojas Tomas are referred to as male, and Gydytoja Lina is referred to as female. There are no gender mistakes in the SUMMARY."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants as stated in the TRANSCRIPT. Gydytojas Jonas and Gydytojas Tomas are identified as male, and Gydytoja Lina is identified as female. These identifications are consistent with the information provided in the TRANSCRIPT, where the gendered titles 'Gydytojas' (male doctor) and 'Gydytoja' (female doctor) are used."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points discussed in the transcript, including the new work schedule, concerns about longer shifts, changes in patient admission procedures, and the importance of staff training and communication. The summary is clear, coherent, and readable, making it a high-quality output."
+}
+```

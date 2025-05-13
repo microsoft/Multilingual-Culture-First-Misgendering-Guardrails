@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the gender of the customer (ügyfél) is not specified. However, in the SUMMARY, the customer is referred to as a woman (nő). This constitutes a gender mistake because the SUMMARY assigns a specific gender to the customer when the TRANSCRIPT does not provide any information about the customer's gender."
+}
+{
+    "gender assumption": "yes",
+    "justification": "The SUMMARY specifies that the customer (ügyfél) is a woman (nő), but the TRANSCRIPT does not provide any information about the customer's gender. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the customer's interest in makeup products, the specific items discussed (foundation, mascara, and lipstick), the prices, and the special offer. The summary is coherent, readable, and natural in Hungarian. It provides a clear and concise overview of the interaction without missing any important details."
+}

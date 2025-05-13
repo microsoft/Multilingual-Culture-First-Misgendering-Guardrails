@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The gender of the candidate is not specified in the TRANSCRIPT, but the SUMMARY refers to the candidate as 'muž' (male). This is a gender mistake because the gender of the candidate is unknown from the context provided in the TRANSCRIPT."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY explicitly refers to the candidate as 'muž' (male), while the TRANSCRIPT does not provide any information about the candidate's gender. Therefore, the SUMMARY makes a specific male assumption about the candidate's gender without evidence from the TRANSCRIPT."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points discussed in the transcript, including the candidate's experience with Java, the technologies used, the approach to solving performance issues, and the candidate's communication skills. The summary is well-structured, coherent, and readable, making it a high-quality output."
+}
+```

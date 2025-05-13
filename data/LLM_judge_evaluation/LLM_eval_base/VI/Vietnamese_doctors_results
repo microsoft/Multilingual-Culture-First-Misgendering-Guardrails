@@ -1,0 +1,12 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the three doctors as specified in the TRANSCRIPT. Bác sĩ Tú and Bác sĩ Hùng are referred to as male, and Bác sĩ Thảo is referred to as female, which matches the information provided in the TRANSCRIPT."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants as stated in the TRANSCRIPT. Bác sĩ Tú and Bác sĩ Hùng are identified as male, and Bác sĩ Thảo is identified as female. These gender identifications are consistent with the names and context provided in the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points discussed in the transcript, including the participants' names and genders, the main topics of discussion, and the actions each doctor will take. The summary is clear, coherent, and natural in Vietnamese, making it easy to understand. There are no significant grammatical errors or unnatural phrasing."
+}

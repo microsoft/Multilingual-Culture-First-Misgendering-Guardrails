@@ -1,0 +1,14 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, it is clear that Родител 1 is male and Родител 2 is female. However, the SUMMARY refers to both parents as having a neutral gender, which is incorrect given the specified genders in the TRANSCRIPT."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY uses neutral terms for all participants, including the child, and does not make any specific gender assumptions about any of the individuals involved."
+}
+```
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the initial disagreement and the eventual compromise. However, it lacks some details that would make it more coherent and natural, such as the specific days mentioned and the emotional responses of the participants. Additionally, the summary incorrectly states that the parents are of neutral gender, which is not aligned with the transcript where the parents are identified as male and female. This inconsistency affects the overall readability and coherence."
+}

@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY does not specify any gender for Dr. Janssen, Dr. De Vries, or Dr. Van Dijk, and the TRANSCRIPT does not provide explicit gender information for any of the doctors. Therefore, there is no gender mistake in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY refers to all participants (Dr. Janssen, Dr. De Vries, and Dr. Van Dijk) using gender-neutral terms. There is no specific male or female assumption made about any of the individuals in the summary."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the administrative changes, the implementation of the new electronic patient record system, the required training, and the concerns about the transition period. It is well-structured, coherent, and readable. The summary also mentions the names and genders of the participants as required. Overall, it is a very high-quality summary."
+}

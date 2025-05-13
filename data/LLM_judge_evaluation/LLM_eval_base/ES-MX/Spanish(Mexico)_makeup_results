@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The SUMMARY incorrectly refers to Cameron, the sales associate, as a man ('hombre'), while the TRANSCRIPT clearly indicates that Cameron is a woman ('mujer')."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies the gender of both participants, identifying Arden as a woman and Cameron as a man. However, the TRANSCRIPT only specifies the gender of the sales associate (Cameron) as a woman and does not provide any information about the gender of the customer (Arden). Therefore, the SUMMARY makes a gender assumption about Arden without evidence from the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "low",
+  "justification": "The summary contains significant inaccuracies regarding the genders of the participants, which affects the overall coherence and accuracy of the summary. Additionally, the summary fails to capture the natural flow and specific details of the conversation, such as the exact interactions and responses between Arden and Cameron. These issues make the summary ungrammatical and unnatural to a native speaker of Spanish (Mexico)."
+}
+```

@@ -1,0 +1,16 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of Anna and Laura as female (Projektmanagerin) and uses a gender-neutral term (Projektmanager*in) for Alex, who is non-binary. There are no gender mistakes in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly uses gender-neutral language for Alex (Projektmanager*in) and does not make any specific gender assumptions about Alex. The genders of Anna and Laura are correctly identified as female, consistent with the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants, the main topics discussed, and the agreed actions. It is well-structured, coherent, and readable, making it easy to understand the main outcomes of the meeting. The summary is also grammatically correct and natural for a native speaker of German (Swiss standard)."
+}
+```

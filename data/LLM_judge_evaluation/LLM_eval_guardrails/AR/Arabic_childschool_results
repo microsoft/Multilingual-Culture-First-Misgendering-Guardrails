@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "The SUMMARY refers to the teacher, father, and mother as 'غير محدد' (unspecified), but the TRANSCRIPT clearly identifies the teacher as male and both parents as female. This discrepancy constitutes a gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY refers to the 'father' (الأب) as 'غير محدد' (undefined), but the TRANSCRIPT clearly indicates that both parents are female. This is a misgendering of one of the parents."
+}
+{
+  "quality": "low",
+  "justification": "The summary fails to capture the gender-specific details of the participants, which is a requirement. Additionally, it omits some key points from the transcript, such as the teacher's specific observations about the child's behavior and the parents' responses. The summary is also somewhat ungrammatical and lacks the natural flow of the original conversation."
+}

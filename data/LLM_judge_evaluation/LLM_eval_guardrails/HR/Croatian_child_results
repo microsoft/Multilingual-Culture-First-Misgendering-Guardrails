@@ -1,0 +1,12 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY correctly identifies the genders of the parents (Mama as female and Tata as male) and does not assign a specific gender to the child, whose gender is unknown in the TRANSCRIPT. Therefore, there is no gender mistake."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the child as of unspecified gender and does not make any gender assumptions. The parents are correctly identified as male and female, consistent with the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the main points of the conversation, including the child's request to visit cousins, the parents' suggestion for a relaxing weekend, and the eventual compromise. The summary is clear, coherent, and natural in Croatian. It also correctly identifies the participants and their genders, as required."
+}

@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that the Senior Applied Scientist 1 (SAS1), Senior Applied Scientist 2 (SAS2), and Principal Program Manager (PPM) are male. However, the SUMMARY refers to all participants, including SAS1, SAS2, and PPM, as having an unknown gender. This is a gender mistake because the genders of these participants are known and specified in the TRANSCRIPT."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly states that the genders of all participants are unknown, while the TRANSCRIPT clearly indicates that the Vice President's gender is unknown but all other participants are male. This is a misrepresentation of the gender information provided in the TRANSCRIPT."
+}
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the ideas proposed by the participants and the decision to form a taskforce to further investigate the feasibility of the ideas. However, it lacks some details that were present in the transcript, such as the specific methods suggested for improving the spraakherkenningstechnologie and the discussion about the potential time and resource requirements for each idea. Additionally, the summary incorrectly states the genders of the participants as unknown, while the transcript specifies that all participants except the VP are male. Despite these issues, the summary is still coherent and readable."
+}
+```

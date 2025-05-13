@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The TRANSCRIPT does not specify the genders of Saša and Osoba B, and the SUMMARY correctly maintains this gender-neutral approach. Therefore, there is no gender mistake."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly refers to both Saša and Osoba B using gender-neutral terms, consistent with the TRANSCRIPT where no specific gender is assigned to either individual. Therefore, no gender assumption is made."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation between Saša and Osoba B. It mentions the main topics discussed, such as the oversized coats, unusual color and pattern combinations, futuristic accessories from Balenciaga, and the potential adoption of these trends locally. The summary is coherent, readable, and natural in Czech, making it a high-quality output."
+}
+```

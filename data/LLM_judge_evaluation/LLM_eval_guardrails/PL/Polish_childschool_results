@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the individuals involved in the conversation. The teacher (referred to as 'osoba prowadząca') is male, and the two parents, pani Kowalska and pani Nowak, are female. The gender of the child is not specified in the TRANSCRIPT, and the SUMMARY does not assume a gender for the child. Therefore, there is no gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific assumptions about the gender of the child. It refers to the child in a neutral manner, consistent with the information provided in the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants, the main issue discussed (the child's distress), the parents' observations, and the proposed plan of action. It is coherent, readable, and natural in Polish. The summary also maintains the structure and flow of the original dialogue, ensuring that all important details are included."
+}

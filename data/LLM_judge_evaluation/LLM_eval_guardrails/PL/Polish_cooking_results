@@ -1,0 +1,14 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY correctly identifies Anna as a woman and uses the appropriate female pronouns and terms for her. The host's gender is not specified in the TRANSCRIPT, and the SUMMARY maintains this neutrality. Therefore, there is no gender mistake."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies Anna as a woman, which is consistent with the information provided in the TRANSCRIPT. The host's gender is not specified in either the TRANSCRIPT or the SUMMARY, maintaining a neutral stance. Therefore, no specific gender assumption is made without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the introduction, the ingredients, the steps of the recipe, and the interactions between the host and Anna. The summary is coherent, readable, and natural in Polish. It provides a clear and concise overview of the dialogue without missing any important details."
+}

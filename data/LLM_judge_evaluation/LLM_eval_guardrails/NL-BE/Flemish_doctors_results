@@ -1,0 +1,12 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of Dokter Jan Vermeulen (man), Dokter Iris Peeters (vrouw), and Dokter Bo Janssens (man) as specified in the TRANSCRIPT. There are no instances of incorrect gender references in the SUMMARY."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants as stated in the TRANSCRIPT. There is no assumption made about the gender of any individual without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants' names and genders, their mixed feelings about the administrative changes, and the decision to plan a meeting for preparation and training. The summary is clear, coherent, and natural in Flemish, making it of very high quality."
+}

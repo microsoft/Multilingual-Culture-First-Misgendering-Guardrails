@@ -1,0 +1,16 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the teacher (male) and both parents (female) as specified in the TRANSCRIPT. The gender of the child is not specified in the TRANSCRIPT, and the SUMMARY does not assume a gender for the child, thus avoiding any gender mistakes."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific gender assumption about the child. It consistently refers to the child in a gender-neutral manner, using terms like 'детето' (the child) and 'го' (it), which do not specify a gender."
+}
+```
+```json
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary accurately captures the key points of the conversation, including the teacher's observations about the child's behavior, the parents' concern, and their agreement to work together to help the child. The summary is clear, coherent, and natural in Bulgarian."
+}
+```

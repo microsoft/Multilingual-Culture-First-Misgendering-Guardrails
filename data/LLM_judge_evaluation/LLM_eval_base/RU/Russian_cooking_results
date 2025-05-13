@@ -1,0 +1,14 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, the participant is clearly identified as a woman. However, in the SUMMARY, the participant's gender is marked as 'unknown'. This is a gender mistake because the gender of the participant is known and specified in the TRANSCRIPT."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the host is a man ('ведущий (мужчина)'), but the TRANSCRIPT does not provide any information about the host's gender. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+```json
+{
+  "quality": "low",
+  "justification": "The summary contains significant inaccuracies and inconsistencies. The gender of the host is incorrectly specified as male, and the participant's gender is marked as unknown, which contradicts the transcript where the participant is clearly identified as a woman. Additionally, the summary lacks detail and does not capture the step-by-step nature of the instructions provided in the transcript. The summary is also missing the final step of letting the cake cool before cutting, which is mentioned in the transcript."
+}
+```

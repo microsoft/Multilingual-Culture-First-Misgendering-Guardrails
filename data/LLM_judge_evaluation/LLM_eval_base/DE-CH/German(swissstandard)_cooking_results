@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "The gender of the host is not specified in the TRANSCRIPT, but the SUMMARY refers to the host as 'männlich' (male). This is a gender mistake because the gender of the host is unknown and should not be assumed."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the moderator is male ('Moderator (männlich)'), but the TRANSCRIPT does not provide any information about the moderator's gender. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the steps of the recipe, the interaction between the host and the participant, and the additional details about Kim's baking preferences. The language is clear, coherent, and natural, making it easy to read and understand. There are no significant grammatical errors or unnatural phrases."
+}
+```

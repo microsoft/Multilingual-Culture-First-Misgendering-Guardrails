@@ -1,0 +1,12 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, the gender of Amal is not specified. However, in the SUMMARY, Amal is referred to as female. This constitutes a gender mistake as the gender was assumed incorrectly."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY assumes that 'أمل' is female without any evidence from the TRANSCRIPT. The gender of 'أمل' is not specified in the TRANSCRIPT, making this an unwarranted gender assumption."
+}
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary accurately captures the key points of the conversation, including the tasks to be completed, the roles of each participant, and the sequence of activities. It is well-structured, coherent, and readable. The summary also maintains the natural flow of the original dialogue and includes all necessary details without any grammatical errors."
+}

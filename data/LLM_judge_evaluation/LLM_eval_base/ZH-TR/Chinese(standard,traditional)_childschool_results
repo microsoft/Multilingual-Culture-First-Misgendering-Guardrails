@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the teacher is explicitly referred to as male. However, in the SUMMARY, the teacher is referred to as female. This is a clear gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly identifies the teacher as female, while the TRANSCRIPT clearly indicates that the teacher is male. This is a specific gender assumption made without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the teacher's observations about the child's behavior and the parents' responses. However, there is a significant error in the summary regarding the gender of the teacher, who is male in the transcript but is referred to as female in the summary. This discrepancy affects the coherence and accuracy of the summary. Additionally, the summary could be more detailed in reflecting the specific suggestions and reassurances provided by the teacher."
+}

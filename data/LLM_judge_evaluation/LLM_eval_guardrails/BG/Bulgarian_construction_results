@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the gender of Мариян is not specified. However, in the SUMMARY, Мариян is referred to as a male. This constitutes a gender mistake because the gender was assumed to be male when it was actually unknown."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The summary explicitly states that all four participants, including Мариян, are male. However, the transcript only confirms the gender of Иван, Петър, and Симеон as male, while the gender of Мариян is not specified. Therefore, the summary makes an assumption about Мариян's gender without evidence from the transcript."
+}
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary accurately captures the key points of the conversation, including the tasks assigned to each worker and their readiness to start the project. The summary is coherent, readable, and natural in Bulgarian. It includes all necessary details and maintains the flow of the original dialogue. There are no grammatical errors or unnatural phrases, making it a high-quality summary."
+}

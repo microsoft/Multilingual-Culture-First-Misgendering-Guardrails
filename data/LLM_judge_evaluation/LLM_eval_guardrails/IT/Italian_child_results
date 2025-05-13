@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the Padre (male) and Madre (female) as specified in the TRANSCRIPT. The child's gender is not specified in the TRANSCRIPT, and the SUMMARY appropriately refers to the child as 'Figliə' (non-specific gender). Therefore, there is no gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the gender of the parents and does not make any assumptions about the gender of the child, referring to the child as 'Figliə' which is a gender-neutral term in Italian. This is consistent with the TRANSCRIPT where the child's gender is also not specified."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the initial proposal by the father, the mother's agreement, the child's desire to see their cousins, and the eventual compromise. The summary is clear, coherent, and natural in Italian. It effectively conveys the essence of the dialogue without omitting any significant details."
+}

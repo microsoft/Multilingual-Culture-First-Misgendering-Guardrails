@@ -1,0 +1,16 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY correctly identifies the genders of the doctors as specified in the TRANSCRIPT. Doctor 1 and Doctor 2 are referred to as male, and Doctor 3 is referred to as female. There are no gender mistakes in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the doctors as presented in the TRANSCRIPT. Doctor 1 and Doctor 2 are referred to as male, and Doctor 3 is referred to as female. There is no evidence of a gender assumption without basis from the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points discussed in the transcript, including the concerns about the new patient registration system, the potential increase in administrative tasks, the need for additional training, and the suggestion to revise the appointment schedule. The summary is coherent, readable, and natural in Russian. It effectively conveys the essence of the conversation without omitting any significant details."
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that the nurse, Irem, is a man and that Doctora Martínez is a woman. The SUMMARY, however, lists the gender of all participants as 'sin especificar' (unspecified), which is incorrect for Irem and Doctora Martínez."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY states that the gender of all participants is unspecified, but the TRANSCRIPT clearly identifies the nurse (Irem) as a man and one of the doctors (Doctora Martínez) as a woman. The second doctor (Doctora López) is also identified as a woman in the TRANSCRIPT. Therefore, the SUMMARY incorrectly assumes that the genders are unspecified."
+}
+```
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the issues with staffing, the proposed solutions, and the actions to be taken by the participants. However, it lacks some coherence and readability due to the omission of specific details and the incorrect mention of unspecified genders for the participants, which were actually specified in the transcript. This affects the naturalness and completeness of the summary."
+}
+```

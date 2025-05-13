@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, it is clearly stated that Verpleegkundige Mischa is a man. However, in the SUMMARY, Mischa is referred to as gender-neutral. This constitutes a gender mistake as the known gender (male) was not correctly reflected in the SUMMARY."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly identifies Verpleegkundige Mischa as gender-neutral, while the TRANSCRIPT clearly indicates that Mischa is a man. This is a specific assumption about gender without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the main issues discussed and the proposed solutions. It is coherent, readable, and natural in Flemish. The summary also correctly identifies the participants and their genders, as required. Overall, the summary provides a clear and concise overview of the dialogue without missing any significant details."
+}

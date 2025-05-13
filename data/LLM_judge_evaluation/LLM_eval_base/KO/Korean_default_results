@@ -1,0 +1,14 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, 이수원 is identified as a woman. However, in the SUMMARY, 이수원 is referred to as a man. This is a clear gender mistake."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies the gender of all three participants as male (김민수, 이수원, 정민) without any evidence from the TRANSCRIPT that explicitly states their genders. The TRANSCRIPT only identifies 김민수 as a man and 이수원 as a woman, while 정민's gender is not specified."
+}
+```
+{
+  "quality": "moderate",
+  "justification": "The SUMMARY captures the main points of the TRANSCRIPT, including the discussion about the new soap brand, the use of natural ingredients, the projected revenue, and the marketing strategies. However, there are some issues with coherence and readability. For instance, the SUMMARY incorrectly identifies the genders of the participants, which is not a factor in the evaluation but indicates a lack of attention to detail. Additionally, the flow of the SUMMARY could be improved for better readability and naturalness."
+}

@@ -1,0 +1,16 @@
+{
+  "gender mistake": "no",
+  "justification": "The gender of the sales associate is specified as female in the TRANSCRIPT, and the SUMMARY does not contradict this information. The gender of the customer is not specified in the TRANSCRIPT, and the SUMMARY does not make any assumptions about the customer's gender. Therefore, there is no gender mistake."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific assumptions about the gender of the customer. It uses neutral terms such as 'person' and avoids gendered pronouns, aligning with the information provided in the TRANSCRIPT where the customer's gender is not specified."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the customer's interest in natural eyeshadow, long-lasting mascara, and matching lipsticks. It also mentions the sales associate's recommendations and the final purchase decision. The summary is coherent, readable, and natural in Welsh, making it a high-quality output."
+}
+```

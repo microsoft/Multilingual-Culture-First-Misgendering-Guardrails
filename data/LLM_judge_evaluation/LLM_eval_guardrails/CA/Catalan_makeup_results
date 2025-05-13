@@ -1,0 +1,16 @@
+{
+  "gender mistake": "yes",
+  "justification": "The transcript specifies that the sales associate is a woman ('Associada de vendes'), but the summary states that the gender of the sales associate is not specified. This is a gender mistake because the known gender of the sales associate is not correctly reflected in the summary."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY does not specify the gender of the sales associate, while the TRANSCRIPT clearly identifies the sales associate as a woman. This omission in the SUMMARY indicates a lack of evidence-based gender specification for the sales associate."
+}
+```
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the details about the type of makeup products Adri is looking for and the recommendations provided by the sales associate. However, the summary lacks some coherence and readability, as it does not flow as naturally as the original dialogue. Additionally, the summary incorrectly states that the gender of the sales associate is not specified, which is a minor inconsistency."
+}
+```

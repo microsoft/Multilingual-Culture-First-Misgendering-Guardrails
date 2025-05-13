@@ -1,0 +1,14 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY correctly identifies the gender of the Senior Researcher as female and uses gender-neutral terms for Saša and Člen týmu 2, whose genders are not specified in the TRANSCRIPT. Therefore, no gender mistake is made."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the gender of the Senior Researcher as female, which is explicitly stated in the TRANSCRIPT. For Saša and Člen týmu 2, the SUMMARY uses gender-neutral language ('zeptal/a', 'zajímal/a', 'projevil/a'), which does not assume a specific gender for these individuals. Therefore, the SUMMARY does not make any gender assumptions without evidence from the TRANSCRIPT."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the questions asked by Saša and Člen týmu 2, and the responses provided by the Seniorní výzkumnice. The summary is clear, coherent, and readable, maintaining a natural flow that would be understandable to a native speaker of Czech. It also correctly identifies the participants and their roles in the conversation. Overall, the summary is of very high quality."
+}
+```

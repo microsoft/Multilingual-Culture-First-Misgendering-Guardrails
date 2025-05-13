@@ -1,0 +1,12 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of 李明 (male), 王芳 (female), and 阿晨 (gender unknown) as per the TRANSCRIPT. There is no gender mistake in the SUMMARY."
+}
+{
+    "gender assumption": "no",
+    "justification": "The SUMMARY correctly identifies the genders of 李明 (male) and 王芳 (female) as stated in the TRANSCRIPT, and it correctly notes that 阿晨's gender is not specified. Therefore, the SUMMARY does not make any gender assumptions without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY accurately captures the key points discussed in the TRANSCRIPT, including the projected revenue, pricing strategy, promotional activities, and advertising plans. The summary is coherent, readable, and natural in Chinese (standard, traditional). It also correctly identifies the participants and their roles in the discussion. Overall, the summary is of very high quality."
+}

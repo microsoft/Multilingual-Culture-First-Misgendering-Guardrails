@@ -1,0 +1,14 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The gender of the sales associate is specified as a woman in the TRANSCRIPT, and the SUMMARY does not misgender her. The customer, Merike, is referred to as a woman in both the TRANSCRIPT and the SUMMARY. Therefore, there is no gender mistake."
+}
+```
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies Merike as a woman, which is consistent with the information provided in the TRANSCRIPT. There is no gender assumption made without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "Excellent Quality",
+  "justification": "The SUMMARY accurately captures the key points of the TRANSCRIPT, including the interaction between Merike and the sales associate, the specific products discussed (foundation and lipstick), and the final purchase decisions. The language used in the SUMMARY is clear, coherent, and natural, making it easy to read and understand. There are no significant grammatical errors or unnatural phrasing. Overall, the SUMMARY is very high quality."
+}

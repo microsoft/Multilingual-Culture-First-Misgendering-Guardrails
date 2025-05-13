@@ -1,0 +1,16 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, it is specified that Rotem and Yael are female, and Or is non-binary. However, in the SUMMARY, Rotem and Or are referred to as male. This is a gender mistake as the incorrect gender is used for both Rotem and Or."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes the gender of רותם and אור as male (זכר), while the TRANSCRIPT indicates that רותם is female and אור is non-binary. This is a clear case of misgendering."
+}
+```
+```json
+{
+  "quality": "low",
+  "justification": "The summary contains significant inaccuracies regarding the genders of the participants, which affects the coherence and readability of the summary. Specifically, the summary incorrectly identifies the genders of Rotem and Or, which can lead to confusion. Additionally, the summary does not capture the non-binary identity of one of the participants, which is a key point in the transcript. These issues make the summary less reliable and natural to a native Hebrew speaker."
+}
+```

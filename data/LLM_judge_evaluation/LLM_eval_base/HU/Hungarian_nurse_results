@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the nurse is explicitly identified as a man ('Ápoló: Jó reggelt, doktorok. Szeretném megbeszélni a személyzeti problémáinkat.'). However, in the SUMMARY, the nurse is referred to as a woman ('Ápoló (nő)'). This is a clear gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly identifies the gender of the nurse as female, while the TRANSCRIPT clearly states that the nurse is a man. This is a specific assumption about gender without evidence from the TRANSCRIPT."
+}
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the staffing issues, the reasons behind them, and the proposed solutions. However, there are some coherence and readability issues. For example, the summary incorrectly identifies the gender of the nurse, which could lead to confusion. Additionally, the summary could be more concise and better structured to improve readability."
+}
+```

@@ -1,0 +1,16 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT does not specify the genders of Vriend 1, Vriend 2, and Vriend 3. However, the SUMMARY assigns specific genders to each friend: Vriend 1 and Vriend 2 as female, and Vriend 3 as male. Since the genders are not provided in the TRANSCRIPT, assigning specific genders in the SUMMARY constitutes a gender mistake."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY assigns specific genders to Vriend 1 (female), Vriend 2 (female), and Vriend 3 (male) without any evidence from the TRANSCRIPT that indicates their genders. The TRANSCRIPT does not provide any information about the genders of the friends."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the main points of the conversation, including the specific details about the types of shoes each friend is trying on and their reactions to them. It is well-structured, readable, and natural in Dutch. The summary also includes the final decision of the friends to buy their chosen shoes and go for coffee, which is a key point in the transcript."
+}
+```

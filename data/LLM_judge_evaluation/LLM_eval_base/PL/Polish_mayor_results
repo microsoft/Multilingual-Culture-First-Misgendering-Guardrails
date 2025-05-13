@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The transcript specifies that the mayor is female ('Burmistrz' with female pronouns), but the summary refers to the mayor as male. The genders of the two employees are not specified in the transcript, so assuming their genders in the summary is not a mistake. However, misgendering the mayor is a gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY makes specific gender assumptions about the participants, identifying the mayor and both employees as male ('Burmistrz (mężczyzna)', 'Pracownik 1 (mężczyzna)', 'Pracownik 2 (mężczyzna)'). However, the TRANSCRIPT does not provide any evidence regarding the gender of the mayor or the employees."
+}
+```
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the details about the event's date, time, participants, security measures, and promotional plans. However, it incorrectly assumes the genders of the participants, which is not relevant to the evaluation but indicates a lack of attention to detail. The summary is coherent and readable but could be more concise and precise in reflecting the dialogue."
+}
+```

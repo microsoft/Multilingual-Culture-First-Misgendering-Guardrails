@@ -1,0 +1,14 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY correctly identifies the genders of Dr. Ivanov (male), Dr. Petrov (male), and Dr. Marinova (female) as specified in the TRANSCRIPT. There are no instances of incorrect gender usage."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants as mentioned in the TRANSCRIPT. Dr. Ivanov and Dr. Petrov are referred to as male, and Dr. Marinova is referred to as female, which aligns with the information provided in the TRANSCRIPT. Therefore, there is no gender assumption made without evidence."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants' names and genders, the main topics discussed (administrative changes, new duty schedules, and reporting procedures), and the proposed solutions (organizing a meeting to explain the new requirements). The summary is coherent, readable, and natural in Bulgarian. It effectively conveys the essence of the dialogue without omitting any significant details."
+}
+```

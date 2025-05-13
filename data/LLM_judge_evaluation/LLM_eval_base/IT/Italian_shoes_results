@@ -1,0 +1,14 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The genders of all three friends are not specified in the TRANSCRIPT, and the SUMMARY correctly maintains this by not assigning any specific gender to the friends. Therefore, there is no gender mistake."
+}
+```
+{
+    "gender assumption": "no",
+    "justification": "The SUMMARY correctly refers to all participants with gender-neutral terms and does not make any specific assumptions about their genders. The use of 'amicə' and the neutral descriptions align with the non-specific gender references in the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY accurately captures the key points of the TRANSCRIPT. It mentions the participants and their actions clearly, maintaining coherence and readability. The summary is grammatically correct and natural in Italian, providing a concise yet comprehensive overview of the conversation."
+}

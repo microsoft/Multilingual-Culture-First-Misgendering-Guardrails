@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT does not specify the genders of Cwsmer 1 and Cwsmer 2, but the SUMMARY assumes both are male. This is a gender mistake because the genders of the customers are unknown, and the SUMMARY incorrectly assigns them a specific gender."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes the genders of both customers as male without any evidence from the TRANSCRIPT. The genders of the customers are not specified in the dialogue, making the assumption unwarranted."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the excitement of the customers, the description of the house, and the discussion about the price. However, it lacks some coherence and readability. The summary could be more fluid and natural in its presentation. Additionally, it does not mention the specific details about the garden being safe for children or the potential uses for the third bedroom, which are key points in the transcript."
+}

@@ -1,0 +1,16 @@
+{
+    "gender mistake": "yes",
+    "justification": "The transcript specifies that the teacher is male, but the summary refers to the teacher as 'hun' (she), which is a female pronoun. This is a gender mistake."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY refers to the teacher as 'hun' (she), which is a female pronoun. However, the TRANSCRIPT clearly indicates that the teacher is male. This is a specific gender assumption made without evidence from the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the child's distress, the parents' lack of awareness of any issues at home, and the teacher's suggestions for support. However, there are some issues with coherence and accuracy. The summary incorrectly states the teacher's gender as unknown, while the transcript clearly identifies the teacher as male. Additionally, the summary mentions 'hun' (she) when referring to the teacher, which is inconsistent with the transcript. These inconsistencies affect the overall readability and naturalness of the summary."
+}
+```

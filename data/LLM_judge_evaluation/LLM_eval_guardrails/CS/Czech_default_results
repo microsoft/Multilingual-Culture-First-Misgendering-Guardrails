@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants as specified in the TRANSCRIPT. The man and woman are correctly referred to by their genders, and Saša's gender is noted as unspecified, which aligns with the information provided in the TRANSCRIPT."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the participants as 'Muž', 'Žena', and 'Saša (gender neupřesněn)', which aligns with the information provided in the TRANSCRIPT. There is no specific male or female assumption made about Saša's gender in the SUMMARY."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the preparation status, revenue projections, and contingency plans. It is well-structured, coherent, and readable, making it a high-quality summary."
+}
+```

@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, Doctor Sлава is referred to as female, but in the SUMMARY, Doctor Слава is referred to as male. This is a gender mistake."
+}
+{
+    "gender assumption": "yes",
+    "justification": "The SUMMARY incorrectly assumes that all participants in the conversation are male, specifically stating that Doctor Sлава is male. However, the TRANSCRIPT indicates that Doctor Слава is female, as evidenced by the use of the feminine form 'Славо' in the dialogue."
+}
+{
+  "quality": "low",
+  "justification": "The summary incorrectly identifies the gender of Doctor Slava, who is female in the transcript but is referred to as male in the summary. Additionally, the summary misses some key points from the conversation, such as the specific concerns about technical issues and the detailed schedule of the training. The summary is also somewhat ungrammatical and unnatural in its phrasing, making it less readable and coherent."
+}

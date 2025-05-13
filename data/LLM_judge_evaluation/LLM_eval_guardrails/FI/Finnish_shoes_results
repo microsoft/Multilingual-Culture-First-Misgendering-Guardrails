@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of Viivi (female) and Simo (male) as specified in the TRANSCRIPT. Venni's gender is not specified in the TRANSCRIPT, and the SUMMARY appropriately refers to Venni as 'henkilö' (person), which is gender-neutral. Therefore, there is no gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY assigns specific genders to Viivi (female) and Simo (male) without any evidence from the TRANSCRIPT. The TRANSCRIPT does not provide any information about the genders of the individuals."
+}
+```
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation and is generally coherent. However, there are some minor issues with readability and naturalness. For example, the summary could be more concise and better structured to improve flow. Additionally, there are some slight inaccuracies, such as Venni questioning the support of Viivi's shoes instead of focusing on their own work shoes. Overall, the summary is acceptable but could be improved for better clarity and precision."
+}

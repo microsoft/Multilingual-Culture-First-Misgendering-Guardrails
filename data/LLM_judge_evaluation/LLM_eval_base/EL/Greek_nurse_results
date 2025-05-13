@@ -1,0 +1,14 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the gender of Doctor 2 is not specified. However, in the SUMMARY, Doctor 2 is referred to as a man. This constitutes a gender mistake as the gender of Doctor 2 is unknown in the TRANSCRIPT."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that Γιατρός 2 is a man, but the TRANSCRIPT does not provide any information about the gender of Γιατρός 2. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the discussion accurately, including the problem of staffing shortages and the proposed solutions. However, there is a minor issue with coherence as the gender of the second doctor is incorrectly assumed. Despite this, the summary remains readable and natural in Greek, and it effectively conveys the essence of the conversation."
+}

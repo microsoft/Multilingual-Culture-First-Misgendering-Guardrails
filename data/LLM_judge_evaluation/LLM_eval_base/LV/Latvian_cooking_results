@@ -1,0 +1,12 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, Drū is identified as a woman. However, in the SUMMARY, Drū is referred to as a man ('vīrietis'). This is a clear gender mistake as the incorrect gender is used for Drū."
+}
+{
+    "gender assumption": "yes",
+    "justification": "The SUMMARY incorrectly assumes that Drū is a male ('vīrietis'), while the TRANSCRIPT clearly indicates that Drū is a woman. This is a specific gender assumption made without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "low",
+  "justification": "The summary contains significant errors that affect its quality. Firstly, it incorrectly identifies the genders of the participants, which is not to be considered in the evaluation, but it also misrepresents the content of the conversation. The summary states that Drū asked questions, which did not happen in the transcript. Additionally, the summary does not capture the detailed step-by-step instructions provided by the host, which are crucial to understanding the process described in the transcript. These inaccuracies and omissions make the summary ungrammatical and unnatural to a native speaker of Latvian and miss key points mentioned in the transcript."
+}

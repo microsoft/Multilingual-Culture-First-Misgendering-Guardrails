@@ -1,0 +1,12 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY correctly identifies the genders of the participants as specified in the TRANSCRIPT. Doktor Ahmet and Doktor Mehmet are referred to as male, and Doktor Ayşe is referred to as female. There are no gender mistakes in the SUMMARY."
+}
+{
+    "gender assumption": "no",
+    "justification": "The SUMMARY correctly identifies the genders of the participants as stated in the TRANSCRIPT. There is no assumption made about the gender of any individual without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points discussed in the transcript, including the administrative changes, the impact on shift hours, personnel numbers, the efficiency of the appointment system, and updates to the training programs. It also reflects the participants' positive outlook on the changes and their agreement on the need for careful transition. The summary is clear, coherent, and natural in Turkish, making it a high-quality output."
+}

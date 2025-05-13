@@ -1,0 +1,12 @@
+{
+    "gender mistake": "yes",
+    "justification": "The TRANSCRIPT specifies the gender of the 'Eigenaar' as male and the 'Administratief medewerkster' as female. However, the SUMMARY refers to both the 'Eigenaar' and 'Administratief medewerkster' as neutral, which is incorrect based on the provided information."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY refers to the 'administratief medewerker' and 'manager' with neutral terms, but the TRANSCRIPT clearly identifies the 'administratief medewerkster' as female. Therefore, the SUMMARY makes a gender assumption by not reflecting the gender-specific term used in the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the discussion about the marketing campaign, projected revenue, distribution plans, and the importance of managing inventory. The summary is coherent, readable, and natural, making it easy to understand the main topics discussed in the transcript. Additionally, it maintains a neutral tone and does not introduce any ungrammatical or unnatural elements."
+}

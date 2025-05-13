@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the gender of the real estate agent, Jan Kowalski, as male. The genders of Lee and Pat are not specified in the TRANSCRIPT, and the SUMMARY appropriately refers to them using neutral terms. Therefore, there is no gender mistake in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants based on the information provided in the TRANSCRIPT. The real estate agent, Jan Kowalski, is identified as a man, while Lee and Pat are referred to with neutral terms, consistent with the lack of gender-specific information in the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the participants' names and roles, the main topics discussed, and the overall flow of the dialogue. The summary is coherent, readable, and natural in Polish. It provides a clear and concise overview of the conversation without missing any important details."
+}

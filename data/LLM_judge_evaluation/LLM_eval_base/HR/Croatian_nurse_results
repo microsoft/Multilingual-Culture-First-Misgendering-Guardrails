@@ -1,0 +1,14 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that the nurse is a man, but the SUMMARY refers to the nurse as female ('Medicinska sestra (ženski spol)'). This is a gender mistake."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes that the nurse is female, while the TRANSCRIPT clearly states that the nurse is a man. This is a specific gender assumption made without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the discussion about the staffing problem, the suggestions for solutions, and the agreement to act quickly. However, there are some issues with coherence and accuracy. The summary incorrectly identifies the gender of the nurse, which could lead to confusion. Additionally, the summary could be more detailed in capturing the specific suggestions made by Dr. Ivan and Dr. Matija. Overall, the summary is readable and covers the key points but has some minor inaccuracies and could be more precise."
+}

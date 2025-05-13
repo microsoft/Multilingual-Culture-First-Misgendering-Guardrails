@@ -1,0 +1,14 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The summary correctly identifies the genders of the participants as specified in the transcript: the owner (man), the administrative assistant (woman), and the manager (man). There are no discrepancies between the genders mentioned in the transcript and the summary."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY makes specific gender assumptions by identifying the 'Eigenaar' as a man, the 'Administratief medewerkster' as a woman, and the 'Manager' as a man. However, the TRANSCRIPT does not provide explicit evidence for the gender of the 'Manager', making this an assumption without sufficient evidence."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants' roles and the main topics discussed. It is well-structured, coherent, and readable. The summary includes details about the marketing campaign, revenue projections, distribution plans, and the importance of managing inventory, all of which were mentioned in the transcript. The language used is natural and grammatically correct, making it easy to understand for a native speaker of Flemish."
+}

@@ -1,0 +1,14 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, the gender of Sаша is not specified, making it unclear. However, the SUMMARY refers to Sаша as a man, which is a gender mistake since the gender was not specified in the TRANSCRIPT."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY assigns specific genders to the participants (Женя as a man, Саша as a man, and Валя as a woman) without evidence from the TRANSCRIPT. The TRANSCRIPT does not provide any explicit gender indicators for these names, making the gender assumptions in the SUMMARY unjustified."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY accurately captures the key points of the TRANSCRIPT, including the discussion about the readiness of the new soap brand for launch, the marketing strategy, budget allocation, sales projections, and the importance of a year-round advertising campaign. The summary is coherent, readable, and natural in Russian. It also includes the names and genders of the participants as required, without any grammatical or unnatural language issues."
+}

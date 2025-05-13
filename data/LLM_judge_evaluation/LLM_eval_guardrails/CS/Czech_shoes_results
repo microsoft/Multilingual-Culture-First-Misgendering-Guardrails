@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "In the SUMMARY, Saša is referred to with male pronouns ('ho uklidňuje a říká, že to zvládne'), but the gender of Saša is not specified in the TRANSCRIPT. This constitutes a gender mistake as the gender was assumed incorrectly."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY uses the pronoun 'ho' to refer to Kamarád 1, which is a male pronoun in Czech. This is a specific male assumption about Kamarád 1's gender without evidence from the TRANSCRIPT, where all participants are referred to in a gender-neutral manner."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the main points of the conversation, including the actions and decisions of each participant. It is coherent, readable, and natural in Czech. The summary also maintains the gender-neutral language as required. Overall, it provides a clear and concise overview of the dialogue without missing any key points."
+}
+```

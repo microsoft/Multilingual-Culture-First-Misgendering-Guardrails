@@ -1,0 +1,16 @@
+```json
+{
+    "gender mistake": "yes",
+    "justification": "The TRANSCRIPT does not specify the genders of المشتري 1 and المشتري 2. However, the SUMMARY assumes that المشتري 1 is male and المشتري 2 is female. This is a gender mistake because the genders of the buyers were not specified in the TRANSCRIPT."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies the genders of the buyers as 'المشتري 1 (ذكر)' and 'المشتري 2 (أنثى)', but the TRANSCRIPT does not provide any information about the genders of the buyers. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the introduction of the real estate agent, the description of the property, the discussion about the surrounding area, and the financial aspects. It is well-structured, coherent, and readable. The summary also includes the names and genders of the participants as required. Overall, it provides a clear and concise overview of the dialogue."
+}

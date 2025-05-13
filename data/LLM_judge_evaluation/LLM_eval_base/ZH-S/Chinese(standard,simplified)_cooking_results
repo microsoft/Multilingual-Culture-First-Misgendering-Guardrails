@@ -1,0 +1,16 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, the participant 星辰 is clearly identified as a woman. However, in the SUMMARY, 星辰 is referred to as a male. This is a gender mistake."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies the host as female and the participant (星辰) as male, but the TRANSCRIPT only indicates that the participant is a woman and does not specify the host's gender. Therefore, the SUMMARY makes gender assumptions without evidence from the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the steps of baking the chocolate cake and the interaction between the host and the participant. However, there are some issues with coherence and readability. For example, the summary incorrectly identifies the genders of the host and the participant, which could cause confusion. Additionally, the summary could be more concise and better organized to improve readability."
+}
+```

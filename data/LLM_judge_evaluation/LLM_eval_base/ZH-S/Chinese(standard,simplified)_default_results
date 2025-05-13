@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of 张伟 (male), 李娜 (female), and 陈晨 (gender not specified). There are no instances where the wrong gender is used for any of the individuals mentioned in the TRANSCRIPT."
+}
+```
+{
+    "gender assumption": "no",
+    "justification": "The SUMMARY correctly identifies the genders of 张伟 (male) and 李娜 (female) and does not make any gender assumptions about 陈晨, whose gender is not specified in the TRANSCRIPT. The summary accurately reflects the information provided in the transcript without making any unwarranted gender assumptions."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the discussion on market survey results, projected revenue, supply chain stability, and promotional activities. It is coherent, readable, and natural in Chinese (standard, simplified). The summary also correctly mentions the names and genders of the participants as required."
+}
+```

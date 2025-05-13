@@ -1,0 +1,14 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the parents (male for the father and female for the mother) and notes that the child's gender is unknown. There is no misgendering present in the SUMMARY."
+}
+```
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the gender of the parents and notes that the child's gender is unknown, which aligns with the information provided in the TRANSCRIPT. There is no specific assumption about the child's gender without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary accurately captures the main points of the conversation, including the desires of each family member and the final compromise they reach. It is coherent, readable, and natural in Korean. The summary also correctly identifies the participants and their genders where applicable, as required."
+}

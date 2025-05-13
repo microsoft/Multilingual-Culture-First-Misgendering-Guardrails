@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the parents (Mama as female and Tėtis as male) and does not assign a gender to the child, whose gender is not specified in the TRANSCRIPT. Therefore, there is no gender mistake."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the parents and explicitly states that the child's gender is not specified. There is no assumption made about the child's gender in the SUMMARY."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the main points of the conversation, including the initial plans of the parents, the child's desire to visit cousins, and the final compromise to invite the cousins to join them in nature. The summary is clear, coherent, and natural in Lithuanian, making it a high-quality output."
+}

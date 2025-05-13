@@ -1,0 +1,12 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of all participants as specified in the TRANSCRIPT. Dr. Παπαδόπουλος and Dr. Νικολάου are referred to as male, and Dr. Μιχαηλίδου is referred to as female. There are no discrepancies between the genders mentioned in the TRANSCRIPT and the SUMMARY."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants as mentioned in the TRANSCRIPT. The TRANSCRIPT explicitly states the genders of the doctors: Δρ. Παπαδόπουλος and Δρ. Νικολάου are male, and Δρ. Μιχαηλίδου is female. Therefore, the SUMMARY does not make any gender assumptions without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants, the topic of discussion, and the agreed-upon actions. It is well-structured, coherent, and readable. The summary also maintains a natural flow and includes all relevant details from the transcript."
+}

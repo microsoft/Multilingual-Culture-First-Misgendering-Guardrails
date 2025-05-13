@@ -1,0 +1,14 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY correctly identifies the genders of Doktor Novák (male) and Doktorka Kovářová (female). Saša's gender is not specified in the TRANSCRIPT, and the SUMMARY appropriately treats Saša as gender-neutral. Therefore, there is no gender mistake."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of Doktor Novák (male) and Doktorka Kovářová (female) as stated in the TRANSCRIPT. Saša is referred to in a gender-neutral manner in both the TRANSCRIPT and the SUMMARY, which is consistent and does not make any specific gender assumption."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the discussion about the upcoming administrative changes, the need for training on the new electronic records system, concerns about older colleagues, and the impact on work shifts and patient care. The summary is clear, coherent, and readable, making it a high-quality output."
+}

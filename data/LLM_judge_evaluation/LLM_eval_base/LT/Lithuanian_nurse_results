@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that the gender of the second doctor is unknown. However, the SUMMARY refers to the second doctor as 'vyras' (man), which is a gender mistake."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY assumes that the second doctor is a man ('antras daktaras (vyras)'), but the TRANSCRIPT does not provide any information about the gender of the second doctor. Therefore, the summary makes a specific male assumption about the gender of the second doctor without evidence from the transcript."
+}
+```json
+{
+  "quality": "Moderate Quality",
+  "justification": "The summary captures the main points of the conversation, including the staffing issues, potential solutions, and the decision to discuss these ideas with the administration. However, there are some minor issues with coherence and readability. For example, the summary incorrectly identifies the gender of the second doctor, which is not specified in the transcript. Additionally, the summary could be more concise and better organized to improve readability."
+}
+```

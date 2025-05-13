@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, Kris is identified as non-binary. However, in the SUMMARY, Kris is referred to as male. This constitutes a gender mistake as the incorrect gender is used for Kris."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes Kris is male, while the TRANSCRIPT clearly states that Kris is non-binary. This is a specific gender assumption without evidence from the TRANSCRIPT."
+}
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the discussion about the timeline, marketing strategy, user feedback, and the plan to meet with the marketing team. However, there are some issues with coherence and accuracy. For example, the summary incorrectly identifies Kris as male, which could lead to confusion. Additionally, the summary could be more detailed in certain areas to improve readability and naturalness. Overall, the summary is acceptable but has room for improvement."
+}
+```

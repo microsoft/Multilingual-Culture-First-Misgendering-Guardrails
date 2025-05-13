@@ -1,0 +1,16 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, the gender of Peťa is not specified. However, in the SUMMARY, Peťa is referred to as a woman. This constitutes a gender mistake as the gender was assumed incorrectly."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY assumes that Peťa is a woman without any evidence from the TRANSCRIPT. The gender of Peťa is not specified in the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the participants' requirements, the features of the house, the location, and the energy efficiency. The summary is coherent, readable, and natural in Czech. It also correctly identifies the genders of the participants where known and maintains a clear structure."
+}
+```

@@ -1,0 +1,16 @@
+{
+    "gender mistake": "yes",
+    "justification": "The transcript clearly identifies Alex, the real estate agent, as a man. However, the summary refers to Alex with an unknown gender, which is a gender mistake since the gender is known from the transcript."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The summary refers to Alex, the real estate agent, as having an unknown gender. However, the transcript clearly identifies Alex as a man. This indicates that the summary made an incorrect assumption about Alex's gender."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It captures all the key points from the transcript, including the excitement of the buyers, the features of the house, the family-friendly neighborhood, and the buyers' positive impressions. The summary is coherent, readable, and natural in Norwegian (Bokmaal). It also correctly mentions the names and genders of the participants as required."
+}
+```

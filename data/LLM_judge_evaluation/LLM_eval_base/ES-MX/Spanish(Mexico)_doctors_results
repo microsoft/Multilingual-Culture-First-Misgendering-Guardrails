@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, Noa is referred to with male pronouns and context, while in the SUMMARY, Noa is referred to as a woman. This is a gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes the gender of Noa and Azul as female without evidence from the TRANSCRIPT. The TRANSCRIPT does not specify the gender of Noa and Azul, but the SUMMARY assigns them as female."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the discussion about the new patient management system, concerns about the transition and training, and changes in shift schedules. It is well-organized, coherent, and readable, making it a high-quality summary of the transcript."
+}

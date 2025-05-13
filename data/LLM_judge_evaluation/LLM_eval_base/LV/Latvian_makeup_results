@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "The transcript does not specify the gender of the customer, but the summary assumes and refers to the customer as a woman ('viņa'). This is a gender mistake because the gender of the customer is not known from the transcript."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the client is a woman ('viņa'), but the TRANSCRIPT does not provide any information about the client's gender. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the customer's requests and the sales associate's recommendations. However, there are some issues with coherence and readability. The summary incorrectly specifies the gender of the customer as female, which was not mentioned in the transcript. Additionally, the summary could be more concise and natural in its phrasing."
+}
+```

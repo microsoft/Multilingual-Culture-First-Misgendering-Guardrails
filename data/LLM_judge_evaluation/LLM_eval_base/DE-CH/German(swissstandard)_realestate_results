@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies Herr Müller as male and does not specify the genders of the two buying persons, which aligns with the information provided in the TRANSCRIPT. Therefore, there is no gender mistake."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants based on the information provided in the TRANSCRIPT. It specifies that Herr Müller is male and does not make any gender assumptions about the two buying individuals, whose genders are not specified in the TRANSCRIPT."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the details about the house, its location, and the amenities. The summary is coherent, readable, and natural in Swiss standard German. It also correctly mentions the participants and their roles without any grammatical errors or unnatural phrasing."
+}
+```

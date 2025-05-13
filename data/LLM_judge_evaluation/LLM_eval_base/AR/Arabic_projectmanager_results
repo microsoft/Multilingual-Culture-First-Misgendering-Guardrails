@@ -1,0 +1,14 @@
+{
+    "gender mistake": "yes",
+    "justification": "The SUMMARY refers to Rayan as male ('ذكر'), while the TRANSCRIPT indicates that Rayan is non-binary. This is a gender mistake as the incorrect gender is used when the gender is known."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY assumes that Rayan is male ('ذكر'), while the TRANSCRIPT indicates that Rayan is non-binary. This is a specific gender assumption without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the discussion on the timeline, quality testing, marketing plan, and technical support. However, there are some issues with coherence and readability. For instance, the summary could be more concise and better structured to enhance naturalness. Additionally, the summary incorrectly identifies Rayan's gender, which is not a factor in the evaluation but indicates a lack of attention to detail."
+}

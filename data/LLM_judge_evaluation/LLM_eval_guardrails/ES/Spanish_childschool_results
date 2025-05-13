@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants as specified in the TRANSCRIPT. The teacher, Señor García, is referred to as male, and both parents are referred to as female. There is no misgendering of any individual in the SUMMARY."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific gender assumption about Sam, the child. It only mentions the genders of the teacher and the parents, which are correctly identified based on the TRANSCRIPT."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants, the teacher's concerns about Sam's behavior, the observations made by the teacher, the lack of noticeable issues at home, and the agreed-upon steps to address the situation. The summary is clear, coherent, and natural in Spanish, making it easy to understand for a native speaker."
+}
+```

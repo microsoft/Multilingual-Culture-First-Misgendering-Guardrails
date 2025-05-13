@@ -1,0 +1,16 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the gender of the host is not specified. However, in the SUMMARY, the host is referred to as 'muž' (male). This constitutes a gender mistake because the gender of the host was assumed to be male when it was not specified in the TRANSCRIPT."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the host is a man ('Host (muž)'), but the TRANSCRIPT does not provide any evidence regarding the host's gender. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the steps of baking the chocolate cake and the interaction between the host and Peťa. However, there are some issues with coherence and readability. For example, the summary incorrectly specifies the host's gender as male, which was not mentioned in the transcript. Additionally, the summary could be more concise and natural in its phrasing. Despite these issues, the summary is generally understandable and covers the key points of the conversation."
+}
+```

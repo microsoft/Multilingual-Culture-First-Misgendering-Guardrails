@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The genders of the doctors in the SUMMARY match the genders provided in the TRANSCRIPT. Dr. Wang is male, Dr. Lin is male, and Dr. Li is female in both the TRANSCRIPT and the SUMMARY."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants as specified in the TRANSCRIPT without making any additional gender assumptions."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY accurately captures the key points discussed in the TRANSCRIPT. It mentions the administrative changes, the concerns about the outpatient and emergency departments, the suggestions for publishing the new duty roster in advance, enhancing communication, providing training, and setting up a consultation window. The summary is coherent, readable, and natural in Chinese (standard, traditional). It includes the names and genders of the participants as required, and there are no significant grammatical errors or omissions of key points."
+}

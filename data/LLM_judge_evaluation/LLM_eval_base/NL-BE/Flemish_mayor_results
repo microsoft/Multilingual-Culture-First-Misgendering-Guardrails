@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the mayor is referred to using female pronouns ('haar' in 'haar team'), indicating that the mayor is a woman. However, in the SUMMARY, the mayor is referred to as 'man' and 'zijn team,' which indicates a male gender. This is a clear gender mistake."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies the genders of the burgemeester (man), Medewerker 1 (man), and Medewerker 2 (vrouw) without any evidence from the TRANSCRIPT to support these gender assumptions."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points discussed in the transcript, including the preparations, communication and promotion efforts, confirmed speakers and artists, safety and accessibility measures, and contingency plans for bad weather. The summary is well-structured, coherent, and readable, making it easy to understand the main topics of the conversation. The language used is natural and grammatically correct, ensuring high readability for native Flemish speakers."
+}

@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants as specified in the TRANSCRIPT. The man, woman, and the gender-neutral 'esihenkilö' are all referred to appropriately without any gender mistakes."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY accurately reflects the gender of the participants as presented in the TRANSCRIPT. The man is referred to as 'Mies', the woman as 'Nainen', and the person whose gender cannot be readily identified is referred to as 'Esihenkilö'. There is no evidence of a specific gender assumption being made without support from the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY accurately captures the key points discussed in the TRANSCRIPT. It is well-organized, coherent, and readable. The main topics such as the excitement about the new soap brand, the importance of customer feedback, pricing strategy, and sales targets are all included. The summary also mentions the participants and their contributions clearly. There are no significant grammatical errors or unnatural phrasing, making it a high-quality summary."
+}

@@ -1,0 +1,12 @@
+{
+    "gender mistake": "yes",
+    "justification": "The TRANSCRIPT specifies that the Senior Researcher is female ('Старший исследователь providing a monthly business update to her manager'), but the SUMMARY refers to the Senior Researcher as male ('Старший исследователь (мужчина)'). This is a gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that both the Senior Researcher and the Manager are male ('Старший исследователь (мужчина)' and 'Менеджер (мужчина)'), but the TRANSCRIPT does not provide any information about the gender of the Manager. Therefore, the SUMMARY makes a gender assumption about the Manager without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the completion of the second project phase, the ahead-of-schedule progress, additional funding, potential risks, and the manager's request for updates. The language is clear, coherent, and natural, making it easy to read and understand."
+}

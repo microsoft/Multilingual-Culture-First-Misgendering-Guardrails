@@ -1,0 +1,14 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY correctly identifies the genders of the participants as specified in the TRANSCRIPT. The nurse, محمد, is correctly referred to as male, and the doctors, جهاد and ليلى, are correctly referred to with their respective genders (جهاد's gender is not specified, and ليلى is female). There are no instances of incorrect gender usage."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the nurse (male) and the two doctors (one male, one female) as presented in the TRANSCRIPT. There is no assumption made about the gender of the second doctor, whose gender is not specified in the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants' names and roles, the main issue discussed (lack of medical personnel), and the proposed solutions (collaboration with universities, offering incentives, awareness campaigns, and NGO cooperation). The summary is clear, coherent, and readable, making it an excellent representation of the original transcript."
+}

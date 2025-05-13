@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies Ivan as a male real estate agent and does not assign any specific gender to the two buyers, whose genders are not specified in the TRANSCRIPT. Therefore, there is no gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific gender assumptions about Купувач 1 or Купувач 2. It refers to them as 'лице' (person) without specifying their gender."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is concise, coherent, and captures all the key points from the transcript. It mentions the main features of the house, the buyers' interest, and their interaction with the real estate agent. The summary is readable and natural, making it easy to understand the main events of the conversation."
+}
+```

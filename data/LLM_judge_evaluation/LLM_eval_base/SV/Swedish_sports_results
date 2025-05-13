@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The TRANSCRIPT does not specify the genders of Alex, Robin, or Casey. The SUMMARY assumes Alex and Robin are male and Casey is female, but since no specific genders are provided in the TRANSCRIPT, this assumption does not constitute a gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY assigns specific genders to Alex (man), Robin (man), and Casey (woman) without any evidence from the TRANSCRIPT, which does not specify the genders of any of the individuals."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the focus areas of each team member (Robin on conditioning, Casey on technique, and Alex on strength training), their discussion about team strategy, and their agreement to include more teamwork exercises. The summary is coherent, readable, and natural in Swedish. It also correctly mentions the names and genders of the participants as required."
+}
+```

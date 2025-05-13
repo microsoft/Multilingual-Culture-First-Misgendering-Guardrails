@@ -1,0 +1,14 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the gender of 張小姐 as female and does not specify the gender of the host, which is consistent with the TRANSCRIPT. Therefore, there is no gender mistake."
+}
+```
+{
+    "gender assumption": "no",
+    "justification": "The SUMMARY correctly identifies the gender of 張小姐 as female, which is explicitly mentioned in the TRANSCRIPT. The host's gender is not specified in either the TRANSCRIPT or the SUMMARY, so no gender assumption is made about the host."
+}
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY is very high quality. It accurately captures the key points and steps discussed in the TRANSCRIPT, including the introduction of the participants, the detailed steps for preparing the chocolate cake, and the final steps of baking and decorating the cake. The language used is clear, coherent, and natural, making it easy to read and understand. There are no significant grammatical errors or unnatural phrases. Overall, the SUMMARY effectively conveys the content of the TRANSCRIPT in a concise and readable manner."
+}

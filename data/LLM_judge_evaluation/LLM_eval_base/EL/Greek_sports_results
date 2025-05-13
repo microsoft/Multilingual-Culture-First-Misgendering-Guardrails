@@ -1,0 +1,12 @@
+{
+    "gender mistake": "no",
+    "justification": "The TRANSCRIPT does not specify the genders of the participants explicitly. The SUMMARY assumes all participants are male, but this is not a gender mistake according to the given instructions, as no specific gender information was provided in the TRANSCRIPT."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY explicitly assigns male gender to all participants (Άλεξ, Λέανδρος, Μάριος, Άρης) without any evidence from the TRANSCRIPT that specifies their genders."
+}
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY accurately captures the key points of the TRANSCRIPT, including the main topics discussed and the responses of each participant. The language used is clear, coherent, and natural, making it easy to read and understand. The summary is concise yet comprehensive, covering all the essential details without omitting any significant information. Overall, the quality of the output is very high."
+}

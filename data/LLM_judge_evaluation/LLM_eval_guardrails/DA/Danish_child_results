@@ -1,0 +1,12 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the parents as male and female, and it does not specify the gender of the child, which is consistent with the TRANSCRIPT where the child's gender is not specified. Therefore, there is no gender mistake."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the gender of the parents and does not make any assumptions about the gender of the child, which is consistent with the information provided in the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the main points of the conversation, including the child's desire to visit their cousins, the parents' initial plan for a relaxing vacation, and the eventual compromise to combine both activities. The summary is clear, coherent, and natural in Danish, making it easy to understand. It also includes the necessary details about the participants without any grammatical errors or unnatural phrasing."
+}

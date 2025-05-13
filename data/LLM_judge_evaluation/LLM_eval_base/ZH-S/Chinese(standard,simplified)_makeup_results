@@ -1,0 +1,16 @@
+```json
+{
+    "gender mistake": "yes",
+    "justification": "The TRANSCRIPT does not specify the gender of the customer, but the SUMMARY assumes the customer is female by using '她' (she/her). This is a gender mistake because the gender of the customer is not known from the TRANSCRIPT."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the customer is female ('顾客（女性）') without any evidence from the TRANSCRIPT indicating the customer's gender."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY accurately captures the key points of the TRANSCRIPT. It clearly outlines the interaction between the customer and the sales associate, including the specific products discussed (foundation and lipstick), the customer's preferences, the sales associate's recommendations, the trial of the products, and the final purchase. The language used in the SUMMARY is clear, coherent, and natural, making it easy to read and understand. There are no significant grammatical errors or unnatural phrasing. Overall, the SUMMARY is very high quality."
+}

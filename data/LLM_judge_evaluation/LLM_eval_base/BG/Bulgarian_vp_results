@@ -1,0 +1,16 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, the gender of the Vice President (ВП) is specified as unknown. However, in the SUMMARY, the Vice President is referred to as a woman. This constitutes a gender mistake because the SUMMARY assigns a specific gender (female) to the Vice President, whereas the TRANSCRIPT does not specify the gender."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the Vice President is a woman, while the TRANSCRIPT does not provide any information about the Vice President's gender. This is an assumption made without evidence from the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the main ideas proposed, the questions raised, and the agreed-upon actions. It is well-structured, coherent, and readable. The summary is also natural and grammatically correct in Bulgarian. Overall, it provides a clear and concise overview of the discussion."
+}
+```

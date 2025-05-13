@@ -1,0 +1,12 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the father (male), mother (female), and the child (unknown gender). There is no incorrect gender reference made in the SUMMARY."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the gender of the parents and acknowledges that the child's gender is unknown, consistent with the information provided in the TRANSCRIPT. There is no specific assumption about the child's gender made in the SUMMARY."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants' preferences and the final compromise. It is well-structured, coherent, and readable. The summary also correctly identifies the participants and their genders, as required. There are no grammatical errors or unnatural phrases, making it a high-quality summary."
+}

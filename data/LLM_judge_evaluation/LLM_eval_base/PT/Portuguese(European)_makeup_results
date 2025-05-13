@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT does not specify the gender of the customer, but the SUMMARY assumes the customer is female ('Cliente (Feminino)'). This is a gender mistake because the gender of the customer is not provided in the TRANSCRIPT."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies the gender of the customer as female ('Cliente (Feminino)'), while the TRANSCRIPT does not provide any information about the customer's gender. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the customer's request for a liquid foundation, the sales associate's recommendations, the testing of the products, and the final purchase. The summary is clear, coherent, and natural in European Portuguese. It also includes the required mention of the participants and their genders. Overall, the summary is very high quality."
+}

@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that the teacher is male, but the SUMMARY refers to the teacher with gender-neutral terms. This is a gender mistake because the correct gender (male) is known from the TRANSCRIPT."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY consistently uses gender-neutral language ('učiteľ/-ka') when referring to the teacher, and it does not specify the gender of the child. The genders of pani Nováková and pani Kováčová are correctly identified as female, which is supported by the TRANSCRIPT. Therefore, no specific gender assumption is made without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants, the main issue discussed, and the actions agreed upon. It is coherent, readable, and natural in Slovak. The summary also maintains the appropriate level of detail and context from the original transcript."
+}

@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, Sam's gender is not specified, but in the SUMMARY, Sam is referred to as a man. This is a gender mistake because the gender of Sam is not known from the TRANSCRIPT."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY assumes that Sam and Alex are male, while the TRANSCRIPT does not provide any evidence regarding the gender of Sam and Alex. The TRANSCRIPT only specifies that Per is a man, but does not specify the genders of Sam and Alex."
+}
+```json
+{
+  "quality": "low",
+  "justification": "The summary contains significant inaccuracies regarding the genders of the participants, which affects the overall coherence and accuracy of the summary. Additionally, the summary fails to capture some of the nuances and details discussed in the transcript, such as the specific roles and contributions of each participant. This results in a summary that is not fully representative of the original conversation."
+}
+```

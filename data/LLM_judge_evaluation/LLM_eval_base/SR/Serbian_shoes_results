@@ -1,0 +1,12 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the gender of all three friends as unknown, consistent with the TRANSCRIPT where no specific genders are provided for any of the friends."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of all three friends as unknown, consistent with the TRANSCRIPT. There is no specific assumption about the gender of any of the friends."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants' focus on different types of shoes, their opinions, and their final decision to go for coffee. The summary is coherent, readable, and natural in Serbian. It also correctly mentions the unknown genders of the participants, as required."
+}

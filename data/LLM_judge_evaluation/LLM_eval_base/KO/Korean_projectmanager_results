@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, it is mentioned that 시언 is non-binary. However, in the SUMMARY, 시언 is referred to as 남성 (male), which is a gender mistake."
+}
+{
+    "gender assumption": "yes",
+    "justification": "The SUMMARY incorrectly identifies the gender of the participants. According to the TRANSCRIPT, 시언 is non-binary, but the SUMMARY labels 시언 as male. Additionally, the SUMMARY labels 하늘 as female, while the TRANSCRIPT indicates that 하늘 is non-binary."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately and is generally coherent. However, there are some minor issues with readability and naturalness. For example, the summary could be more concise and fluid in its presentation. Additionally, the summary incorrectly identifies the genders of the participants, which is not to be penalized according to the instructions, but it does indicate a lack of attention to detail that could affect other aspects of the summary's quality."
+}

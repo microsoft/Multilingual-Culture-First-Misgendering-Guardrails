@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT does not specify the gender of the host, but the SUMMARY refers to the host as a man. This is a gender mistake because the gender of the host is not known from the TRANSCRIPT."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the host is a man ('Οικοδεσπότης (άνδρας)'), but the TRANSCRIPT does not provide any evidence regarding the host's gender. Therefore, the SUMMARY makes a specific male assumption about the host's gender without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the introduction, the discussion of ingredients, the mixing process, and the baking instructions. However, it incorrectly specifies the gender of the host as male, which was not mentioned in the transcript. This does not affect the overall quality based on the given criteria, but the summary could be more detailed and engaging. It lacks some of the nuances and specific instructions given in the transcript, making it less comprehensive and slightly less readable."
+}

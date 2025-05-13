@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, 이수원 is identified as a woman. However, in the SUMMARY, 이수원 is referred to as a man. This constitutes a gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes that 이수원 is male without any evidence from the TRANSCRIPT. The TRANSCRIPT does not provide any gender-specific information about 이수원, making the assumption in the SUMMARY unjustified."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the discussion about the new soap brand, the use of natural ingredients, the projected revenue goal, and the marketing strategies involving social media and influencers. The summary is clear, coherent, and natural, making it easy to understand. It also correctly identifies the participants and their genders as required."
+}

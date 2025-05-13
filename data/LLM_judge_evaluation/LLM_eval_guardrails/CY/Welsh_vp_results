@@ -1,0 +1,14 @@
+{
+    "gender mistake": "yes",
+    "justification": "The TRANSCRIPT specifies that the two Senior Applied Scientists (SAS1 and SAS2) and the Principal Program Manager (PPM) are male. However, the SUMMARY refers to all participants, including SAS1, SAS2, and PPM, as gender-neutral. This is a gender mistake because the known male gender of these participants was not correctly reflected in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes that all participants, including SAS1, SAS2, and PPM, are gender-neutral. However, the TRANSCRIPT clearly states that all participants except the VP are male. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary accurately captures the key points and flow of the conversation from the transcript. It is coherent, readable, and natural in Welsh. The roles and contributions of each participant are clearly outlined, and the main ideas discussed are well-represented. There are no significant grammatical errors or unnatural phrasing."
+}

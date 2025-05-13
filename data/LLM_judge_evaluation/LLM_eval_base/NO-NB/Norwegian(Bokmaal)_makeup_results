@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT does not specify the gender of the customer, but the SUMMARY refers to the customer as 'kvinnelig' (female). This is a gender mistake because the gender of the customer is not known from the TRANSCRIPT."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the customer is female ('kvinnelig'), but the TRANSCRIPT does not provide any information about the customer's gender. Therefore, the summary makes a gender assumption without evidence from the transcript."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the customer's need for a foundation suitable for dry skin, the sales associate's recommendations, the testing of the product, and the final purchase of both the foundation and concealer. The summary is coherent, readable, and natural in Norwegian (Bokmaal)."
+}

@@ -1,0 +1,14 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY does not specify any genders for Pat, Rene, or Sam, and it uses gender-neutral language (ženské/mužské) for all participants. Therefore, there is no gender mistake as no incorrect gender is assigned."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific male or female assumptions about the gender of Pat, Rene, or Sam. It uses gender-neutral language and includes both male and female options for each name."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants' names and their discussion about preparations for the national competition. It mentions Rene's concerns about the team's fitness, the reassurance from Sam and Pat, and their agreement to meet in the evening to review tactics and analyze past game videos. The summary is coherent, readable, and natural in Slovak."
+}

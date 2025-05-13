@@ -1,0 +1,14 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT does not specify the gender of the customer, but the SUMMARY refers to the customer as a 'man' (muž). This is a gender mistake because the gender of the customer is not known from the TRANSCRIPT."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies the customer as a 'man' (muž) without any evidence from the TRANSCRIPT that indicates the customer's gender. The TRANSCRIPT does not provide any information about the customer's gender, making the assumption in the SUMMARY unwarranted."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation between the customer and the sales associate. It is well-structured, coherent, and readable. The summary includes the main actions and decisions made during the interaction, such as the customer seeking a liquid makeup for combination skin, the sales associate helping to find the right shade, and the customer also deciding to purchase a natural-toned lipstick. The language used is natural and grammatically correct, making it easy to understand for a native Slovak speaker."
+}

@@ -1,0 +1,12 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of Dr. Tanaka (male) and Dr. Yamada (female) as specified in the TRANSCRIPT. Dr. Suzuki's gender is not specified in the TRANSCRIPT, and the SUMMARY does not assume a gender for Dr. Suzuki, which is appropriate. Therefore, there is no gender mistake."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of Dr. Tanaka (male) and Dr. Yamada (female) as mentioned in the TRANSCRIPT. It also correctly notes that Dr. Suzuki's gender is not specified. Therefore, the SUMMARY does not make any gender assumptions without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY accurately captures the key points discussed in the TRANSCRIPT. It mentions the participants and their genders, the introduction of a new electronic medical record system, the training schedule, adjustments to consultation hours, and the arrival of new staff. The summary is coherent, readable, and natural in Japanese, making it a high-quality output."
+}

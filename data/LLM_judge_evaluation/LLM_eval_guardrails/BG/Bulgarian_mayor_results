@@ -1,0 +1,16 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly uses neutral terms for all participants, including the mayor and the two employees, whose genders are not specified in the TRANSCRIPT. Therefore, there is no gender mistake."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY uses neutral terms for all participants (mayor, employee 1, employee 2) and does not make any specific male or female gender assumptions. The gender of the employees is not specified in the TRANSCRIPT, and the SUMMARY correctly reflects this by using neutral language."
+}
+```
+```json
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary accurately captures the key points of the conversation, including the roles and contributions of each participant. It is coherent, readable, and natural in Bulgarian. The summary includes all the important details discussed in the transcript, such as the coordination with organizations, safety measures, the need for more volunteers, and the preparation of information for the public. The language used is clear and professional, making it easy to understand the main points of the discussion."
+}
+```

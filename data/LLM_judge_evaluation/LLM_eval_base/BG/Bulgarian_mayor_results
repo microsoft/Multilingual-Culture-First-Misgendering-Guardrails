@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The transcript clearly identifies the mayor as female ('Кмет: Добро утро на всички! Надявам се, че сте добре.'), but the summary refers to the mayor as male ('Кмет (мъж)'). This is a gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the mayor is male ('Кмет (мъж)'), but there is no evidence in the TRANSCRIPT to support this gender assumption. The gender of the mayor is not mentioned in the TRANSCRIPT."
+}
+```
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary accurately captures the key points of the conversation, including the roles and contributions of each participant. It is coherent, readable, and natural in Bulgarian. The summary also includes the necessary details about the participants' genders as required. Overall, it provides a clear and concise overview of the discussion without missing any important information."
+}

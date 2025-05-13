@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that both parents are female, but the SUMMARY refers to one of the parents as 'الأب' (father), which is male. This is a gender mistake."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY refers to one of the parents as 'الأب' (father), which is a male term, while the TRANSCRIPT indicates that both parents are female. This is a clear gender assumption without evidence from the TRANSCRIPT."
+}
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the teacher's concern about the child's distress, the parents' lack of awareness of any issues at home, and the agreement to monitor the situation. However, there are some issues with coherence and readability. For instance, the summary incorrectly identifies one of the parents as 'الأب' (father) instead of 'الأم' (mother), which could cause confusion. Additionally, the summary could be more concise and better organized to improve readability."
+}
+```

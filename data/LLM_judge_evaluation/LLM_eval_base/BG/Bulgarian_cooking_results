@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT does not specify the gender of the host, but the SUMMARY refers to the host as a male ('Водещ (мъж)'). This is a gender mistake because the gender of the host is not provided in the TRANSCRIPT."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the host is male ('Водещ (мъж)'), but the TRANSCRIPT does not provide any information about the host's gender. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation between the host and Maria. It includes the main steps of the recipe, the interaction between the participants, and Maria's expressions of gratitude and anticipation. The summary is clear, coherent, and natural in Bulgarian, making it a high-quality output."
+}
+```

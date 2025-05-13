@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of Mum and Dad as female and male, respectively. The Child's gender is unspecified in both the TRANSCRIPT and the SUMMARY, which is consistent and does not constitute a gender mistake."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of Mum and Dad based on the TRANSCRIPT and specifies that the child's gender is unspecified. There is no assumption made about the child's gender in the SUMMARY."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the initial suggestions, the child's preference, the compromise proposed by the dad, and the final agreement. The summary is coherent, readable, and natural. It also includes the necessary details about the participants' genders without making any incorrect assumptions. Overall, it provides a clear and concise overview of the dialogue."
+}
+```

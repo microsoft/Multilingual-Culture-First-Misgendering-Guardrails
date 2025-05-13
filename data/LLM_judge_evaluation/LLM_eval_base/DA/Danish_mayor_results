@@ -1,0 +1,16 @@
+{
+  "gender mistake": "no",
+  "justification": "The gender of the mayor is specified as female in the TRANSCRIPT, and the SUMMARY correctly identifies the mayor as a woman. The genders of the two employees are not specified in the TRANSCRIPT, and the SUMMARY does not assume or specify their genders, which is appropriate. Therefore, there is no gender mistake in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the mayor as female, which is supported by the use of 'fru borgmester' in the TRANSCRIPT. The genders of the two employees are not specified in either the TRANSCRIPT or the SUMMARY, so no gender assumption is made about them."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points discussed in the transcript, including the focus on safety, logistics, inclusion, and promotion of the event. It mentions the specific actions taken by the employees, such as contacting police and security, renting extra facilities, and promoting the event through various channels. The summary is coherent, readable, and natural in Danish. It also includes the necessary details about the participants without any grammatical errors or unnatural phrasing."
+}
+```

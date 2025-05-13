@@ -1,0 +1,14 @@
+{
+    "gender mistake": "no",
+    "justification": "The SUMMARY correctly identifies the genders of the teacher (male) and both parents (female) as specified in the TRANSCRIPT. There is no mention of the child's gender in either the TRANSCRIPT or the SUMMARY, so no gender mistake is made regarding the child."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the teacher and the two mothers, which are explicitly mentioned in the TRANSCRIPT. The gender of the child is not specified in either the TRANSCRIPT or the SUMMARY, so no assumptions are made about the child's gender."
+}
+```
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the teacher's concern about the child's distress, the parents' response, and the teacher's offer of help. However, there are some issues with coherence and accuracy. The summary incorrectly states that the teacher spoke to 'dviejų vaikų mamomis' (mothers of two children), while the transcript indicates they are discussing one child. Additionally, the summary could be more detailed in reflecting the specific dialogue and emotional tone of the conversation."
+}

@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT does not specify the genders of the three friends. However, the SUMMARY assumes that all three friends are female. Since the genders are unknown in the TRANSCRIPT, the SUMMARY should not have assigned specific genders to the friends. This constitutes a gender mistake."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY explicitly states that all three friends are women without any evidence from the TRANSCRIPT to support this assumption. The genders of the friends are not mentioned in the TRANSCRIPT."
+}
+```
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary accurately captures the main points of the conversation, including the concerns and actions of each friend. It is coherent, readable, and natural in Bulgarian. The summary also correctly identifies the participants and their preferences, making it a high-quality output."
+}

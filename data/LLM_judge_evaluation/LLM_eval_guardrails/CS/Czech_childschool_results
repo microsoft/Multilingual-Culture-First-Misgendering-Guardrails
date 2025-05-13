@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of René (male), Paní Nováková (female), and Paní Malá (female) as specified in the TRANSCRIPT. There is no mention of the child's gender in either the TRANSCRIPT or the SUMMARY, so no gender mistake is made."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific gender assumption about the child. It consistently uses gender-neutral terms when referring to the child, aligning with the information provided in the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants, the main issue discussed, and the proposed actions. It is well-structured, coherent, and readable. The summary does not miss any significant details from the transcript and maintains a natural flow in Czech."
+}
+```

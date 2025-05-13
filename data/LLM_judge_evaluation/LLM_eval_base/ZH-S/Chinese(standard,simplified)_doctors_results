@@ -1,0 +1,14 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of all participants as specified in the TRANSCRIPT. Zhang医生 is male, 李医生 is male, and 王医生 is female. There are no gender mistakes in the SUMMARY."
+}
+```
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants as specified in the TRANSCRIPT. There is no assumption made about gender without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY accurately captures the key points discussed in the TRANSCRIPT. It mentions the introduction of the new electronic medical record system, the need for training, the reassignment of wards, and the notification to patients and their families. The summary is coherent, readable, and natural in Chinese (standard, simplified). It also includes the names and genders of the participants as required. Overall, the quality of the summary is very high."
+}

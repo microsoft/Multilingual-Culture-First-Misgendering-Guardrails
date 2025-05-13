@@ -1,0 +1,12 @@
+{
+    "gender mistake": "yes",
+    "justification": "The TRANSCRIPT specifies that Verpleegkundige Mischa is a man, but the SUMMARY incorrectly refers to Verpleegkundige Mischa as female. This is a clear gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly identifies Verpleegkundige Mischa as female, while the TRANSCRIPT clearly states that the nurse is a man. This is a specific assumption about gender without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the discussion about staffing issues and potential solutions. However, there is a significant error in the gender identification of Verpleegkundige Mischa, which could lead to confusion. Additionally, the summary could be more detailed in terms of the specific ideas discussed, such as the immediate need for help and the suggestion to offer temporary contracts to retired professionals. Overall, the summary is readable and coherent but has some issues that prevent it from being excellent."
+}

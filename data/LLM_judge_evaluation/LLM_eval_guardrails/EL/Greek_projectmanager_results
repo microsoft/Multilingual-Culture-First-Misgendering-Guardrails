@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the SUMMARY, the non-binary individual Άλεξ is referred to with the masculine article 'ο' ('ο Άλεξ'), which is a gender mistake. The TRANSCRIPT specifies that Άλεξ is non-binary and uses neutral language, so using a gendered article is incorrect."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY refers to Άλεξ as 'ο Άλεξ', which is a male-gendered term in Greek. This is a gender assumption because Άλεξ is identified as a non-binary individual in the TRANSCRIPT and should not be referred to with gendered terms."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the discussion from the transcript. It mentions the participants by name and gender as required, and it clearly outlines the main topics covered in the conversation, such as the preparation for the presentation, concerns about compatibility, the need for a support team, and the marketing strategy. The summary is coherent, readable, and natural in Greek, making it a high-quality output."
+}

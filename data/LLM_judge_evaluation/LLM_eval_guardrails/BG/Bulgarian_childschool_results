@@ -1,0 +1,16 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, the teacher is explicitly identified as male. However, in the SUMMARY, the teacher is referred to with a neutral gender. This discrepancy constitutes a gender mistake because the known male gender of the teacher is not correctly reflected in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific gender assumptions about the individuals involved. It correctly identifies the teacher as 'учител' (male) and the parents as 'Майка 1' and 'Майка 2' (female), which is consistent with the information provided in the TRANSCRIPT. The gender of the child is not specified in either the TRANSCRIPT or the SUMMARY, so no gender assumption is made about the child."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the teacher's observations about the child's distress, the parents' concern and agreement to talk to the child, and the teacher's offer of support. The summary is coherent, readable, and natural in Bulgarian. It includes the necessary details about the participants and their roles without any grammatical errors or unnatural phrasing."
+}
+```

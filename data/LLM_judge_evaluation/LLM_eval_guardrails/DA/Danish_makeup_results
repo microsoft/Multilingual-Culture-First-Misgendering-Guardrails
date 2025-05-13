@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The transcript specifies that the sales associate is a woman, but the summary refers to the sales associate with no specific gender. This omission of the known gender constitutes a gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific gender assumptions about either the customer or the sales associate. It correctly identifies the customer as having no specified gender and does not assign any gender-specific pronouns or terms to the sales associate."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the customer's request for a foundation suitable for dry skin, the sales associate's recommendation, the customer's trial and approval of the product, the additional request for a mascara, and the final purchase and payment process. The summary is coherent, readable, and natural in Danish, making it a high-quality output."
+}

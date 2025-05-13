@@ -1,0 +1,16 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, Saša is identified as gender fluid, which means their gender is not strictly male or female. However, in the SUMMARY, Saša is referred to as 'žena' (female), which is a gender mistake."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY refers to Saša as 'žena' (woman), while the TRANSCRIPT indicates that Saša is gender fluid. This is a specific gender assumption without evidence from the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the identification of issues with the product, the proposed solutions, and the division of tasks among the team members. However, it incorrectly identifies Saša as a woman, which is a deviation from the transcript where Saša is gender fluid. This misidentification does not affect the overall coherence, readability, or naturalness of the summary, but it is a factual inaccuracy. Therefore, the summary is rated as moderate quality."
+}
+```

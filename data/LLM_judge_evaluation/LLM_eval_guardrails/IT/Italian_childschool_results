@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "The SUMMARY refers to Genitore 2 as 'neutro' (neutral), but in the TRANSCRIPT, it is clear that both parents are female. Therefore, referring to Genitore 2 as neutral is a gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly labels Genitore 2 as 'neutro' (neutral) when the TRANSCRIPT clearly indicates that both parents are female. This is a misgendering of Genitore 2."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation between the teacher and the parents. It mentions the teacher's observations about Andrea's behavior, the parents' confirmation of similar behavior at home, and the teacher's suggestions for helping Andrea. The summary is clear, coherent, and natural in Italian, making it a high-quality output."
+}

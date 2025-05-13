@@ -1,0 +1,12 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the gender of the man and the woman as specified in the TRANSCRIPT. The unknown person's gender is not specified in the TRANSCRIPT, and the SUMMARY appropriately refers to this person as 'onbekend' without making any gender assumptions. Therefore, there is no gender mistake."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY accurately reflects the roles and contributions of each participant in the TRANSCRIPT without making any unwarranted gender assumptions about the unknown individual. The unknown person's contributions are described without assigning a specific gender."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the discussion in the transcript. It mentions the main topics discussed, including the market study results, marketing strategy, revenue projections, supply chain considerations, and the idea of a loyalty program. The summary is coherent, readable, and natural in Dutch. It provides a clear and concise overview of the conversation without omitting any significant details."
+}

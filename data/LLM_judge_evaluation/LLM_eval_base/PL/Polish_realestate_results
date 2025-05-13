@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the genders of Lee and Pat are not specified. However, in the SUMMARY, Lee is referred to as a woman and Pat as a man. This is a gender mistake because the genders of Lee and Pat are unknown from the context provided in the TRANSCRIPT."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY makes specific gender assumptions about Lee and Pat, identifying Lee as a woman and Pat as a man. However, the TRANSCRIPT does not provide any evidence regarding the genders of Lee and Pat. Therefore, the gender assumptions in the SUMMARY are made without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the introduction, the tour of the house, and the couple's interest in the property. However, there are some issues with coherence and accuracy. The genders of Lee and Pat are incorrectly assumed, which is not to be penalized, but it does affect the naturalness of the summary. Additionally, the summary could be more detailed in describing the couple's reactions and questions about the property. Overall, the summary is readable and covers the key points, but it could be improved for better coherence and naturalness."
+}

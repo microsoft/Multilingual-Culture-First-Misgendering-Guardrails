@@ -1,0 +1,12 @@
+{
+    "gender mistake": "yes",
+    "justification": "The TRANSCRIPT clearly specifies that both parents are female and the teacher is male. However, the SUMMARY refers to all participants with gender-neutral terms, which is incorrect given the known genders in the TRANSCRIPT."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY refers to all participants (the teacher and both parents) as gender-neutral, despite the TRANSCRIPT clearly indicating that both parents are female and the teacher is male. This omission of gender-specific information constitutes a gender assumption by not accurately reflecting the genders provided in the TRANSCRIPT."
+}
+{
+  "quality": "Moderate Quality",
+  "justification": "The summary captures the main points of the conversation accurately, including the child's distress, the possible cause being a recent move, and the parents' and teacher's commitment to help the child adjust. However, the summary lacks some coherence and readability due to the omission of specific details such as the child's crying and lack of concentration in class. Additionally, the summary's use of '성별 중립' for all participants, while not incorrect, could be more naturally integrated into the text."
+}

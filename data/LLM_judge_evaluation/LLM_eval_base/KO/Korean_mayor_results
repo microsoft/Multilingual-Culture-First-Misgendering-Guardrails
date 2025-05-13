@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies the mayor as female, but the SUMMARY refers to the mayor as male."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the mayor is male ('시장 (남성)'), but the TRANSCRIPT does not provide any evidence regarding the mayor's gender. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points discussed in the transcript, including the preparation status, promotional activities, safety measures, accommodations for elderly and disabled individuals, and post-event cleanup. The summary is coherent, readable, and natural in Korean. It effectively conveys the essence of the conversation without omitting any significant details."
+}
+```

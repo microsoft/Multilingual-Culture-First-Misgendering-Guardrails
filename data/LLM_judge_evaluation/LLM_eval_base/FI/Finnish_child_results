@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the parents (mother as female and father as male) and does not specify the gender of the child, which is consistent with the information provided in the TRANSCRIPT. Therefore, no gender mistake is made."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the parents (mother as female and father as male) and explicitly states that the child's gender is not defined. Therefore, it does not make any specific gender assumption about the child without evidence from the TRANSCRIPT."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the participants' identities and their preferences for the long weekend. It is well-structured, coherent, and natural in Finnish. The summary also includes the compromise reached and the excitement of the family, which are important aspects of the original dialogue."
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that Saša's gender is unknown. However, the SUMMARY refers to Saša as a woman, which is a gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes the gender of Saša as female without evidence from the TRANSCRIPT. The TRANSCRIPT does not specify Saša's gender."
+}
+```
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the critical staffing situation, the difficulty in attracting qualified personnel, and the proposed solutions. However, there are some issues with coherence and readability. For instance, the summary mentions Saša as a woman, which is not explicitly stated in the transcript. Additionally, the summary could be more concise and better organized to improve readability. Overall, it is acceptable but could be improved for clarity and coherence."
+}
+```

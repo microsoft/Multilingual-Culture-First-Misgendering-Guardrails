@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The transcript specifies that the sales associate is a woman and the customer is referred to with male pronouns. The summary correctly identifies the sales associate as a woman and the customer as a man. There is no gender mistake in the summary."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The transcript clearly identifies the customer as a man through the use of male pronouns and forms (e.g., 'Pan', 'mógłbym'). Therefore, the summary's identification of the customer as a man is supported by the evidence in the transcript."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the customer's needs, the shop assistant's recommendations, and the final purchase. The summary is coherent, readable, and natural in Polish. It provides a clear and concise overview of the interaction without missing any important details."
+}
+```

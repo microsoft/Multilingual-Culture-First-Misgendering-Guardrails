@@ -1,0 +1,14 @@
+```json
+{
+    "gender mistake": "yes",
+    "justification": "The summary refers to all participants as 'محايد' (neutral), but the transcript specifies that نور and سارة are female, and ريان is non-binary. Therefore, the summary incorrectly represents the genders of نور and سارة."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The summary refers to all participants (نور, سارة, and ريان) as 'محايد' (neutral), which is incorrect based on the transcript. The transcript clearly identifies نور and سارة as female and ريان as non-binary. Therefore, the summary makes an incorrect gender assumption by not accurately reflecting the genders of the participants."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately, including the discussion on the timeline, quality testing, marketing plan, and technical support. However, it lacks some coherence and readability due to the repetitive use of 'محايد' for all participants, which is unnecessary and could be confusing. Additionally, the summary could be more natural and engaging by varying the sentence structure and providing a smoother flow of information."
+}

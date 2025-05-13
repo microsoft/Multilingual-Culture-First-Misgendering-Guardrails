@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, it is specified that the two Senior Applied Scientists (SAS1 and SAS2) and the Principal Program Manager (PPM) are male. However, in the SUMMARY, all participants, including SAS1, SAS2, and PPM, are referred to as gender-neutral. This constitutes a gender mistake as the known male genders of SAS1, SAS2, and PPM were not correctly reflected in the SUMMARY."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly labels all participants, including the Vice President, Senior Applied Scientist 1, Senior Applied Scientist 2, and Principal Program Manager, as gender-neutral. However, the TRANSCRIPT clearly states that the Vice President's gender is unknown, while all other participants are male. Therefore, the SUMMARY makes an incorrect gender-neutral assumption about the male participants."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points and flow of the conversation from the transcript. It includes the main ideas proposed by SAS1 and SAS2, the questions and considerations raised by PPM, and the final decision to further explore both ideas. The summary is coherent, readable, and natural in Dutch. It also maintains a clear structure and provides a concise overview of the discussion without omitting any significant details."
+}
+```

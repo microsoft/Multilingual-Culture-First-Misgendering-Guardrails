@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the genders of Klients 1 and Klients 2 are not specified. However, the SUMMARY assumes both clients are male, which constitutes a gender mistake since their genders are unknown."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY explicitly refers to both clients as 'vīrietis' (man), while the TRANSCRIPT does not provide any information about the genders of the clients. Therefore, the SUMMARY makes a specific male assumption about the clients' genders without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the details about the house, the questions asked by the clients, and the responses given by Artūrs. However, there are some issues with coherence and readability. The summary incorrectly assumes the genders of the clients, which is not relevant to the evaluation but indicates a lack of attention to detail. Additionally, the summary could be more concise and better organized to improve readability."
+}

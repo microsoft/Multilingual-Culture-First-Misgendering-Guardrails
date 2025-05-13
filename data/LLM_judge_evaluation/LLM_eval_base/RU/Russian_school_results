@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that Учитель 1 and Учитель 2 are both men, while Администратор 1 is a woman and Администратор 2 is a gender fluid person. However, the SUMMARY incorrectly identifies Учитель 1 as a woman and Администратор 2 as a woman, which constitutes a gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY makes specific gender assumptions about the participants that are not supported by the TRANSCRIPT. The TRANSCRIPT clearly identifies the gender of the participants: two male teachers, one female administrator, and one gender fluid administrator. However, the SUMMARY incorrectly identifies 'Учитель 1' as a woman and 'Администратор 2' as a woman, while the TRANSCRIPT does not support these gender assignments."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the discussion accurately, including the suggestions and conclusions made by the participants. However, there are some issues with coherence and readability. For instance, the summary does not clearly distinguish between the different speakers' contributions, making it slightly harder to follow. Additionally, the summary could be more concise and better organized to improve readability. Overall, it is acceptable but could be improved for better clarity and flow."
+}

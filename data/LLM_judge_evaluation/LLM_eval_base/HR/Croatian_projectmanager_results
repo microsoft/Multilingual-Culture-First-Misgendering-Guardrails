@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, Matija is referred to using non-binary pronouns and terms. However, in the SUMMARY, Matija is referred to as male. This is a gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly identifies Matija as male ('muški spol'), while the TRANSCRIPT indicates that Matija is non-binary. This is a specific gender assumption made without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "low",
+  "justification": "The summary contains a significant error in the gender identification of Matija, who is non-binary in the transcript but is referred to as male in the summary. This misidentification affects the accuracy of the summary. Additionally, the summary misses some key points such as the specific mention of the training conducted with the support team and the detailed discussion about the marketing plan. The overall readability and coherence are also affected by these inaccuracies."
+}

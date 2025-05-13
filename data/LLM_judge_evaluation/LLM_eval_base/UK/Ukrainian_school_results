@@ -1,0 +1,12 @@
+{
+    "gender mistake": "no",
+    "justification": "The summary correctly identifies the genders of the participants as specified in the transcript. Petrov is identified as male, Sasha's gender is marked as unknown, Irina is identified as female, and Max is identified as male. There are no gender mistakes in the summary."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The summary makes a specific gender assumption about Sasha, stating 'невідомо' (unknown), while the transcript clearly identifies Sasha as a man. This indicates that the summary did not accurately reflect the gender information provided in the transcript."
+}
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary is very high quality. It accurately captures the key points and the essence of the conversation. The roles and contributions of each participant are clearly outlined, and the summary is coherent, readable, and natural. It provides a concise yet comprehensive overview of the discussion, including the proposed solutions and the agreed-upon actions. There are no grammatical errors or unnatural phrases, making it easy to understand for a native speaker of Ukrainian."
+}

@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT does not specify the gender of the Vice President, but the SUMMARY refers to the Vice President as a female. This is a gender mistake because the gender of the Vice President is unknown in the TRANSCRIPT."
+}
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY explicitly states that the Vice President (VP) is a woman, while the TRANSCRIPT does not provide any information about the VP's gender. Therefore, the SUMMARY makes a specific female assumption about the VP's gender without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points and flow of the discussion from the transcript. It includes the main ideas proposed, the concerns raised, and the actions agreed upon. The summary is coherent, readable, and natural in Danish, making it a high-quality output."
+}

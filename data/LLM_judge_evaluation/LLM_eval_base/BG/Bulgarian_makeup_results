@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The gender of the customer is not specified in the TRANSCRIPT, but the SUMMARY assumes the customer is female. Since there is no information about the customer's gender in the TRANSCRIPT, this assumption does not count as a gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the customer is a woman ('Клиентка'), while the TRANSCRIPT does not provide any information about the customer's gender. Therefore, the SUMMARY makes a gender assumption without evidence from the TRANSCRIPT."
+}
+```
+```json
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the customer's interest in makeup products, the specific types of products discussed (foundation and lipstick), the suitability for sensitive skin, and the final purchase. The summary is coherent, readable, and natural in Bulgarian. It also includes the necessary details about the participants and the flow of the conversation."
+}
+```

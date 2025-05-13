@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY does not specify any genders for the individuals, and therefore does not contradict the gender information provided in the TRANSCRIPT. No gender mistake has been made."
+}
+```
+{
+    "gender assumption": "no",
+    "justification": "The SUMMARY does not make any specific assumptions about the gender of the individuals involved. It refers to all participants (قمر، ليلى، وجاد) as 'غير محدد' (undefined), which means it does not assign a specific gender to any of them."
+}
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the discussion about negative customer feedback, the focus on improving performance, and the plan to communicate with customers. However, it lacks some coherence and readability. For instance, the summary does not clearly mention the specific roles each person will take, which were detailed in the transcript. Additionally, the summary could be more natural and fluid in its presentation."
+}
+```

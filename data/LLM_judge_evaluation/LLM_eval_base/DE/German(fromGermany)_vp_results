@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "The SUMMARY incorrectly identifies the gender of the Vice President (VP) as female and Senior Applied Scientist 2 (SAS2) as female. In the TRANSCRIPT, the gender of the Vice President is unknown, and SAS2 is explicitly mentioned as male."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes the gender of the Vice President as female and Senior Applied Scientist 2 as female, while the TRANSCRIPT does not provide any evidence to support these gender assumptions. The TRANSCRIPT explicitly states that the Vice President's gender is unknown and all other participants except the Vice President are male."
+}
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the discussion accurately, including the ideas proposed and the responses from the participants. However, there are some issues with coherence and readability. The summary could be more concise and better structured to improve its naturalness. Additionally, the summary incorrectly mentions the genders of the participants, but this does not affect the overall quality evaluation as per the given instructions."
+}
+```

@@ -1,0 +1,12 @@
+{
+    "gender mistake": "yes",
+    "justification": "The transcript specifies that the sales associate is a woman, but the summary states that the sales associate's gender is not defined. This is a gender mistake because the known gender of the sales associate is not correctly reflected in the summary."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY states that the sales associate's gender is not defined, but the TRANSCRIPT clearly identifies the sales associate as a woman. Therefore, the SUMMARY incorrectly omits this information, leading to a misrepresentation of the gender of the sales associate."
+}
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the customer's request for help with foundation, the testing of different shades, and the purchase of a recommended mascara. However, it lacks some details that would make it more coherent and natural, such as the specific interaction about the foundation shades being too light or dark and the final application on the customer's face. Additionally, the summary incorrectly states that the sales associate's gender is not defined, which is inconsistent with the transcript."
+}

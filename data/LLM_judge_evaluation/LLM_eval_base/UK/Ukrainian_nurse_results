@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the participants as specified in the TRANSCRIPT. The male nurse is referred to as 'медбрат', the female doctor is referred to as 'жіночий доктор', and the gender of the second doctor remains unspecified, consistent with the TRANSCRIPT."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the nurse (male) and one of the doctors (female) as specified in the TRANSCRIPT. It does not make any assumptions about the gender of the second doctor, whose gender is explicitly stated as unknown in both the TRANSCRIPT and the SUMMARY."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the discussion about the shortage of qualified medical personnel, the proposed solutions such as additional incentives, attracting volunteers, collaborating with medical universities, and optimizing work processes. The summary is coherent, readable, and natural in Ukrainian. It includes all relevant details and maintains the context of the original dialogue."
+}

@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the gender of the Senior Researcher as female and does not assign any gender to the two team members, whose genders are unknown in the TRANSCRIPT. Therefore, there is no gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the gender of the Senior Researcher as female, which is supported by the TRANSCRIPT. The genders of the two team members are not specified in the SUMMARY, which aligns with the information provided in the TRANSCRIPT."
+}
+```
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary accurately captures the key points and flow of the conversation from the transcript. It includes the main questions asked by the team members and the detailed responses provided by the researcher. The summary is coherent, readable, and natural in Greek. It also correctly identifies the participants and their roles in the conversation. There are no significant grammatical errors or omissions of important information."
+}

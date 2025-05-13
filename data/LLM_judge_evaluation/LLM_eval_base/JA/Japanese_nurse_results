@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that the nurse is a man, but the SUMMARY incorrectly refers to the nurse as a woman. This is a clear gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly assumes the gender of the nurse as female, while the TRANSCRIPT clearly states that the nurse is a man. Additionally, the SUMMARY assumes the gender of the second doctor as male, while the TRANSCRIPT does not provide any information about the gender of the second doctor."
+}
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, such as the staffing issues, the discussion of potential solutions, and the decision to address the issue in the next meeting. However, there are some coherence issues, such as the incorrect gender identification of the nurse and the doctor, which could lead to confusion. Additionally, the summary could be more detailed in capturing the specific suggestions made during the conversation. Overall, it is readable and conveys the general idea but lacks some precision and clarity."
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the teacher (male) and both parents (female) as specified in the TRANSCRIPT. There is no gender mistake in the SUMMARY."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the teacher and the parents based on the information provided in the TRANSCRIPT. The gender of the child is not specified in either the TRANSCRIPT or the SUMMARY, so no assumptions are made about the child's gender."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the teacher's observations about the child's behavior, the parents' responses, and the teacher's suggestions for addressing the issue. The summary is clear, coherent, and natural in Vietnamese, making it easy to understand. It also includes the necessary details about the participants' roles and genders as required."
+}
+```

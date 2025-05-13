@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the sales associate is clearly identified as a woman ('Verkaufspersonal' is referred to with female pronouns and actions). However, in the SUMMARY, the sales associate is referred to in a gender-neutral manner. This constitutes a gender mistake as the known gender (female) is not correctly reflected in the SUMMARY."
+}
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY uses gender-neutral language for both the customer and the sales associate, without making any specific assumptions about their gender. This is consistent with the TRANSCRIPT, where the customer's gender is not specified, and the sales associate's gender is mentioned but not assumed in the SUMMARY."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the customer's request for a foundation and lipstick, the sales associate's recommendations, and the final purchase. The summary is coherent, readable, and natural in Swiss standard German. It also maintains a neutral tone and does not miss any significant details from the transcript."
+}
+```

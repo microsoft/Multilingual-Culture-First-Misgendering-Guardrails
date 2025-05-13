@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the parents (female for 'μαμά' and male for 'μπαμπάς') and does not assign a specific gender to Άλεξ, whose gender is unknown in the TRANSCRIPT. Therefore, there is no gender mistake."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the gender of the parents and refers to Alex with a neutral term, which is consistent with the TRANSCRIPT where Alex's gender is not specified. Therefore, no specific gender assumption is made about Alex without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the main points of the conversation, including the initial request by Alex, the parents' desire for relaxation, and the compromise they reached. It is well-structured, coherent, and natural in Greek. The summary is concise and includes all key details from the transcript, making it a high-quality output."
+}

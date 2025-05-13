@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of all individuals mentioned in the TRANSCRIPT. The teacher, Hr. Pedersen, is referred to as male, and both parents, Maria and Louise, are referred to as female. The gender of the child is not specified in the TRANSCRIPT, and the SUMMARY does not make any assumptions about the child's gender. Therefore, there is no gender mistake."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific gender assumption about the child. It consistently refers to the child in a gender-neutral manner, using terms like 'barnet' and 'det'. The genders of the teacher and the parents are correctly identified based on the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the participants, the child's distress, the parents' concerns, and the teacher's suggestions. The summary is coherent, readable, and natural in Danish. It provides a clear and concise overview of the dialogue without missing any important details."
+}

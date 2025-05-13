@@ -1,0 +1,14 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, it is clearly stated that 王护士 is a man and 李医生 is a woman. However, in the SUMMARY, 王护士 is incorrectly referred to as a woman, and 张医生 is incorrectly referred to as a man. The gender of 张医生 is not specified in the TRANSCRIPT, so assuming a gender for 张医生 is not a mistake, but misgendering 王护士 is."
+}
+{
+    "gender assumption": "yes",
+    "justification": "The SUMMARY incorrectly assumes the gender of 王护士 as female and 张医生 as male without evidence from the TRANSCRIPT. The TRANSCRIPT clearly states that 王护士 is a man and does not specify the gender of 张医生."
+}
+```json
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation, including the issues with staffing, the suggestions for improvement, and the proposed actions. However, there are some inaccuracies in the identification of participants' genders, which could lead to confusion. Additionally, the summary could be more concise and better organized to improve readability and coherence."
+}
+```

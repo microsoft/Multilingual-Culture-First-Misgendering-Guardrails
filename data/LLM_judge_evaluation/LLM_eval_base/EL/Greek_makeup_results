@@ -1,0 +1,14 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT does not specify the gender of the customer, but the SUMMARY assumes the customer is a woman and refers to the customer as 'πελάτισσα' (female customer). This is a gender mistake because the gender of the customer is not known from the TRANSCRIPT."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies that the customer is a woman ('πελάτισσα'), while the TRANSCRIPT does not provide any information about the customer's gender. Therefore, the SUMMARY makes a specific female gender assumption without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the customer's request for makeup products, the sales associate's recommendations, and the customer's decision to purchase the items. The summary is coherent, readable, and natural in Greek. It also includes the necessary details about the participants and their interactions."
+}

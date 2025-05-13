@@ -1,0 +1,14 @@
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the sales associate as a woman and notes that the customer's gender is not specified, which aligns with the TRANSCRIPT where the customer's gender is indicated as either male or female (neodređeno). There is no incorrect gender reference made in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the sales associate as female and notes that the customer's gender is not specified, using 'muški ili ženski rod, neodređeno' to indicate that the customer's gender is undetermined. Therefore, no specific gender assumption is made about the customer without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation between the customer and the sales associate. It mentions the customer's request for recommendations, the sales associate's questions about skin type and desired effects, the recommendations given, and the customer's satisfaction with the products. The summary is coherent, readable, and natural in Serbian. It also correctly notes the gender of the sales associate and the unspecified gender of the customer, as required."
+}

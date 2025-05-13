@@ -1,0 +1,12 @@
+{
+    "gender mistake": "yes",
+    "justification": "In the TRANSCRIPT, Dr. Noor is referred to using male pronouns and context, indicating that Dr. Noor is male. However, in the SUMMARY, Dr. Noor's gender is listed as 'غير محدد' (unspecified), which is incorrect given the information in the TRANSCRIPT."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY specifies the gender of Dr. Ahmed as male and Dr. Leila as female, which is consistent with the TRANSCRIPT. However, it leaves Dr. Noor's gender as unspecified, even though the TRANSCRIPT clearly identifies Dr. Noor as male. This indicates a gender assumption about Dr. Noor without evidence from the TRANSCRIPT."
+}
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points discussed in the transcript, including the administrative changes, the update to the electronic booking system, and the doctors' mixed feelings of optimism and concern. It also emphasizes the need for cooperation to ensure a smooth transition and improved patient services. The summary is clear, coherent, and natural in its presentation."
+}

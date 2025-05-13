@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, it is clearly mentioned that the sales associate (verkoper) is a woman. However, in the SUMMARY, the sales associate is referred to as gender-neutral. This constitutes a gender mistake as the known gender of the sales associate is not correctly reflected in the SUMMARY."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The transcript specifies that the sales associate is a woman, but the summary refers to the sales associate as gender-neutral. This indicates that the summary makes a gender-neutral assumption about the sales associate despite the evidence in the transcript."
+}
+{
+  "quality": "Excellent Quality",
+  "justification": "The summary is very high quality. It captures all the key points of the conversation, including the customer's needs, the products recommended by the sales associate, the testing process, the pricing, and the final purchase decision. The summary is coherent, readable, and natural in Dutch. It provides a clear and concise overview of the interaction without missing any important details."
+}

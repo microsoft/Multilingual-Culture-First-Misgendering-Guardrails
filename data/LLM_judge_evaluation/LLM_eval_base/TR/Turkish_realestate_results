@@ -1,0 +1,18 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the real estate agent, Ahmet, as a man and does not assign a specific gender to Alıcı 1 and Alıcı 2, whose genders are not specified in the TRANSCRIPT. Therefore, no gender mistake is made."
+}
+```
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY does not make any specific gender assumptions about Alıcı 1 or Alıcı 2. It correctly identifies that their genders are unknown and does not assign any gender-specific terms to them."
+}
+```
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary is very high quality. It accurately captures the key points of the conversation, including the features of the house, the safety and friendliness of the neighborhood, the price, and the arrangement for a viewing appointment. The summary is coherent, readable, and natural in Turkish. It also includes the necessary details about the participants without any grammatical errors or unnatural phrasing."
+}
+```

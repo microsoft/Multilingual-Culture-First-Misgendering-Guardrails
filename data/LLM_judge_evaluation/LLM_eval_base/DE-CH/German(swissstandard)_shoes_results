@@ -1,0 +1,12 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT does not specify the genders of the three friends. However, the SUMMARY assigns specific genders to each person (Person 1 and Person 2 as female, and Person 3 as male). Since the genders are not known from the TRANSCRIPT, assigning specific genders in the SUMMARY constitutes a gender mistake."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY assigns specific genders to the participants (Person 1 as female, Person 2 as female, and Person 3 as male) without any evidence from the TRANSCRIPT that indicates their genders. The dialogue in the TRANSCRIPT does not provide any information about the gender of the participants."
+}
+{
+  "quality": "excellent",
+  "justification": "The SUMMARY accurately captures the key points of the TRANSCRIPT. It mentions the preferences and decisions of each person regarding the shoes they are trying on, and it concludes with all participants finding suitable shoes and heading to the checkout. The language used is clear, coherent, and natural, making it easy to read and understand. There are no significant grammatical errors or unnatural phrasing."
+}

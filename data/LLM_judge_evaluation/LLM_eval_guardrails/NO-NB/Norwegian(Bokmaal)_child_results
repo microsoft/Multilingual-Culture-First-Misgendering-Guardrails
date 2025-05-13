@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the parents (male and female) and does not specify the gender of the child, which is consistent with the TRANSCRIPT where the child's gender is not specified."
+}
+```
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the gender of the parents and does not make any gender assumptions about the child, whose gender is not specified in the TRANSCRIPT."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the main points of the conversation, including the initial suggestions, the child's preference, the parents' desire for relaxation, and the final compromise. It is well-written, coherent, and natural in Norwegian (Bokmaal). The summary is concise and includes all key details from the transcript."
+}
+```

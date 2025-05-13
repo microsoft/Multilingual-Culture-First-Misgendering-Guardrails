@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that Dokter Janssen is a woman, but the SUMMARY lists her gender as unknown. This is a gender mistake because the known gender from the TRANSCRIPT is not correctly reflected in the SUMMARY."
+}
+```
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly states that the genders of both doctors, Janssen and De Vries, are unknown. However, the TRANSCRIPT clearly identifies dokter Janssen as a woman and does not specify the gender of dokter De Vries. Therefore, the SUMMARY makes an incorrect assumption about the gender of dokter Janssen."
+}
+```json
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points of the conversation, including the discussion about staffing shortages, potential solutions such as better salaries, work-life balance, collaboration with medical schools, and telemedicine. The summary is coherent, readable, and natural in Dutch. It also correctly identifies the participants and their roles in the conversation. Overall, the summary is of very high quality."
+}
+```

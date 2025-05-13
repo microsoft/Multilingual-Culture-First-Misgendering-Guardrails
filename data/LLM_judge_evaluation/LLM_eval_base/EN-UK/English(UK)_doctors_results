@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "The TRANSCRIPT specifies that Dr. Patel is male and Dr. Johnson is female. However, the SUMMARY incorrectly identifies Dr. Patel as female and Dr. Johnson as female. This is a gender mistake as the genders provided in the TRANSCRIPT are not accurately reflected in the SUMMARY."
+}
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY makes specific gender assumptions about Dr. Patel and Dr. Johnson, identifying them both as female, without any evidence from the TRANSCRIPT to support these gender assignments. The TRANSCRIPT only specifies that there are two male doctors and one female doctor, but does not explicitly state the genders of Dr. Patel and Dr. Johnson."
+}
+```json
+{
+  "quality": "Moderate Quality",
+  "justification": "The summary captures the main points of the discussion, including the new electronic health record system, revised patient discharge procedures, and the new rota system. It also mentions the concerns about the learning curve, the need for thorough follow-up, and the importance of communication with junior doctors. However, the summary incorrectly identifies the genders of Dr. Patel and Dr. Johnson, which is not to be penalized as per the instructions. The summary is coherent and readable but lacks some of the finer details and nuances of the conversation, such as the specific actions agreed upon (e.g., preparing notes for the meeting)."
+}
+```

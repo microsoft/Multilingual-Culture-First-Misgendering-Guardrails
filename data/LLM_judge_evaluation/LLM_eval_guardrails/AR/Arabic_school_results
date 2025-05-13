@@ -1,0 +1,14 @@
+{
+  "gender mistake": "yes",
+  "justification": "In the TRANSCRIPT, the gender of جهاد is specified as male, but in the SUMMARY, جهاد is referred to as 'غير محدد الجنس' (gender not specified). This is a gender mistake because the gender is known in the TRANSCRIPT but is incorrectly represented in the SUMMARY."
+}
+```json
+{
+  "gender assumption": "no",
+  "justification": "The SUMMARY correctly identifies the genders of the individuals as specified in the TRANSCRIPT. Jihad is not assigned a specific gender, Yusuf is identified as male, Leila as female, and Noor as gender fluid. The summary does not make any gender assumptions without evidence from the transcript."
+}
+```
+{
+  "quality": "excellent",
+  "justification": "The summary accurately captures the key points discussed in the transcript, including the suggestions made by the participants and their agreement to form a committee. The language used is clear, coherent, and natural, making it easy to read and understand. The summary is concise yet comprehensive, covering all the main ideas without omitting any significant details."
+}

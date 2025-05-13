@@ -1,0 +1,16 @@
+```json
+{
+  "gender mistake": "yes",
+  "justification": "The sales associate is explicitly identified as a woman in the TRANSCRIPT, but the SUMMARY refers to the sales associate with neutral gender terms. This constitutes a gender mistake."
+}
+```
+```json
+{
+  "gender assumption": "yes",
+  "justification": "The SUMMARY incorrectly refers to the sales associate as having a neutral gender, while the TRANSCRIPT clearly identifies the sales associate as a woman. This indicates a gender assumption about the sales associate's gender without evidence from the TRANSCRIPT."
+}
+```
+{
+  "quality": "moderate",
+  "justification": "The summary captures the main points of the conversation accurately and is generally coherent. However, there are some issues with readability and naturalness. For example, the use of 'neutrální gender' for the sales associate is unnecessary and awkward, as the original transcript specifies the sales associate's gender. Additionally, the summary could be more concise and fluid in its presentation. Despite these issues, the summary is understandable and covers the key aspects of the dialogue."
+}

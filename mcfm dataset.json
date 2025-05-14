@@ -1,0 +1,206 @@
+{
+    "name": "mcfm dataset",
+    "title": "Multilingual, Culture-First Misgendering Dataset",
+    "description": "The data used for the paper \"A Multilingual, Culture-First Approach to Addressing Misgendering in LLM Applications \", by Sunayana Sitaram, Adrian de Wynter, Isobel McCrum, Qilong Gu, and Si-Qing Chen.\n\nIt addresses the issue of misgendering by generative models, such as LLMs, in a multilingual/multicultural scenario. Currently it supports 42 languages and dialects.\nIt includes:\n- Guardrails to mitigate misgendering (more on that in a bit)\n- A set of data in these 42 languages and dialects modelling meeting transcripts where at least one participant has their preferred pronouns/gender unspecified or ambiguous.\n- Human-annotated data over a subset of these transcripts\n- Bonus: LLM-annotated data. Please note that one of our main findings in our paper is that LLMs-as-judges fail to detect misgendering, albeit guardrails are effective.\n\nThe construction of the guardrails followed strict participatory design practices: we first used a set of public guidelines to build our first pass, but then polled native speakers on the validity of these guardrails. Then we edited them out based on their feedback. This means that these guardrails are not necessarily modelling (Western) English sociocultural concerns, but are still relevant and achieving their goal in the locale.",
+    "doi": "",
+    "version": "0.0.1",
+    "created": "2025-05-14T04:00:00.000Z",
+    "licenses": [
+        {
+            "title": "Community Data License Agreement - Permissive - Version 2.0",
+            "name": "CDLA-Permissive-2.0",
+            "path": "https://raw.githubusercontent.com/Community-Data-License-Agreements/Releases/main/CDLA-Permissive-2.0.md"
+        }
+    ],
+    "sources": [
+        {
+            "title": "LLM-generated",
+            "path": "https://github.com/microsoft/Multilingual-Culture-First-Misgendering-Guardrails/tree/main/data/scenarios",
+            "contributors": []
+        }
+    ],
+    "resources": [
+        {
+            "name": "LLM_judge_evaluation",
+            "description": "Results for the LLM evaluation",
+            "path": "data/LLM_judge_evaluation",
+            "doi": "",
+            "format": "txt",
+            "mediatype": "text/strings",
+            "bytes": "",
+            "date": "2025-05-14T04:00:00.000Z",
+            "encoding": "",
+            "version": "0.0.1",
+            "language": "",
+            "schema": [],
+            "dialect": {}
+        },
+        {
+            "name": "gold_transcripts",
+            "description": "Gold transcripts, human-verified",
+            "path": "data/gold_transcripts",
+            "doi": "",
+            "format": "txt",
+            "mediatype": "text/strings",
+            "bytes": "",
+            "date": "2025-05-14T04:00:00.000Z",
+            "encoding": "",
+            "version": "0.0.1",
+            "language": "",
+            "schema": [],
+            "dialect": {}
+        },
+        {
+            "name": "guardrails",
+            "description": "Guardrails designed with participatory design",
+            "path": "data/guardrails",
+            "doi": "",
+            "format": "txt",
+            "mediatype": "text/strings",
+            "bytes": "",
+            "date": "2025-05-14T04:00:00.000Z",
+            "encoding": "",
+            "version": "0.0.1",
+            "language": "",
+            "schema": [],
+            "dialect": {}
+        },
+        {
+            "name": "human_evaluation",
+            "description": "Results for human evaluation",
+            "path": "data/human_evaluation",
+            "doi": "",
+            "format": "xlsx",
+            "mediatype": "text/strings",
+            "bytes": "",
+            "date": "2025-05-14T04:00:00.000Z",
+            "encoding": "",
+            "version": "0.0.0",
+            "language": "",
+            "schema": [],
+            "dialect": {}
+        },
+        {
+            "name": "scenarios",
+            "description": "Scenarios for generating the dialogue transcripts",
+            "path": "data/scenarios",
+            "doi": "",
+            "format": "txt",
+            "mediatype": "text/strings",
+            "bytes": "",
+            "date": "2025-05-14T04:00:00.000Z",
+            "encoding": "",
+            "version": "0.0.0",
+            "language": "",
+            "schema": [],
+            "dialect": {}
+        },
+        {
+            "name": "summaries_base",
+            "description": "Summaries (LLM-generated) for dialogue transcripts without guardrails",
+            "path": "data/summaries_base",
+            "doi": "",
+            "format": "txt",
+            "mediatype": "text/strings",
+            "bytes": "",
+            "date": "2025-05-14T04:00:00.000Z",
+            "encoding": "",
+            "version": "0.0.0",
+            "language": "",
+            "schema": [],
+            "dialect": {}
+        },
+        {
+            "name": "summaries_guardrails",
+            "description": "Summaries (LLM-generated) for dialogue transcripts with guardrails",
+            "path": "data/summaries_guardrails",
+            "doi": "",
+            "format": "text",
+            "mediatype": "text/strings",
+            "bytes": "",
+            "date": "2025-05-14T04:00:00.000Z",
+            "encoding": "",
+            "version": "0.0.0",
+            "language": "",
+            "schema": [],
+            "dialect": {}
+        }
+    ],
+    "contributors": [
+        {
+            "title": "Sunayana Sitaram",
+            "path": "",
+            "email": "",
+            "role": "author, publisher, maintainer, wrangler, and contributor"
+        },
+        {
+            "title": "Adrian de Wynter",
+            "path": "",
+            "email": "",
+            "role": "author, publisher, maintainer, wrangler, and contributor"
+        },
+        {
+            "title": "Si-Qing Chen",
+            "path": "",
+            "email": "",
+            "role": "contributor"
+        },
+        {
+            "title": "Isobel McCrum",
+            "path": "",
+            "email": "",
+            "role": "autho and contributor"
+        },
+        {
+            "title": "Qilong Gu",
+            "path": "",
+            "email": "",
+            "role": "contributor"
+        }
+    ],
+    "privacy": [
+        {
+            "notice": {
+                "path": "",
+                "description": ""
+            },
+            "useTerms": {
+                "path": "",
+                "description": ""
+            },
+            "sensitivity": {
+                "description": "No sensitive data -- all data is synthetic",
+                "types": []
+            },
+            "confidentiality": {
+                "path": "",
+                "description": "No personal informatoin"
+            },
+            "assessments": []
+        }
+    ],
+    "security": [],
+    "procedures": {
+        "collection": [
+            {
+                "description": "LLM generation",
+                "path": "",
+                "contributors": [],
+                "methods": [],
+                "consent": []
+            }
+        ],
+        "processing": [],
+        "update": []
+    },
+    "use": [
+        {
+            "description": "Misgendering mitigation via guardrail implementation",
+            "examples": []
+        },
+        {
+            "description": "Evaluation of other misgendering mitigation techniques in multilingual scenarios",
+            "examples": []
+        }
+    ]
+}
